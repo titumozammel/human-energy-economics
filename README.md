@@ -150,7 +150,7 @@ Creator of:
 - **LinkedIn:** https://www.linkedin.com/in/mozammel-hee
 - **GitHub:** https://github.com/titumozammel
 
-I welcome collaboration with researchers, business leaders, executives, and practitioners interested in improving operational excellence, strengthening execution capability, and building organizations that create more value by recovering Human Energy.
+I welcome collaboration with researchers, business leaders, executives, and practitioners interested in advancing Human Energy Economics and improving organizational performance through Human Energy Recovery.
 
 ---
 
