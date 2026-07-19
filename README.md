@@ -1,9 +1,5 @@
 # Human Energy Economics (HEE)
 
-![Status](https://img.shields.io/badge/status-Conceptual%20Theory-blue)
-![Version](https://img.shields.io/badge/version-1.0-success)
-![Type](https://img.shields.io/badge/type-Management%20Theory-orange)
-
 ## Engineering Operational Silence
 
 ### Human Energy Recovery Framework (HERF)
