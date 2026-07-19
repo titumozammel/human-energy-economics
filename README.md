@@ -3,9 +3,11 @@
 > **A conceptual management theory proposing that Human Energy is the foundational organizational resource through which organizations create Execution Capacity and Sustainable Business Value.**
 
 **Topics**
+
 Management Theory • Organizational Design • Human Energy • Operational Excellence • Lean • Operations • Strategy • Execution • Productivity • Organizational Psychology
 
 ---
+
 ## Repository Overview
 
 Human Energy Economics (HEE) is an emerging conceptual management theory that explains how organizations recover **Human Energy** by eliminating **Operational Noise**, thereby increasing **Execution Capacity** and creating **Sustainable Business Value**.
