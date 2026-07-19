@@ -271,20 +271,15 @@ Business Performance
 
 ---
 
-# About the Author
+## Creator & Maintainer
 
-## Md Mozammel Hoque
+**Md Mozammel Hoque**
 
 **Management Researcher**
 
-Founder of **Human Energy Economics (HEE)**
+**Founder of Human Energy Economics (HEE)**
 
-Creator of:
-
-- Human Energy Economics (HEE)
-- 5R Cascade Framework
-- Operational Silence Framework
-- Human Energy Recovery Framework (HERF)
+**Creator of the 5R Cascade Framework and Operational Silence Framework**
 
 ---
 
