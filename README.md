@@ -8,19 +8,6 @@ Management Theory • Organizational Design • Human Energy • Operational Exc
 
 ---
 
-> [!NOTE]
->
-> **Current Status**
->
-> - **Working Paper:** Version 1.0
-> - **Theory Status:** Conceptual Management Theory
-> - **External Review:** Planned
-> - **Peer Review:** Pending
-> - **Empirical Validation:** Planned
-> - **DOI:** Pending
-
----
-
 ## Repository Overview
 
 Human Energy Economics (HEE) is an emerging conceptual management theory that explains how organizations recover **Human Energy** by eliminating **Operational Noise**, thereby increasing **Execution Capacity** and creating **Sustainable Business Value**.
