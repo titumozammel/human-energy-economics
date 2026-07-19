@@ -1,110 +1,81 @@
-# ⚡ Human Energy Economics (HEE)
+# Human Energy Economics (HEE)
 
-> **A conceptual management theory proposing that Human Energy is the foundational organizational resource through which organizations create Execution Capacity and Sustainable Business Value.**
+![Status](https://img.shields.io/badge/status-Conceptual%20Theory-blue)
+![Version](https://img.shields.io/badge/version-1.0-success)
+![Type](https://img.shields.io/badge/type-Management%20Theory-orange)
 
-**Topics**
+## Engineering Operational Silence
 
-Management Theory • Organizational Design • Human Energy • Operational Excellence • Lean • Operations • Strategy • Execution • Productivity • Organizational Psychology
+### Human Energy Recovery Framework (HERF)
 
----
-
-## Repository Overview
-
-Human Energy Economics (HEE) is an emerging conceptual management theory that explains how organizations recover **Human Energy** by eliminating **Operational Noise**, thereby increasing **Execution Capacity** and creating **Sustainable Business Value**.
-
-This repository serves as the central research repository for Human Energy Economics and includes:
-
-- 📄 Working Paper
-- ⚡ Human Energy Model
-- 🧩 Operational Silence Framework (OSF)
-- 🔄 5R Cascade Framework
-- 📊 Human Energy Measurement System
-- 🔬 Research Agenda
-- 📋 Practical Templates
-- 🏢 Industry Applications
-
-The repository is maintained as a **living research project**. Concepts, models, frameworks, and metrics may evolve based on empirical evidence, peer review, and practical application.
+**HERF = 5R Cascade Framework (5R) + Operational Silence Framework (OSF)**
 
 ---
 
-## Table of Contents
+# Overview
 
-- [Repository Overview](#repository-overview)
-- [Abstract](#abstract)
-- [Why Human Energy Economics?](#why-human-energy-economics)
-- [Human Energy Model](#human-energy-model)
-- [Theory at a Glance](#theory-at-a-glance)
-- [Theory Positioning](#theory-positioning)
-- [Repository Structure](#repository-structure)
-- [Documentation](#documentation)
-- [Research Status](#research-status)
-- [Quick Start](#quick-start)
-- [Roadmap](#roadmap)
-- [Citation](#citation)
-- [Repository Citation](#repository-citation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Disclaimer](#disclaimer)
-- [About the Author](#about-the-author)
+**Human Energy Economics (HEE)** is a conceptual management theory proposing that **Human Energy is the foundational organizational resource** through which organizations develop **Execution Capacity** and create **Sustainable Business Value**.
 
----
+HEE introduces a new management perspective:
 
-## Abstract
+Organizations do not only manage:
 
-Human Energy Economics (HEE) is an emerging conceptual management theory proposing that **Human Energy** is the foundational organizational resource through which **time, technology, financial capital, and organizational systems** are converted into **Execution Capacity** and **Sustainable Business Value**.
-
-Rather than focusing primarily on efficiency or utilization, HEE proposes that recurring **Operational Noise** depletes **Human Energy Capital**, reducing an organization's ability to execute strategic and operational work.
-
-By systematically eliminating unnecessary operational demand, organizations recover Human Energy, increase Execution Capacity, and create Sustainable Business Value.
-
-HEE integrates four primary components:
-
-- Human Energy Model
-- Operational Silence Framework (OSF)
-- 5R Cascade Framework
-- Human Energy Measurement System
-
-The theory is currently published as a **Working Paper** and is undergoing empirical development.
-
----
-
-## Why Human Energy Economics?
-
-Traditional management primarily optimizes:
-
-- Cost
-- Time
-- Processes
+- Financial capital
+- Physical assets
 - Technology
-- Efficiency
+- Processes
+- Human capabilities
 
-HEE proposes optimizing the resource that powers all of them:
+They must also manage the **energy required to make all these resources effective**.
 
-> **Human Energy**
+## The Central Idea
 
-Instead of asking:
-
-> **"How can we work faster?"**
-
-HEE asks:
-
-> **"Why does this work exist in the first place?"**
-
-The answer leads to:
-
-- Demand Elimination
-- Operational Silence
-- Human Energy Recovery
-- Increased Execution Capacity
-- Sustainable Business Value
+> Organizations create sustainable value when they reduce unnecessary energy consumption and redirect recovered human energy toward meaningful execution.
 
 ---
 
-## Human Energy Model
+# Definition
+
+## What is Human Energy Economics (HEE)?
+
+Human Energy Economics views **Human Energy** as the primary organizational resource that must be:
+
+- Protected
+- Optimized
+- Recovered
+- Converted into execution capability
+
+Traditional management theories focus primarily on:
+
+- Financial capital
+- Physical assets
+- Technology
+- Processes
+- Human capital (skills and knowledge)
+
+HEE extends this thinking by proposing:
+
+> The effectiveness of every organizational resource depends on the quality, availability, and allocation of Human Energy.
+
+---
+
+# Human Energy Dimensions
+
+Human Energy represents the collective organizational capacity across four dimensions:
+
+| Dimension | Description |
+|---|---|
+| Cognitive Energy | Thinking, analysis, problem-solving, and decision-making capability |
+| Emotional Energy | Commitment, ownership, motivation, and engagement |
+| Physical Energy | Effort, attention, focus, and productivity capacity |
+| Creative Energy | Innovation, improvement, and new-value creation capability |
+
+---
+
+# Core Theory Model
 
 ```text
                  DEMAND ELIMINATION
-                  (5R Cascade)
                        │
                        ▼
  OPERATIONAL NOISE ─────────────► OPERATIONAL SILENCE
@@ -119,245 +90,233 @@ The answer leads to:
  SUSTAINABLE BUSINESS VALUE
 ```
 
-### Recovery Loop
+---
+
+# Core Proposition
+
+Organizations continuously lose Human Energy through **Operational Noise**.
+
+## Operational Noise Includes:
+
+- Recurring interruptions
+- Repeated escalations
+- Manual corrections
+- Unnecessary approvals
+- Excessive handoffs
+- Firefighting activities
+- Preventable operational failures
+
+## When Operational Noise Increases:
 
 ```text
-Demand Elimination
+Operational Noise ↑
         ↓
-Operational Noise Reduction
+Human Energy Capital ↓
         ↓
-Human Energy Recovery
+Execution Capacity ↓
         ↓
-Execution Capacity Increase
-        ↓
-Sustainable Business Value
+Business Value ↓
 ```
 
----
-
-## Theory at a Glance
-
-| Element | Description |
-|----------|-------------|
-| **Theory** | Human Energy Economics |
-| **Central Construct** | Human Energy Capital |
-| **Primary Problem** | Operational Noise |
-| **Strategic Goal** | Operational Silence |
-| **Tactical Method** | 5R Cascade |
-| **Primary Outcome** | Execution Capacity |
-| **Ultimate Outcome** | Sustainable Business Value |
-
----
-
-## Theory Positioning
-
-| Traditional Management | Human Energy Economics |
-|-------------------------|-------------------------|
-| Optimize Time | Optimize Human Energy |
-| Reduce Cost | Recover Human Energy |
-| Improve Efficiency | Eliminate Demand |
-| Increase Utilization | Increase Execution Capacity |
-| Automate Work | Remove Unnecessary Work |
-| Manage Queues | Remove Queues |
-| Add Capacity | Free Capacity |
-| Celebrate Heroics | Celebrate Prevention |
-| Manage Activity | Remove Demand |
-| Optimize Speed | Optimize Flow |
-
----
-
-## Repository Structure
+## When Organizations Eliminate Unnecessary Operational Demand:
 
 ```text
-HEE/
-│
-├── README.md                  Repository overview
-├── WORKING_PAPER.md           Complete working paper
-├── CHANGELOG.md               Version history
-├── LICENSE
-├── CITATION.cff
-│
-├── docs/                      Theory documentation
-├── frameworks/                Operational Silence Framework & 5R Cascade
-├── measurement/               Metrics and scorecards
-├── research/                  Research agenda and propositions
-├── applications/              Industry-specific applications
-├── templates/                 Practical templates
-├── tools/                     Assessment tools and calculators
-└── images/                    Figures and diagrams
+Operational Noise ↓
+        ↓
+Human Energy Recovery ↑
+        ↓
+Execution Capacity ↑
+        ↓
+Sustainable Business Value ↑
 ```
 
 ---
 
-## Documentation
+# Operational Silence
 
-| Document | Description |
-|-----------|-------------|
-| Philosophy | Foundational worldview |
-| Theory Statement | Formal theory proposition |
-| Core Concepts | Definitions of key constructs |
-| Human Energy Model | Core conceptual model |
-| Operational Silence Framework | Strategic framework |
-| 5R Cascade Framework | Tactical framework |
-| Metrics | Measurement system |
-| Research Agenda | Future research |
-| Working Paper | Complete theory |
+**Operational Silence** is a sustained organizational state where recurring operational noise consumes **less than 5% of team capacity**.
+
+In Operational Silence:
+
+- Human Energy is recovered
+- Teams focus on meaningful execution
+- Decision-making improves
+- Innovation capacity increases
+- Sustainable business value is created
 
 ---
 
-## Research Status
+# Key Concepts
 
-| Component | Status |
-|------------|--------|
-| Conceptual Theory | ✅ Complete |
-| Working Paper | ✅ Complete |
-| Frameworks | ✅ Complete |
-| Metrics | ✅ Complete |
-| Case Studies | 🔄 In Progress |
-| External Review | 🔄 Planned |
-| Peer Review | 🔄 Planned |
-| Empirical Validation | ⏳ Planned |
-| Journal Submission | ⏳ Future |
+| Concept | Definition |
+|---|---|
+| Human Energy | The finite cognitive, emotional, and physical capacity required for value-creating work |
+| Human Energy Capital | The total available Human Energy within an organization |
+| Operational Noise | Recurring activities that consume Human Energy without proportional value creation |
+| Operational Silence | A state where recurring operational noise consumes less than 5% of organizational capacity |
+| Execution Capacity | The organization's ability to consistently produce valuable outcomes |
+| Sustainable Business Value | Long-term value created through reliable execution and continuous improvement |
 
 ---
 
-## Quick Start
+# Why Human Energy Economics Matters
+
+Traditional management approaches optimize:
+
+- Cost
+- Time
+- Processes
+- Technology
+- Efficiency
+
+HEE proposes optimizing the resource that enables all of them:
+
+## Human Energy
+
+Instead of asking:
+
+> "How can we work faster?"
+
+HEE asks:
+
+> "Why does this work exist in the first place?"
+
+The objective is not simply increasing effort.
+
+The objective is eliminating unnecessary demand so people can invest their energy into high-value execution.
+
+---
+
+# Why This Matters Now
+
+AI is accelerating execution.
+
+But faster execution does not fix broken operating systems.
+
+Without eliminating recurring demand, organizations simply scale operational noise faster.
+
+Organizations that define the AI era will not simply automate more work.
+
+They will design operating systems that require **less unnecessary work**.
+
+---
+
+# Operational Maturity Path
 
 ```text
-Read Philosophy
-      ↓
-Read Theory Statement
-      ↓
-Understand Core Concepts
-      ↓
-Study Human Energy Model
-      ↓
-Learn Operational Silence Framework
-      ↓
-Apply 5R Cascade
-      ↓
-Read Working Paper
+            FIREFIGHTING
+                 │
+                 │ Reacting to incidents, failures, disruptions
+                 ▼
+            FIREPROOFING
+                 │
+                 │ Reducing repeat incidents through stabilization
+                 ▼
+       ENGINEERING SILENCE
+                 │
+                 │ Removing root causes of recurring demand
+                 ▼
+       OPERATIONAL SILENCE
+                 │
+                 │ Sustained state of minimal recurring unplanned work
+                 ▼
+      EXECUTION EXCELLENCE
+                 │
+                 │ Maximum value creation and competitive advantage
 ```
 
 ---
 
-## Roadmap
+# Human Energy Recovery Framework (HERF)
+
+Human Energy Economics is operationalized through:
+
+## Human Energy Recovery Framework (HERF)
 
 ```text
-Concept Development
-        │
-        ▼
-Working Paper (v1.0)
-        │
-        ▼
-Framework Development
-        │
-        ▼
-Cross-Industry Case Studies
-        │
-        ▼
-Empirical Validation
-        │
-        ▼
-Measurement Validation
-        │
-        ▼
-Practitioner Toolkit
-        │
-        ▼
-Management Handbook
+HERF = 5R Cascade Framework + Operational Silence Framework
 ```
 
+HERF provides both tactical and strategic mechanisms to recover organizational energy.
+
 ---
 
-## Citation
+# Frameworks
 
-### APA
+| Framework | Purpose | Repository |
+|---|---|---|
+| 5R Cascade Framework (5R) | Tactical framework for eliminating recurring operational demand | https://github.com/titumozammel/5r-cascade-framework |
+| Operational Silence Framework (OSF) | Strategic framework for achieving Operational Silence | https://github.com/titumozammel/operational-silence-framework |
 
-> Hoque, M. M. (2026). *Human Energy Economics (HEE): A Management Theory for Recovering Human Energy and Creating Sustainable Business Value* (Working Paper Version 1.0).
+---
 
-### BibTeX
+# Research Direction
 
-```bibtex
-@techreport{hoque2026hee,
-  author      = {Hoque, Md Mozammel},
-  title       = {Human Energy Economics (HEE): A Management Theory for Recovering Human Energy and Creating Sustainable Business Value},
-  institution = {Human Energy Economics Research},
-  year        = {2026},
-  type        = {Working Paper},
-  version     = {1.0}
-}
+Human Energy Economics explores the relationship between:
+
+```text
+Human Energy
+        ↓
+Operational Demand
+        ↓
+Execution Capability
+        ↓
+Business Performance
 ```
 
-**DOI:** Pending
+## Potential Research Areas
+
+- Organizational energy management
+- Operational excellence
+- Productivity economics
+- Management system design
+- Sustainable execution capability
+- Human-centered operating models
 
 ---
 
-## Repository Citation
+# Repository
 
-> Hoque, M. M. (2026). *Human Energy Economics Repository*. GitHub Repository.
+GitHub:
 
----
-
-## Contributing
-
-Constructive feedback, academic collaboration, organizational case studies, and research partnerships are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request
-
-Please ensure contributions align with the core principle of **reducing unnecessary operational demand at the source**.
+https://github.com/titumozammel/human-energy-economics
 
 ---
 
-## License
+# About the Author
 
-This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+## Md Mozammel Hoque
 
----
-
-## Disclaimer
-
-> [!IMPORTANT]
->
-> Human Energy Economics (HEE) is an emerging conceptual management theory currently released as a **Working Paper**.
->
-> The theoretical propositions, models, frameworks, and metrics presented in this repository are intended for future empirical validation and should not yet be interpreted as established scientific findings.
-
----
-
-## About the Author
-
-**Md Mozammel Hoque**
-
-Management Researcher
+**Management Researcher**
 
 Founder of **Human Energy Economics (HEE)**
 
-Creator of the **5R Cascade Framework** and **Operational Silence Framework**
+Creator of:
+
+- Human Energy Economics (HEE)
+- 5R Cascade Framework
+- Operational Silence Framework
+- Human Energy Recovery Framework (HERF)
+
+---
+
+# Connect
 
 | Platform | Link |
-|----------|------|
+|---|---|
 | GitHub | https://github.com/titumozammel |
 | LinkedIn | https://linkedin.com/in/mozammel-hee |
 | Website | https://www.ovinabo.com |
 
 ---
 
-## Related Frameworks
+# Vision
 
-- 5R Cascade Framework
-- Operational Silence Framework
+**Recover Human Energy.**
 
+**Increase Execution Capacity.**
+
+**Create Sustainable Business Value.**
 ---
 
-## Vision
-
-> **Recover Human Energy.**
->
-> **Increase Execution Capacity.**
->
-> **Create Sustainable Business Value.**
+© Human Energy Economics (HEE)
