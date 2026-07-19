@@ -2,13 +2,6 @@
 
 > **A conceptual management theory proposing that Human Energy is the foundational organizational resource through which organizations create Execution Capacity and Sustainable Business Value.**
 
-![Status](https://img.shields.io/badge/status-Working%20Paper-blue)
-![Version](https://img.shields.io/badge/version-1.0-success)
-![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
-![Type](https://img.shields.io/badge/type-Management%20Theory-orange)
-![DOI](https://img.shields.io/badge/DOI-pending-yellow)
-![Peer Review](https://img.shields.io/badge/peer_review-pending-red)
-
 **Topics**
 
 Management Theory • Organizational Design • Human Energy • Operational Excellence • Lean • Operations • Strategy • Execution • Productivity • Organizational Psychology
