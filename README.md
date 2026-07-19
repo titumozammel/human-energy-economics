@@ -271,14 +271,6 @@ Business Performance
 
 ---
 
-# Repository
-
-GitHub:
-
-https://github.com/titumozammel/human-energy-economics
-
----
-
 # About the Author
 
 ## Md Mozammel Hoque
