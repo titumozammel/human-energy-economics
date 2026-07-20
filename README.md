@@ -2,8 +2,7 @@
 
 > ## Engineering Operational Silence
 >
-> **Fewer Reasons to Respond.**
->   
+> **Fewer Reasons to Respond.**  
 > **Recover Human Energy.**  
 > **Reduce Operational Noise.**  
 > **Expand Execution Capacity.**  
@@ -13,13 +12,17 @@
 
 ## What is Human Energy Economics?
 
-**Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and create Sustainable Business Value.
+**Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource through which people transform knowledge, technology, capital, and processes into sustainable business value.
 
-### Three Laws
+Rather than optimizing how people respond to work, HEE focuses on eliminating unnecessary operational demand. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve organizational performance.
 
-1. **Human Energy** is the primary organizational resource.
-2. **Operational Noise** is a hidden organizational tax.
-3. **Human Energy Recovery** creates Execution Capacity.
+---
+
+## The Three Laws of Human Energy Economics
+
+1. **Human Energy** is the primary organizational resource through which all other organizational resources create value.
+2. **Operational Noise** acts as a hidden organizational tax by consuming Human Energy without creating proportional business value.
+3. **Human Energy Recovery** expands Execution Capacity and enables Sustainable Business Value.
 
 ---
 
@@ -47,37 +50,50 @@ Sustainable Business Value
 | **OSF** | Transformation Operating Model | https://github.com/titumozammel/operational-silence-framework |
 | **5R Cascade** | Tactical Decision Methodology | https://github.com/titumozammel/5r-cascade-framework |
 
-> **Framework Progression:** **Why → Where → How → What → Execution Excellence**
+> **Framework Progression:** **Why → How → What → Execution Excellence**
 
 ---
 
 ## Quick Start for Executives
 
 1. **Understand** the Three Laws.
-2. **Diagnose** Human Energy loss using **HERF**.
-3. **Transform** operations with **OSF**.
-4. **Decide** using the **5R Cascade** *(Remove → Reduce → Replace → Re-engineer → Retain)*.
-5. **Sustain** improvements through governance and continuous improvement.
+2. **Diagnose and transform** operations with the **Operational Silence Framework (OSF)**.
+3. **Decide** using the **5R Cascade** *(Remove → Reduce → Replace → Re-engineer → Retain)*.
+4. **Sustain** improvements through governance and continuous improvement.
 
 ---
 
 ## Example
 
-**Problem:** RDP users depended on multiple IT teams to restart remote systems.
+**Problem**
 
-**Old:** User → Local IT → Head Office IT → Central IT → Restart
+Remote Desktop (RDP) users depended on multiple IT teams to restart remote systems.
 
-**5R:** Remove handoffs → Replace with secure self-service
+**Old Process**
 
-**New:** User → Self-Service Restart → System Restarted
+`User → Local IT → Head Office IT → Central IT → Restart`
 
-**Result:** Less recurring demand. Faster recovery. More Human Energy available for higher-value work.
+**5R Application**
+
+- Remove unnecessary handoffs
+- Replace manual requests with secure self-service
+
+**New Process**
+
+`User → Self-Service Restart → System Restarted`
+
+**Outcome**
+
+- Reduced recurring operational demand
+- Faster service restoration
+- Human Energy recovered
+- IT teams focused on higher-value work
 
 ---
 
 ## Why HEE?
 
-HEE complements Lean, Six Sigma, AI, and Digital Transformation by shifting the question from:
+HEE complements Lean, Six Sigma, AI, and Digital Transformation by shifting the focus from:
 
 > **"How can we respond faster?"**
 
@@ -85,13 +101,15 @@ to
 
 > **"Why does this demand exist in the first place?"**
 
+Recover Human Energy before optimizing execution.
+
 ---
 
 ## Learn More
 
-- **HEE** – Philosophy
-- **OSF** – Operating Model
-- **5R Cascade** – Decision Methodology
+- **HEE** — Management Philosophy
+- **OSF** — Transformation Operating Model
+- **5R Cascade** — Tactical Decision Methodology
 
 ---
 
@@ -100,11 +118,13 @@ to
 **Md Mozammel Hoque**  
 Management Researcher
 
-🌐 Website: https://www.ovinabo.com  
-💼 LinkedIn: https://www.linkedin.com/in/mozammel-hee  
-💻 GitHub: https://github.com/titumozammel
+🌐 **Website:** https://www.ovinabo.com
 
-I welcome collaboration from researchers, practitioners, and business leaders interested in Human Energy Economics, Operational Excellence, and Digital Transformation.
+💼 **LinkedIn:** https://www.linkedin.com/in/mozammel-hee
+
+💻 **GitHub:** https://github.com/titumozammel
+
+I welcome collaboration from researchers, practitioners, executives, and organizations interested in Human Energy Economics, Operational Excellence, and Digital Transformation.
 
 ⭐ **If you find this project valuable, please star the repository, connect on LinkedIn, and share it with your network.**
 
@@ -116,4 +136,6 @@ Licensed under the **MIT License**.
 
 ---
 
-*Engineering Operational Silence for a more productive, resilient, and human-centered future.*
+> **Human Energy Economics (HEE)**
+>
+> *Engineering Operational Silence for a more productive, resilient, and human-centered future.*
