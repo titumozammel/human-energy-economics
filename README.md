@@ -13,19 +13,13 @@
 
 ## What is Human Energy Economics?
 
-**Human Energy Economics (HEE)** is a management philosophy and organizational framework that recognizes **Human Energy** as the primary organizational resource through which knowledge, technology, capital, and processes create value.
+**Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and create Sustainable Business Value.
 
-Rather than optimizing how people respond to work, HEE focuses on eliminating unnecessary operational demand. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and create sustainable business value.
+### Three Laws
 
----
-
-## The Three Laws of HEE
-
-1. **Human Energy** is the primary organizational resource through which all other resources create value.
-
-2. **Operational Noise** acts as a hidden organizational tax by consuming Human Energy without creating proportional business value.
-
-3. **Human Energy Recovery** expands Execution Capacity and enables Sustainable Business Value.
+1. **Human Energy** is the primary organizational resource.
+2. **Operational Noise** is a hidden organizational tax.
+3. **Human Energy Recovery** creates Execution Capacity.
 
 ---
 
@@ -47,148 +41,73 @@ Sustainable Business Value
 
 ## Framework Family
 
-| Framework | Purpose |
-|-----------|---------|
-| **HEE** | Management philosophy and conceptual foundation |
-| **HERF** | Human Energy Recovery implementation framework |
-| **OSF** | Strategic framework for Engineering Operational Silence |
-| **5R Cascade** | Tactical decision methodology (Remove → Reduce → Replace → Re-engineer → Retain) |
+| Framework | Primary Role | Repository |
+|-----------|--------------|------------|
+| **HEE** | Management Philosophy | https://github.com/titumozammel/human-energy-economics |
+| **HERF** | Assessment & Prioritization | *(Coming Soon)* |
+| **OSF** | Transformation Operating Model | https://github.com/titumozammel/operational-silence-framework |
+| **5R Cascade** | Tactical Decision Methodology | https://github.com/titumozammel/5r-cascade-framework |
+
+> **Framework Progression:** **Why → Where → How → What → Execution Excellence**
 
 ---
 
-## Example: 5R Cascade in Action
+## Quick Start for Executives
 
-**Problem**
-
-Remote Desktop (RDP) users depended on multiple IT teams to restart remote systems.
-
-**Old Process**
-
-```text
-User
- ↓
-Local IT
- ↓
-Head Office IT
- ↓
-Central IT
- ↓
-System Restart
-```
-
-**5R Application**
-
-- **REMOVE** unnecessary escalations
-- **REDUCE** response delays
-- **REPLACE** manual requests with self-service
-- **RE-ENGINEER** the restart workflow
-- **RETAIN** through governance and monitoring
-
-**New Process**
-
-```text
-User
- ↓
-Self-Service Restart
- ↓
-System Restarted
-```
-
-**Outcome**
-
-- Recurring operational demand eliminated
-- Human handoffs significantly reduced
-- Faster service restoration
-- Human Energy recovered
-- IT teams focused on higher-value work
+1. **Understand** the Three Laws.
+2. **Diagnose** Human Energy loss using **HERF**.
+3. **Transform** operations with **OSF**.
+4. **Decide** using the **5R Cascade** *(Remove → Reduce → Replace → Re-engineer → Retain)*.
+5. **Sustain** improvements through governance and continuous improvement.
 
 ---
 
-## Recognizing Operational Noise
+## Example
 
-Operational Noise often appears as recurring work that consumes Human Energy without creating proportional value.
+**Problem:** RDP users depended on multiple IT teams to restart remote systems.
 
-| Situation | 5R Response |
-|----------|-------------|
-| Long daily status meetings | Replace with asynchronous updates |
-| Repeated password reset requests | Replace with self-service |
-| Multiple approval emails | Reduce unnecessary approvals |
-| Manual recurring reports | Automate reporting |
-| Same incident every week | Re-engineer the underlying process |
+**Old:** User → Local IT → Head Office IT → Central IT → Restart
+
+**5R:** Remove handoffs → Replace with secure self-service
+
+**New:** User → Self-Service Restart → System Restarted
+
+**Result:** Less recurring demand. Faster recovery. More Human Energy available for higher-value work.
 
 ---
 
 ## Why HEE?
 
-HEE complements Lean, Six Sigma, Continuous Improvement, AI, and Digital Transformation by shifting the focus from **optimizing response** to **eliminating unnecessary demand**.
+HEE complements Lean, Six Sigma, AI, and Digital Transformation by shifting the question from:
 
-Instead of asking:
+> **"How can we respond faster?"**
 
-> *"How can we respond faster?"*
+to
 
-HEE asks:
-
-> *"Why does this demand exist in the first place?"*
+> **"Why does this demand exist in the first place?"**
 
 ---
 
-## Who Is HEE For?
+## Learn More
 
-HEE is designed for:
-
-- Business Leaders & Executives
-- Operations & Continuous Improvement Teams
-- IT Service Management Professionals
-- Digital Transformation & AI Leaders
-- HR & Organizational Development Practitioners
-- Management Researchers
+- **HEE** – Philosophy
+- **OSF** – Operating Model
+- **5R Cascade** – Decision Methodology
 
 ---
 
-## Frequently Asked Questions
-
-**Is HEE the same as burnout prevention?**
-
-No. Burnout prevention helps individuals recover. HEE focuses on eliminating the recurring operational demand that causes unnecessary energy loss.
-
-**Does HEE replace Lean or Six Sigma?**
-
-No. HEE complements existing methodologies by providing a Human Energy perspective on operational improvement.
-
-**Can HEE be applied outside IT?**
-
-Yes. HEE applies to any function affected by recurring operational demand, including Operations, HR, Finance, Customer Service, Healthcare, Manufacturing, and Government.
-
----
-
-## Vision
-
-> **Recover Human Energy.**
->
-> **Reduce Operational Noise.**
->
-> **Expand Execution Capacity.**
->
-> **Create Sustainable Business Value.**
-
-> **Engineering Operational Silence.**
-
----
-
-## Creator
+## Connect
 
 **Md Mozammel Hoque**  
 Management Researcher
 
-Founder & Originator of **Human Energy Economics (HEE)**
+🌐 Website: https://www.ovinabo.com  
+💼 LinkedIn: https://www.linkedin.com/in/mozammel-hee  
+💻 GitHub: https://github.com/titumozammel
 
-Creator of:
+I welcome collaboration from researchers, practitioners, and business leaders interested in Human Energy Economics, Operational Excellence, and Digital Transformation.
 
-- Human Energy Recovery Framework (HERF)
-- Operational Silence Framework (OSF)
-- 5R Cascade Framework
-
-I welcome collaboration with researchers, practitioners, business leaders, and organizations interested in advancing Human Energy Economics and improving organizational performance through Human Energy Recovery.
+⭐ **If you find this project valuable, please star the repository, connect on LinkedIn, and share it with your network.**
 
 ---
 
@@ -198,6 +117,4 @@ Licensed under the **MIT License**.
 
 ---
 
-**Human Energy Economics (HEE)**
-
-*Building organizations with fewer interruptions, greater execution capacity, and sustainable business value through Human Energy Recovery.*
+*Engineering Operational Silence for a more productive, resilient, and human-centered future.*
