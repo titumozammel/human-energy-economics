@@ -44,7 +44,6 @@ Sustainable Business Value
 | Framework | Primary Role | Repository |
 |-----------|--------------|------------|
 | **HEE** | Management Philosophy | https://github.com/titumozammel/human-energy-economics |
-| **HERF** | Assessment & Prioritization | *(Coming Soon)* |
 | **OSF** | Transformation Operating Model | https://github.com/titumozammel/operational-silence-framework |
 | **5R Cascade** | Tactical Decision Methodology | https://github.com/titumozammel/5r-cascade-framework |
 
