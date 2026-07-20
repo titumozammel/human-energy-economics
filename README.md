@@ -2,7 +2,8 @@
 
 > ## Engineering Operational Silence
 >
-> **Fewer Reasons to Respond.**  
+> **Fewer Reasons to Respond.**
+>   
 > **Recover Human Energy.**  
 > **Reduce Operational Noise.**  
 > **Expand Execution Capacity.**  
