@@ -126,8 +126,6 @@ Management Researcher
 
 I welcome collaboration from researchers, practitioners, executives, and organizations interested in Human Energy Economics, Operational Excellence, and Digital Transformation.
 
-⭐ **If you find this project valuable, please star the repository, connect on LinkedIn, and share it with your network.**
-
 ---
 
 ## License
