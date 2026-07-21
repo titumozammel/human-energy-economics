@@ -3,8 +3,8 @@
 > ## Engineering Operational Silence
 >
 > **Fewer Reasons to Respond.**  
-> **Recover Human Energy.**  
-> **Reduce Operational Noise.**  
+> **Reduce Operational Noise.**
+> **Recover Human Energy.** 
 > **Expand Execution Capacity.**  
 > **Create Sustainable Business Value.**
 
