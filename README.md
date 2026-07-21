@@ -1,10 +1,9 @@
 # Human Energy Economics (HEE)
 
-> ## Engineering Operational Silence
->
-> **Fewer Reasons to Respond.**  
-> **Reduce Operational Noise.**
-> **Recover Human Energy.** 
+### *A Management Philosophy for Recovering Human Energy and Expanding Execution Capacity*
+
+> ## **Reduce Operational Noise.**  
+> **Recover Human Energy.**  
 > **Expand Execution Capacity.**  
 > **Create Sustainable Business Value.**
 
@@ -12,28 +11,39 @@
 
 ## What is Human Energy Economics?
 
-**Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource through which people transform knowledge, technology, capital, and processes into sustainable business value.
+**Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource through which organizations transform knowledge, technology, capital, and processes into **Sustainable Business Value**.
 
-Rather than optimizing how people respond to work, HEE focuses on eliminating unnecessary operational demand. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve organizational performance.
-
----
-
-## The Three Laws of Human Energy Economics
-
-1. **Human Energy** is the primary organizational resource through which all other organizational resources create value.
-2. **Operational Noise** acts as a hidden organizational tax by consuming Human Energy without creating proportional business value.
-3. **Human Energy Recovery** expands Execution Capacity and enables Sustainable Business Value.
+Rather than optimizing how people respond to work, HEE focuses on eliminating unnecessary operational demand. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and create Sustainable Business Value.
 
 ---
 
-## Human Energy Value Chain
+# The Three Laws of Human Energy Economics
+
+### 1. The Primacy of Human Energy
+
+> **Human Energy is the primary organizational resource through which all other organizational resources create value.**
+
+### 2. The Law of Operational Noise
+
+> **Operational Noise is the hidden organizational tax that consumes Human Energy without creating proportional business value.**
+
+### 3. The Law of Human Energy Recovery
+
+> **Recovering Human Energy expands Execution Capacity, enabling Sustainable Business Value.**
+
+---
+
+# Human Energy Value Chain
+
+**How does Human Energy create Sustainable Business Value?**
 
 ```text
 Human Energy
       ↓
 Operational Noise
+(The Hidden Organizational Tax)
       ↓
-Human Energy Recovery
+Recovered Human Energy
       ↓
 Execution Capacity
       ↓
@@ -42,81 +52,160 @@ Sustainable Business Value
 
 ---
 
-## Framework Family
+# Human Energy Lifecycle
 
-| Framework | Primary Role | Repository |
-|-----------|--------------|------------|
-| **HEE** | Management Philosophy | https://github.com/titumozammel/human-energy-economics |
-| **OSF** | Transformation Operating Model | https://github.com/titumozammel/operational-silence-framework |
-| **5R Cascade** | Tactical Decision Methodology | https://github.com/titumozammel/5r-cascade-framework |
+**What happens to Human Energy throughout organizational work?**
 
-> **Framework Progression:** **Why → How → What → Execution Excellence**
+```text
+CREATE
+Leadership • Capability • Purpose • Organizational Design
+                    ↓
+CONSUME
+Projects • Customer Service • Innovation • Daily Work
+                    ↓
+WASTE
+Operational Noise • Poor Decisions • Rework • Friction
+                    ↓
+RECOVER
+5R Cascade Framework • Process Improvement • Automation
+                    ↓
+UTILIZE
+Execution Capacity • Strategic Work • Customer Value
+                    ↺
+          Continuous Improvement
+```
 
 ---
 
-## Quick Start for Executives
+# HEE Management System
 
-1. **Understand** the Three Laws.
-2. **Diagnose and transform** operations with the **Operational Silence Framework (OSF)**.
-3. **Decide** using the **5R Cascade** *(Remove → Reduce → Replace → Re-engineer → Retain)*.
-4. **Sustain** improvements through governance and continuous improvement.
+```text
+                  Human Energy Economics (HEE)
+                   The Management Philosophy
+                              │
+            ┌─────────────────┴─────────────────┐
+            │                                   │
+            ▼                                   ▼
+ Human Energy Value Chain          Human Energy Lifecycle
+ (Strategic Perspective)          (Operational Perspective)
+            │                                   │
+            └─────────────────┬─────────────────┘
+                              │
+                              ▼
+                  Human Energy Audit (HEA)
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+   Operational Noise   Decision Energy     Skillset
+         Audit              Audit           Audit
+                              │
+                              ▼
+                    5R Cascade Framework
+                              │
+                              ▼
+               Operational Silence Framework
+                              │
+                              ▼
+                  Higher Execution Capacity
+                              │
+                              ▼
+               Sustainable Business Value
+```
 
 ---
 
-## Example
+# Framework Family
 
-**Problem**
+| Framework | Purpose |
+|-----------|---------|
+| **Human Energy Economics (HEE)** | Management Philosophy |
+| **Operational Silence Framework (OSF)** | Transformation Operating Model |
+| **5R Cascade Framework** | Tactical Decision Methodology for Eliminating Recurring Operational Demand |
+
+---
+
+# Quick Start
+
+1. Understand the Three Laws of Human Energy Economics.
+2. Diagnose Human Energy loss through the Human Energy Audit.
+3. Identify decision and capability constraints.
+4. Eliminate unnecessary operational demand using the 5R Cascade Framework.
+5. Sustain improvements through the Operational Silence Framework.
+6. Convert recovered Human Energy into higher Execution Capacity and Sustainable Business Value.
+
+---
+
+# Example
+
+## Problem
 
 Remote Desktop (RDP) users depended on multiple IT teams to restart remote systems.
 
-**Old Process**
+### Previous Process
 
-`User → Local IT → Head Office IT → Central IT → Restart`
+```text
+User
+ ↓
+Local IT
+ ↓
+Head Office IT
+ ↓
+Central IT
+ ↓
+Restart
+```
 
-**5R Application**
+### Applying the 5R Cascade Framework
 
-- Remove unnecessary handoffs
-- Replace manual requests with secure self-service
+- Remove unnecessary handoffs.
+- Replace manual requests with secure self-service.
 
-**New Process**
+### Improved Process
 
-`User → Self-Service Restart → System Restarted`
+```text
+User
+ ↓
+Self-Service Restart
+ ↓
+System Restarted
+```
 
-**Outcome**
+### Results
 
-- Reduced recurring operational demand
+- Reduced Operational Noise
+- Recovered Human Energy
 - Faster service restoration
-- Human Energy recovered
+- Higher Execution Capacity
 - IT teams focused on higher-value work
 
 ---
 
-## Why HEE?
+# Why Human Energy Economics?
 
-HEE complements Lean, Six Sigma, AI, and Digital Transformation by shifting the focus from:
+Traditional management asks:
 
 > **"How can we respond faster?"**
 
-to
+Human Energy Economics asks:
 
-> **"Why does this demand exist in the first place?"**
+> **"Why does this work exist in the first place?"**
 
-Recover Human Energy before optimizing execution.
+Rather than continuously optimizing responses to recurring demand, HEE seeks to eliminate unnecessary operational demand at its source. The result is recovered Human Energy, expanded Execution Capacity, and Sustainable Business Value.
 
----
-
-## Learn More
-
-- **HEE** — Management Philosophy
-- **OSF** — Transformation Operating Model
-- **5R Cascade** — Tactical Decision Methodology
+HEE complements **Lean, Six Sigma, Operational Excellence, AI, and Digital Transformation** by introducing **Human Energy** as the fundamental organizational resource.
 
 ---
 
-## Connect
+# Vision
+
+To establish **Human Energy** as a measurable, manageable, recoverable, and investable organizational resource that enables organizations to unlock hidden capacity, improve execution, and create Sustainable Business Value.
+
+---
+
+# Connect
 
 **Md Mozammel Hoque**  
-Management Researcher
+*Management Researcher*
 
 🌐 **Website:** https://www.ovinabo.com
 
@@ -124,11 +213,11 @@ Management Researcher
 
 💻 **GitHub:** https://github.com/titumozammel
 
-I welcome collaboration from researchers, practitioners, executives, and organizations interested in Human Energy Economics, Operational Excellence, and Digital Transformation.
+I welcome collaboration from researchers, practitioners, executives, and organizations interested in Human Energy Economics, Operational Excellence, Organizational Design, Digital Transformation, and AI-enabled transformation.
 
 ---
 
-## License
+# License
 
 Licensed under the **MIT License**.
 
@@ -136,4 +225,4 @@ Licensed under the **MIT License**.
 
 > **Human Energy Economics (HEE)**
 >
-> *Engineering Operational Silence for a more productive, resilient, and human-centered future.*
+> *Reduce Operational Noise. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.*
