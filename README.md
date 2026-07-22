@@ -22,13 +22,11 @@ By reducing **Operational Noise**, organizations recover Human Energy, expand **
 
 # What is Human Energy?
 
-Human Energy is the combined:
+Human Energy is the combined capacity that people bring to their work through:
 
 - 🧠 Cognitive capacity
 - ❤️ Emotional capacity
 - 💪 Physical capacity
-
-that people bring to their work.
 
 It is the invisible organizational resource that transforms:
 
@@ -225,9 +223,14 @@ The goal is to create more meaningful outcomes from the same — or less — Hum
 A conceptual model:
 
 ```text
-Human Energy = Capacity (C) × Intensity (I) × Duration (D)
-
 HE = C × I × D
+
+Where:
+
+HE = Human Energy
+C  = Capacity
+I  = Intensity
+D  = Duration
 ```
 
 Where:
@@ -385,9 +388,11 @@ I welcome collaboration from researchers, practitioners, executives, and organiz
 
 ---
 
+---
+
 ## Human Energy Economics (HEE)
 
-A management philosophy for understanding, managing, recovering, and investing in Human Energy to expand Execution Capacity and create Sustainable Business Value.
+*A management philosophy for understanding, managing, recovering, and investing in Human Energy to expand Execution Capacity and create Sustainable Business Value.*
 
 > **Understand Human Energy.**  
 > **Reduce Operational Noise.**  
