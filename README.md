@@ -246,10 +246,10 @@ HE = C × I × D
 Where:
 
 **Capacity (C) — Energy Potential**  
-Represents the available capability from which Human Energy can be generated, including knowledge, skills, experience, cognitive resources, physical resources, workforce capacity, and enabling conditions.
+Represents the available capability that determines the potential Human Energy available for organizational execution.
 
 **Intensity (I) — Energy Direction Precision**  
-Represents the precision of where, when, and why Human Energy is applied.
+Represents the precision and discipline with which Human Energy is directed—determining where, when, and why it is applied.
 
 It defines:
 
@@ -262,17 +262,13 @@ It defines:
 - When to end
 
 **Duration (D) — Sustainable Energy Continuity**  
-Represents how sustainably Human Energy can be maintained through healthy operating rhythms, reduced interruptions, recovery mechanisms, sustainable workload design, and operational stability.
+Represents the organization's ability to sustain productive Human Energy over time through healthy operating rhythms, recovery mechanisms, operational stability, and continuous improvement.
 
 Time measures availability.
 
-Human Energy measures how much execution capacity can be created from the available time.
+Human Energy determines how much execution capacity can be created during that available time.
 
-Two people may work for the same number of hours.
-
-The difference is not time.
-
-The difference is the quality, direction, and sustainability of Human Energy applied during that time.
+Two people may work the same number of hours, yet produce very different outcomes. The difference is not time—it is the quality, direction, and sustainability of the Human Energy they apply.
 
 > **Capacity creates potential.**  
 > **Intensity creates direction.**  
