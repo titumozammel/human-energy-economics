@@ -9,25 +9,97 @@
 
 ---
 
-## What is Human Energy Economics?
+# What is Human Energy Economics?
 
 **Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource through which organizations transform knowledge, technology, capital, and processes into **Sustainable Business Value**.
 
-Rather than optimizing how people respond to work, HEE focuses on eliminating unnecessary operational demand. By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve organizational performance.
+Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying and eliminating unnecessary operational demand.
+
+By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve sustainable organizational performance.
+
+---
+
+# What is Human Energy?
+
+Human Energy is the combined:
+
+- 🧠 Cognitive capacity
+- ❤️ Emotional capacity
+- 💪 Physical capacity
+
+that people bring to their work.
+
+It is the invisible organizational resource that transforms:
+
+```text
+Knowledge
++
+Technology
++
+Capital
++
+Processes
+
+        ↓
+
+Sustainable Business Value
+```
+
+Human Energy determines how effectively organizations convert resources into meaningful outcomes.
+
+---
+
+# Operational Noise: The Hidden Organizational Tax
+
+Operational Noise is the unnecessary consumption of Human Energy caused by organizational friction.
+
+It consumes capacity without creating proportional business value.
+
+Operational Noise exists across three dimensions:
+
+## 1. Structural Noise
+
+Created by:
+
+- Excessive approvals
+- Complex workflows
+- Process friction
+- Unnecessary organizational complexity
+
+## 2. Communication Noise
+
+Created by:
+
+- Unnecessary meetings
+- Excessive emails
+- Coordination overhead
+- Information friction
+
+## 3. Cognitive Noise
+
+Created by:
+
+- Constant interruptions
+- Context switching
+- Unclear priorities
+- Recurring problems
+- Increasing cognitive load
+
+Operational Noise is the hidden organizational tax that reduces available Human Energy.
 
 ---
 
 # The Three Laws of Human Energy Economics
 
-### 1. The Primacy of Human Energy
+## 1. The Primacy of Human Energy
 
 > Human Energy is the primary organizational resource through which all other organizational resources create value.
 
-### 2. The Law of Operational Noise
+## 2. The Law of Operational Noise
 
 > Operational Noise is the hidden organizational tax that consumes Human Energy without creating proportional business value.
 
-### 3. The Law of Human Energy Recovery
+## 3. The Law of Human Energy Recovery
 
 > Recovering Human Energy expands Execution Capacity, enabling Sustainable Business Value.
 
@@ -35,46 +107,154 @@ Rather than optimizing how people respond to work, HEE focuses on eliminating un
 
 # Human Energy Value Chain
 
-**How does Human Energy create Sustainable Business Value?**
+## How does Human Energy create Sustainable Business Value?
 
 ```text
 Human Energy
+
       ↓
+
 Operational Noise
 (The Hidden Organizational Tax)
+
       ↓
+
 Recovered Human Energy
+
       ↓
+
 Execution Capacity
+
       ↓
+
 Sustainable Business Value
 ```
 
 ---
 
+# Human Energy Investment Cycle
+
+Recovering Human Energy is not the final objective.
+
+The purpose of recovery is to redirect capacity toward higher-impact work.
+
+```text
+Recover Human Energy
+
+        ↓
+
+Invest in High-Impact Work
+
+        ↓
+
+Increase Strategic Execution
+
+        ↓
+
+Create Sustainable Business Value
+```
+
+**Recovery creates capacity. Investment creates value.**
+
+---
+
 # Human Energy Lifecycle
 
-**What happens to Human Energy throughout organizational work?**
+## What happens to Human Energy throughout organizational work?
 
 ```text
 CREATE
-Leadership • Purpose • Organizational Design
-        │
-        ▼
-CONSUME ───────► [TAX: OPERATIONAL NOISE]
-Projects • Daily Work     Meetings • Rework
-                          Delays • Friction
-        │
-        ▼
+
+Leadership
+Purpose
+Organizational Design
+
+        ↓
+
+CONSUME
+
+Projects
+Daily Work
+
+        ↓
+
+[TAX: OPERATIONAL NOISE]
+
+Meetings
+Rework
+Delays
+Friction
+
+        ↓
+
 RECOVER
-5R Cascade • Automation • Process Improvement
-        │
-        ▼
+
+5R Cascade
+Automation
+Process Improvement
+
+        ↓
+
 UTILIZE
-Execution Capacity • Strategic Work • Customer Value
+
+Execution Capacity
+Strategic Work
+Customer Value
+
         ↺
+
 Continuous Improvement
 ```
+
+---
+
+# Execution Capacity
+
+Execution Capacity represents the organization's ability to produce meaningful outcomes using available Human Energy.
+
+Execution Capacity is not:
+
+❌ Working longer  
+❌ Moving faster  
+❌ Adding more pressure  
+
+Execution Capacity is:
+
+✅ Creating more meaningful outcomes from the same — or less — Human Energy by eliminating unnecessary operational demand.
+
+---
+
+# The Human Energy Equation
+
+A conceptual model for understanding Human Energy:
+
+```text
+Human Energy = Capacity × Intensity × Duration
+```
+
+Where:
+
+**Capacity**  
+= Available physical, cognitive, and emotional resources a person can bring to work.
+
+**Intensity**  
+= The level of focused and purposeful effort applied.
+
+**Duration**  
+= How long that effort can be sustainably maintained.
+
+Time measures availability.
+
+Human Energy measures how much valuable work can actually be performed during that time.
+
+Two people may work for the same number of hours.
+
+The difference is not time.
+
+The difference is the quality, focus, and sustainability of Human Energy applied during that time.
+
+> **Protect the Energy.**  
+> **The Performance Follows.**
 
 ---
 
@@ -82,17 +262,25 @@ Continuous Improvement
 
 Traditional management often asks:
 
-> **"How can we respond faster?"**
+> "How can we respond faster?"
 
 Human Energy Economics asks:
 
-> **"Why does this work exist in the first place?"**
+> "Why does this work exist in the first place?"
 
 HEE focuses on identifying and eliminating unnecessary operational demand so that Human Energy can be redirected toward higher-value work.
 
 ---
 
-# Framework Family
+# Framework Architecture
+
+Human Energy Economics explains **WHY** organizations should recover Human Energy.
+
+Operational Silence Framework explains **WHAT** organizational transformation looks like.
+
+5R Cascade Framework explains **HOW** recurring operational demand should be eliminated.
+
+Together, these frameworks form a **Human Energy Recovery System**.
 
 | Framework | Purpose |
 |-----------|---------|
@@ -109,16 +297,63 @@ Together these frameworks help organizations:
 
 ---
 
+# Human Energy Audit
+
+A practical cycle for identifying and recovering lost Human Energy:
+
+```text
+SCAN
+
+↓
+
+DIAGNOSE
+
+↓
+
+ELIMINATE
+
+↓
+
+INVEST
+```
+
+The objective:
+
+Identify energy drains, remove unnecessary operational demand, and redirect recovered capacity toward strategic execution.
+
+---
+
 # Vision
 
 To establish **Human Energy** as a measurable, manageable, recoverable, and investable organizational resource, enabling organizations to unlock hidden capacity, improve execution, and create Sustainable Business Value.
 
 ---
 
+# Research Areas
+
+Human Energy Economics explores:
+
+- Human Energy as an organizational resource
+- Operational Excellence
+- Organizational Design
+- Strategy-to-Execution Systems
+- Digital Transformation
+- AI-enabled transformation
+- Continuous Constraint Reduction
+
+---
+
 # Learn More
 
-- **Operational Silence Framework (OSF)** — Engineering Operational Silence by reducing recurring operational demand.
-- **5R Cascade Framework** — A tactical decision methodology based on **Remove → Reduce → Replace → Re-engineer → Retain**.
+## Operational Silence Framework (OSF)
+
+Engineering Operational Silence by reducing recurring operational demand.
+
+## 5R Cascade Framework
+
+A tactical decision methodology based on:
+
+**Remove → Reduce → Replace → Re-engineer → Retain**
 
 ---
 
@@ -127,16 +362,22 @@ To establish **Human Energy** as a measurable, manageable, recoverable, and inve
 **Md Mozammel Hoque**  
 *Management Researcher*
 
-🌐 Website: https://www.ovinabo.com
+🌐 Website:  
+https://www.ovinabo.com
 
-💼 LinkedIn: https://www.linkedin.com/in/mozammel-hee
+💼 LinkedIn:  
+https://www.linkedin.com/in/mozammel-hee
 
-💻 GitHub: https://github.com/titumozammel
+I welcome collaboration from researchers, practitioners, executives, and organizations interested in:
 
-I welcome collaboration from researchers, practitioners, executives, and organizations interested in Human Energy Economics, Organizational Design, Operational Excellence, Digital Transformation, and AI-enabled transformation.
+- Human Energy Economics
+- Organizational Design
+- Operational Excellence
+- Digital Transformation
+- AI-enabled transformation
 
 ---
 
-> **Human Energy Economics (HEE)**
-
+> **Human Energy Economics (HEE)**  
+>
 > *Reduce Operational Noise. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.*
