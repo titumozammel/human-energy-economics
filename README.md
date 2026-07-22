@@ -238,33 +238,48 @@ The goal is to create more meaningful outcomes from the same — or less — Hum
 A conceptual model:
 
 ```text
-Human Energy = Capacity × Intensity × Duration
+Human Energy = Capacity (C) × Intensity (I) × Duration (D)
+
+HE = C × I × D
 ```
 
 Where:
 
-**Capacity**  
-Available physical, cognitive, and emotional resources.
+**Capacity (C) — Energy Potential**  
+Represents the available capability from which Human Energy can be generated, including knowledge, skills, experience, cognitive resources, physical resources, workforce capacity, and enabling conditions.
 
-**Intensity**  
-Focused and purposeful effort applied.
+**Intensity (I) — Energy Direction Precision**  
+Represents the precision of where, when, and why Human Energy is applied.
 
-**Duration**  
-Sustainable time the effort can be maintained.
+It defines:
+
+- What to do
+- What not to do
+- What to focus on
+- What to prioritize
+- When to start
+- When to stop
+- When to end
+
+**Duration (D) — Sustainable Energy Continuity**  
+Represents how sustainably Human Energy can be maintained through healthy operating rhythms, reduced interruptions, recovery mechanisms, sustainable workload design, and operational stability.
 
 Time measures availability.
 
-Human Energy measures how much valuable work can actually be performed during that time.
+Human Energy measures how much execution capacity can be created from the available time.
 
 Two people may work for the same number of hours.
 
 The difference is not time.
 
-The difference is the quality, focus, and sustainability of Human Energy applied during that time.
+The difference is the quality, direction, and sustainability of Human Energy applied during that time.
+
+> **Capacity creates potential.**  
+> **Intensity creates direction.**  
+> **Duration creates sustainability.**
 
 > **Protect the Energy.**  
 > **The Performance Follows.**
-
 ---
 
 # A Different Perspective
