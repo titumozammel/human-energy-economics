@@ -1,6 +1,6 @@
 # Human Energy Economics (HEE)
 
-### A Management Philosophy for Understanding, Managing, Recovering, and Investing Human Energy
+### A Management Philosophy for Understanding, Managing, Recovering, and Investing in Human Energy
 
 > **Understand Human Energy.**  
 > **Reduce Operational Noise.**  
