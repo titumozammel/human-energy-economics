@@ -210,7 +210,7 @@ Continuous Improvement
 
 # Execution Capacity
 
-Execution Capacity represents the organization's ability to produce meaningful outcomes using available **Human Energy**.
+Execution Capacity represents the organization's ability to produce meaningful outcomes using available Human Energy.
 
 Execution Capacity is not:
 
@@ -218,7 +218,7 @@ Execution Capacity is not:
 ❌ Moving faster  
 ❌ Adding more pressure  
 
-Because more effort, more speed, or more hours do not always create more value.
+Because more effort, greater speed, or longer hours do not automatically create more valuable outcomes.
 
 Execution Capacity increases when organizations:
 
