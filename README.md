@@ -235,7 +235,7 @@ The goal is to create more meaningful outcomes from the same — or less — Hum
 
 # The Human Energy Equation
 
-A conceptual model for understanding Human Energy:
+A conceptual model:
 
 ```text
 Human Energy = Capacity × Intensity × Duration
@@ -244,13 +244,13 @@ Human Energy = Capacity × Intensity × Duration
 Where:
 
 **Capacity**  
-= Available physical, cognitive, and emotional resources a person can bring to work.
+Available physical, cognitive, and emotional resources.
 
 **Intensity**  
-= The level of focused and purposeful effort applied.
+Focused and purposeful effort applied.
 
 **Duration**  
-= How long that effort can be sustainably maintained.
+Sustainable time the effort can be maintained.
 
 Time measures availability.
 
@@ -292,10 +292,10 @@ Operational Silence Framework explains **WHAT** organizational transformation lo
 Together, these frameworks form a **Human Energy Recovery System**.
 
 | Framework | Purpose |
-|-----------|---------|
+|---|---|
 | **Human Energy Economics (HEE)** | Management Philosophy |
 | **Operational Silence Framework (OSF)** | Transformation Operating Model |
-| **5R Cascade Framework** | Tactical Decision Methodology for Eliminating Recurring Operational Demand |
+| **5R Cascade Framework** | Tactical Decision Methodology |
 
 Together these frameworks help organizations:
 
