@@ -398,8 +398,11 @@ I welcome collaboration from researchers, practitioners, executives, and organiz
 
 ---
 
-> **Human Energy Economics (HEE)**  
->
-> Human Energy Economics (HEE) is a management philosophy for understanding, managing, recovering, and investing Human Energy to expand Execution Capacity and create Sustainable Business Value.
-> 
-> *Reduce Operational Noise. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.*
+## Human Energy Economics (HEE)
+
+A management philosophy for understanding, managing, recovering, and investing in Human Energy to expand Execution Capacity and create Sustainable Business Value.
+
+> **Reduce Operational Noise.**  
+> **Recover Human Energy.**  
+> **Expand Execution Capacity.**  
+> **Create Sustainable Business Value.**
