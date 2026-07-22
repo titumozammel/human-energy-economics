@@ -54,7 +54,7 @@ Human Energy determines how effectively organizations convert resources into mea
 
 Operational Noise is the unnecessary consumption of Human Energy caused by organizational friction.
 
-It consumes capacity without creating proportional business value.
+It consumes Human Energy without creating proportional business value.
 
 Operational Noise exists across three dimensions:
 
@@ -112,22 +112,14 @@ Operational Noise is the hidden organizational tax that reduces available Human 
 
 ```text
 Human Energy
-
       ↓
-
 Operational Noise
 (The Hidden Organizational Tax)
-
       ↓
-
-Recovered Human Energy
-
+Human Energy Recovery
       ↓
-
 Execution Capacity
-
       ↓
-
 Sustainable Business Value
 ```
 
@@ -141,17 +133,11 @@ The purpose of recovery is to redirect capacity toward higher-impact work.
 
 ```text
 Recover Human Energy
-
         ↓
-
 Invest in High-Impact Work
-
         ↓
-
-Increase Strategic Execution
-
+Expand Execution Capacity
         ↓
-
 Create Sustainable Business Value
 ```
 
@@ -403,6 +389,7 @@ I welcome collaboration from researchers, practitioners, executives, and organiz
 
 A management philosophy for understanding, managing, recovering, and investing in Human Energy to expand Execution Capacity and create Sustainable Business Value.
 
+> **Understand Human Energy.**  
 > **Reduce Operational Noise.**  
 > **Recover Human Energy.**  
 > **Expand Execution Capacity.**  
