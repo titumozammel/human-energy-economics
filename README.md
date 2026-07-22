@@ -1,6 +1,6 @@
 # Human Energy Economics (HEE)
 
-### A Management Philosophy for Understanding, Managing, Recovering, and Investing in Human Energy
+### A Management Philosophy for Understanding, Managing, Recovering, and Investing Human Energy
 
 > **Understand Human Energy.**  
 > **Reduce Operational Noise.**  
@@ -12,7 +12,7 @@
 
 # What is Human Energy Economics?
 
-**Human Energy Economics (HEE)** is a management philosophy that recognizes **Human Energy** as the primary organizational resource through which organizations transform knowledge, technology, capital, and processes into **Sustainable Business Value**.
+Human Energy Economics (HEE) is a management philosophy that recognizes Human Energy as the primary organizational resource through which organizations transform knowledge, technology, capital, and processes into Sustainable Business Value.
 
 Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying and eliminating unnecessary operational demand.
 
@@ -112,9 +112,8 @@ Operational Noise is the hidden organizational tax that reduces available Human 
 Human Energy
       ↓
 Operational Noise
-(The Hidden Organizational Tax)
       ↓
-Human Energy Recovery
+Recovered Human Energy
       ↓
 Execution Capacity
       ↓
@@ -132,9 +131,9 @@ The purpose of recovery is to redirect capacity toward higher-impact work.
 ```text
 Recover Human Energy
         ↓
-Invest in High-Impact Work
-        ↓
 Expand Execution Capacity
+        ↓
+Invest in High-Impact Work
         ↓
 Create Sustainable Business Value
 ```
@@ -220,12 +219,10 @@ The goal is to create more meaningful outcomes from the same — or less — Hum
 
 # The Human Energy Equation
 
-A conceptual model:
+A conceptual model for understanding Human Energy:
 
 ```text
 HE = C × I × D
-
-Where:
 
 HE = Human Energy
 C  = Capacity
@@ -256,7 +253,7 @@ Represents the organization's ability to sustain productive Human Energy over ti
 
 Time measures availability.
 
-Human Energy determines how much execution capacity can be created during that available time.
+Human Energy determines how effectively that available time is converted into Execution Capacity.
 
 Two people may work the same number of hours, yet produce very different outcomes. The difference is not time—it is the quality, direction, and sustainability of the Human Energy they apply.
 
@@ -378,7 +375,7 @@ https://www.ovinabo.com
 💼 LinkedIn:  
 https://www.linkedin.com/in/mozammel-hee
 
-I welcome collaboration from researchers, practitioners, executives, and organizations interested in:
+I welcome collaboration with researchers, practitioners, executives, and organizations interested in:
 
 - Human Energy Economics
 - Organizational Design
@@ -388,14 +385,4 @@ I welcome collaboration from researchers, practitioners, executives, and organiz
 
 ---
 
----
-
-## Human Energy Economics (HEE)
-
-*A management philosophy for understanding, managing, recovering, and investing in Human Energy to expand Execution Capacity and create Sustainable Business Value.*
-
-> **Understand Human Energy.**  
-> **Reduce Operational Noise.**  
-> **Recover Human Energy.**  
-> **Expand Execution Capacity.**  
-> **Create Sustainable Business Value.**
+> **Protect Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
