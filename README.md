@@ -1,6 +1,6 @@
 # Human Energy Economics (HEE)
 
-### A Management Philosophy for Understanding, Managing, Recovering, and Investing in Human Energy
+### A Management Theory and Framework for Understanding, Managing, Recovering, and Investing in Human Energy
 
 > **Understand Human Energy.**  
 > **Reduce Operational Noise.**  
@@ -10,9 +10,9 @@
 
 ---
 
-# What is Human Energy Economics?
+## What Is Human Energy Economics?
 
-Human Energy Economics (HEE) is a management philosophy that recognizes Human Energy as the primary organizational resource through which organizations transform knowledge, technology, capital, and processes into Sustainable Business Value.
+Human Energy Economics (HEE) is a management theory that recognizes **Human Energy** as the foundational conversion resource through which organizations transform other resources into value.
 
 Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying and eliminating unnecessary operational demand.
 
@@ -20,282 +20,253 @@ By reducing **Operational Noise**, organizations recover Human Energy, expand **
 
 ---
 
-# What is Human Energy?
+## What Is Human Energy?
 
-Human Energy is the combined capacity that people bring to their work through:
+Human Energy is the combined cognitive, emotional, and physical capability that enables people and organizations to convert resources into meaningful outcomes.
 
-- 🧠 Cognitive capacity
-- ❤️ Emotional capacity
-- 💪 Physical capacity
+- 🧠 **Cognitive capacity**
+- ❤️ **Emotional capacity**
+- 💪 **Physical capacity**
 
 It is the invisible organizational resource that transforms:
 
 ```text
-Knowledge
-+
-Technology
-+
-Capital
-+
-Processes
-
-        ↓
-
-Sustainable Business Value
+Knowledge + Technology + Capital + Processes
+                ↓
+     Sustainable Business Value
 ```
-
-Human Energy determines how effectively organizations convert resources into meaningful outcomes.
 
 ---
 
-# Operational Noise: The Hidden Organizational Tax
+## Burnout: The Human Energy Degrader
 
-Operational Noise is the unnecessary consumption of Human Energy caused by organizational friction.
+**Burnout** is the progressive depletion of Human Energy caused by prolonged physical, cognitive, and emotional overload without adequate recovery.
 
-It consumes Human Energy without creating proportional business value.
+Unlike Operational Noise, which originates from organizational systems, Burnout represents individual-level Human Energy depletion resulting from prolonged demands exceeding available recovery capacity.
+
+Burnout reduces available Human Energy by weakening:
+
+- Cognitive capacity
+- Emotional resilience
+- Physical stamina
+
+Human Energy is continuously degraded from two directions:
+
+- **Burnout** — the human-level degrader
+- **Operational Noise** — the organizational-level degrader
+
+Both reduce the Human Energy available for productive execution.
+
+---
+
+## Operational Noise: The Hidden Organizational Tax
+
+**Operational Noise** is the unnecessary consumption of Human Energy caused by organizational friction. It consumes Human Energy without creating proportional business value.
 
 Operational Noise exists across three dimensions:
 
-## 1. Structural Noise
-
-Created by:
-
+### 1. Structural Noise
 - Excessive approvals
 - Complex workflows
 - Process friction
 - Unnecessary organizational complexity
 
-## 2. Communication Noise
-
-Created by:
-
+### 2. Communication Noise
 - Unnecessary meetings
 - Excessive emails
 - Coordination overhead
 - Information friction
 
-## 3. Cognitive Noise
-
-Created by:
-
+### 3. Cognitive Noise
 - Constant interruptions
 - Context switching
 - Unclear priorities
 - Recurring problems
 - Increasing cognitive load
 
-Operational Noise is the hidden organizational tax that reduces available Human Energy.
+---
+
+## Human Energy Leakage: The Invisible Loss of Organizational Capacity
+
+**Human Energy Leakage** represents the continuous loss of potential Human Energy caused by avoidable demands, inefficient systems, and conditions that prevent people from applying their full capability toward meaningful work.
+
+Human Energy Leakage is not the same as Human Energy Loss.
+
+- **Human Energy Leakage** describes *where* and *how* Human Energy escapes.
+- **Human Energy Loss** describes the resulting reduction in available Human Energy.
+
+### Types of Human Energy Leakage
+
+| Type | Description | Examples |
+|------|-------------|----------|
+| **Demand Leakage** | Energy consumed by unnecessary work | Unnecessary tasks, repetitive manual work, duplicate activities |
+| **Attention Leakage** | Energy fragmented by interruptions | Context switching, excessive coordination, fragmented focus |
+| **Capability Leakage** | Energy underutilized | Skill-work misalignment, poor prioritization, lack of empowerment |
+| **Decision Leakage** | Energy lost in bottlenecks | Delayed decisions, excessive approvals, unclear ownership |
 
 ---
 
-# The Three Laws of Human Energy Economics
+## The Four Laws of Human Energy Economics
 
-## 1. The Primacy of Human Energy
+### 1. The Law of Human Energy Conversion
+> Human Energy is the foundational conversion resource through which organizations transform knowledge, technology, capital, and processes into value.
 
-> Human Energy is the primary organizational resource through which all other organizational resources create value.
-
-## 2. The Law of Operational Noise
-
+### 2. The Law of Operational Noise
 > Operational Noise is the hidden organizational tax that consumes Human Energy without creating proportional business value.
 
-## 3. The Law of Human Energy Recovery
-
+### 3. The Law of Human Energy Recovery
 > Recovering Human Energy expands Execution Capacity, enabling Sustainable Business Value.
 
+### 4. The Law of Human Energy Leakage and Recovery
+> Human Energy Leakage is the hidden pathway through which organizational inefficiencies convert available Human Energy into lost execution capacity; systematic recovery of this leaked energy expands organizational capacity and sustainable value creation.
+
 ---
 
-# Human Energy Value Chain
-
-## How does Human Energy create Sustainable Business Value?
+## Human Energy Value Chain
 
 ```text
-Human Energy
-      ↓
-Operational Noise
-      ↓
-Recovered Human Energy
-      ↓
-Execution Capacity
-      ↓
-Sustainable Business Value
+                    Available Human Energy (HE)
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+              ▼                       ▼
+           Burnout              Operational Noise
+      (Human-Level Degrader)   (Organizational-Level Degrader)
+              │                       │
+              └───────────┬───────────┘
+                          ▼
+               Human Energy Leakage (HELg)
+                          │
+                          ▼
+                 Human Energy Loss (HEL)
+                          │
+                          ▼
+           Recoverable Human Energy Capacity
+                          │
+                          ▼
+             Human Energy Recovery System
+                   (OSF + 5R Cascade)
+                          │
+                          ▼
+             Recovered Human Energy (RHE)
+                          │
+                          ▼
+                Sustainable Capacity (SC)
+                          │
+                          ▼
+               Execution Capacity (ECap)
+                          │
+                          ▼
+              Sustainable Business Value
 ```
 
 ---
 
-# Human Energy Investment Cycle
+## The Human Energy Economics Capacity Model
 
-Recovering Human Energy is not the final objective.
+HEE provides a conceptual mathematical model for understanding how Human Energy is created, degraded, recovered, and transformed into Sustainable Business Value.
 
-The purpose of recovery is to redirect capacity toward higher-impact work.
-
-```text
-Recover Human Energy
-        ↓
-Expand Execution Capacity
-        ↓
-Invest in High-Impact Work
-        ↓
-Create Sustainable Business Value
-```
-
-**Recovery creates capacity. Investment creates value.**
-
----
-
-# Human Energy Lifecycle
-
-## What happens to Human Energy throughout organizational work?
+### Level 1 — Human Energy
 
 ```text
-CREATE
-
-Leadership
-Purpose
-Organizational Design
-
-        ↓
-
-CONSUME
-
-Projects
-Daily Work
-
-        ↓
-
-[TAX: OPERATIONAL NOISE]
-
-Meetings
-Rework
-Delays
-Friction
-
-        ↓
-
-RECOVER
-
-5R Cascade
-Automation
-Process Improvement
-
-        ↓
-
-UTILIZE
-
-Execution Capacity
-Strategic Work
-Customer Value
-
-        ↺
-
-Continuous Improvement
-```
-
----
-
-# Execution Capacity
-
-Execution Capacity represents the organization's ability to produce meaningful outcomes using available Human Energy.
-
-Execution Capacity is not:
-
-❌ Working longer  
-❌ Moving faster  
-❌ Adding more pressure  
-
-Because more effort, greater speed, or longer hours do not automatically create more valuable outcomes.
-
-Execution Capacity increases when organizations:
-
-✅ Eliminate unnecessary operational demand  
-✅ Reduce Operational Noise  
-✅ Recover Human Energy  
-✅ Redirect capacity toward higher-value work  
-
-The goal is not to do more work.
-
-The goal is to create more meaningful outcomes from the same — or less — Human Energy.
-
----
-
-# The Human Energy Equation
-
-A conceptual model for understanding Human Energy:
-
-```text
-HE = C × I × D
-
-HE = Human Energy
-C  = Capacity
-I  = Intensity
-D  = Duration
+HE = PC × IA × DS
 ```
 
 Where:
 
-**Capacity (C) — Energy Potential**  
-Represents the available capability that determines the potential Human Energy available for organizational execution.
+- **HE** = Human Energy
+- **PC** = Potential Capacity
+- **IA** = Intensity Alignment
+- **DS** = Duration Sustainability
 
-**Intensity (I) — Energy Direction Precision**  
-Represents the precision and discipline with which Human Energy is directed—determining where, when, and why it is applied.
+### Level 2 — Human Energy Loss
 
-It defines:
+```text
+HEL = f(BI + ONI + HELg - RR)
+```
 
-- What to do
-- What not to do
-- What to focus on
-- What to prioritize
-- When to start
-- When to stop
-- When to end
+Where:
 
-**Duration (D) — Sustainable Energy Continuity**  
-Represents the organization's ability to sustain productive Human Energy over time through healthy operating rhythms, recovery mechanisms, operational stability, and continuous improvement.
+- **HEL** = Human Energy Loss
+- **BI** = Burnout Impact
+- **ONI** = Operational Noise Impact
+- **HELg** = Human Energy Leakage effect
+- **RR** = Recovery Rate
 
-Time measures availability.
+### Level 3 — Recovered Human Energy
 
-Human Energy determines how effectively that available time is converted into Execution Capacity.
+```text
+RHE = HE − HEL
+```
 
-Two people may work the same number of hours, yet produce very different outcomes. The difference is not time—it is the quality, direction, and sustainability of the Human Energy they apply.
+### Level 4 — Sustainable Capacity
 
-> **Capacity creates potential.**  
-> **Intensity creates direction.**  
-> **Duration creates sustainability.**
+```text
+SC = RHE × CF × AF × XF
+```
 
-> **Protect the Energy.**  
-> **The Performance Follows.**
+Where:
+
+- **CF** = Capability Factor = `A × C × TE`
+- **AF** = Alignment Factor = `L × D`
+- **XF** = Execution Factor = `(1 - F) × S`
+
+### Level 5 — Organizational Scale
+
+```text
+TSC = H × SC
+```
+
+### Complete Expanded Equation
+
+```text
+TSC = H × [PC × IA × DS × (A × C × TE) × (L × D) × ((1 - F) × S)]
+```
+
+### Variable Legend
+
+| Symbol | Term | Definition |
+|--------|------|------------|
+| **HE** | Human Energy | Available human potential |
+| **PC** | Potential Capacity | Raw energy potential |
+| **IA** | Intensity Alignment | Direction precision and focus |
+| **DS** | Duration Sustainability | Sustainable continuity over time |
+| **BI** | Burnout Impact | Reduction effect caused by prolonged physical, cognitive, and emotional overload |
+| **ONI** | Operational Noise Impact | Reduction effect caused by organizational friction |
+| **SC** | Sustainable Capacity | Per-employee execution capacity |
+| **CF** | Capability Factor | A × C × TE |
+| **A** | Ability | Raw talent |
+| **C** | Competence | Organizational systems |
+| **TE** | Training Effectiveness | Behavior change from training |
+| **AF** | Alignment Factor | L × D |
+| **L** | Clarity | Priorities known in 5 seconds |
+| **D** | Direction | Strategic correctness |
+| **XF** | Execution Factor | (1 - F) × S |
+| **F** | Friction | Process waste, rework, delays |
+| **S** | Synergy | Psychological safety, team flow |
+| **TSC** | Total Sustainable Capacity | Organization-wide output |
+| **H** | Headcount | Effective FTE employees |
+
+### Management Principle
+
+> **Effectiveness Precedes Scale.**  
+> Organizations should first reduce Burnout and Operational Noise, recover Human Energy, strengthen Sustainable Capacity, and only then scale people, technology, and operations.
+
+**Proposed Benchmark:** `SC ≥ 0.75` before increasing `H`.
+
+This benchmark represents a conceptual threshold for evaluating whether existing organizational capacity is sufficiently optimized before scaling resources.
+
 ---
 
-# A Different Perspective
-
-Traditional management often asks:
-
-> "How can we respond faster?"
-
-Human Energy Economics asks:
-
-> "Why does this work exist in the first place?"
-
-HEE focuses on identifying and eliminating unnecessary operational demand so that Human Energy can be redirected toward higher-value work.
-
----
-
-# Framework Architecture
-
-Human Energy Economics explains **WHY** organizations should recover Human Energy.
-
-Operational Silence Framework explains **WHAT** organizational transformation looks like.
-
-5R Cascade Framework explains **HOW** recurring operational demand should be eliminated.
-
-Together, these frameworks form a **Human Energy Recovery System**.
+## Framework Architecture
 
 | Framework | Purpose |
-|---|---|
-| **Human Energy Economics (HEE)** | Management Philosophy |
-| **Operational Silence Framework (OSF)** | Transformation Operating Model |
-| **5R Cascade Framework** | Tactical Decision Methodology |
+|-----------|---------|
+| **Human Energy Economics (HEE)** | Management Theory (WHY) |
+| **Operational Silence Framework (OSF)** | Transformation Operating Model (WHAT) |
+| **5R Cascade Framework** | Tactical Decision Methodology (HOW) |
 
-Together these frameworks help organizations:
+Together, these frameworks form a **Human Energy Recovery System** that helps organizations:
 
 - Reduce Operational Noise
 - Recover Human Energy
@@ -304,42 +275,24 @@ Together these frameworks help organizations:
 
 ---
 
-# Human Energy Audit
+## Human Energy Audit
 
 A practical cycle for identifying and recovering lost Human Energy:
 
 ```text
-SCAN
-
-↓
-
-DIAGNOSE
-
-↓
-
-ELIMINATE
-
-↓
-
-INVEST
+SCAN → DIAGNOSE → ELIMINATE → INVEST
 ```
 
-The objective:
-
-Identify energy drains, remove unnecessary operational demand, and redirect recovered capacity toward strategic execution.
+The objective: Identify energy drains, remove unnecessary operational demand, and redirect recovered capacity toward strategic execution.
 
 ---
 
-# Vision
+## Vision & Research Areas
 
+### Vision
 To establish **Human Energy** as a measurable, manageable, recoverable, and investable organizational resource, enabling organizations to unlock hidden capacity, improve execution, and create Sustainable Business Value.
 
----
-
-# Research Areas
-
-Human Energy Economics explores:
-
+### Research Areas
 - Human Energy as an organizational resource
 - Operational Excellence
 - Organizational Design
@@ -350,39 +303,16 @@ Human Energy Economics explores:
 
 ---
 
-# Learn More
-
-## Operational Silence Framework (OSF)
-
-Engineering Operational Silence by reducing recurring operational demand.
-
-## 5R Cascade Framework
-
-A tactical decision methodology based on:
-
-**Remove → Reduce → Replace → Re-engineer → Retain**
-
----
-
-# Connect
+## Connect
 
 **Md Mozammel Hoque**  
 *Management Researcher*
 
-🌐 Website:  
-https://www.ovinabo.com
+🌐 Website: [https://www.ovinabo.com](https://www.ovinabo.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/mozammel-hee](https://www.linkedin.com/in/mozammel-hee)
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/mozammel-hee
-
-I welcome collaboration with researchers, practitioners, executives, and organizations interested in:
-
-- Human Energy Economics
-- Organizational Design
-- Operational Excellence
-- Digital Transformation
-- AI-enabled transformation
+This research framework invites collaboration with researchers, practitioners, executives, and organizations exploring Human Energy Economics, Organizational Design, Operational Excellence, and Digital Transformation.
 
 ---
 
-> **Protect Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
+> **Protect Human Energy. Reduce Burnout. Reduce Operational Noise. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
