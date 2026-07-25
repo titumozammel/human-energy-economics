@@ -22,7 +22,7 @@ By reducing **Operational Noise**, organizations recover Human Energy, expand **
 
 ## What Is Human Energy?
 
-Human Energy is the combined cognitive, emotional, and physical capability that enables people and organizations to convert resources into meaningful outcomes.
+Human Energy is the combined cognitive, emotional, and physical capacity that enables individuals and organizations to transform resources into meaningful outcomes.
 
 - 🧠 **Cognitive capacity**
 - ❤️ **Emotional capacity**
@@ -117,8 +117,9 @@ Human Energy Leakage is not the same as Human Energy Loss.
 ### 3. The Law of Human Energy Recovery
 > Recovering Human Energy expands Execution Capacity, enabling Sustainable Business Value.
 
-### 4. The Law of Human Energy Leakage and Recovery
-> Human Energy Leakage is the hidden pathway through which organizational inefficiencies convert available Human Energy into lost execution capacity; systematic recovery of this leaked energy expands organizational capacity and sustainable value creation.
+### 4. The Law of Human Energy Leakage
+
+Human Energy Leakage is the hidden pathway through which organizational inefficiencies convert available Human Energy into lost execution capacity.
 
 ---
 
@@ -252,9 +253,10 @@ TSC = H × [PC × IA × DS × (A × C × TE) × (L × D) × ((1 - F) × S)]
 > **Effectiveness Precedes Scale.**  
 > Organizations should first reduce Burnout and Operational Noise, recover Human Energy, strengthen Sustainable Capacity, and only then scale people, technology, and operations.
 
-**Proposed Benchmark:** `SC ≥ 0.75` before increasing `H`.
+**Proposed Research Benchmark:**  
+`SC ≥ 0.75` before increasing `H`.
 
-This benchmark represents a conceptual threshold for evaluating whether existing organizational capacity is sufficiently optimized before scaling resources.
+This represents a conceptual threshold for evaluating whether existing organizational capacity is sufficiently optimized before scaling additional resources.
 
 ---
 
@@ -315,4 +317,4 @@ This research framework invites collaboration with researchers, practitioners, e
 
 ---
 
-> **Protect Human Energy. Reduce Burnout. Reduce Operational Noise. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
+> **Protect Human Energy. Reduce Burnout. Eliminate Operational Noise. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
