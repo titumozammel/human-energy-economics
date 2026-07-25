@@ -2,27 +2,53 @@
 
 ### A Management Theory and Framework for Understanding, Managing, Recovering, and Investing in Human Energy
 
-> **Understand Human Energy.**  
-> **Reduce Operational Noise.**  
+> **Protect Human Energy.**  
+> **Reduce Burnout.**  
+> **Eliminate Operational Noise.**  
+> **Prevent Human Energy Leakage.**  
 > **Recover Human Energy.**  
 > **Expand Execution Capacity.**  
 > **Create Sustainable Business Value.**
 
 ---
 
+## Table of Contents
+
+- [What Is Human Energy Economics?](#what-is-human-energy-economics)
+- [What Is Human Energy?](#what-is-human-energy)
+- [Why Human Energy Matters](#why-human-energy-matters)
+- [Burnout: The Human Energy Degrader](#burnout-the-human-energy-degrader)
+- [Operational Noise: The Hidden Organizational Tax](#operational-noise-the-hidden-organizational-tax)
+- [Human Energy Leakage: The Invisible Loss of Organizational Capacity](#human-energy-leakage-the-invisible-loss-of-organizational-capacity)
+- [The Four Laws of Human Energy Economics](#the-four-laws-of-human-energy-economics)
+- [Human Energy Value Chain](#human-energy-value-chain)
+- [Human Energy Lifecycle](#human-energy-lifecycle)
+- [The Human Energy Economics Capacity Model](#the-human-energy-economics-capacity-model)
+- [Human Energy Economics Architecture](#human-energy-economics-architecture)
+- [Framework Ecosystem](#framework-ecosystem)
+- [Human Energy Audit (HEA)](#human-energy-audit-hea)
+- [Vision & Research Areas](#vision--research-areas)
+- [Connect](#connect)
+
+---
+
 ## What Is Human Energy Economics?
 
-Human Energy Economics (HEE) is a management theory that recognizes **Human Energy** as a foundational organizational resource through which organizations transform knowledge, technology, capital, and processes into sustainable value.
+Human Energy Economics (HEE) is a management theory that recognizes Human Energy as the foundational organizational resource through which organizations transform knowledge, technology, capital, and processes into Sustainable Business Value.
 
 Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying, reducing, and eliminating unnecessary operational demand.
 
 By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve sustainable organizational performance.
 
+> **Core Thesis**
+>
+> Organizations do not create Sustainable Business Value through resources alone. Sustainable Business Value is created by converting knowledge, technology, capital, and processes through Human Energy. Therefore, improving organizational performance requires protecting, recovering, and investing in Human Energy.
+
 ---
 
 ## What Is Human Energy?
 
-Human Energy is the combined cognitive, emotional, and physical capacity that enables individuals and organizations to transform resources into meaningful outcomes.
+Human Energy is the combined cognitive, emotional, and physical capacity that enables individuals and organizations to transform knowledge, technology, capital, and processes into **Sustainable Business Value**.
 
 - 🧠 **Cognitive capacity**
 - ❤️ **Emotional capacity**
@@ -32,10 +58,20 @@ It is the invisible organizational resource that transforms:
 
 ```text
 Knowledge + Technology + Capital + Processes
-                ↓
-     Sustainable Business Value
+                     │
+                     ▼
+              Human Energy
+                     │
+                     ▼
+      Sustainable Business Value
 ```
+## Why Human Energy Matters
 
+Every organizational resource depends on Human Energy to create value. Knowledge, technology, capital, and processes generate Sustainable Business Value only when converted through Human Energy.
+
+When Human Energy is depleted, execution slows, decision quality declines, innovation decreases, and organizational performance deteriorates. Conversely, protecting and recovering Human Energy expands Execution Capacity and improves Sustainable Business Value.
+
+Human Energy Economics therefore treats Human Energy as a strategic organizational resource that can be measured, managed, recovered, and invested in.
 ---
 
 ## Burnout: The Human Energy Degrader
@@ -160,6 +196,35 @@ Human Energy Leakage is the hidden pathway through which organizational ineffici
                           ▼
               Sustainable Business Value
 ```
+## Human Energy Lifecycle
+
+The Human Energy Lifecycle describes how Human Energy continuously changes state throughout organizational work.
+
+```text
+Create
+   │
+   ▼
+Deploy
+   │
+   ▼
+Degrade
+   │
+   ▼
+Recover
+   │
+   ▼
+Rebuild
+   │
+   ▼
+Utilize
+   │
+   ▼
+Create
+```
+
+Unlike the Human Energy Value Chain, which explains how Human Energy creates Sustainable Business Value, the Human Energy Lifecycle explains how Human Energy is created, deployed, degraded, recovered, rebuilt, utilized, and continuously renewed.
+
+Continuous recovery is essential for sustaining Execution Capacity and creating Sustainable Business Value.
 
 ---
 
@@ -260,7 +325,27 @@ This represents a conceptual threshold for evaluating whether existing organizat
 
 ---
 
-## Framework Architecture
+## Human Energy Economics Architecture
+
+Human Energy Economics (HEE) integrates complementary models, diagnostics, and recovery frameworks into a unified management system for understanding, protecting, recovering, and investing in Human Energy.
+
+The architecture consists of:
+
+| Component | Purpose | Perspective |
+|-----------|---------|-------------|
+| **Human Energy Value Chain** | Explains how Human Energy creates Sustainable Business Value | Strategic |
+| **Human Energy Lifecycle** | Describes how Human Energy changes state throughout organizational work | Operational |
+| **Human Energy Audit (HEA)** | Identifies where Human Energy is consumed, degraded, and recoverable | Diagnostic |
+| **Operational Noise Audit** | Measures unnecessary operational demand and organizational friction | Diagnostic |
+| **Decision Energy Audit** | Evaluates decision quality, ownership, and decision-related Human Energy consumption | Diagnostic |
+| **Capability & Alignment Audit** | Assesses capability, role alignment, and development opportunities | Diagnostic |
+| **5R Cascade Framework** | Eliminates unnecessary operational demand through systematic intervention | Recovery |
+| **Operational Silence Framework (OSF)** | Sustains Human Energy recovery through continuous operational improvement | Recovery |
+
+Together, these components form an integrated Human Energy Recovery System that expands Execution Capacity and creates Sustainable Business Value.
+
+
+## Framework Ecosystem
 
 | Framework | Purpose |
 |-----------|---------|
@@ -277,9 +362,18 @@ Together, these frameworks form a **Human Energy Recovery System** that helps or
 
 ---
 
-## Human Energy Audit
+## Human Energy Audit (HEA)
 
-A practical cycle for identifying and recovering lost Human Energy:
+Human Energy Audit (HEA) is a structured assessment for identifying where Human Energy is consumed, degraded, and recoverable.
+
+It consists of four complementary assessments:
+
+- **Human Energy Audit** — Identifies sources of Human Energy loss and recovery opportunities.
+- **Operational Noise Audit** — Measures unnecessary operational demand and organizational friction.
+- **Decision Energy Audit** — Evaluates decision quality, ownership, and decision-related Human Energy consumption.
+- **Capability & Alignment Audit** — Assesses capability, role alignment, and development opportunities.
+
+The findings are synthesized through the following continuous improvement cycle:
 
 ```text
 SCAN → DIAGNOSE → ELIMINATE → INVEST
@@ -304,6 +398,10 @@ To establish **Human Energy** as a measurable, manageable, recoverable, and inve
 - Continuous Constraint Reduction
 
 ---
+
+Human Energy Economics provides an integrated management theory that explains how Human Energy is created, degraded, measured, recovered, and transformed into Sustainable Business Value.
+
+By combining conceptual models, diagnostic audits, and recovery frameworks, HEE offers organizations a systematic approach to expanding Execution Capacity through better management of Human Energy.
 
 ## Connect
 
