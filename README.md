@@ -12,9 +12,9 @@
 
 ## What Is Human Energy Economics?
 
-Human Energy Economics (HEE) is a management theory that recognizes **Human Energy** as the foundational conversion resource through which organizations transform other resources into value.
+Human Energy Economics (HEE) is a management theory that recognizes **Human Energy** as a foundational organizational resource through which organizations transform knowledge, technology, capital, and processes into sustainable value.
 
-Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying and eliminating unnecessary operational demand.
+Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying, reducing, and eliminating unnecessary operational demand.
 
 By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve sustainable organizational performance.
 
