@@ -28,6 +28,8 @@
 - [Framework Ecosystem](#framework-ecosystem)
 - [Human Energy Audit (HEA)](#human-energy-audit-hea)
 - [Vision & Research Areas](#vision--research-areas)
+- [Applications of Human Energy Economics](#applications-of-human-energy-economics)
+- [A Unifying Management Philosophy](#a-unifying-management-philosophy)
 - [Connect](#connect)
 
 ---
@@ -383,6 +385,7 @@ The objective: Identify energy drains, remove unnecessary operational demand, an
 
 ---
 
+
 ## Vision & Research Areas
 
 ### Vision
@@ -399,26 +402,133 @@ To establish **Human Energy** as a measurable, manageable, recoverable, and inve
 
 ---
 
-Human Energy Economics provides an integrated management theory that explains how Human Energy is created, degraded, measured, recovered, and transformed into Sustainable Business Value.
+## Applications of Human Energy Economics
 
-By combining conceptual models, diagnostic audits, and recovery frameworks, HEE offers organizations a systematic approach to expanding Execution Capacity through better management of Human Energy.
+Human Energy Economics (HEE) provides a unifying management theory for improving organizational performance by protecting, recovering, and investing in Human Energy.
+
+Although the core principles of HEE remain consistent, they can be applied across multiple management disciplines. In every context, the objective is the same:
+
+- Reduce Human Energy Loss
+- Recover Human Energy
+- Expand Sustainable Capacity
+- Strengthen Execution Capacity
+- Create Sustainable Business Value
+
+---
+
+## Operational Excellence
+
+Apply Human Energy principles to improve operational performance by reducing unnecessary operational demand.
+
+HEE helps organizations:
+
+- Reduce Operational Noise
+- Eliminate unnecessary work
+- Simplify processes and workflows
+- Improve operational flow and reliability
+- Recover Human Energy for higher-value work
+
+---
+
+## Organizational Design
+
+Design organizations that protect Human Energy rather than unnecessarily consume it.
+
+HEE helps organizations:
+
+- Clarify roles and responsibilities
+- Improve decision rights
+- Reduce structural complexity
+- Strengthen coordination and alignment
+- Build resilient organizational systems
+
+---
+
+## Leadership
+
+Enable leaders to become stewards of Human Energy.
+
+HEE helps leaders:
+
+- Protect Human Energy
+- Reduce Burnout
+- Build trust and psychological safety
+- Increase engagement and empowerment
+- Strengthen accountability and sustainable performance
+
+---
+
+## Strategy-to-Execution Systems
+
+Improve the organization's ability to convert strategy into consistent execution.
+
+HEE helps organizations:
+
+- Expand Execution Capacity
+- Improve strategic alignment
+- Remove execution friction
+- Increase implementation effectiveness
+- Focus Human Energy on high-impact priorities
+
+---
+
+## Digital and AI-enabled Transformation
+
+Ensure technology enhances Human Energy rather than increasing operational burden.
+
+HEE helps organizations:
+
+- Automate repetitive work
+- Reduce manual operational demand
+- Augment human capability with AI
+- Redirect Human Energy toward innovation and customer value
+- Improve technology adoption through human-centered design
+
+---
+
+## Continuous Improvement
+
+Embed Human Energy Recovery into everyday organizational improvement.
+
+HEE helps organizations:
+
+- Continuously reduce Operational Noise
+- Recover Human Energy
+- Strengthen Sustainable Capacity
+- Improve organizational learning
+- Create lasting operational improvements
+
+---
+
+
+## A Unifying Management Philosophy
+
+Human Energy Economics is not limited to a single management discipline.
+
+Instead, it provides a common management philosophy that integrates:
+
+- Operational Excellence
+- Organizational Design
+- Leadership
+- Strategy-to-Execution Systems
+- Digital and AI-enabled Transformation
+- Continuous Improvement
+
+through one central principle:
+
+> **Protect Human Energy. Recover Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
+
+---
 
 ## Connect
 
 **Md Mozammel Hoque**  
 *Management Researcher*
 
-🌐 Website: [https://www.ovinabo.com](https://www.ovinabo.com)  
-💼 LinkedIn: [https://www.linkedin.com/in/mozammel-hee](https://www.linkedin.com/in/mozammel-hee)
+🌐 Website: https://www.ovinabo.com
 
-This research framework invites collaboration with researchers, practitioners, executives, and organizations exploring Human Energy Economics, Organizational Design, Operational Excellence, and Digital Transformation.
+💼 LinkedIn:
+https://www.linkedin.com/in/mozammel-hee
 
----
+This research framework welcomes collaboration with researchers, practitioners, executives, and organizations interested in advancing Human Energy Economics.
 
-> **Protect Human Energy.**  
-> **Reduce Burnout.**  
-> **Eliminate Operational Noise.**  
-> **Prevent Human Energy Leakage.**  
-> **Recover Human Energy.**  
-> **Expand Execution Capacity.**  
-> **Create Sustainable Business Value.**
