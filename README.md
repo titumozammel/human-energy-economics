@@ -25,8 +25,9 @@
 - [Human Energy Lifecycle](#human-energy-lifecycle)
 - [The Human Energy Economics Capacity Model](#the-human-energy-economics-capacity-model)
 - [Human Energy Economics Architecture](#human-energy-economics-architecture)
-- [Framework Ecosystem](#framework-ecosystem)
+- [Human Energy Economics Ecosystem](#human-energy-economics-ecosystem)
 - [Human Energy Audit (HEA)](#human-energy-audit-hea)
+- [Human Energy Development Plan (HEDP)](#human-energy-development-plan-hedp)
 - [Vision & Research Areas](#vision--research-areas)
 - [Applications of Human Energy Economics](#applications-of-human-energy-economics)
 - [A Unifying Management Philosophy](#a-unifying-management-philosophy)
@@ -67,6 +68,52 @@ Knowledge + Technology + Capital + Processes
                      ▼
       Sustainable Business Value
 ```
+
+## What Is Sustainable Business Value
+
+Sustainable Business Value is long-term organizational value created through the effective conversion of Human Energy into productive execution, innovation, customer outcomes, organizational resilience, and continuous improvement.
+
+Unlike short-term financial performance, Sustainable Business Value reflects an organization's ability to consistently create economic, operational, human, and societal value over time.
+
+
+## The Human Energy Conversion Model
+
+Human Energy Economics proposes that Sustainable Business Value is created through a continuous organizational conversion process.
+
+Every organization possesses valuable resources:
+
+- Knowledge
+- Technology
+- Capital
+- Processes
+
+However, these resources do not create value independently.
+
+They must first be converted through Human Energy.
+
+```text
+Knowledge
+Technology
+Capital
+Processes
+        │
+        ▼
+   Human Energy
+        │
+        ▼
+Execution Capacity
+        │
+        ▼
+Sustainable Business Value
+```
+
+This Human Energy Conversion Model forms the central operating logic of Human Energy Economics.
+
+It explains why organizations with similar technology, capital, and processes often achieve very different outcomes: the difference lies in how effectively Human Energy is protected, recovered, developed, and directed toward execution.
+
+Human Energy therefore functions as the organization's primary value-conversion resource.
+
+
 ## Why Human Energy Matters
 
 Every organizational resource depends on Human Energy to create value. Knowledge, technology, capital, and processes generate Sustainable Business Value only when converted through Human Energy.
@@ -243,7 +290,7 @@ HE = PC × IA × DS
 Where:
 
 - **HE** = Human Energy
-- **PC** = Potential Capacity
+- **PC** = Human Potential Capacity
 - **IA** = Intensity Alignment
 - **DS** = Duration Sustainability
 
@@ -296,7 +343,7 @@ TSC = H × [PC × IA × DS × (A × C × TE) × (L × D) × ((1 - F) × S)]
 | Symbol | Term | Definition |
 |--------|------|------------|
 | **HE** | Human Energy | Available human potential |
-| **PC** | Potential Capacity | Raw energy potential |
+| **PC** | Human Potential Capacity | Human Potential Capacity available for productive work |
 | **IA** | Intensity Alignment | Direction precision and focus |
 | **DS** | Duration Sustainability | Sustainable continuity over time |
 | **BI** | Burnout Impact | Reduction effect caused by prolonged physical, cognitive, and emotional overload |
@@ -347,19 +394,25 @@ The architecture consists of:
 Together, these components form an integrated Human Energy Recovery System that expands Execution Capacity and creates Sustainable Business Value.
 
 
-## Framework Ecosystem
+## Human Energy Economics Ecosystem
 
-| Framework | Purpose |
-|-----------|---------|
-| **Human Energy Economics (HEE)** | Management Theory (WHY) |
-| **Operational Silence Framework (OSF)** | Transformation Operating Model (WHAT) |
-| **5R Cascade Framework** | Tactical Decision Methodology (HOW) |
+Human Energy Economics is implemented through an integrated ecosystem of complementary frameworks.
 
-Together, these frameworks form a **Human Energy Recovery System** that helps organizations:
+| Framework | Primary Role |
+|-----------|--------------|
+| **Human Energy Economics (HEE)** | WHY — Management Theory |
+| **Human Energy Audit (HEA)** | WHERE — Diagnostic Framework |
+| **Operational Silence Framework (OSF)** | WHAT — Recovery Operating Model |
+| **5R Cascade Framework** | HOW — Recovery Methodology |
+| **Human Energy Development Plan (HEDP)** | HOW — Development & Investment Framework |
 
-- Reduce Operational Noise
+Together these frameworks form the complete Human Energy Management System, enabling organizations to:
+
+- Understand Human Energy
+- Measure Human Energy
 - Recover Human Energy
-- Expand Execution Capacity
+- Develop Human Energy
+- Expand Sustainable Execution Capacity
 - Create Sustainable Business Value
 
 ---
@@ -384,6 +437,289 @@ SCAN → DIAGNOSE → ELIMINATE → INVEST
 The objective: Identify energy drains, remove unnecessary operational demand, and redirect recovered capacity toward strategic execution.
 
 ---
+
+# Human Energy Development Plan (HEDP)
+
+### Developing Human Energy for Sustainable Execution Capacity
+
+> **Develop Human Potential.**  
+> **Activate Human Capacity.**  
+> **Align Human Energy.**  
+> **Sustain Human Performance.**  
+> **Expand Execution Capacity.**  
+> **Create Sustainable Business Value.**
+
+---
+
+## Overview
+
+The **Human Energy Development Plan (HEDP)** is the development and investment framework within **Human Energy Economics (HEE).**
+
+While the Human Energy Recovery Framework restores lost Human Energy, HEDP focuses on continuously developing, strengthening, and sustaining Human Energy for future organizational performance.
+
+HEDP transforms recovered Human Energy into long-term Sustainable Execution Capacity.
+
+---
+
+## Purpose
+
+HEDP enables organizations to move from:
+
+```text
+Human Potential
+        │
+        ▼
+Human Energy
+        │
+        ▼
+Execution Capacity
+        │
+        ▼
+Sustainable Business Value
+```
+
+Its purpose is to ensure that Human Energy is not only recovered but continuously developed and invested.
+
+---
+
+## Position within Human Energy Economics
+
+```text
+Human Energy Economics
+          │
+          ▼
+Human Energy Audit
+          │
+          ▼
+Human Energy Recovery Framework
+(OSF + 5R Cascade Framework)
+          │
+          ▼
+Human Energy Development Plan
+          │
+          ▼
+Sustainable Execution Capacity
+          │
+          ▼
+Sustainable Business Value
+```
+
+HEDP represents the **development phase** of the Human Energy Economics architecture.
+
+---
+
+## Relationship with the Human Energy Equation
+
+Human Energy Economics defines Human Energy as:
+
+```text
+HE = PC × IA × DS
+```
+
+Where:
+
+- **HE** = Human Energy
+- **PC** = Human Potential Capacity
+- **IA** = Intensity Alignment
+- **DS** = Duration Sustainability
+
+HEDP strengthens every component of the equation.
+
+| HEDP Pillar | Primary Contribution |
+|-------------|----------------------|
+| Capability Development | Increase Human Potential Capacity (PC) |
+| Capacity Activation | Convert Human Potential Capacity into productive Human Energy |
+| Energy Alignment | Strengthen Intensity Alignment (IA) |
+| Energy Recovery | Restore Human Energy degraded by Burnout and Operational Noise |
+| Energy Sustainability | Improve Duration Sustainability (DS) |
+
+---
+
+## The Five HEDP Pillars
+
+### 1. Capability Development
+
+Expand knowledge, skills, competencies, and future potential.
+
+### 2. Capacity Activation
+
+Convert capability into consistent execution.
+
+### 3. Energy Alignment
+
+Direct Human Energy toward meaningful priorities.
+
+### 4. Energy Recovery
+
+Maintain recovered Human Energy by reducing future degradation.
+
+### 5. Energy Sustainability
+
+Build resilient systems that sustain Human Energy over time.
+
+---
+
+## HEDP Operating Cycle
+
+```text
+Develop
+    │
+    ▼
+Activate
+    │
+    ▼
+Align
+    │
+    ▼
+Recover
+    │
+    ▼
+Sustain
+    │
+    ▼
+Expand Execution Capacity
+    │
+    ▼
+Create Sustainable Business Value
+```
+
+---
+
+## Strategic Outcomes
+
+Organizations implementing HEDP should achieve:
+
+- Higher Human capability
+- Greater Human Energy
+- Expanded Sustainable Capacity
+- Increased Execution Capacity
+- Better decision quality
+- Higher organizational resilience
+- Sustainable Business Value
+
+---
+
+## Implementation Roadmap
+
+### Phase 1
+Understand Human Energy
+
+### Phase 2
+Conduct Human Energy Audit (HEA)
+
+### Phase 3
+Recover Human Energy
+
+- Operational Silence Framework (OSF)
+- 5R Cascade Framework
+
+### Phase 4
+Implement HEDP
+
+- Develop
+- Activate
+- Align
+- Sustain
+
+### Phase 5
+Expand Sustainable Execution Capacity
+
+### Phase 6
+Create Sustainable Business Value
+
+---
+
+## Applications
+
+HEDP supports:
+
+- Leadership Development
+- Organizational Development
+- Capability Building
+- Talent Management
+- Workforce Transformation
+- Digital Transformation
+- AI-enabled Transformation
+- Operational Excellence
+- Strategy Execution
+- Continuous Improvement
+
+---
+
+## Conclusion
+
+Human Energy Recovery restores today's Human Energy.
+
+Human Energy Development creates tomorrow's Human Energy.
+
+Together they enable organizations to:
+
+- Develop Human Energy
+- Expand Sustainable Execution Capacity
+- Create Sustainable Business Value
+
+> **Recover today's Human Energy.**  
+> **Develop tomorrow's Human Energy.**  
+> **Create sustainable organizational performance.**
+
+---
+
+## Relationship to Human Energy Economics
+
+Human Energy Economics provides the management theory.
+
+The Human Energy Recovery Framework restores Human Energy.
+
+The Human Energy Development Plan continuously develops Human Energy.
+
+Together they form an integrated Human Energy Management System that transforms Human Energy into Sustainable Business Value.
+
+
+---
+
+# Human Energy Economics Operating System
+
+The Human Energy Economics Operating System illustrates how the complete HEE framework transforms Human Energy into Sustainable Business Value.
+
+```text
+Human Energy Economics (HEE)
+            │
+            ▼
+Human Energy Equation
+            │
+            ▼
+Human Energy Audit (HEA)
+            │
+            ▼
+Human Energy Recovery Framework
+(OSF + 5R Cascade Framework)
+            │
+            ▼
+Human Energy Development Plan (HEDP)
+            │
+            ▼
+Sustainable Execution Capacity
+            │
+            ▼
+Sustainable Business Value
+```
+
+This operating system represents the complete Human Energy Economics lifecycle:
+
+**Theory → Measurement → Recovery → Development → Execution → Sustainable Value**
+
+Each component performs a distinct but complementary role:
+
+| Stage | Purpose |
+|--------|---------|
+| **HEE** | Defines Human Energy as the primary organizational resource |
+| **Human Energy Equation** | Explains the components of Human Energy |
+| **HEA** | Measures Human Energy and identifies improvement opportunities |
+| **HERF (OSF + 5R)** | Recovers Human Energy lost through Burnout, Operational Noise, and Human Energy Leakage |
+| **HEDP** | Develops, activates, aligns, and sustains Human Energy |
+| **Execution Capacity** | Converts Human Energy into organizational performance |
+| **Sustainable Business Value** | Creates long-term organizational success |
+
 
 
 ## Vision & Research Areas
@@ -531,4 +867,3 @@ through one central principle:
 https://www.linkedin.com/in/mozammel-hee
 
 This research framework welcomes collaboration with researchers, practitioners, executives, and organizations interested in advancing Human Energy Economics.
-
