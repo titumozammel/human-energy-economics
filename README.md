@@ -7,6 +7,7 @@
 > **Eliminate Operational Noise.**  
 > **Prevent Human Energy Leakage.**  
 > **Recover Human Energy.**  
+> **Develop and Invest in Human Energy.** 
 > **Expand Execution Capacity.**  
 > **Create Sustainable Business Value.**
 
