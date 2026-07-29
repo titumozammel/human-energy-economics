@@ -1192,10 +1192,6 @@ through one central principle:
 
 ---
 
----
-
----
-
 # Recommendations
 
 Human Energy Economics (HEE) provides a conceptual foundation for understanding Human Energy as a strategic organizational resource. To translate this theory into measurable organizational practice, the following recommendations are proposed.
