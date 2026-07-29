@@ -8,56 +8,59 @@
 
 # Table of Contents
 
-- What Is Human Energy Economics?
-- What Is Human Energy?
-- Human Energy Conversion Model
-- Why Human Energy Matters
-- Burnout
-- Operational Noise
-- Human Energy Leakage
-- Four Laws of Human Energy Economics
-- Management Principles
-- Human Energy Value Chain
-- Human Energy Lifecycle
-- Human Energy Economics Capacity Model
-- Human Energy Metrics
-- Human Energy Economics Architecture
-- Human Energy Audit (HEA)
-- Human Energy Recovery Framework (HERF)
-- Human Energy Development Plan (HEDP)
-- Human Energy Economics Operating System
-- Human Energy Economics Implementation Cycle
-- Applications
-- Vision
-- Recommendations
-- Conclusion
-- Connect
+- [What Is Human Energy Economics?](#what-is-human-energy-economics)
+- [What Is Human Energy?](#what-is-human-energy)
+- [Why Human Energy Matters](#why-human-energy-matters)
+- [Burnout](#burnout)
+- [Operational Noise](#operational-noise)
+- [Human Energy Leakage](#human-energy-leakage)
+- [The Four Laws of Human Energy Economics](#the-four-laws-of-human-energy-economics)
+- [Management Principles](#management-principles)
+- [Human Energy Value Chain](#human-energy-value-chain)
+- [Human Energy Lifecycle](#human-energy-lifecycle)
+- [The Human Energy Economics Capacity Model](#the-human-energy-economics-capacity-model)
+- [Human Energy Metrics](#human-energy-metrics)
+- [Human Energy Economics Architecture](#human-energy-economics-architecture)
+- [Human Energy Audit (HEA)](#human-energy-audit-hea)
+- [Human Energy Recovery Framework (HERF)](#human-energy-recovery-framework-herf)
+- [Human Energy Development Plan (HEDP)](#human-energy-development-plan-hedp)
+- [Human Energy Economics Operating System](#human-energy-economics-operating-system)
+- [Human Energy Economics Implementation Cycle](#human-energy-economics-implementation-cycle)
+- [Applications](#applications)
+- [Vision](#vision)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Connect](#connect)
 
 ---
 
 # What Is Human Energy Economics?
 
-Human Energy Economics (HEE) is a management theory that recognizes **Human Energy** as the primary organizational resource through which knowledge, technology, capital, and processes are converted into Sustainable Business Value.
+**Human Energy Economics (HEE)** is a management theory that recognizes **Human Energy** as the primary organizational resource through which knowledge, technology, capital, and processes are transformed into **Sustainable Business Value**.
 
-Rather than asking people to work harder, HEE focuses on reducing unnecessary operational demand, recovering Human Energy, and increasing Sustainable Execution Capacity.
+Rather than asking people to work harder or simply increasing organizational resources, HEE focuses on reducing unnecessary operational demand, recovering Human Energy, developing long-term capability, and expanding Sustainable Execution Capacity.
 
 ## Core Thesis
 
-Organizations create Sustainable Business Value not through resources alone, but through the effective conversion of those resources by Human Energy.
+Organizations do not create Sustainable Business Value through resources alone. Sustainable Business Value emerges only when knowledge, technology, capital, and processes are effectively converted through Human Energy.
+
+This principle forms the central proposition of Human Energy Economics.
 
 ---
 
 # What Is Human Energy?
 
-Human Energy is the combined:
+**Human Energy** is the combined cognitive, emotional, and physical capacity that enables individuals and organizations to transform knowledge, technology, capital, and processes into Sustainable Business Value.
 
-- Cognitive capacity
-- Emotional capacity
-- Physical capacity
+It consists of:
 
-that enables people to convert organizational resources into Sustainable Business Value.
+- 🧠 Cognitive Capacity
+- ❤️ Emotional Capacity
+- 💪 Physical Capacity
 
-```
+Human Energy functions as the organization's primary value-conversion resource, enabling the transformation of organizational resources into Sustainable Business Value.
+
+```text
 Knowledge
 Technology
 Capital
@@ -67,161 +70,246 @@ Processes
    Human Energy
         │
         ▼
-Sustainable Business Value
-```
-
----
-
-# What Is Sustainable Business Value?
-
-Sustainable Business Value is long-term value created through productive execution, innovation, customer outcomes, organizational resilience, and continuous improvement.
-
----
-
-# Human Energy Conversion Model
-
-HEE proposes that value creation follows a simple conversion process.
-
-```
-Knowledge
-Technology
-Capital
-Processes
-        │
-        ▼
-Human Energy
-        │
-        ▼
 Execution Capacity
         │
         ▼
 Sustainable Business Value
 ```
 
-Organizations with similar resources achieve different results because they differ in how effectively they manage Human Energy.
+## Sustainable Business Value
+
+**Sustainable Business Value** is the long-term value created through productive execution, innovation, customer outcomes, organizational resilience, and continuous improvement.
+
+The Human Energy Conversion Model explains why organizations with similar resources often achieve very different results: the difference lies in how effectively Human Energy is protected, recovered, developed, aligned, and directed toward execution.
+
+---
+
+# Foundations of Human Energy Economics
+
+Human Energy Economics is built on five foundational assumptions.
+
+1. **Human Energy is finite.**
+   Human Energy is limited and can be depleted through sustained physical, cognitive, and emotional demands.
+
+2. **Human Energy is recoverable and developable over time.**
+   Human Energy can be restored through recovery, supportive organizational systems, and purposeful development.
+
+3. **Human Energy is the primary value-conversion resource.**
+   Knowledge, technology, capital, and processes create value only when converted through Human Energy.
+
+4. **Human Energy is measurable.**
+   Human Energy can be assessed using observable indicators such as Burnout, Operational Noise, Human Energy Leakage, Sustainable Capacity, and Execution Capacity.
+
+5. **Human Energy is manageable.**
+   Organizations can systematically protect, recover, develop, and invest in Human Energy to improve long-term organizational performance.
 
 ---
 
 # Why Human Energy Matters
 
-Every organizational resource depends on Human Energy.
+Every organizational resource depends on Human Energy to create value.
+
+Knowledge, technology, capital, and processes generate Sustainable Business Value only when converted through Human Energy.
 
 When Human Energy declines:
 
 - Execution slows
 - Decision quality deteriorates
 - Innovation decreases
-- Organizational performance falls
+- Organizational performance weakens
 
-Protecting, recovering, and developing Human Energy expands Sustainable Execution Capacity.
+When Human Energy is protected, recovered, and developed:
+
+- Sustainable Capacity expands
+- Execution improves
+- Organizational resilience increases
+- Sustainable Business Value grows
+
+Human Energy Economics therefore recognizes Human Energy as a strategic organizational resource that can be measured, managed, recovered, developed, and continuously strengthened.
 
 ---
 
 # Burnout
 
-Burnout is the progressive depletion of Human Energy caused by prolonged physical, cognitive, and emotional overload without adequate recovery.
+**Burnout** is the progressive depletion of Human Energy caused by prolonged physical, cognitive, and emotional overload without adequate recovery.
 
-It reduces:
+Burnout reduces Human Energy by weakening:
 
 - Cognitive capacity
 - Emotional resilience
 - Physical stamina
 
-Burnout is the **human-level degrader** of Human Energy.
+Burnout represents the **human-level degrader** of Human Energy.
+
+Burnout reduces the organization's available Human Energy and therefore limits Sustainable Execution Capacity.
 
 ---
 
 # Operational Noise
 
-Operational Noise is unnecessary organizational friction that consumes Human Energy without creating proportional business value.
+**Operational Noise** is unnecessary organizational friction that consumes Human Energy without creating proportional business value.
 
-### Structural
+Unlike Burnout, which affects individuals, Operational Noise originates from organizational systems, structures, and ways of working.
+
+Operational Noise exists across three dimensions.
+
+## Structural Noise
 
 - Excessive approvals
 - Complex workflows
+- Process friction
 - Organizational complexity
 
-### Communication
+## Communication Noise
 
 - Unnecessary meetings
 - Excessive email
 - Coordination overhead
+- Information friction
 
-### Cognitive
+## Cognitive Noise
 
-- Interruptions
+- Constant interruptions
 - Context switching
 - Unclear priorities
 - Recurring problems
+- Excessive cognitive load
 
-Operational Noise is the **organizational-level degrader** of Human Energy.
+Operational Noise represents the **organizational-level degrader** of Human Energy.
+
+Operational Noise does not create value; it merely consumes Human Energy that could otherwise be directed toward productive execution.
 
 ---
 
 # Human Energy Leakage
 
-Human Energy Leakage represents avoidable loss of Human Energy caused by inefficient systems and unnecessary work.
+**Human Energy Leakage** is the avoidable loss of Human Energy caused by inefficient systems, unnecessary work, and organizational conditions that prevent people from applying their full capability to meaningful work.
 
-| Type | Examples |
-|------|----------|
-| Demand | Duplicate work, repetitive tasks |
-| Attention | Interruptions, fragmented focus |
-| Capability | Misaligned skills, poor prioritization |
-| Decision | Bottlenecks, delayed decisions |
+Human Energy Leakage identifies the mechanisms through which recoverable Human Energy is unnecessarily dissipated, whereas Human Energy Loss is the measurable reduction in available Human Energy resulting from those leakages.
 
-Leakage explains **where Human Energy escapes**.
-
-Human Energy Loss is **the resulting reduction in available Human Energy**.
+| Type | Description | Examples |
+|------|-------------|----------|
+| **Demand Leakage** | Energy consumed by unnecessary work | Duplicate activities, repetitive manual tasks |
+| **Attention Leakage** | Energy fragmented by interruptions | Context switching, excessive coordination |
+| **Capability Leakage** | Energy underutilized | Skill-work misalignment, poor prioritization |
+| **Decision Leakage** | Energy lost in bottlenecks | Delayed decisions, excessive approvals |
 
 ---
 
-# Four Laws of Human Energy Economics
+# The Four Laws of Human Energy Economics
 
-### 1. Human Energy Conversion
+## 1. Law of Human Energy Conversion
 
-Human Energy converts organizational resources into value.
+> Human Energy is the foundational resource through which organizations transform knowledge, technology, capital, and processes into Sustainable Business Value.
 
-### 2. Operational Noise
+---
 
-Operational Noise consumes Human Energy without creating proportional value.
+## 2. Law of Operational Noise
 
-### 3. Human Energy Recovery
+> Operational Noise is the hidden organizational tax that consumes Human Energy without creating proportional business value.
 
-Recovering Human Energy expands Sustainable Execution Capacity.
+---
 
-### 4. Human Energy Leakage
+## 3. Law of Human Energy Recovery
 
-Organizational inefficiencies convert available Human Energy into lost execution capacity.
+> Recovering Human Energy expands Sustainable Execution Capacity.
+
+---
+
+## 4. Law of Human Energy Leakage
+
+> Organizational inefficiencies convert available Human Energy into lost Execution Capacity.
 
 ---
 
 # Management Principles
 
-1. Human Energy is the primary organizational resource.
-2. Effectiveness precedes scale.
-3. Remove before you optimize.
-4. Recovery precedes performance.
-5. Development sustains recovery.
-6. Measure before improvement.
-7. Continuous improvement is essential.
+Human Energy Economics is guided by seven management principles.
 
-### Guiding Philosophy
+## 1. Human Energy Is the Primary Organizational Resource
 
-> Protect Human Energy.
->
-> Recover Human Energy.
->
-> Develop Human Energy.
->
-> Expand Execution Capacity.
->
-> Create Sustainable Business Value.
+Human Energy is the organization's primary value-conversion resource.
+
+> **Manage Human Energy before managing work.**
 
 ---
 
+## 2. Effectiveness Precedes Scale
+
+Strengthen Sustainable Capacity before increasing headcount, technology, or organizational complexity.
+
+> **Optimize existing Human Energy before adding more resources.**
+
+---
+
+## 3. Remove Before You Optimize
+
+Eliminate unnecessary operational demand before attempting to improve efficiency.
+
+```text
+REMOVE
+   ↓
+REDUCE
+   ↓
+REPLACE
+   ↓
+RE-ENGINEER
+   ↓
+RETAIN
+```
+
+> **Never optimize unnecessary work.**
+
+---
+
+## 4. Recovery Precedes Performance
+
+Long-term organizational performance depends on recovering Human Energy before increasing workload.
+
+> **Recovered Human Energy expands Sustainable Execution Capacity.**
+
+---
+
+## 5. Development Sustains Recovery
+
+Recovery restores today's Human Energy.
+
+Development strengthens tomorrow's Human Energy.
+
+---
+
+## 6. Measure Before Improvement
+
+Human Energy should be measured before improvement initiatives are implemented.
+
+> **What gets measured gets managed.**
+
+---
+
+## 7. Continuous Improvement
+
+Human Energy management is an ongoing organizational capability rather than a one-time initiative.
+
+```text
+Understand
+     ↓
+Measure
+     ↓
+Recover
+     ↓
+Develop
+     ↓
+Expand
+     ↓
+Improve
+     ↺
+```
+
 # Human Energy Value Chain
 
-```
+The **Human Energy Value Chain**  illustrates how Human Energy flows through an organization—from its availability, through degradation and recovery, to the creation of Sustainable Business Value.
+
+```text
 Available Human Energy
         │
         ▼
@@ -232,9 +320,6 @@ Human Energy Leakage
         │
         ▼
 Human Energy Loss
-        │
-        ▼
-Recovery
         │
         ▼
 Recovered Human Energy
@@ -249,285 +334,939 @@ Execution Capacity
 Sustainable Business Value
 ```
 
+The Value Chain illustrates that organizational performance depends not only on available Human Energy but also on how effectively Human Energy is protected, recovered, and directed toward productive execution.
+
 ---
 
 # Human Energy Lifecycle
 
-```
+While the Human Energy Value Chain explains how Human Energy creates value, the **Human Energy Lifecycle** describes how Human Energy changes over time.
+
+```text
 Create
- ↓
+   │
+   ▼
 Deploy
- ↓
+   │
+   ▼
 Degrade
- ↓
+   │
+   ▼
 Recover
- ↓
+   │
+   ▼
 Rebuild
- ↓
+   │
+   ▼
 Utilize
- ↓
+   │
+   ▼
 Create
 ```
 
-The lifecycle explains how Human Energy changes over time.
+Human Energy is continuously created, deployed, degraded, recovered, rebuilt, and renewed.
+
+The lifecycle emphasizes that Human Energy must be continuously renewed to sustain long-term Execution Capacity and organizational performance.
 
 ---
 
-# Human Energy Economics Capacity Model
+# The Human Energy Economics Capacity Model
 
-## Human Energy
+The Human Energy Economics Capacity Model provides a conceptual framework for understanding how Human Energy is converted into organizational performance.
 
-```
+> **Note**
+>
+> These equations are conceptual management models intended to describe organizational relationships. They are not yet statistically validated predictive models.
+
+---
+
+## Level 1 — Human Energy
+
+```text
 HE = PC × IA × DS
 ```
 
-## Human Energy Loss
+Where:
 
-```
+- **HE** = Human Energy
+- **PC** = Human Potential Capacity
+- **IA** = Intensity Alignment
+- **DS** = Duration Sustainability
+
+---
+
+## Level 2 — Human Energy Loss
+
+```text
 HEL = f(BI + ONI + HELg − RR)
 ```
 
-## Recovered Human Energy
+Where:
 
-```
+- **HEL** = Human Energy Loss
+- **BI** = Burnout Impact
+- **ONI** = Operational Noise Impact
+- **HELg** = Human Energy Leakage
+- **RR** = Recovery Rate
+
+---
+
+## Level 3 — Recovered Human Energy
+
+```text
 RHE = HE − HEL
 ```
 
-## Sustainable Capacity
+---
 
-```
+## Level 4 — Sustainable Capacity
+
+```text
 SC = RHE × CF × AF × XF
 ```
 
-## Organizational Capacity
+Where:
 
-```
+- **CF** = Capability Factor
+- **AF** = Alignment Factor
+- **XF** = Execution Factor
+
+---
+
+## Level 5 — Organizational Capacity
+
+```text
 TSC = H × SC
 ```
 
-### Expanded Equation
+Where:
 
+- **TSC** = Total Sustainable Capacity
+- **H** = Effective Headcount
+
+---
+
+## Complete Expanded Equation
+
+```text
+TSC =
+H × [PC × IA × DS ×
+(A × C × TE) ×
+(L × D) ×
+((1 − F) × S)]
 ```
-TSC = H × [PC × IA × DS × (A × C × TE) × (L × D) × ((1 − F) × S)]
-```
+
+---
+
+## Variable Definitions
+
+| Symbol | Meaning |
+|---------|---------|
+| **HE** | Human Energy |
+| **PC** | Human Potential Capacity |
+| **IA** | Intensity Alignment |
+| **DS** | Duration Sustainability |
+| **HEL** | Human Energy Loss |
+| **BI** | Burnout Impact |
+| **ONI** | Operational Noise Impact |
+| **HELg** | Human Energy Leakage |
+| **RR** | Recovery Rate |
+| **SC** | Sustainable Capacity |
+| **CF** | Capability Factor = Ability × Competence × Training Effectiveness |
+| **AF** | Alignment Factor = Clarity × Direction |
+| **XF** | Execution Factor = (1 − Friction) × Synergy |
+| **A** | Ability |
+| **C** | Competence |
+| **TE** | Training Effectiveness |
+| **L** | Clarity |
+| **D** | Direction |
+| **F** | Friction |
+| **S** | Synergy |
+| **TSC** | Total Sustainable Capacity |
+| **H** | Effective Headcount |
+
+---
+
+## Capacity Terminology
+
+Human Energy Economics distinguishes three related capacity concepts.
+
+### Sustainable Capacity (SC)
+
+The sustainable productive capacity available per individual.
+
+### Execution Capacity (EC)
+
+The organization's ability to consistently convert Human Energy into productive execution.
+
+### Sustainable Execution Capacity (SEC)
+
+The organization-wide execution capability created by protecting, recovering, developing, aligning, and effectively utilizing Sustainable Capacity over time.
+
+Sustainable Capacity forms the foundation of Sustainable Execution Capacity, enabling organizations to consistently create Sustainable Business Value.
 
 ---
 
 # Human Energy Metrics
 
-Suggested indicators include:
+Human Energy Economics becomes operational when Human Energy is systematically measured, monitored, and continuously improved.
 
-- Human Energy Score (HES)
-- Burnout Impact Index (BII)
-- Operational Noise Index (ONI)
-- Human Energy Leakage Index (HELI)
-- Recovery Rate (HERR)
-- Sustainable Capacity Index (SCI)
-- Execution Capacity Index (ECI)
+Rather than relying solely on traditional productivity indicators, HEE introduces Human Energy-centered measures that help organizations understand whether their systems are protecting or degrading Human Energy.
+
+---
+
+## Measurement Areas
+
+Human Energy can be monitored across five dimensions.
+
+| Dimension | Measures |
+|-----------|----------|
+| Human Energy | Available Human Energy |
+| Human Energy Loss | Burnout, Operational Noise, Human Energy Leakage |
+| Human Energy Recovery | Recovered Human Energy |
+| Sustainable Capacity | Capacity available for productive execution |
+| Business Outcomes | Execution Capacity and Sustainable Business Value |
+
+---
+
+## Suggested Indicators
+
+| Indicator | Purpose |
+|-----------|---------|
+| Human Energy Score (HES) | Overall Human Energy health |
+| Burnout Impact Index (BII) | Human Energy degraded by Burnout |
+| Operational Noise Index (ONI) | Human Energy consumed by Operational Noise |
+| Human Energy Leakage Index (HELI) | Avoidable Human Energy loss |
+| Human Energy Recovery Rate (HERR) | Recovery effectiveness |
+| Sustainable Capacity Index (SCI) | Available Sustainable Capacity |
+| Execution Capacity Index (ECI) | Organizational execution capability |
+
+---
+
+## Human Energy Dashboard
+
+A Human Energy Dashboard may include:
+
+```text
+Human Energy
+      │
+      ├── Human Energy Score
+      ├── Burnout Impact
+      ├── Operational Noise
+      ├── Human Energy Leakage
+      ├── Recovery Rate
+      ├── Sustainable Capacity
+      └── Execution Capacity
+```
+
+Monitoring these indicators enables organizations to detect Human Energy degradation before it becomes visible through declining organizational performance.
 
 ---
 
 # Human Energy Economics Architecture
 
-HEE integrates five complementary frameworks.
+Human Energy Economics integrates complementary models, diagnostics, recovery frameworks, and development systems into one Human Energy Management System.
 
-| Framework | Purpose |
+| Component | Purpose |
 |-----------|---------|
-| Human Energy Economics | Theory |
-| Human Energy Audit (HEA) | Diagnosis |
-| Human Energy Recovery Framework (HERF) | Recovery |
-| Human Energy Development Plan (HEDP) | Development |
-| Operating System | Integration |
+| **Human Energy Economics (HEE)** | Management Theory |
+| **Human Energy Value Chain** | Explains how Human Energy creates value |
+| **Human Energy Lifecycle** | Explains how Human Energy changes over time |
+| **Human Energy Audit (HEA)** | Diagnoses Human Energy consumption and recovery opportunities |
+| **Operational Noise Audit** | Measures unnecessary organizational demand |
+| **Decision Energy Audit** | Assesses decision-related Human Energy consumption |
+| **Capability & Alignment Audit** | Evaluates capability and alignment |
+| **Human Energy Recovery Framework (HERF)** | Restores Human Energy |
+| **Operational Silence Framework (OSF)** | Reduces unnecessary operational demand |
+| **5R Cascade Framework** | Eliminates Operational Noise |
+| **Human Energy Development Plan (HEDP)** | Develops and sustains Human Energy |
+
+Together, these components form an integrated Human Energy Management System that connects theory, diagnosis, recovery, development, execution, and continuous improvement.
 
 ---
 
 # Human Energy Audit (HEA)
 
-HEA identifies where Human Energy is consumed, degraded, and recoverable.
+The **Human Energy Audit (HEA)** identifies where Human Energy is consumed, degraded, and recoverable.
 
-It includes:
+HEA consists of four complementary assessments.
 
 - Human Energy Audit
 - Operational Noise Audit
 - Decision Energy Audit
 - Capability & Alignment Audit
 
-Improvement Cycle:
+The findings are synthesized through a continuous improvement cycle.
 
-```
-SCAN → DIAGNOSE → ELIMINATE → INVEST
+```text
+SCAN
+   ↓
+DIAGNOSE
+   ↓
+ELIMINATE
+   ↓
+INVEST
 ```
 
----
+The objective is to identify Human Energy Loss, eliminate unnecessary operational demand, recover Human Energy, and redirect recovered Human Energy toward productive execution.
 
 # Human Energy Recovery Framework (HERF)
 
-HERF restores Human Energy lost through Burnout, Operational Noise, and Human Energy Leakage.
+## Recovering Human Energy for Sustainable Execution Capacity
 
-HERF combines:
+The **Human Energy Recovery Framework (HERF)** is the recovery framework within **Human Energy Economics (HEE).**
 
-- Operational Silence Framework (OSF)
-- 5R Cascade Framework
+Its purpose is to systematically restore Human Energy degraded by **Burnout**, **Operational Noise**, and **Human Energy Leakage**.
 
+Rather than asking people to work harder, HERF reduces unnecessary operational demand so recovered Human Energy can be redirected toward meaningful execution.
+
+---
+
+## Purpose
+
+HERF enables organizations to move from Human Energy Loss to Sustainable Execution Capacity.
+
+```text
+Human Energy Loss
+        │
+        ▼
+Identify Root Causes
+        │
+        ▼
+Eliminate Operational Demand
+        │
+        ▼
+Recover Human Energy
+        │
+        ▼
+Stabilize Human Energy
+        │
+        ▼
+Increase Execution Capacity
 ```
+
+The objective is to recover Human Energy before increasing workload, staffing, or technology investment.
+
+---
+
+## Position within Human Energy Economics
+
+```text
+Human Energy Economics (HEE)
+          │
+          ▼
+Human Energy Audit (HEA)
+          │
+          ▼
+Human Energy Recovery Framework (HERF)
+          │
+          ▼
+Human Energy Development Plan (HEDP)
+          │
+          ▼
+Sustainable Execution Capacity
+          │
+          ▼
+Sustainable Business Value
+```
+
+HERF represents the **recovery phase** of Human Energy Economics.
+
+---
+
+## Components
+
+HERF integrates two complementary frameworks.
+
+| Framework | Primary Role |
+|-----------|--------------|
+| **Operational Silence Framework (OSF)** | Creates operating environments that minimize unnecessary operational demand and protect Human Energy |
+| **5R Cascade Framework** | Eliminates Operational Noise through structured organizational intervention |
+
+Together they form a continuous Human Energy Recovery System.
+
+---
+
+## Operational Silence Framework (OSF)
+
+The **Operational Silence Framework (OSF)** creates working environments where Human Energy is protected by minimizing unnecessary operational demand.
+
+OSF focuses on:
+
+- Reducing recurring interruptions
+- Simplifying workflows
+- Eliminating unnecessary coordination
+- Improving process clarity
+- Increasing focus and execution
+
+Its objective is to ensure Human Energy is directed toward value-creating work rather than organizational friction.
+
+---
+
+## 5R Cascade Framework
+
+The **5R Cascade Framework** provides the methodology for systematically eliminating unnecessary operational demand.
+
+```text
 REMOVE
- ↓
+   ↓
 REDUCE
- ↓
+   ↓
 REPLACE
- ↓
+   ↓
 RE-ENGINEER
- ↓
+   ↓
 RETAIN
 ```
 
-Recovery Cycle
+### Guiding Principles
 
-```
+- Never reduce what can be removed.
+- Never replace what can be reduced.
+- Never re-engineer what can be replaced.
+- Retain only activities that create Sustainable Business Value.
+
+---
+
+## Human Energy Recovery Cycle
+
+```text
 Identify
- ↓
+    │
+    ▼
 Measure
- ↓
+    │
+    ▼
 Eliminate
- ↓
+    │
+    ▼
 Recover
- ↓
+    │
+    ▼
 Stabilize
- ↓
-Expand Capacity
+    │
+    ▼
+Expand Sustainable Capacity
 ```
+
+Human Energy Recovery is an ongoing organizational capability rather than a one-time intervention.
+
+---
+
+## Strategic Outcomes
+
+Organizations implementing HERF should achieve:
+
+- Reduced Operational Noise
+- Reduced Human Energy Leakage
+- Lower Burnout
+- Higher Human Energy Recovery
+- Expanded Sustainable Capacity
+- Increased Execution Capacity
+- Improved Sustainable Business Value
 
 ---
 
 # Human Energy Development Plan (HEDP)
 
-HEDP develops Human Energy for future organizational performance.
+## Developing Human Energy for Sustainable Execution Capacity
 
-Five pillars:
+The **Human Energy Development Plan (HEDP)** is the development and investment framework within **Human Energy Economics (HEE).**
 
-1. Capability Development
-2. Capacity Activation
-3. Energy Alignment
-4. Energy Recovery
-5. Energy Sustainability
+Where HERF restores lost Human Energy, HEDP develops, strengthens, aligns, and sustains Human Energy to improve future organizational performance.
 
+HEDP transforms recovered Human Energy into long-term Sustainable Execution Capacity.
+
+---
+
+## Purpose
+
+```text
+Human Potential
+        │
+        ▼
+Human Energy
+        │
+        ▼
+Execution Capacity
+        │
+        ▼
+Sustainable Business Value
 ```
+
+HEDP ensures Human Energy is continuously developed rather than merely restored.
+
+---
+
+## Position within Human Energy Economics
+
+```text
+Human Energy Economics (HEE)
+          │
+          ▼
+Human Energy Audit (HEA)
+          │
+          ▼
+Human Energy Recovery Framework (HERF)
+(OSF + 5R Cascade)
+          │
+          ▼
+Human Energy Development Plan (HEDP)
+          │
+          ▼
+Sustainable Execution Capacity
+          │
+          ▼
+Sustainable Business Value
+```
+
+HEDP represents the **development phase** of Human Energy Economics.
+
+---
+
+## Relationship to the Human Energy Equation
+
+Human Energy Economics defines Human Energy as:
+
+```text
+HE = PC × IA × DS
+```
+
+HEDP strengthens each component of the equation.
+
+| HEDP Pillar | Primary Contribution |
+|-------------|----------------------|
+| Capability Development | Strengthens Human Potential Capacity (PC) |
+| Capacity Activation | Converts potential into productive Human Energy |
+| Energy Alignment | Improves Intensity Alignment (IA) |
+| Energy Recovery | Maintains recovered Human Energy |
+| Energy Sustainability | Strengthens Duration Sustainability (DS) |
+
+---
+
+## Five Development Pillars
+
+### 1. Capability Development
+
+Expand knowledge, skills, competencies, and future potential.
+
+### 2. Capacity Activation
+
+Convert capability into productive execution.
+
+### 3. Energy Alignment
+
+Direct Human Energy toward meaningful priorities.
+
+### 4. Energy Recovery
+
+Maintain recovered Human Energy by reducing future degradation.
+
+### 5. Energy Sustainability
+
+Build resilient systems that sustain Human Energy over time.
+
+---
+
+## HEDP Operating Cycle
+
+```text
 Develop
- ↓
+    │
+    ▼
 Activate
- ↓
+    │
+    ▼
 Align
- ↓
+    │
+    ▼
 Recover
- ↓
+    │
+    ▼
 Sustain
- ↓
+    │
+    ▼
 Expand Execution Capacity
+    │
+    ▼
+Create Sustainable Business Value
 ```
 
-HERF restores today's Human Energy.
+---
 
-HEDP develops tomorrow's Human Energy.
+## Strategic Outcomes
+
+Organizations implementing HEDP should achieve:
+
+- Stronger Human capability
+- Higher Human Energy
+- Expanded Sustainable Capacity
+- Greater Execution Capacity
+- Better decision quality
+- Improved organizational resilience
+- Sustainable Business Value
+
+---
+
+## Relationship between HERF and HEDP
+
+HERF and HEDP perform complementary roles.
+
+| Framework | Primary Objective |
+|-----------|-------------------|
+| **HERF** | Restore Human Energy lost through Burnout, Operational Noise, and Human Energy Leakage |
+| **HEDP** | Develop, strengthen, align, and sustain Human Energy |
+
+In simple terms:
+
+> **HERF restores today's Human Energy.**  
+> **HEDP develops tomorrow's Human Energy.**
+
+Together, HERF and HEDP create a complete Human Energy Management System that balances recovery with long-term development.
 
 ---
 
 # Human Energy Economics Operating System
 
-```
-HEE
- ↓
+The Human Energy Economics Operating System integrates every component of HEE into a unified management system for protecting, recovering, developing, and utilizing Human Energy.
+
+```text
+Human Energy Economics (HEE)
+            │
+            ▼
 Human Energy Equation
- ↓
-HEA
- ↓
-HERF
- ↓
-HEDP
- ↓
-Execution Capacity
- ↓
+            │
+            ▼
+Human Energy Audit (HEA)
+            │
+            ▼
+Human Energy Recovery Framework (HERF)
+            │
+            ▼
+Human Energy Development Plan (HEDP)
+            │
+            ▼
+Sustainable Execution Capacity
+            │
+            ▼
 Sustainable Business Value
 ```
+
+The operating system represents the complete HEE lifecycle:
+
+**Theory → Measurement → Recovery → Development → Execution → Sustainable Business Value**
+
+| Stage | Purpose |
+|--------|---------|
+| **HEE** | Defines Human Energy as the primary organizational resource |
+| **Human Energy Equation** | Explains Human Energy components |
+| **HEA** | Measures Human Energy and identifies improvement opportunities |
+| **HERF** | Restores Human Energy |
+| **HEDP** | Develops and sustains Human Energy |
+| **Execution Capacity** | Converts Human Energy into organizational performance |
+| **Sustainable Business Value** | Creates long-term organizational success |
 
 ---
 
 # Human Energy Economics Implementation Cycle
 
-```
+The Human Energy Economics Implementation Cycle provides a practical roadmap for adopting HEE.
+
+Unlike the Operating System, which illustrates the structural relationship between frameworks, the Implementation Cycle explains how organizations progressively implement Human Energy Economics.
+
+```text
 Understand
- ↓
+    ↓
 Measure
- ↓
+    ↓
 Recover
- ↓
+    ↓
 Develop
- ↓
+    ↓
 Expand
- ↓
+    ↓
+Execute
+    ↓
 Realize
- ↓
-Improve
- ↺
+    ↓
+Continuously Improve
 ```
+
+---
+
+## Implementation Stages
+
+### 1. Understand
+
+Recognize Human Energy as the organization's primary value-conversion resource.
+
+### 2. Measure
+
+Conduct the Human Energy Audit (HEA) to identify Burnout, Operational Noise, Human Energy Leakage, capability gaps, and recovery opportunities.
+
+### 3. Recover
+
+Implement HERF through the Operational Silence Framework (OSF) and the 5R Cascade Framework.
+
+### 4. Develop
+
+Implement HEDP to strengthen capability, activate Human Energy, improve alignment, and sustain long-term performance.
+
+### 5. Expand
+
+Convert recovered and developed Human Energy into Sustainable Execution Capacity.
+
+### 6. Realize
+
+Transform Sustainable Execution Capacity into Sustainable Business Value.
+
+### 7. Continuously Improve
+
+Human Energy management is an ongoing organizational capability. Organizations should continuously reassess Human Energy and repeat the implementation cycle.
+
+# Vision
+
+To establish Human Energy as a measurable, manageable, recoverable, developable, and investable organizational resource that enables organizations to expand Sustainable Execution Capacity and create Sustainable Business Value.
 
 ---
 
 # Applications
 
-HEE applies to:
+Human Energy Economics provides a unifying management framework for improving organizational performance by protecting, recovering, developing, and investing in Human Energy.
 
-- Operational Excellence
-- Leadership
-- Organizational Design
-- Strategy Execution
-- Digital & AI Transformation
-- Continuous Improvement
+Although its principles remain consistent, HEE can be applied across multiple management disciplines.
+
+## Operational Excellence
+
+Improve operational performance by reducing unnecessary operational demand.
+
+HEE supports:
+
+- Reducing Operational Noise
+- Eliminating unnecessary work
+- Simplifying processes
+- Improving operational flow
+- Recovering Human Energy for higher-value work
 
 ---
 
-# Vision
+## Organizational Design
 
-Establish Human Energy as a measurable, manageable, recoverable, and investable organizational resource.
+Design organizations that protect rather than consume Human Energy.
+
+HEE supports:
+
+- Clear roles and responsibilities
+- Better decision rights
+- Reduced structural complexity
+- Improved coordination
+- Resilient organizational systems
+
+---
+
+## Leadership
+
+Enable leaders to become stewards of Human Energy.
+
+HEE supports:
+
+- Protecting Human Energy
+- Reducing Burnout
+- Building psychological safety
+- Increasing engagement
+- Strengthening accountability
+- Sustaining performance
+
+---
+
+## Strategy Execution
+
+Improve the organization's ability to convert strategy into consistent execution.
+
+HEE supports:
+
+- Expanding Execution Capacity
+- Improving strategic alignment
+- Removing execution friction
+- Increasing implementation effectiveness
+- Focusing Human Energy on high-value priorities
+
+---
+
+## Digital and AI-enabled Transformation
+
+Ensure technology enhances Human Energy rather than increasing operational burden.
+
+HEE supports:
+
+- Automating repetitive work
+- Reducing manual operational demand
+- Augmenting human capability with AI
+- Redirecting Human Energy toward innovation
+- Improving technology adoption through human-centered design
+
+---
+
+## Continuous Improvement
+
+Embed Human Energy Recovery into everyday organizational improvement.
+
+HEE supports:
+
+- Continuous reduction of Operational Noise
+- Recovery of Human Energy
+- Expansion of Sustainable Capacity
+- Organizational learning
+- Long-term operational improvement
+
+---
+
+## A Unifying Management Philosophy
+
+Rather than representing another isolated management method, Human Energy Economics integrates:
+
+- Operational Excellence
+- Organizational Design
+- Leadership
+- Strategy Execution
+- Digital Transformation
+- Continuous Improvement
+
+through one central principle:
+
+> **Protect Human Energy. Recover Human Energy. Develop Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
 
 ---
 
 # Recommendations
 
+Human Energy Economics provides a conceptual foundation for managing Human Energy as a strategic organizational resource.
+
+The following recommendations support its practical implementation.
+
+---
+
+## For Organizations
+
 Organizations should:
 
-- Measure Human Energy
-- Conduct Human Energy Audits
-- Reduce Burnout
-- Eliminate Operational Noise
-- Reduce Human Energy Leakage
-- Implement HERF
-- Implement HEDP
-- Monitor Human Energy Metrics
-- Continuously Improve
+- Recognize Human Energy as a strategic asset.
+- Include Human Energy within organizational planning.
+- Conduct regular Human Energy Audits (HEA).
+- Reduce Burnout through sustainable workload design.
+- Eliminate Operational Noise using the Operational Silence Framework (OSF).
+- Reduce Human Energy Leakage through the 5R Cascade Framework.
+- Implement the Human Energy Development Plan (HEDP).
+- Monitor Human Energy using defined metrics and indicators.
+- Align Human Energy initiatives with organizational strategy.
 
-Implementation sequence:
+---
 
-```
+## For Leaders
+
+Leaders should:
+
+- Protect Human Energy before increasing workload.
+- Remove unnecessary operational demand.
+- Build psychologically safe workplaces.
+- Improve decision clarity and ownership.
+- Prioritize sustainable execution over short-term productivity.
+- Treat Human Energy as a leadership responsibility.
+
+---
+
+## For Human Resource Professionals
+
+HR functions should:
+
+- Integrate Human Energy into workforce planning.
+- Include Human Energy measures within employee wellbeing initiatives.
+- Align learning and development with HEDP.
+- Incorporate Human Energy into capability assessments.
+- Design performance systems that encourage sustainable contribution.
+
+---
+
+## For Researchers
+
+Future research should focus on:
+
+- Empirical validation of Human Energy Economics.
+- Development of standardized Human Energy measurement instruments.
+- Validation of the Human Energy Economics Capacity Model.
+- Longitudinal studies of Human Energy Recovery.
+- Relationships between Human Energy and organizational performance.
+- Human Energy within AI-enabled organizations.
+- Cross-industry applications of Human Energy Economics.
+- Human Energy benchmarking standards.
+
+---
+
+## For Educational Institutions
+
+Business schools and management educators should:
+
+- Introduce Human Energy Economics into management curricula.
+- Study Human Energy alongside strategy, operations, leadership, organizational behaviour, and human resource management.
+- Encourage interdisciplinary research connecting Human Energy with psychology, systems thinking, economics, and organizational science.
+
+---
+
+## For Policymakers
+
+Governments and policy institutions should consider:
+
+- Promoting workplace practices that reduce Burnout and Operational Noise.
+- Supporting research into Human Energy as an organizational resource.
+- Encouraging workplace designs that protect Human Energy while improving long-term productivity.
+
+---
+
+## Recommended Implementation Sequence
+
+Organizations should adopt Human Energy Economics progressively.
+
+```text
 Understand
- ↓
+      │
+      ▼
 Measure
- ↓
+      │
+      ▼
 Recover
- ↓
+      │
+      ▼
 Develop
- ↓
+      │
+      ▼
 Monitor
- ↓
-Improve
+      │
+      ▼
+Continuously Improve
 ```
+
+This phased approach enables organizations to establish reliable measurement, recover lost Human Energy, strengthen Sustainable Capacity, and expand Execution Capacity over time.
 
 ---
 
 # Conclusion
 
-Human Energy Economics establishes Human Energy as the primary organizational resource through which organizations create Sustainable Business Value.
+Human Energy Economics establishes **Human Energy** as the primary organizational resource through which knowledge, technology, capital, and processes are transformed into Sustainable Business Value.
 
-By protecting, recovering, developing, and investing in Human Energy, organizations expand Sustainable Execution Capacity and improve long-term organizational performance.
+By protecting, recovering, developing, and investing in Human Energy, organizations can:
+
+- Reduce Burnout
+- Eliminate Operational Noise
+- Prevent Human Energy Leakage
+- Expand Sustainable Capacity
+- Increase Execution Capacity
+- Improve long-term organizational performance
+
+Human Energy Recovery restores today's Human Energy.
+
+Human Energy Development builds tomorrow's Human Energy.
+
+Together, Human Energy Recovery and Human Energy Development create an integrated Human Energy Management System capable of sustaining Execution Capacity and delivering Sustainable Business Value.
 
 > **Protect Human Energy. Recover Human Energy. Develop Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
 
@@ -535,12 +1274,18 @@ By protecting, recovering, developing, and investing in Human Energy, organizati
 
 # Connect
 
-**Md Mozammel Hoque**
+## Md Mozammel Hoque
 
-Management Researcher
+*Management Researcher*
 
-🌐 https://www.ovinabo.com
+🌐 **Website**
 
-💼 https://www.linkedin.com/in/mozammel-hee
+https://www.ovinabo.com
 
-HEE welcomes collaboration with researchers, practitioners, executives, and organizations interested in advancing Human Energy Economics.
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/mozammel-hee
+
+---
+
+Human Energy Economics welcomes collaboration with researchers, practitioners, executives, educators, and organizations interested in advancing Human Energy Economics as a modern management theory and discipline.
