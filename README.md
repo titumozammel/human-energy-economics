@@ -25,13 +25,19 @@
 - [Human Energy Value Chain](#human-energy-value-chain)
 - [Human Energy Lifecycle](#human-energy-lifecycle)
 - [The Human Energy Economics Capacity Model](#the-human-energy-economics-capacity-model)
+- [Human Energy Metrics & Key Performance Indicators](#human-energy-metrics--key-performance-indicators)
 - [Human Energy Economics Architecture](#human-energy-economics-architecture)
 - [Human Energy Economics Ecosystem](#human-energy-economics-ecosystem)
 - [Human Energy Audit (HEA)](#human-energy-audit-hea)
+- [Human Energy Recovery Framework (HERF)](#human-energy-recovery-framework-herf)
 - [Human Energy Development Plan (HEDP)](#human-energy-development-plan-hedp)
+- [Human Energy Economics Operating System](#human-energy-economics-operating-system)
+- [Human Energy Economics Implementation Cycle](#human-energy-economics-implementation-cycle)
 - [Vision & Research Areas](#vision--research-areas)
 - [Applications of Human Energy Economics](#applications-of-human-energy-economics)
 - [A Unifying Management Philosophy](#a-unifying-management-philosophy)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 - [Connect](#connect)
 
 ---
@@ -40,7 +46,7 @@
 
 Human Energy Economics (HEE) is a management theory that recognizes Human Energy as the foundational organizational resource through which organizations transform knowledge, technology, capital, and processes into Sustainable Business Value.
 
-Rather than optimizing how people respond to increasing work demands, HEE focuses on identifying, reducing, and eliminating unnecessary operational demand.
+Rather than optimizing people's responses to increasing work demands, HEE focuses on identifying, reducing, and eliminating unnecessary operational demand.
 
 By reducing **Operational Noise**, organizations recover Human Energy, expand **Execution Capacity**, and improve sustainable organizational performance.
 
@@ -282,6 +288,10 @@ Continuous recovery is essential for sustaining Execution Capacity and creating 
 
 HEE provides a conceptual mathematical model for understanding how Human Energy is created, degraded, recovered, and transformed into Sustainable Business Value.
 
+The following equations are conceptual management models intended to explain relationships between key organizational factors. They are not yet statistically validated predictive models.
+
+
+
 ### Level 1 — Human Energy
 
 ```text
@@ -362,6 +372,19 @@ TSC = H × [PC × IA × DS × (A × C × TE) × (L × D) × ((1 - F) × S)]
 | **S** | Synergy | Psychological safety, team flow |
 | **TSC** | Total Sustainable Capacity | Organization-wide output |
 | **H** | Headcount | Effective FTE employees |
+
+
+### Capacity Terminology
+
+Human Energy Economics uses three related capacity concepts:
+
+- **Sustainable Capacity (SC):** The per-person sustainable productive capacity calculated by the Human Energy Economics Capacity Model.
+- **Execution Capacity (ECap):** The organization's ability to consistently convert Human Energy into productive execution.
+- **Sustainable Execution Capacity (SEC):** Organization-wide execution capability achieved by developing, recovering, aligning, and effectively utilizing Sustainable Capacity over time.
+
+In Human Energy Economics, Sustainable Capacity (SC) provides the foundation for Sustainable Execution Capacity (SEC), which ultimately enables the creation of Sustainable Business Value.
+
+
 
 ### Management Principle
 
@@ -961,7 +984,79 @@ Each component performs a distinct but complementary role:
 | **Execution Capacity** | Converts Human Energy into organizational performance |
 | **Sustainable Business Value** | Creates long-term organizational success |
 
+---
 
+# Human Energy Economics Implementation Cycle
+
+The **Human Energy Economics Implementation Cycle** provides a practical roadmap for implementing Human Energy Economics (HEE) within an organization.
+
+It translates the HEE management theory into a continuous organizational improvement process by moving from understanding Human Energy to measuring, recovering, developing, expanding execution capacity, and ultimately creating Sustainable Business Value.
+
+Unlike the **Human Energy Economics Operating System**, which illustrates how the HEE frameworks are structurally connected, the **Implementation Cycle** describes how organizations progressively adopt and operationalize Human Energy Economics.
+
+```text
+Human Energy Economics (HEE)
+Understand
+        │
+        ▼
+Human Energy Audit (HEA)
+Measure & Diagnose
+        │
+        ▼
+Human Energy Recovery Framework (HERF)
+Recover
+        │
+        ▼
+Human Energy Development Plan (HEDP)
+Develop & Invest
+        │
+        ▼
+Sustainable Execution Capacity (SEC)
+Expand
+        │
+        ▼
+Sustainable Business Value (SBV)
+Realize
+        │
+        ▼
+Continuous Improvement
+        │
+        └──────────────► Repeat the Cycle
+```
+
+## Implementation Stages
+
+### 1. Understand
+
+Recognize Human Energy as the organization's foundational value-conversion resource and establish Human Energy Economics (HEE) as the guiding management philosophy.
+
+### 2. Measure & Diagnose
+
+Conduct the Human Energy Audit (HEA) to identify Burnout, Operational Noise, Human Energy Leakage, capability gaps, and opportunities for Human Energy recovery.
+
+### 3. Recover
+
+Implement the Human Energy Recovery Framework (HERF) by applying the Operational Silence Framework (OSF) and the 5R Cascade Framework to eliminate unnecessary operational demand and recover Human Energy.
+
+### 4. Develop & Invest
+
+Implement the Human Energy Development Plan (HEDP) to strengthen Human Potential Capacity, activate capability, improve alignment, sustain Human Energy, and expand future organizational capacity.
+
+### 5. Expand
+
+Convert recovered and developed Human Energy into Sustainable Execution Capacity by improving organizational capability, alignment, and execution effectiveness.
+
+### 6. Realize
+
+Transform Sustainable Execution Capacity into Sustainable Business Value through consistent execution, innovation, customer outcomes, organizational resilience, and continuous improvement.
+
+### 7. Continuously Improve
+
+Human Energy Economics is not a one-time initiative but a continuous management cycle. Organizations should regularly reassess Human Energy, identify new improvement opportunities, and repeat the implementation cycle to sustain long-term organizational performance.
+
+## Management Principle
+
+> **Understand Human Energy. Measure Human Energy. Recover Human Energy. Develop Human Energy. Expand Execution Capacity. Realize Sustainable Business Value. Repeat.**
 
 ## Vision & Research Areas
 
@@ -1251,4 +1346,3 @@ Protect Human Energy. Recover Human Energy. Develop Human Energy. Expand Executi
 https://www.linkedin.com/in/mozammel-hee
 
 This research framework welcomes collaboration with researchers, practitioners, executives, and organizations interested in advancing Human Energy Economics.
-
