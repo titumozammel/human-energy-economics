@@ -169,13 +169,17 @@ Operational Noise exists across three dimensions.
 
 ## Cognitive Noise
 
-- Constant interruptions
+- Constant interruptions and intrusions
 - Context switching
 - Unclear priorities
+- Unclear roles and responsibilities
 - Recurring problems
 - Excessive cognitive load
+- Bypass culture
 
 Operational Noise represents the **organizational-level degrader** of Human Energy.
+
+Cognitive Noise consumes Human Energy by increasing mental effort, reducing focus, and disrupting productive execution.
 
 Operational Noise does not create value; it merely consumes Human Energy that could otherwise be directed toward productive execution.
 
