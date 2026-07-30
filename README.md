@@ -38,7 +38,7 @@ The framework integrates organizational design, operational excellence, leadersh
 - [Vision](#vision)
 - [Applications](#applications)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
+- [Scope and Limitations](#scope-and-limitations)
 - [Conclusion](#conclusion)
 - [Connect](#connect)
 
