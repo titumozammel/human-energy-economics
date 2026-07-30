@@ -1,15 +1,24 @@
 # Human Energy Economics (HEE)
 
-## A Management Theory and Framework for Understanding, Recovering, Developing, and Investing in Human Energy
+## A Management Theory for Expanding Sustainable Execution Capacity through Human Energy
 
 > **Protect Human Energy. Recover Human Energy. Develop Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
 
 ---
 
+## About this Framework
+
+Human Energy Economics (HEE) is a conceptual management theory that explains how organizations create Sustainable Business Value by protecting, recovering, developing, and investing in Human Energy.
+
+The framework integrates organizational design, operational excellence, leadership, strategy execution, and continuous improvement into a unified Human Energy Management System.
+
+
+
 # Table of Contents
 
 - [What Is Human Energy Economics?](#what-is-human-energy-economics)
 - [What Is Human Energy?](#what-is-human-energy)
+- [Foundations of Human Energy Economics](#foundations-of-human-energy-economics)
 - [Why Human Energy Matters](#why-human-energy-matters)
 - [Burnout](#burnout)
 - [Operational Noise](#operational-noise)
@@ -26,8 +35,8 @@
 - [Human Energy Development Plan (HEDP)](#human-energy-development-plan-hedp)
 - [Human Energy Economics Operating System](#human-energy-economics-operating-system)
 - [Human Energy Economics Implementation Cycle](#human-energy-economics-implementation-cycle)
-- [Applications](#applications)
 - [Vision](#vision)
+- [Applications](#applications)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 - [Connect](#connect)
@@ -530,40 +539,6 @@ Human Energy can be monitored across five dimensions.
 | Human Energy Recovery | Recovered Human Energy |
 | Sustainable Capacity | Capacity available for productive execution |
 | Business Outcomes | Execution Capacity and Sustainable Business Value |
-
----
-
-## Suggested Indicators
-
-| Indicator | Purpose |
-|-----------|---------|
-| Human Energy Score (HES) | Overall Human Energy health |
-| Burnout Impact Index (BII) | Human Energy degraded by Burnout |
-| Operational Noise Index (ONI) | Human Energy consumed by Operational Noise |
-| Human Energy Leakage Index (HELI) | Avoidable Human Energy loss |
-| Human Energy Recovery Rate (HERR) | Recovery effectiveness |
-| Sustainable Capacity Index (SCI) | Available Sustainable Capacity |
-| Execution Capacity Index (ECI) | Organizational execution capability |
-
----
-
-## Human Energy Dashboard
-
-A Human Energy Dashboard may include:
-
-```text
-Human Energy
-      │
-      ├── Human Energy Score
-      ├── Burnout Impact
-      ├── Operational Noise
-      ├── Human Energy Leakage
-      ├── Recovery Rate
-      ├── Sustainable Capacity
-      └── Execution Capacity
-```
-
-Monitoring these indicators enables organizations to detect Human Energy degradation before it becomes visible through declining organizational performance.
 
 ---
 
@@ -1155,7 +1130,7 @@ The following recommendations support its practical implementation.
 Organizations should:
 
 - Recognize Human Energy as a strategic asset.
-- Include Human Energy within organizational planning.
+- Integrate Human Energy into organizational planning and decision-making.
 - Conduct regular Human Energy Audits (HEA).
 - Reduce Burnout through sustainable workload design.
 - Eliminate Operational Noise using the Operational Silence Framework (OSF).
@@ -1270,7 +1245,7 @@ Human Energy Recovery restores today's Human Energy.
 
 Human Energy Development builds tomorrow's Human Energy.
 
-Together, Human Energy Recovery and Human Energy Development create an integrated Human Energy Management System capable of sustaining Execution Capacity and delivering Sustainable Business Value.
+Together they form an integrated Human Energy Management System that expands Sustainable Execution Capacity and enables organizations to create Sustainable Business Value.
 
 > **Protect Human Energy. Recover Human Energy. Develop Human Energy. Expand Execution Capacity. Create Sustainable Business Value.**
 
@@ -1280,15 +1255,20 @@ Together, Human Energy Recovery and Human Energy Development create an integrate
 
 ## Md Mozammel Hoque
 
-*Management Researcher*
+Management Researcher
 
-🌐 **Website**
+Founder of Human Energy Economics (HEE)
 
+Creator of the 5R Cascade Framework and Operational Silence Framework (OSF)
+
+🌐 Website
 https://www.ovinabo.com
 
-💼 **LinkedIn**
+💼 LinkedIn
+https://linkedin.com/in/mozammel-hee
 
-https://www.linkedin.com/in/mozammel-hee
+💻 GitHub
+https://github.com/titumozammel/human-energy-economics
 
 ---
 
