@@ -8,7 +8,7 @@
 
 ## About this Framework
 
-Human Energy Economics (HEE) is a conceptual management theory that explains how organizations create Sustainable Business Value by protecting, recovering, developing, and investing in Human Energy.
+Human Energy Economics (HEE) is a management theory that explains how organizations create Sustainable Business Value by protecting, recovering, developing, and investing in Human Energy.
 
 The framework integrates organizational design, operational excellence, leadership, strategy execution, and continuous improvement into a unified Human Energy Management System.
 
@@ -38,6 +38,7 @@ The framework integrates organizational design, operational excellence, leadersh
 - [Vision](#vision)
 - [Applications](#applications)
 - [Recommendations](#recommendations)
+- [Limitations](#limitations)
 - [Conclusion](#conclusion)
 - [Connect](#connect)
 
@@ -47,13 +48,25 @@ The framework integrates organizational design, operational excellence, leadersh
 
 **Human Energy Economics (HEE)** is a management theory that recognizes **Human Energy** as the primary organizational resource through which knowledge, technology, capital, and processes are transformed into **Sustainable Business Value**.
 
-Rather than asking people to work harder or simply increasing organizational resources, HEE focuses on reducing unnecessary operational demand, recovering Human Energy, developing long-term capability, and expanding Sustainable Execution Capacity.
+Rather than asking people to work harder or simply increasing organizational resources, HEE focuses on reducing unnecessary operational demand, recovering Human Energy, developing long-term capability, and expanding **Sustainable Execution Capacity**.
 
 ## Core Thesis
 
-Organizations do not create Sustainable Business Value through resources alone. Sustainable Business Value emerges only when knowledge, technology, capital, and processes are effectively converted through Human Energy.
+Organizations do not create **Sustainable Business Value** through resources alone. Sustainable Business Value emerges only when knowledge, technology, capital, and processes are effectively converted through **Human Energy**.
 
 This principle forms the central proposition of Human Energy Economics.
+
+## Scope
+
+Human Energy Economics explains how organizations expand **Sustainable Execution Capacity** by protecting, recovering, developing, and effectively utilizing **Human Energy**.
+
+It is **not intended to explain every aspect of organizational behaviour, leadership, psychology, or organizational performance.** Instead, it focuses specifically on **Human Energy** as the primary organizational resource that enables the conversion of organizational resources into **Sustainable Business Value**.
+
+## Theoretical Position
+
+Human Energy Economics is a systems-oriented management theory. It does not replace established theories of leadership, organizational behaviour, strategy, psychology, or economics. Instead, it provides a complementary explanatory lens by focusing on Human Energy as the primary organizational resource through which knowledge, technology, capital, and processes are converted into Sustainable Business Value.
+
+HEE therefore explains organizational execution capacity rather than every aspect of organizational behaviour.
 
 ---
 
@@ -1227,6 +1240,23 @@ Continuously Improve
 This phased approach enables organizations to establish reliable measurement, recover lost Human Energy, strengthen Sustainable Capacity, and expand Execution Capacity over time.
 
 ---
+
+---
+
+# Scope and Limitations
+
+Human Energy Economics (HEE) is a conceptual management theory.
+
+It explains how Human Energy influences Sustainable Execution Capacity and Sustainable Business Value by providing a systems-oriented perspective on organizational execution.
+
+HEE is not intended to explain every determinant of organizational performance, such as market conditions, competitive dynamics, macroeconomic factors, regulatory environments, or individual psychological differences. These factors may also influence organizational outcomes but lie outside the explanatory scope of this theory.
+
+The Human Energy Economics Capacity Model and its associated frameworks are conceptual representations of organizational relationships rather than statistically validated predictive models.
+
+Future empirical research is required to validate the proposed constructs, causal relationships, measurement instruments, and capacity model across different organizational contexts, industries, and cultures.
+
+---
+
 
 # Conclusion
 
