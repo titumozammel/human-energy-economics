@@ -52,50 +52,32 @@ Provides the theoretical foundation for understanding how Human Energy is protec
 
 ## Ecosystem Diagram
 
-
-                    HUMAN ENERGY ECONOMICS (HEE)
-                        Management Theory
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-+----------------+   +----------------------+   +----------------------+
-| Human Energy   |   | Human Energy         |   | Human Energy         |
-| Audit (HEA)    |   | Recovery Framework   |   | Development Plan     |
-|                |   | (HERF)               |   | (HEDP)               |
-+----------------+   +----------------------+   +----------------------+
-                               │
-                               ▼
-                +-------------------------------+
-                | Operational Silence Framework |
-                |             (OSF)             |
-                +-------------------------------+
-                               │
-                               ▼
-                +-------------------------------+
-                |       3C Strategic Lens       |
-                +-------------------------------+
-                               │
-                               ▼
-                +-------------------------------+
-                |      5R Cascade Framework     |
-                +-------------------------------+
-                               │
-                               ▼
-                +-------------------------------+
-                |     Operational Silence       |
-                +-------------------------------+
-                               │
-                               ▼
-                +-------------------------------+
-                | Expanded Sustainable          |
-                | Execution Capacity            |
-                +-------------------------------+
-                               │
-                               ▼
-                +-------------------------------+
-                | Sustainable Business Value    |
-                +-------------------------------+
+HUMAN ENERGY ECONOMICS (HEE)
+Management Theory
+│
+├── Human Energy Audit (HEA)
+│
+├── Human Energy Recovery Framework (HERF)
+│
+└── Human Energy Development Plan (HEDP)
+    │
+    ▼
+Operational Silence Framework (OSF)
+    │
+    ▼
+3C Strategic Lens
+    │
+    ▼
+5R Cascade Framework
+    │
+    ▼
+Operational Silence
+    │
+    ▼
+Expanded Sustainable Execution Capacity
+    │
+    ▼
+Sustainable Business Value
 
 
 # Table of Contents
