@@ -435,33 +435,42 @@ value.
 
 # Human Energy Leakage
 
-Human Energy Leakage is the avoidable loss of Human Energy caused by
+**Human Energy Leakage** is the avoidable loss of Human Energy caused by
 organizational conditions, unnecessary work, ineffective systems, and
-activities that prevent people from applying their capability to
-meaningful work.
+activities that prevent people from applying their capability to meaningful
+work.
 
-Common forms include:
+Common forms of Human Energy Leakage include:
 
-  -----------------------------------------------------------------------
-  Type                    Description             Examples
-  ----------------------- ----------------------- -----------------------
-  Demand Leakage          Energy consumed by      Duplicate activities,
-                          unnecessary work        repetitive tasks
+| **Type** | **Description** | **Typical Causes** | **Examples** |
+|---|---|---|---|
+| **Demand Leakage** | Human Energy consumed by unnecessary or excessive work. | Unnecessary activities, repetitive work, inefficient processes. | Duplicate activities, repetitive tasks, unnecessary work. |
+| **Attention Leakage** | Human Energy fragmented by interruptions and competing demands. | Context switching, interruptions, excessive coordination. | Frequent interruptions, unnecessary coordination, fragmented attention. |
+| **Capability Leakage** | Available capability is not effectively converted into productive contribution. | Skill–work mismatch, poor prioritization, ineffective capability utilization. | Assigning work below capability, poor prioritization, underutilized expertise. |
+| **Decision Leakage** | Human Energy lost through slow, unclear, or unnecessarily complex decision processes. | Delayed decisions, excessive approvals, unclear authority. | Delayed decisions, repeated approvals, unnecessary escalation. |
 
-  Attention Leakage       Energy fragmented by    Context switching,
-                          interruptions           unnecessary
-                                                  coordination
-
-  Capability Leakage      Capability not          Skill-work mismatch,
-                          effectively utilized    poor prioritization
-
-  Decision Leakage        Energy lost through     Delayed decisions,
-                          decision friction       excessive approvals
-  -----------------------------------------------------------------------
+### Relationship with Operational Noise
 
 Human Energy Leakage is one of the principal mechanisms through which
-Operational Noise and organizational friction reduce Sustainable
-Capacity.
+**Operational Noise** and organizational friction reduce **Sustainable
+Capacity**.
+
+```text
+Organizational Conditions
+          │
+          ▼
+   Operational Noise
+          │
+          ▼
+ Human Energy Leakage
+          │
+          ▼
+   Human Energy Loss
+          │
+          ▼
+ Reduced Sustainable Capacity
+
+```
 
 ------------------------------------------------------------------------
 
