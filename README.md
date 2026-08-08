@@ -36,14 +36,16 @@ The central proposition of HEE is:
 ## Theory Statement
 
 **Human Energy Economics (HEE)** is a systems-oriented management theory
-that explains how organizations create **Sustainable Business Value** by
-expanding **Sustainable Execution Capacity** through the protection,
-recovery, development, alignment, enablement, and effective utilization
-of **Human Energy**.
+that explains how organizations can expand **Sustainable Execution
+Capacity** and create **Sustainable Business Value** by systematically
+protecting, recovering, developing, enabling, aligning, and effectively
+utilizing **Human Energy**.
 
-The theory proposes that **Human Energy is the primary organizational
-resource through which knowledge, technology, capital, and processes are
-transformed into Sustainable Business Value.**
+
+HEE proposes that Human Energy functions as a fundamental organizational
+value-conversion resource through which knowledge, technology, capital,
+processes, systems, and other organizational resources are transformed
+into execution.
 
 Organizations may possess similar financial resources, technologies,
 knowledge, processes, and infrastructure, yet achieve different levels
@@ -2214,51 +2216,65 @@ System for expanding Sustainable Execution Capacity.
 
 # Creator & Founder
 
-**Md. Mozammel Hoque**
+**Md Mozammel Hoque**
 
-Creator & Founder --- Human Energy Economics (HEE)
+**Management Researcher**
+
+Founder & Originator of **Human Energy Economics (HEE)**
+
+Creator of:
+
+- **Human Energy Economics (HEE)**
+- **Human Energy Management System (HEMS)**
+- **Human Energy Audit (HEA)**
+- **Human Energy Recovery Framework (HERF)**
+- **Human Energy Development Plan (HEDP)**
+- **Human Energy Enablement (HEEn)**
+- **Operational Silence Framework (OSF)**
+- **5R Cascade Framework**
 
 ## Research Focus
 
-**Human Energy as a Strategic Organizational Asset for Sustainable
-Execution Capacity and Sustainable Business Value Creation**
+**Human Energy as a Strategic Organizational Asset for Sustainable Execution Capacity and Sustainable Business Value Creation**
 
-------------------------------------------------------------------------
-
-# Frameworks
-
--   **Human Energy Economics (HEE)**
--   **Human Energy Management System (HEMS)**
--   **Human Energy Audit (HEA)**
--   **Human Energy Recovery Framework (HERF)**
--   **Human Energy Development Plan (HEDP)**
--   **Human Energy Enablement (HEEn)**
--   **Operational Silence Framework (OSF)**
--   **5R Cascade Framework**
-
-------------------------------------------------------------------------
+---
 
 # Citation
 
-Hoque, M. M. *Human Energy Economics (HEE): A Management Theory for
-Expanding Sustainable Execution Capacity through Human Energy.* Human
-Energy Economics (HEE), 2026.
+**Md Mozammel Hoque.** *Human Energy Economics (HEE): A Management Theory for Expanding Sustainable Execution Capacity through Human Energy.* Human Energy Economics (HEE), 2026.
 
-------------------------------------------------------------------------
+---
+
+# Connect
+
+- **Website:** https://www.ovinabo.com
+- **LinkedIn:** https://www.linkedin.com/in/mozammel-hee
+- **GitHub:** https://github.com/titumozammel
+
+I welcome collaboration with researchers, executives, business leaders, consultants, educators, and practitioners interested in Human Energy, operational excellence, organizational enablement, sustainable execution, and Sustainable Business Value creation.
+
+---
+
+# Core Philosophy
+
+> **Protect Human Energy. Recover Human Energy. Develop Human Energy.
+> Enable Human Energy. Expand Sustainable Execution Capacity. Create
+> Sustainable Business Value.**
+
+---
 
 # License
 
 This project is licensed under the **MIT License**.
 
-------------------------------------------------------------------------
+You are free to use, modify, and distribute this work in accordance with the terms of the license.
+
+---
 
 # Acknowledgements
 
-Human Energy Economics is an evolving management theory and research
-framework.
+Human Energy Economics is an evolving management theory and research ecosystem.
 
-The framework welcomes continued contribution from researchers,
-practitioners, organizational leaders, consultants, educators, and
-institutions interested in developing new approaches to Human Energy,
-sustainable execution, organizational enablement, and Sustainable
-Business Value creation.
+The frameworks and concepts are intended to support continued research, experimentation, validation, and practical application across organizations and industries.
+
+Contributions and collaboration are welcome from researchers, practitioners, organizational leaders, consultants, educators, and institutions interested in developing new approaches to Human Energy, sustainable execution, organizational enablement, operational excellence, and Sustainable Business Value creation.
