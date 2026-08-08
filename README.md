@@ -92,43 +92,16 @@ and value-conversion mechanism**.
 
 ## Framework Position
 
-  -----------------------------------------------------------------------
-  Level                   Framework               Primary Role
-  ----------------------- ----------------------- -----------------------
-  Theory                  **Human Energy          Explains Human Energy
-                          Economics (HEE)**       as a strategic
-                                                  organizational resource
-
-  Management System       **Human Energy          Operationalizes Human
-                          Management System       Energy management
-                          (HEMS)**                
-
-  Measure                 **Human Energy Audit    Measures and diagnoses
-                          (HEA)**                 Human Energy
-
-  Recover                 **Human Energy Recovery Recovers Human Energy
-                          Framework (HERF)**      and reduces Human
-                                                  Energy Leakage
-
-  Develop                 **Human Energy          Develops Human Energy
-                          Development Plan        and organizational
-                          (HEDP)**                capability
-
-  Enable                  **Human Energy          Enables Human Energy
-                          Enablement (HEEn)**     through organizational
-                                                  systems and execution
-                                                  conditions
-
-  Implementation          **Operational Silence   Reduces unnecessary
-                          Framework (OSF)**       operational demand
-
-  Implementation          **5R Cascade            Eliminates and
-                          Framework**             redesigns unnecessary
-                                                  work and Operational
-                                                  Noise
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
+| **Level** | **Framework** | **Abbreviation** | **Primary Role** |
+|---|---|---|---|
+| **Management Theory** | **Human Energy Economics** | **HEE** | Explains Human Energy as a strategic organizational resource and value-conversion mechanism. |
+| **Management System** | **Human Energy Management System** | **HEMS** | Operationalizes Human Energy management through an integrated system of complementary frameworks. |
+| **Measure** | **Human Energy Audit** | **HEA** | Measures and diagnoses Human Energy, Human Energy Loss, Operational Noise, Human Energy Leakage, capability, and related conditions. |
+| **Recover** | **Human Energy Recovery Framework** | **HERF** | Recovers Human Energy by reducing unnecessary demand, Operational Noise, and Human Energy Leakage. |
+| **Develop** | **Human Energy Development Plan** | **HEDP** | Develops Human Energy, individual capability, and organizational capability. |
+| **Enable** | **Human Energy Enablement** | **HEEn** | Enables Human Energy and capability through organizational systems, structures, resources, decision mechanisms, support, culture, and working conditions. |
+| **Implementation Mechanism** | **Operational Silence Framework** | **OSF** | Reduces unnecessary operational demand, interruptions, friction, and distractions. |
+| **Implementation Mechanism** | **5R Cascade Framework** | **5R** | Systematically removes, reduces, replaces, re-engineers, or retains work based on its value and necessity. |
 
 # Human Energy Management System (HEMS)
 
