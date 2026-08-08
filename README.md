@@ -1,9 +1,55 @@
 # Human Energy Economics (HEE)
 
-## A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy
+## A Management Theory for Expanding Sustainable Execution Capacity through Human Energy
 
-> **Protect Human Energy. Recover Human Energy. Develop Human Energy.**  
-> **Enable Human Energy. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
+> **Protect Human Energy. Recover Human Energy. Develop Human Energy.**
+> **Enable Human Energy. Expand Execution Capacity. Create Sustainable**
+> **Business Value.**
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Theory Statement](#theory-statement)
+- [Framework Position](#framework-position)
+- [Human Energy Management System (HEMS)](#human-energy-management-system-hems)
+- [HEE Ecosystem](#hee-ecosystem)
+- [What Is Human Energy Economics?](#what-is-human-energy-economics)
+- [What Is Human Energy?](#what-is-human-energy)
+- [Sustainable Business Value](#sustainable-business-value)
+- [Foundations of Human Energy Economics](#foundations-of-human-energy-economics)
+- [Core Constructs](#core-constructs)
+- [The Six Enablement Pillars](#the-six-enablement-pillars)
+- [The Four Laws of Human Energy Economics](#the-four-laws-of-human-energy-economics)
+- [Management Principles](#management-principles)
+- [Human Energy Value Chain](#human-energy-value-chain)
+- [Human Energy Lifecycle](#human-energy-lifecycle)
+- [Human Energy Economics Capacity Model](#human-energy-economics-capacity-model)
+- [Human Energy Metrics](#human-energy-metrics)
+- [Human Energy Audit (HEA)](#human-energy-audit-hea)
+- [Human Energy Recovery Framework (HERF)](#human-energy-recovery-framework-herf)
+- [Operational Silence Framework (OSF)](#operational-silence-framework-osf)
+- [5R Cascade Framework](#5r-cascade-framework)
+- [Human Energy Development Plan (HEDP)](#human-energy-development-plan-hedp)
+- [Human Energy Enablement (HEEn)](#human-energy-enablement-heen)
+- [Integrated HEMS Flow](#integrated-hems-flow)
+- [Human Energy Conversion Logic](#human-energy-conversion-logic)
+- [HEE Operating System](#hee-operating-system)
+- [HEE Operating Cycle](#hee-operating-cycle)
+- [Applications](#applications)
+- [Recommendations](#recommendations)
+- [Scope and Limitations](#scope-and-limitations)
+- [Human Energy Management Maturity Path](#human-energy-management-maturity-path)
+- [Human Energy Economics at a Glance](#human-energy-economics-at-a-glance)
+- [Research and Collaboration](#research-and-collaboration)
+- [Vision](#vision)
+- [Conclusion](#conclusion)
+- [Creator & Founder](#creator--founder)
+- [Citation](#citation)
+- [Connect](#connect)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
