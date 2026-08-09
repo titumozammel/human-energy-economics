@@ -1,8 +1,8 @@
+**Human Energy Economics (HEE) is a management theory that explains how organizations create Sustainable Business Value by systematically protecting, recovering, developing, enabling, and effectively utilizing Human Energy.**
+
 # Human Energy Economics (HEE)
 
 ## A Management Theory for Expanding Sustainable Execution Capacity through Human Energy
-
-**Human Energy Economics (HEE) is a management theory that explains how organizations create Sustainable Business Value by systematically protecting, recovering, developing, enabling, and effectively utilizing Human Energy.**
 
 > **Protect Human Energy. Recover Human Energy. Develop Human Energy.**  
 > **Enable Human Energy. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
@@ -38,7 +38,7 @@
 
 # Theory
 
-**Human Energy Economics (HEE)** is a systems-oriented management theory that explains how organizations can expand **Sustainable Execution Capacity** and create **Sustainable Business Value** by systematically protecting, recovering, developing, enabling, aligning, and effectively utilizing **Human Energy**.
+**Human Energy Economics (HEE)** is a systems-oriented management theory that explains how organizations can expand **Sustainable Execution Capacity** and create **Sustainable Business Value** by systematically protecting, recovering, developing, enabling, and effectively utilizing **Human Energy**.
 
 Traditional management has often emphasized:
 
@@ -56,27 +56,105 @@ Output
 
 HEE shifts the management question toward:
 
-> **“How can we grow, protect, recover, develop, and enable Human Energy so that greater and more sustainable execution becomes possible?”**
+> **“How can we protect, recover, develop, enable, and effectively utilize Human Energy so that greater and more sustainable execution becomes possible?”**
 
-HEE therefore treats Human Energy as a **dynamic organizational resource whose capacity can be protected, recovered, developed, enabled, and renewed**, rather than simply as an input to be consumed.
+HEE does not reject productivity, efficiency, speed, or performance. It challenges the assumption that sustainable performance should primarily be achieved by continuously increasing pressure, workload, effort, or working intensity.
 
-The broader economic distinction is:
-
-> **Traditional Management asks:**  
-> *“How do we extract more output from the same input?”*
->
-> **Human Energy Economics asks:**  
-> *“How do we develop the capacity of the input itself so that it can generate greater sustainable output?”*
-
-HEE does not reject productivity, efficiency, speed, or performance. It challenges the assumption that these outcomes must primarily come from increasing pressure, effort, workload, or working intensity.
-
-Instead, HEE focuses on the conditions through which Human Energy becomes capability, execution capacity, and Sustainable Business Value.
+Instead, HEE focuses on the conditions through which **Human Energy becomes capability, capability becomes application, application becomes execution, and execution creates Sustainable Business Value.**
 
 ---
 
-## Human Energy Defined
+## Knowledge Is Not Power; Application of Knowledge Is Power
 
-**Human Energy** is the combined **cognitive, emotional, and physical capacity** that enables individuals and organizations to transform knowledge, technology, capital, processes, and other resources into productive execution and Sustainable Business Value.
+A central proposition of Human Energy Economics is:
+
+> **“Knowledge is not power. The application of knowledge is power.”**
+
+Knowledge creates **potential**. It does not automatically create execution or value.
+
+Knowledge becomes organizationally valuable when it is developed into capability, supported by appropriate organizational conditions, and effectively applied through execution.
+
+The transformation can therefore be represented as:
+
+```text
+Knowledge
+   ↓
+Capability
+   ↓
+Enablement
+   ↓
+Application
+   ↓
+Execution
+   ↓
+Sustainable Business Value
+```
+
+This distinction is fundamental to HEE.
+
+An organization may possess extensive knowledge, highly educated people, advanced technology, significant financial resources, and sophisticated processes. Yet these resources do not create value automatically.
+
+They must be **applied**.
+
+Therefore:
+
+> **Knowledge provides potential.**  
+> **Capability provides the ability to apply knowledge.**  
+> **Enablement creates the conditions for application.**  
+> **Application creates execution.**  
+> **Execution creates value.**
+
+---
+
+## Individual Capability and Organizational Capability
+
+Capability exists at both the individual and organizational levels.
+
+### Individual Capability
+
+Individual Capability represents the knowledge, skills, competence, judgment, experience, decision capability, learning capacity, and other human capabilities that enable individuals to perform and contribute.
+
+### Organizational Capability
+
+Organizational Capability represents the organization's collective ability to coordinate people, processes, systems, technology, knowledge, resources, decisions, and routines to accomplish strategic and operational objectives.
+
+These two forms of capability are complementary.
+
+```text
+Individual Capability
+        +
+Organizational Capability
+        ↓
+Capability Available for Application
+        ↓
+Organizational Enablement
+        ↓
+Effective Application
+        ↓
+Sustainable Execution Capacity
+        ↓
+Sustainable Business Value
+```
+
+**Organizational Enablement does not replace capability.**
+
+It creates the organizational conditions through which individual and organizational capability can actually be applied.
+
+Therefore, HEE distinguishes between:
+
+> **Having capability**  
+> and  
+> **Being able to apply capability effectively.**
+
+This distinction explains the importance of **Human Energy Enablement (HEEn)**.
+
+---
+
+## Human Energy as the Value-Conversion Resource
+
+Human Energy is the dynamic resource through which people apply knowledge, capability, technology, capital, processes, and other organizational resources.
+
+**Human Energy** is the combined **cognitive, emotional, and physical capacity** that enables individuals and organizations to transform knowledge, capability, technology, capital, processes, and other resources into productive execution and Sustainable Business Value.
 
 Human Energy consists of:
 
@@ -93,9 +171,13 @@ Capital
 Processes
 Systems
 Resources
+Capability
       │
       ▼
 Human Energy
+      │
+      ▼
+Application
       │
       ▼
 Execution Capacity
@@ -105,6 +187,56 @@ Sustainable Business Value
 ```
 
 Human Energy therefore functions as a primary **value-conversion resource** within HEE.
+
+---
+
+## Traditional Management and Human Energy Economics
+
+The broader distinction is:
+
+> **Traditional Management asks:**  
+> *“How do we extract more output from the same input?”*
+
+> **Human Energy Economics asks:**  
+> *“How do we protect, recover, develop, enable, and effectively utilize the capacity of the input so that it can generate greater sustainable output?”*
+
+Traditional productivity logic can therefore be represented as:
+
+```text
+Existing Human Input
+        ↓
+Increase Effort
+        ↓
+Increase Speed
+        ↓
+Increase Work
+        ↓
+Increase Output
+```
+
+HEE proposes a different logic:
+
+```text
+Human Energy
+        ↓
+Protect
+        ↓
+Recover
+        ↓
+Develop
+        ↓
+Enable
+        ↓
+Apply Capability
+        ↓
+Expand Sustainable Execution Capacity
+        ↓
+Create Sustainable Business Value
+```
+
+The objective is not simply to obtain more output from existing Human Energy.
+
+The objective is to **increase the organization's capacity to create sustainable output without continuously degrading the Human Energy required for future execution.**
 
 ---
 
@@ -121,15 +253,15 @@ Human Energy therefore functions as a primary **value-conversion resource** with
 - capability development, and
 - sustainable organizational performance.
 
-The objective of HEE is not simply higher short-term productivity.
+The objective of HEE is therefore not simply higher short-term productivity.
 
-Its objective is to expand the organization's ability to create value **without continuously degrading the Human Energy and capability required to sustain that value creation.**
+Its objective is to expand the organization's ability to produce value **while maintaining and renewing the Human Energy and capability required to sustain future execution.**
 
 ---
 
-## Human Energy Value Transformation
+# Human Energy Value Transformation
 
-Human Energy may move through progressively higher states:
+Human Energy can move through progressively higher states:
 
 ```text
 Human Energy
@@ -140,121 +272,70 @@ Capability
       ↓
 Enablement
       ↓
-Sustainable Execution Capacity
+Application
+      ↓
+Execution Capacity
       ↓
 Sustainable Business Value
 ```
 
 Human Energy may consequently become:
 
-- **Lost Energy** — energy consumed without meaningful value creation.
-- **Recovered Energy** — energy restored by reducing friction, complexity, and operational leakage.
-- **Developed Capability** — Human Energy strengthened through learning, development, experience, and growth.
-- **Enabled Capability** — capability converted into effective action through organizational systems, resources, leadership, decisions, and working conditions.
-- **Sustainable Execution Capacity** — the sustained organizational ability to convert Human Energy and capability into effective execution.
+- **Lost Energy** — energy consumed without meaningful value creation;
+- **Recovered Energy** — energy restored by reducing friction, complexity, and operational leakage;
+- **Developed Capability** — Human Energy strengthened through learning, development, and growth;
+- **Enabled Capability** — capability supported by organizational systems, resources, leadership, decisions, and working conditions;
+- **Applied Capability** — capability effectively translated into action and execution;
+- **Execution Capacity** — the sustained ability of an organization to convert Human Energy and capability into effective execution; and
 - **Sustainable Business Value** — enduring value created through sustained execution.
 
 ---
 
-## Capability and Organizational Enablement
-
-HEE distinguishes between **Individual Capability**, **Organizational Capability**, and **Organizational Enablement**.
-
-### Individual Capability
-
-Individual Capability represents the knowledge, skills, competencies, judgment, experience, leadership capability, decision capability, resilience, and other capabilities possessed by individuals.
-
-### Organizational Capability
-
-Organizational Capability represents the organization's collective ability to coordinate people, processes, knowledge, technology, resources, systems, and routines to accomplish strategic objectives.
-
-### Organizational Enablement
-
-Organizational Enablement represents the organizational conditions that allow individual and organizational capability to be effectively applied.
-
-These conditions include:
-
-- resources,
-- structures,
-- processes,
-- decision mechanisms,
-- leadership support,
-- culture,
-- working environments,
-- tools,
-- authority,
-- coordination, and
-- execution conditions.
-
-The relationship is:
-
-```text
-        Individual Capability
-                 +
-        Organizational Capability
-                 ↓
-        Capability Potential
-                 ↓
-      Organizational Enablement
-                 ↓
-   Sustainable Execution Capacity
-                 ↓
-      Sustainable Business Value
-```
-
-The core principle is:
-
-> **Individual Capability and Organizational Capability provide the potential for execution. Organizational Enablement creates the conditions through which that potential becomes Sustainable Execution Capacity.**
-
-This distinction is fundamental to HEE.
-
-**HEDP develops capability. HEEn enables capability. Sustainable Execution Capacity emerges when developed capability can be effectively applied within enabling organizational conditions.**
-
----
-
-## The Human Energy Value Cycle
+# The Human Energy Value Cycle
 
 The HEE transformation is not ultimately a one-way process.
 
-Because HEE is concerned with **sustainable** value creation, Sustainable Business Value can create resources and conditions for continued investment in Human Energy.
+Because HEE is concerned with **sustainable** value creation, Sustainable Business Value can create resources and conditions for continued investment in Human Energy, capability, and organizational enablement.
 
 ```text
 Protect & Recover
-        ↓
+       ↓
 Develop & Enable
-        ↓
+       ↓
+Apply Capability
+       ↓
 Execute
-        ↓
+       ↓
 Create Sustainable Business Value
-        ↓
+       ↓
 Reinvest & Renew
-        ↓
+       ↓
 Protect & Recover
 ```
 
-This creates a reinforcing value cycle.
+This creates a reinforcing cycle.
 
 ### Value → Reinvestment
 
 Sustainable value can create capacity to invest in:
 
 - better systems,
-- better tools,
+- improved tools,
 - learning,
-- resources,
-- working conditions,
-- organizational improvements, and
-- capability development.
-
-### Reinvestment → Expanded Human Energy Capacity
-
-Better organizational conditions can support:
-
-- recovery,
 - capability development,
-- effective enablement,
-- stronger execution, and
-- future Human Energy capacity.
+- resources,
+- working conditions, and
+- organizational improvements.
+
+### Reinvestment → Expanded Capacity
+
+Better conditions can support:
+
+- Human Energy recovery,
+- capability development,
+- organizational enablement,
+- effective application, and
+- stronger execution capacity.
 
 Thus, HEE is not merely a linear Human Energy-to-Value model.
 
@@ -262,33 +343,48 @@ It is a **renewable value-creation system** in which value can be reinvested to 
 
 ---
 
-## As-Is and To-Be
+# As-Is and To-Be
 
-The **As-Is state** represents the organization's current condition. Human Energy and capability may exist, but part of that potential may remain unrealized because of energy leakage, capability gaps, organizational barriers, weak enablement, or ineffective execution conditions.
+The **As-Is state** represents the organization's current condition.
 
-The **To-Be state** represents the desired future condition: an organization in which Human Energy is protected, recovered, developed, enabled, and effectively converted into Sustainable Execution Capacity and Sustainable Business Value.
+Human Energy, knowledge, and capability may exist, but part of that potential may remain unrealized because of:
+
+- Human Energy Leakage,
+- capability gaps,
+- organizational barriers,
+- weak enablement,
+- ineffective processes,
+- unclear decisions,
+- insufficient resources, or
+- poor execution conditions.
+
+The **To-Be state** represents the desired future condition:
+
+> An organization in which Human Energy is protected, recovered, developed, enabled, and effectively applied to expand Sustainable Execution Capacity and create Sustainable Business Value.
+
+The transformation is therefore:
 
 ```text
-As-Is
+AS-IS
   ↓
 HEE Transformation
   ↓
-To-Be
+TO-BE
 ```
 
 **To-Be is a desired organizational condition, not another stage in the value-creation cycle.**
 
 ---
 
-## Fundamental Proposition
+# Fundamental Proposition
 
-> **Organizations create sustainable value not simply by making people work harder and faster, but by increasing their capacity to protect, recover, develop, enable, and effectively utilize Human Energy.**
+> **Organizations create sustainable value not simply by making people work harder and faster, but by increasing their capacity to protect, recover, develop, enable, and effectively utilize Human Energy and apply capability through execution.**
 
 In this sense:
 
 > **Traditional productivity logic seeks to extract more from existing input.**
->
-> **Human Energy Economics seeks to develop the capacity of the input itself.**
+
+> **Human Energy Economics seeks to develop the capacity of the input itself and create the conditions through which that capacity can be effectively applied.**
 
 ### Signature Principle
 
@@ -306,51 +402,56 @@ In this sense:
 | **Recover** | **Human Energy Recovery Framework** | **HERF** | Recovers Human Energy by reducing unnecessary demand, Operational Noise, and Human Energy Leakage. |
 | **Develop** | **Human Energy Development Plan** | **HEDP** | Develops Human Energy, Individual Capability, and Organizational Capability. |
 | **Enable** | **Human Energy Enablement** | **HEEn** | Enables Human Energy and capability through organizational systems, structures, resources, decision mechanisms, support, culture, and working conditions. |
-| **Implementation Mechanism** | **Operational Silence Framework** | **OSF** | Reduces unnecessary operational demand, interruptions, friction, and distractions within the Human Energy Recovery pathway. |
-
-The **5R Cascade Framework** operates as an additional implementation mechanism within the recovery pathway:
-
-> **Remove → Reduce → Replace → Re-engineer → Retain**
-
-It systematically evaluates work based on its value, necessity, and contribution.
+| **Implementation Mechanism** | **Operational Silence Framework** | **OSF** | Reduces unnecessary operational demand, interruptions, friction, and distractions as an implementation mechanism within Human Energy Recovery. |
 
 ---
 
 # HEE Ecosystem
 
 ```text
-                 HUMAN ENERGY ECONOMICS
-                          (HEE)
-                   Management Theory
-                          │
-                          ▼
-             HUMAN ENERGY MANAGEMENT SYSTEM
-                        (HEMS)
-                          │
-        ┌─────────────────┼─────────────────┐
-        │                 │                 │
-        ▼                 ▼                 ▼
-       HEA               HERF              HEDP
-     Measure            Recover           Develop
-        │                 │                 │
-        │            ┌────┴────┐            │
-        │            │         │            │
-        │            ▼         ▼            │
-        │           OSF       5R            │
-        │        Operational  Cascade        │
-        │         Silence    Framework       │
-        │            │         │             │
-        └────────────┴────┬────┴─────────────┘
-                          │
-                          ▼
-                        HEEn
-                        Enable
-                          │
-                          ▼
+                    HUMAN ENERGY ECONOMICS
+                             (HEE)
+                      Management Theory
+                             │
+                             ▼
+              HUMAN ENERGY MANAGEMENT SYSTEM
+                           (HEMS)
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+         HEA                HERF               HEDP
+       Measure             Recover            Develop
+          │                  │                  │
+          │             ┌────┴────┐             │
+          │             │         │             │
+          │             ▼         ▼             │
+          │            OSF       5R              │
+          │       Operational   Cascade          │
+          │        Silence     Framework         │
+          │             │         │              │
+          └─────────────┴────┬────┴──────────────┘
+                             │
+                             ▼
+                           HEEn
+                           Enable
+                             │
+                             ▼
+              Individual Capability
+                         +
+              Organizational Capability
+                             │
+                             ▼
+                   Organizational Enablement
+                             │
+                             ▼
+                    Effective Application
+                             │
+                             ▼
               Sustainable Execution Capacity
-                          │
-                          ▼
-                Sustainable Business Value
+                             │
+                             ▼
+                  Sustainable Business Value
 ```
 
 HEA, HERF, HEDP, and HEEn are complementary rather than competing frameworks.
@@ -365,11 +466,20 @@ HEA, HERF, HEDP, and HEEn are complementary rather than competing frameworks.
 
 Burnout is the progressive depletion of Human Energy resulting from prolonged physical, cognitive, and emotional demands without adequate recovery.
 
-Burnout can reduce cognitive capacity, emotional resilience, physical stamina, attention, decision quality, and Sustainable Capacity.
+Burnout can reduce:
+
+- cognitive capacity,
+- emotional resilience,
+- physical stamina,
+- attention,
+- decision quality, and
+- Sustainable Capacity.
+
+---
 
 ## Operational Noise
 
-Operational Noise is unnecessary organizational friction that consumes Human Energy without creating proportional business value.
+**Operational Noise** is unnecessary organizational friction that consumes Human Energy without creating proportional business value.
 
 It can originate from:
 
@@ -388,9 +498,33 @@ It can originate from:
 
 Operational Noise can be viewed through three dimensions:
 
-- **Structural Noise** — excessive approval layers, organizational complexity, inefficient workflows, duplicated responsibilities, unclear accountability.
-- **Communication Noise** — unnecessary meetings, excessive email, redundant reporting, communication overload, excessive coordination.
-- **Cognitive Noise** — constant interruptions, context switching, unclear priorities or roles, recurring problems, excessive cognitive load, fragmented attention.
+### Structural Noise
+
+- excessive approval layers,
+- organizational complexity,
+- inefficient workflows,
+- duplicated responsibilities,
+- unclear accountability.
+
+### Communication Noise
+
+- unnecessary meetings,
+- excessive email,
+- redundant reporting,
+- communication overload,
+- excessive coordination.
+
+### Cognitive Noise
+
+- constant interruptions,
+- context switching,
+- unclear priorities,
+- unclear roles,
+- recurring problems,
+- excessive cognitive load,
+- fragmented attention.
+
+---
 
 ## Human Energy Leakage
 
@@ -416,6 +550,8 @@ Organizational Conditions
  Reduced Sustainable Capacity
 ```
 
+---
+
 ## Enablement Gap
 
 The **Enablement Gap** is the difference between the Human Energy and capability available within an organization and the execution capacity that is actually realized.
@@ -423,13 +559,13 @@ The **Enablement Gap** is the difference between the Human Energy and capability
 ```text
 Available Human Energy
         ↓
-Individual Capability
-        +
-Organizational Capability
+Available Capability
         ↓
 Organizational Conditions
         ↓
 Enabled or Constrained
+        ↓
+Effective Application
         ↓
 Realized Sustainable Execution Capacity
 ```
@@ -457,25 +593,31 @@ The gap can arise from:
 
 Every organization depends on Human Energy to transform resources into results.
 
-Knowledge does not execute itself. Technology does not create value by itself. Capital does not implement strategy by itself. Processes do not improve themselves.
+Knowledge does not execute itself.
 
-**Human Energy is required to convert these resources into meaningful organizational outcomes.**
+Technology does not create value by itself.
+
+Capital does not implement strategy by itself.
+
+Processes do not improve themselves.
+
+**Human Energy is required to convert knowledge, capability, technology, capital, processes, and other resources into meaningful organizational outcomes.**
 
 When Human Energy declines:
 
-- execution can slow,
+- execution slows,
 - decision quality may decline,
-- innovation can decrease,
-- collaboration can weaken,
-- resilience can decline, and
-- Sustainable Capacity can be reduced.
+- innovation decreases,
+- collaboration weakens,
+- resilience declines, and
+- Sustainable Capacity is reduced.
 
 When Human Energy is protected, recovered, developed, and enabled:
 
-- Sustainable Capacity can expand,
-- Execution Capacity can improve,
-- organizational resilience can increase,
-- capability can be more effectively utilized, and
+- Sustainable Capacity expands,
+- Execution Capacity improves,
+- organizational resilience increases,
+- capability becomes more effectively utilized, and
 - Sustainable Business Value can increase.
 
 Organizations that ignore Human Energy risk degrading a primary value-conversion resource.
@@ -488,7 +630,7 @@ Organizations that invest in Human Energy can create a compounding advantage.
 
 ## 1. Resource Enablement
 
-Ensure that people have appropriate resources required for effective execution.
+Ensure that people have the resources required for effective execution.
 
 Examples include:
 
@@ -497,7 +639,7 @@ Examples include:
 - technology,
 - staffing,
 - budget,
-- time, and
+- time,
 - infrastructure.
 
 ## 2. Structural Enablement
@@ -510,7 +652,7 @@ This includes:
 - responsibilities,
 - accountability,
 - organizational design,
-- process clarity, and
+- process clarity,
 - coordination mechanisms.
 
 ## 3. Cultural Enablement
@@ -522,7 +664,7 @@ Create a culture that supports:
 - learning,
 - accountability,
 - empowerment,
-- continuous improvement, and
+- continuous improvement,
 - sustainable performance.
 
 ## 4. Decision Enablement
@@ -535,7 +677,7 @@ This includes:
 - decision ownership,
 - appropriate authority,
 - decision speed,
-- decision quality, and
+- decision quality,
 - escalation mechanisms.
 
 ## 5. Support Enablement
@@ -548,7 +690,7 @@ This includes:
 - managerial support,
 - functional support,
 - technical support,
-- learning support, and
+- learning support,
 - problem-solving support.
 
 ## 6. Environmental Enablement
@@ -560,7 +702,7 @@ This includes:
 - physical environment,
 - digital environment,
 - psychological environment,
-- workflow environment, and
+- workflow environment,
 - collaboration environment.
 
 ---
@@ -569,7 +711,7 @@ This includes:
 
 ## 1. Law of Human Energy Conversion
 
-Human Energy converts organizational resources into Sustainable Business Value.
+Human Energy converts organizational resources and capability into application, execution, and Sustainable Business Value.
 
 ## 2. Law of Human Energy Degradation
 
@@ -603,15 +745,17 @@ Eliminate unnecessary work before attempting to optimize it.
 
 > **5R Cascade Framework — Remove, Reduce, Replace, Re-engineer, Retain.**
 
+The 5R mechanism systematically evaluates work according to its value and necessity.
+
 ## 4. Recovery Precedes Sustainable Performance
 
 Recover Human Energy before continuously increasing workload or performance pressure.
 
 ## 5. Development and Enablement Convert Potential into Execution
 
-Development strengthens Individual Capability and Organizational Capability.
+Development strengthens capability.
 
-Enablement creates the organizational conditions through which capability can be effectively applied.
+Enablement creates the organizational conditions through which capability can be applied effectively.
 
 > **Develop capability. Enable application. Expand execution.**
 
@@ -627,31 +771,28 @@ The **Human Energy Management System (HEMS)** is the operational architecture th
 
 HEMS contains four complementary management frameworks:
 
-1. **Human Energy Audit (HEA)** — Measure Human Energy.
-2. **Human Energy Recovery Framework (HERF)** — Recover Human Energy.
-3. **Human Energy Development Plan (HEDP)** — Develop Human Energy and capability.
-4. **Human Energy Enablement (HEEn)** — Enable Human Energy and capability.
+1. **Human Energy Audit (HEA)** — Measure Human Energy
+2. **Human Energy Recovery Framework (HERF)** — Recover Human Energy
+3. **Human Energy Development Plan (HEDP)** — Develop Human Energy and capability
+4. **Human Energy Enablement (HEEn)** — Enable Human Energy and capability
 
-The integrated progression is:
+The resulting progression is:
 
 ```text
 MEASURE
-Human Energy Audit (HEA)
+Human Energy Audit
         ↓
 RECOVER
-Human Energy Recovery Framework (HERF)
+Human Energy Recovery Framework
         ↓
 DEVELOP
-Human Energy Development Plan (HEDP)
-        ↓
-Individual Capability
-+
-Organizational Capability
+Human Energy Development Plan
         ↓
 ENABLE
-Human Energy Enablement (HEEn)
+Human Energy Enablement
         ↓
-Organizational Enablement
+APPLY
+Individual + Organizational Capability
         ↓
 EXPAND
 Sustainable Execution Capacity
@@ -660,39 +801,93 @@ CREATE
 Sustainable Business Value
 ```
 
-The key relationship is:
+---
 
-> **Individual Capability and Organizational Capability provide the potential for execution. Organizational Enablement creates the conditions through which that potential becomes Sustainable Execution Capacity.**
+## Complementary Frameworks
 
-### Complementary Frameworks
+### Human Energy Audit (HEA)
 
-**HEA** provides the measurement and diagnostic foundation for Human Energy, Human Energy Loss, Operational Noise, Human Energy Leakage, recovery opportunities, capability constraints, alignment constraints, and organizational enablement conditions.
+HEA provides the measurement and diagnostic foundation for:
 
-**HERF** systematically recovers Human Energy degraded by Burnout, Operational Noise, Human Energy Leakage, and unnecessary organizational demand.
+- Human Energy,
+- Human Energy Loss,
+- Operational Noise,
+- Human Energy Leakage,
+- recovery opportunities,
+- capability constraints,
+- alignment constraints, and
+- organizational enablement conditions.
 
-**OSF** and the **5R Cascade Framework** operate as implementation mechanisms within the recovery pathway.
+### Human Energy Recovery Framework (HERF)
 
-**HEDP** develops Human Energy and capability through learning, experience, leadership development, decision capability, innovation, resilience, execution capability, continuous learning, and long-term development.
+HERF systematically recovers Human Energy degraded by:
 
-**HEEn** is the organizational enablement framework. It strengthens the conditions required for Human Energy, Individual Capability, and Organizational Capability to be effectively converted into execution.
+- Burnout,
+- Operational Noise,
+- Human Energy Leakage, and
+- unnecessary organizational demand.
+
+It focuses on reducing unnecessary energy consumption rather than asking people to work harder.
+
+### Operational Silence Framework (OSF)
+
+OSF is an implementation mechanism within the recovery pathway.
+
+It focuses on reducing unnecessary:
+
+- operational demand,
+- interruptions,
+- friction,
+- distractions, and
+- avoidable work.
+
+### 5R Cascade Framework
+
+The **5R Cascade Framework** is an implementation mechanism for systematically examining work:
+
+> **Remove → Reduce → Replace → Re-engineer → Retain**
+
+The purpose is to determine whether work should be eliminated, reduced, replaced, redesigned, or retained based on its value and necessity.
+
+### Human Energy Development Plan (HEDP)
+
+HEDP develops:
+
+- Human Energy capability,
+- Individual Capability,
+- Organizational Capability,
+- learning,
+- leadership capability,
+- decision capability,
+- innovation capability,
+- resilience,
+- execution capability, and
+- continuous learning.
+
+### Human Energy Enablement (HEEn)
+
+HEEn is the organizational enablement framework.
+
+It strengthens the conditions required for Human Energy and developed capability to be effectively applied.
 
 The complementary logic is:
 
 > **HERF restores Human Energy.**  
-> **HEDP develops capability.**  
-> **HEEn enables capability.**
+> **HEDP develops Individual and Organizational Capability.**  
+> **HEEn enables the application of capability.**  
+> **Application expands Sustainable Execution Capacity.**
 
-> **Capability without enablement creates unrealized potential.**
+Capability without enablement can remain unrealized potential.
 
 ---
 
 # Human Energy Capacity Model
 
-The Human Energy Economics Capacity Model provides a conceptual representation of how Human Energy, capability, enablement, and organizational conditions contribute to Sustainable Execution Capacity.
+The Human Energy Economics Capacity Model provides a conceptual representation of how Human Energy, capability, and organizational conditions contribute to Sustainable Execution Capacity.
 
 > **Note:** These equations are conceptual management models intended to describe organizational relationships. They are not presented as statistically validated predictive equations.
 
-## Human Energy
+### Human Energy
 
 ```text
 HE = PC × IA × DS
@@ -705,7 +900,7 @@ Where:
 - `IA` = Intensity Alignment
 - `DS` = Duration Sustainability
 
-## Human Energy Loss
+### Human Energy Loss
 
 ```text
 HEL = f(BI + ONI + HELg − RR)
@@ -719,7 +914,7 @@ Where:
 - `HELg` = Human Energy Leakage
 - `RR` = Recovery Rate
 
-## Recovered Human Energy
+### Recovered Human Energy
 
 ```text
 RHE = HE − HEL
@@ -729,70 +924,63 @@ Where:
 
 - `RHE` = Recovered Human Energy
 
-## Sustainable Capacity
+### Capability
 
-```text
-SC = RHE × CF × AF × XF
-```
-
-Where:
-
-- `SC` = Sustainable Capacity
-- `CF` = Capability Factor
-- `AF` = Alignment Factor
-- `XF` = Execution Factor
-
-## Total Sustainable Capacity
-
-```text
-TSC = H × SC
-```
-
-Where:
-
-- `TSC` = Total Sustainable Capacity
-- `H` = Effective Headcount
-
-### Capability–Enablement Relationship
-
-The relationship between capability and enablement is presented conceptually rather than as a numerical equation:
+Capability should be understood at two complementary levels:
 
 ```text
 Individual Capability
         +
 Organizational Capability
         ↓
-Capability Potential
-        ↓
-Organizational Enablement
-        ↓
-Sustainable Execution Capacity
+Capability Available for Application
 ```
 
-> **Capability creates potential. Enablement converts potential into execution capacity.**
+### Application and Enablement
 
-### Variable Definitions
+Organizational Enablement does not simply act as another additive component.
 
-| Symbol | Meaning |
-|---|---|
-| `HE` | Human Energy |
-| `PC` | Human Potential Capacity |
-| `IA` | Intensity Alignment |
-| `DS` | Duration Sustainability |
-| `HEL` | Human Energy Loss |
-| `BI` | Burnout Impact |
-| `ONI` | Operational Noise Impact |
-| `HELg` | Human Energy Leakage |
-| `RR` | Recovery Rate |
-| `RHE` | Recovered Human Energy |
-| `SC` | Sustainable Capacity |
-| `CF` | Capability Factor |
-| `AF` | Alignment Factor |
-| `XF` | Execution Factor |
-| `TSC` | Total Sustainable Capacity |
-| `H` | Effective Headcount |
+It creates the conditions through which available capability can be effectively applied.
 
-### Capacity Terminology
+```text
+Capability Available for Application
+                ↓
+     Organizational Enablement
+                ↓
+      Effective Application
+                ↓
+      Sustainable Execution
+```
+
+### Sustainable Execution Capacity
+
+The conceptual relationship is therefore:
+
+```text
+Human Energy
+     ↓
+Recovery
+     ↓
+Capability Development
+     ↓
+Individual Capability
+     +
+Organizational Capability
+     ↓
+Organizational Enablement
+     ↓
+Effective Application
+     ↓
+Sustainable Execution Capacity
+     ↓
+Sustainable Business Value
+```
+
+This relationship should be understood as a **causal and conceptual sequence**, not as a literal arithmetic equation.
+
+---
+
+## Capacity Terminology
 
 **Sustainable Capacity (SC)** is the productive capability that can be maintained without causing future degradation.
 
@@ -813,8 +1001,9 @@ Human Energy Economics becomes operational when Human Energy and its influencing
 | **Recovery** | Recovered Human Energy |
 | **Development** | Individual Capability and Organizational Capability growth |
 | **Enablement** | Enablement Gap and enablement conditions |
+| **Application** | Capability utilization and application effectiveness |
 | **Sustainable Capacity** | Sustainable Capacity |
-| **Execution** | Execution Capacity |
+| **Execution** | Execution Capacity / Sustainable Execution Capacity |
 | **Business Outcomes** | Sustainable Business Value |
 
 The **Human Energy Audit (HEA)** provides the measurement and diagnostic foundation for these metrics.
@@ -835,14 +1024,11 @@ Human Energy Recovery Framework
 DEVELOP
 Human Energy Development Plan
         ↓
-Individual Capability
-+
-Organizational Capability
-        ↓
 ENABLE
 Human Energy Enablement
         ↓
-Organizational Enablement
+APPLY
+Individual + Organizational Capability
         ↓
 EXPAND
 Sustainable Execution Capacity
@@ -851,7 +1037,9 @@ CREATE
 Sustainable Business Value
 ```
 
-This six-stage flow represents the integrated operating logic of HEE and HEMS.
+The central transformation logic is:
+
+> **Measure → Recover → Develop → Enable → Apply → Expand → Create**
 
 ---
 
@@ -861,34 +1049,91 @@ Human Energy Economics can be applied across multiple organizational disciplines
 
 ## Operational Excellence
 
-HEE supports process simplification, Operational Noise reduction, workflow improvement, unnecessary work elimination, Human Energy Recovery, capability development, and organizational enablement.
+HEE supports:
+
+- process simplification,
+- Operational Noise reduction,
+- workflow improvement,
+- unnecessary work elimination,
+- Human Energy Recovery,
+- capability development, and
+- organizational enablement.
 
 ## Organizational Design
 
-HEE supports role clarity, organizational simplicity, decision rights, accountability, coordination, and structural enablement.
+HEE supports:
+
+- role clarity,
+- organizational simplicity,
+- decision rights,
+- accountability,
+- coordination, and
+- structural enablement.
 
 ## Leadership
 
-HEE supports sustainable performance, Human Energy protection, leadership support, empowerment, decision clarity, and organizational resilience.
+HEE supports:
+
+- sustainable performance,
+- Human Energy protection,
+- leadership support,
+- empowerment,
+- decision clarity, and
+- organizational resilience.
 
 ## Strategy Execution
 
-HEE supports strategic alignment, execution effectiveness, decision speed, prioritization, capability utilization, and execution enablement.
+HEE supports:
+
+- strategic alignment,
+- execution effectiveness,
+- decision speed,
+- prioritization,
+- capability utilization, and
+- execution enablement.
 
 ## Digital and AI-Enabled Transformation
 
-HEE supports automation, reduction of repetitive work, cognitive load reduction, human-AI collaboration, capability development, digital enablement, and redirecting Human Energy toward higher-value work.
+HEE supports:
+
+- automation,
+- reduction of repetitive work,
+- cognitive load reduction,
+- human-AI collaboration,
+- capability development,
+- digital enablement, and
+- redirecting Human Energy toward higher-value work.
 
 Technology should therefore be evaluated not only according to productivity gains but also according to whether it:
 
 - reduces unnecessary Human Energy consumption,
 - strengthens capability,
-- enables execution, or
+- enables application,
+- improves execution, or
 - creates additional Operational Noise.
 
 ## Continuous Improvement
 
-HEE supports continuous improvement through measurement, recovery, development, enablement, execution, learning, and improvement.
+HEE supports continuous improvement through:
+
+```text
+Measure
+   ↓
+Recover
+   ↓
+Develop
+   ↓
+Enable
+   ↓
+Apply
+   ↓
+Execute
+   ↓
+Learn
+   ↓
+Improve
+   ↺
+```
 
 ## For Organizations
 
@@ -924,19 +1169,62 @@ Leaders should:
 
 ## For Human Resource Professionals
 
-HR professionals should integrate Human Energy into workforce planning, measurement, employee development, learning and development, assessment of organizational conditions, HEEn initiatives, and sustainable contribution.
+HR professionals should integrate Human Energy into:
+
+- workforce planning,
+- Human Energy measurement,
+- employee development,
+- learning and development,
+- assessment of organizational conditions,
+- HEEn initiatives, and
+- sustainable contribution.
 
 ## For Researchers
 
-Future research should investigate empirical validation of HEE, Human Energy measurement and loss, Operational Noise, Human Energy Leakage and Recovery, Human Energy Development, the Enablement Gap, Human Energy Enablement, the Six Enablement Pillars, Sustainable Capacity, Sustainable Execution Capacity, relationships between Human Energy and organizational performance, Human Energy in AI-enabled organizations, and cross-industry validation.
+Future research should investigate:
+
+- empirical validation of HEE,
+- Human Energy measurement,
+- Human Energy Loss,
+- Operational Noise,
+- Human Energy Leakage,
+- Human Energy Recovery,
+- Individual Capability,
+- Organizational Capability,
+- Human Energy Development,
+- the Enablement Gap,
+- Human Energy Enablement,
+- the Six Enablement Pillars,
+- Sustainable Capacity,
+- Sustainable Execution Capacity,
+- relationships between Human Energy and organizational performance,
+- Human Energy in AI-enabled organizations, and
+- cross-industry validation.
 
 ## For Educational Institutions
 
-Educational institutions can incorporate Human Energy Economics into management education, organizational behaviour, leadership, strategy, operations, organizational design, human resource management, organizational development, and digital transformation.
+Educational institutions can incorporate Human Energy Economics into:
+
+- management education,
+- organizational behaviour,
+- leadership,
+- strategy,
+- operations,
+- organizational design,
+- human resource management,
+- organizational development, and
+- digital transformation.
 
 ## For Policymakers
 
-Policymakers may consider supporting research into Human Energy Economics, sustainable work design, practices that reduce unnecessary workplace friction, long-term productivity through sustainable Human Energy management, and research into organizational enablement and Sustainable Execution Capacity.
+Policymakers may consider supporting research into:
+
+- Human Energy Economics,
+- sustainable work design,
+- practices that reduce unnecessary workplace friction,
+- long-term productivity through sustainable Human Energy management,
+- organizational enablement, and
+- Sustainable Execution Capacity.
 
 ---
 
@@ -955,15 +1243,17 @@ Organizations should implement HEE progressively:
        ↓
 5. Enable
        ↓
-6. Expand
+6. Apply
        ↓
-7. Create
+7. Expand
        ↓
-8. Continuously Improve
+8. Create
+       ↓
+9. Continuously Improve
        ↺
 ```
 
-The roadmap moves from recognizing Human Energy as a strategic resource through measurement, recovery, development, enablement, expansion of Sustainable Execution Capacity, value creation, and continuous improvement.
+The roadmap moves from recognizing Human Energy as a strategic resource through measurement, recovery, development, enablement, capability application, expansion of Sustainable Execution Capacity, value creation, and continuous improvement.
 
 ---
 
@@ -1006,6 +1296,8 @@ Development
    ↓
 Enablement
    ↓
+Application
+   ↓
 Sustainable Execution
 ```
 
@@ -1015,7 +1307,9 @@ Sustainable Execution
 
 Human Energy Economics is a conceptual management theory intended to explain how Human Energy contributes to Sustainable Execution Capacity and Sustainable Business Value.
 
-HEE does not attempt to explain every determinant of organizational performance. Market conditions, competition, macroeconomic conditions, regulation, industry structure, technology, financial conditions, organizational culture, and individual psychology may also influence organizational outcomes.
+HEE does not attempt to explain every determinant of organizational performance.
+
+Market conditions, competition, macroeconomic conditions, regulation, industry structure, technology, financial conditions, organizational culture, and individual psychology may also influence organizational outcomes.
 
 The Human Energy Economics Capacity Model is conceptual and should not currently be interpreted as a statistically validated predictive model.
 
@@ -1023,29 +1317,43 @@ Similarly, the Human Energy Enablement model and Enablement Gap require further 
 
 Future research should validate:
 
-- HEE constructs;
-- measurement instruments;
-- causal relationships;
-- Human Energy Enablement dimensions;
-- the Enablement Gap;
-- Sustainable Capacity;
-- Sustainable Execution Capacity; and
+- HEE constructs,
+- measurement instruments,
+- causal relationships,
+- Human Energy Enablement dimensions,
+- the Enablement Gap,
+- Individual Capability,
+- Organizational Capability,
+- Sustainable Capacity,
+- Sustainable Execution Capacity, and
 - relationships between Human Energy and Sustainable Business Value.
 
 ## Research Collaboration
 
-Human Energy Economics welcomes collaboration with researchers, business leaders, executives, consultants, organizational development professionals, HR leaders, operations leaders, digital transformation practitioners, strategy and execution specialists, educators, and organizations interested in sustainable execution.
+Human Energy Economics welcomes collaboration with:
+
+- researchers,
+- business leaders,
+- executives,
+- consultants,
+- organizational development professionals,
+- HR leaders,
+- operations leaders,
+- digital transformation practitioners,
+- strategy and execution specialists,
+- educators, and
+- organizations interested in sustainable execution.
 
 Potential collaboration areas include:
 
-- case studies;
-- pilot projects;
-- academic research;
-- measurement model development;
-- framework validation;
-- industry applications;
-- executive education;
-- organizational enablement research; and
+- case studies,
+- pilot projects,
+- academic research,
+- measurement model development,
+- framework validation,
+- industry applications,
+- executive education,
+- organizational enablement research, and
 - Sustainable Execution Capacity research.
 
 ---
@@ -1054,16 +1362,52 @@ Potential collaboration areas include:
 
 > **Create organizations where Human Energy is not only measured, protected, recovered, and developed—but also fully enabled through organizational systems that empower people to achieve sustainable execution.**
 
-Human Energy Economics establishes Human Energy as a strategic organizational resource through which knowledge, technology, capital, processes, and organizational systems are transformed into Sustainable Business Value.
+Human Energy Economics establishes Human Energy as a strategic organizational resource through which knowledge, capability, technology, capital, processes, and organizational systems can be transformed into application, execution, and Sustainable Business Value.
 
-HEE recognizes that sustainable organizational performance requires more than available people, capability, technology, or capital.
+HEE recognizes a fundamental distinction:
 
-Organizations must also create the conditions that protect, recover, develop, enable, and continuously renew the Human Energy and capability required for sustained execution.
+> **Knowledge is not power. The application of knowledge is power.**
+
+Knowledge provides potential.
+
+Capability provides the ability to apply knowledge.
+
+Organizational Enablement creates the conditions for application.
+
+Application creates execution.
+
+Execution creates Sustainable Business Value.
+
+Therefore:
+
+```text
+Knowledge
+    ↓
+Capability
+    ↓
+Enablement
+    ↓
+Application
+    ↓
+Execution
+    ↓
+Sustainable Business Value
+```
+
+Human Energy is the resource that enables this transformation.
 
 The HEE philosophy is therefore:
 
 > **Protect Human Energy. Recover Human Energy. Develop Human Energy.**  
-> **Enable Human Energy. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
+> **Enable Human Energy. Apply Capability. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
+
+### Core Principle
+
+> **Knowledge provides potential. Application creates power.**
+
+### Signature Principle
+
+> **Extraction depletes. Cultivation compounds.**
 
 ---
 
@@ -1094,7 +1438,7 @@ Creator of:
 
 # Citation
 
-**Md. Mozammel Hoque.** *Human Energy Economics (HEE): A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy.* Human Energy Economics (HEE), 2026.
+**Md Mozammel Hoque.** *Human Energy Economics (HEE): A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy.* Human Energy Economics (HEE), 2026.
 
 ---
 
