@@ -227,81 +227,16 @@ In this sense:
 
 # Framework Position
 
-  -----------------------------------------------------------------------
-  Level              Framework        Abbreviation     Primary Role
-  ------------------ ---------------- ---------------- ------------------
-  **Management       **Human Energy   **HEE**          Explains Human
-  Theory**           Economics**                       Energy as a
-                                                       strategic
-                                                       organizational
-                                                       resource and
-                                                       value-conversion
-                                                       mechanism.
+| Level                        | Framework                           | Abbreviation | Primary Role                                                                                                                                              |
+| ---------------------------- | ----------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Management Theory**        | **Human Energy Economics**          | **HEE**      | Explains Human Energy as a strategic organizational resource and value-conversion mechanism.                                                              |
+| **Management System**        | **Human Energy Management System**  | **HEMS**     | Operationalizes Human Energy management through an integrated system of complementary frameworks.                                                         |
+| **Measure**                  | **Human Energy Audit**              | **HEA**      | Measures and diagnoses Human Energy, Human Energy Loss, Operational Noise, Human Energy Leakage, capability, and related conditions.                      |
+| **Recover**                  | **Human Energy Recovery Framework** | **HERF**     | Recovers Human Energy by reducing unnecessary demand, Operational Noise, and Human Energy Leakage.                                                        |
+| **Develop**                  | **Human Energy Development Plan**   | **HEDP**     | Develops Human Energy, individual capability, and organizational capability.                                                                              |
+| **Enable**                   | **Human Energy Enablement**         | **HEEn**     | Enables Human Energy and capability through organizational systems, structures, resources, decision mechanisms, support, culture, and working conditions. |
+| **Implementation Mechanism** | **Operational Silence Framework**   | **OSF**      | Reduces unnecessary operational demand, interruptions, friction, and distractions as an implementation mechanism within Human Energy Recovery.            |
 
-  **Management       **Human Energy   **HEMS**         Operationalizes
-  System**           Management                        Human Energy
-                     System**                          management through
-                                                       an integrated
-                                                       system of
-                                                       complementary
-                                                       frameworks.
-
-  **Measure**        **Human Energy   **HEA**          Measures and
-                     Audit**                           diagnoses Human
-                                                       Energy, Human
-                                                       Energy Loss,
-                                                       Operational Noise,
-                                                       Human Energy
-                                                       Leakage,
-                                                       capability, and
-                                                       related
-                                                       conditions.
-
-  **Recover**        **Human Energy   **HERF**         Recovers Human
-                     Recovery                          Energy by reducing
-                     Framework**                       unnecessary
-                                                       demand,
-                                                       Operational Noise,
-                                                       and Human Energy
-                                                       Leakage.
-
-  **Develop**        **Human Energy   **HEDP**         Develops Human
-                     Development                       Energy, individual
-                     Plan**                            capability, and
-                                                       organizational
-                                                       capability.
-
-  **Enable**         **Human Energy   **HEEn**         Enables Human
-                     Enablement**                      Energy and
-                                                       capability through
-                                                       organizational
-                                                       systems,
-                                                       structures,
-                                                       resources,
-                                                       decision
-                                                       mechanisms,
-                                                       support, culture,
-                                                       and working
-                                                       conditions.
-
-  **Implementation   **Operational    **OSF**          Reduces
-  Mechanism**        Silence                           unnecessary
-                     Framework**                       operational
-                                                       demand,
-                                                       interruptions,
-                                                       friction, and
-                                                       distractions.
-
-  **Implementation   **5R Cascade     **5R**           Systematically
-  Mechanism**        Framework**                       removes, reduces,
-                                                       replaces,
-                                                       re-engineers, or
-                                                       retains work based
-                                                       on its value and
-                                                       necessity.
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 # HEE Ecosystem
 
