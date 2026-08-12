@@ -69,7 +69,7 @@ HEE therefore treats Human Energy as a **dynamic organizational resource whose c
 
 A central proposition of HEE is:
 
-> **Knowledge is not power. The application of knowledge creates power.**
+> **Knowledge is not power. Applied knowledge is power. Sustained execution of knowledge is enduring power.**
 
 However, effective application requires more than knowledge alone.
 
@@ -91,6 +91,8 @@ Organizational Capability
 Organizational Enablement
    ↓
 Effective Application
+   ↓
+Sustained Execution
    ↓
 Sustainable Execution Capacity
    ↓
