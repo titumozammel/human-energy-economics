@@ -73,9 +73,11 @@ A central proposition of HEE is:
 
 However, effective application requires more than knowledge alone.
 
-Knowledge must be understood. Understanding must be informed by judgment and experience. Wisdom guides what should be done, why it should be done, when it should be done, and how it should be applied. Capability enables effective action, while Human Energy provides the capacity to apply that capability. Organizational Enablement creates the conditions in which individual and organizational capability can actually be converted into execution.
+Knowledge must be understood. Understanding must be informed by judgment and experience. Wisdom guides what should be done, why it should be done, when it should be done, and how it should be applied. Capability enables effective action. **Human Energy provides the cognitive, emotional, and physical capacity required to apply that capability.** Organizational Enablement creates the conditions in which individual and organizational capability can actually be converted into effective application and sustained execution.
 
-The resulting logic is:
+### Knowledge-to-Application Logic
+
+The knowledge and capability progression is:
 
 ```text
 Knowledge
@@ -99,6 +101,32 @@ Sustainable Execution Capacity
 Sustainable Business Value
 ```
 
+**Human Energy is not simply another sequential stage in this chain. It is the value-conversion capacity that enables knowledge, wisdom, and capability to be effectively applied within organizational conditions.**
+
+### HEE Value-Conversion Logic
+
+The HEE value-conversion relationship can therefore be represented as:
+
+```text
+Knowledge + Understanding + Wisdom
+                ↓
+      Individual + Organizational Capability
+                ↓
+          Human Energy
+                +
+   Organizational Enablement
+                ↓
+      Effective Application
+                ↓
+        Sustained Execution
+                ↓
+   Sustainable Execution Capacity
+                ↓
+    Sustainable Business Value
+```
+
+This distinction is important: **knowledge creates potential, while Human Energy and capability enable that potential to be converted into application and execution.**
+
 ### The Distinction
 
 | Element | Meaning |
@@ -110,8 +138,9 @@ Sustainable Business Value
 | **Organizational Capability** | What the organization is collectively able to do |
 | **Human Energy** | The cognitive, emotional, and physical capacity to apply capability |
 | **Organizational Enablement** | The conditions that allow capability to be effectively applied |
-| **Application** | Knowledge, wisdom, and capability translated into action |
-| **Execution Capacity** | The ability to consistently convert capability and Human Energy into effective execution |
+| **Effective Application** | Knowledge, wisdom, and capability translated into meaningful action |
+| **Sustained Execution** | Continued conversion of effective application into results over time |
+| **Sustainable Execution Capacity** | The ability to consistently execute priorities over time while maintaining the Human Energy and capability required for continued execution |
 | **Sustainable Business Value** | Enduring value created through sustained execution |
 
 Thus:
@@ -119,9 +148,10 @@ Thus:
 > **Knowledge creates potential.**  
 > **Wisdom guides application.**  
 > **Capability enables action.**  
-> **Human Energy drives application.**  
+> **Human Energy enables application.**  
 > **Organizational Enablement makes effective application possible.**  
-> **Execution converts application into Sustainable Business Value.**
+> **Sustained execution creates enduring power.**  
+> **Sustainable execution creates sustainable business value.**
 
 ---
 
@@ -201,10 +231,16 @@ Resources
 Human Energy + Capability
       │
       ▼
+Organizational Enablement
+      │
+      ▼
 Effective Application
       │
       ▼
-Execution Capacity
+Sustained Execution
+      │
+      ▼
+Sustainable Execution Capacity
       │
       ▼
 Sustainable Business Value
@@ -1107,9 +1143,7 @@ HEE recognizes that:
 
 Therefore:
 
-> **Knowledge is not power. The application of knowledge creates power.**
->
-> **Wisdom determines how, when, and why knowledge should be applied.**
+> **Knowledge is not power. Applied knowledge is power. Sustained execution of knowledge is enduring power.**
 
 Sustainable organizational performance requires more than available people, knowledge, capability, technology, or capital. Organizations must create the conditions that protect, recover, develop, enable, and continuously renew the Human Energy required to apply capability and sustain execution.
 
