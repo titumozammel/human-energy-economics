@@ -224,8 +224,9 @@ are poorly connected.
 
 The central question is therefore:
 
-> **"Are the parts of the organization creating value together, or
-> simply creating value independently?"**
+> **"Are the organization’s Human Energy, knowledge, and capabilities
+> effectively connected and enabled for sustained execution—or are they
+> operating independently?"**
 
 HEE distinguishes between **individual or functional productivity** and
 **collective organizational value creation**.
@@ -316,8 +317,9 @@ Sustainable Business Value
 
 ### A Core HEE Question
 
-> **"Are the parts of the organization creating value together, or
-> simply creating value independently?"**
+> **"Are the organization’s Human Energy, knowledge, and capabilities
+> effectively connected and enabled for sustained execution—or are they
+> operating independently?"**
 
 HEE therefore considers **organizational connection and enablement**
 essential to converting distributed Human Energy and capability into
