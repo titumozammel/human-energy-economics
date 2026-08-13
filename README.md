@@ -626,82 +626,71 @@ This question highlights a central HEE distinction: individual or functional pro
 
 # Framework Position
 
-  -------------------------------------------------------------------------
-  Level              Framework         Abbreviation      Primary Role
-  ------------------ ----------------- ----------------- ------------------
-  **Management       **Human Energy    **HEE**           Explains Human
-  Theory**           Economics**                         Energy as a
-                                                         strategic
-                                                         organizational
-                                                         resource and
-                                                         value-conversion
-                                                         mechanism.
+Human Energy Economics (HEE) is the overarching management theory. The Human Energy Management System (HEMS) operationalizes the theory through four complementary management frameworks: HEA, HERF, HEDP, and HEEn. The Operational Silence Framework (OSF) and 5R Cascade Framework serve as implementation mechanisms within the recovery pathway.
 
-  **Management       **Human Energy    **HEMS**          Operationalizes
-  System**           Management                          Human Energy
-                     System**                            management through
-                                                         an integrated
-                                                         system of
-                                                         complementary
-                                                         frameworks.
+| Level | Framework | Abbreviation | Primary Role |
+|---|---|---|---|
+| **Management Theory** | **Human Energy Economics** | **HEE** | Explains Human Energy as a strategic organizational resource and a mechanism for converting capability into effective application, Sustainable Execution Capacity, and Sustainable Business Value. |
+| **Management System** | **Human Energy Management System** | **HEMS** | Operationalizes Human Energy management through an integrated system of complementary frameworks. |
+| **Measure** | **Human Energy Audit** | **HEA** | Measures and diagnoses Human Energy, Human Energy Loss, Operational Noise, Human Energy Leakage, capability, and related organizational conditions. |
+| **Recover** | **Human Energy Recovery Framework** | **HERF** | Recovers Human Energy by reducing unnecessary demand, Operational Noise, Human Energy Leakage, and other sources of energy loss. |
+| **Develop** | **Human Energy Development Plan** | **HEDP** | Develops Human Energy, individual capability, and organizational capability through learning, experience, and continuous development. |
+| **Enable** | **Human Energy Enablement** | **HEEn** | Creates the organizational conditions required for Human Energy and capability to be effectively applied through systems, structures, resources, decision mechanisms, support, culture, and working conditions. |
+| **Implementation Mechanism** | **Operational Silence Framework** | **OSF** | Reduces unnecessary operational demand, interruptions, friction, and distractions as an implementation mechanism within Human Energy Recovery. |
+| **Implementation Mechanism** | **5R Cascade Framework** | **5R** | Provides a systematic approach for addressing unnecessary operational demand through **Remove → Reduce → Replace → Re-engineer → Retain**. |
 
-  **Measure**        **Human Energy    **HEA**           Measures and
-                     Audit**                             diagnoses Human
-                                                         Energy, Human
-                                                         Energy Loss,
-                                                         Operational Noise,
-                                                         Human Energy
-                                                         Leakage,
-                                                         capability, and
-                                                         related
-                                                         conditions.
+## Framework Relationship
 
-  **Recover**        **Human Energy    **HERF**          Recovers Human
-                     Recovery                            Energy by reducing
-                     Framework**                         unnecessary
-                                                         demand,
-                                                         Operational Noise,
-                                                         and Human Energy
-                                                         Leakage.
+```text
+                    HUMAN ENERGY ECONOMICS
+                           (HEE)
+                    Management Theory
+                           ↓
+             HUMAN ENERGY MANAGEMENT SYSTEM
+                          (HEMS)
+                           ↓
+       ┌──────────┬──────────┬──────────┬──────────┐
+       ↓          ↓          ↓          ↓
+      HEA        HERF       HEDP       HEEn
+    Measure     Recover    Develop    Enable
+                  ↓
+             ┌────┴────┐
+             ↓         ↓
+            OSF       5R
+       Implementation Mechanisms
+             ↓
+       Human Energy Recovery
+             ↓
+    Individual + Organizational
+           Capability
+             ↓
+    Connection + Enablement
+             ↓
+     Effective Application
+             ↓
+      Sustained Execution
+             ↓
+ Sustainable Execution Capacity
+             ↓
+   Sustainable Business Value
+```
 
-  **Develop**        **Human Energy    **HEDP**          Develops Human
-                     Development                         Energy, individual
-                     Plan**                              capability, and
-                                                         organizational
-                                                         capability.
+## Framework-Level Distinction
 
-  **Enable**         **Human Energy    **HEEn**          Enables Human
-                     Enablement**                        Energy and
-                                                         capability through
-                                                         organizational
-                                                         systems,
-                                                         structures,
-                                                         resources,
-                                                         decision
-                                                         mechanisms,
-                                                         support, culture,
-                                                         and working
-                                                         conditions.
+The architecture can be understood at four levels:
 
-  **Implementation   **Operational     **OSF**           Reduces
-  Mechanism**        Silence                             unnecessary
-                     Framework**                         operational
-                                                         demand,
-                                                         interruptions,
-                                                         friction, and
-                                                         distractions as an
-                                                         implementation
-                                                         mechanism within
-                                                         Human Energy
-                                                         Recovery.
-  -------------------------------------------------------------------------
+- **HEE — Management Theory:** explains the role of Human Energy in organizational value creation and Sustainable Execution Capacity.
+- **HEMS — Management System:** provides the operating architecture for applying HEE.
+- **HEA, HERF, HEDP, and HEEn — Management Frameworks:** respectively measure, recover, develop, and enable Human Energy and capability.
+- **OSF and 5R — Implementation Mechanisms:** provide practical mechanisms for reducing unnecessary operational demand and recovering Human Energy within the recovery pathway.
 
-The **5R Cascade Framework** operates as an additional implementation
-mechanism within the recovery pathway:
+HEA, HERF, HEDP, and HEEn are complementary rather than competing frameworks.
 
-> **Remove → Reduce → Replace → Re-engineer → Retain**
+**HERF** addresses Human Energy recovery. **HEDP** develops individual and organizational capability. **HEEn** creates the organizational conditions that enable capability to be effectively applied. **HEA** provides the measurement and diagnostic foundation across these areas.
 
-------------------------------------------------------------------------
+**OSF** and the **5R Cascade Framework** support the recovery pathway by addressing unnecessary operational demand, operational noise, interruptions, friction, and recurring work.
+
+---
 
 # HEE Ecosystem
 
