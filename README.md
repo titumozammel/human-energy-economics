@@ -247,7 +247,7 @@ Sustainable Execution Capacity
 Sustainable Business Value
 ```
 
-### From Parts to System
+### From Capability to Collective Execution
 
 Individual capability creates **potential**.
 
