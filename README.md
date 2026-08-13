@@ -614,6 +614,14 @@ In this sense:
 
 ------------------------------------------------------------------------
 
+
+
+## HEE Signature Question
+
+> **Do individual and organizational capabilities connect and enable sustained execution—or remain productive in isolation?**
+
+This question highlights a central HEE distinction: individual or functional productivity does not automatically become organizational execution. Human Energy, capability, and organizational systems must be effectively connected and enabled for capability to become sustained execution and, ultimately, Sustainable Business Value.
+
 # Framework Position
 
   -------------------------------------------------------------------------
