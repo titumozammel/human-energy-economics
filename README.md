@@ -236,7 +236,7 @@ Individual Capability
         ↓
 Organizational Capability
         ↓
-Connection / Enablement
+Connection + Enablement
         ↓
 Effective Application
         ↓
@@ -1152,7 +1152,7 @@ Individual Capability
         +
 Organizational Capability
         ↓
-Connection / Enablement
+Connection + Enablement
         ↓
 Effective Application
         ↓
