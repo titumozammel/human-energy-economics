@@ -1,14 +1,14 @@
 # Human Energy Economics (HEE)
 
-## A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy, Capability, Connection and Organizational Enablement
+## A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy, Capability, Capability Interconnection, and Organizational Enablement
 
-> **Protect Human Energy. Recover Human Energy. Develop Human Energy. Connect Capability. Enable Application. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
+> **Protect Human Energy. Recover Human Energy. Develop Capability. Connect Capability. Enable Application. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
 
 ---
 
 ## About
 
-**Human Energy Economics (HEE)** is a systems-oriented management theory that explains how organizations can expand **Sustainable Execution Capacity** and create **Sustainable Business Value** by systematically protecting, recovering, developing, connecting, enabling, and effectively utilizing **Human Energy and organizational capability**.
+**Human Energy Economics (HEE)** is a systems-oriented management theory that explains how organizations can expand **Sustainable Execution Capacity** and create **Sustainable Business Value** by systematically protecting, recovering, developing, connecting, enabling, and effectively applying Human Energy and organizational capability.
 
 HEE treats **Human Energy as a strategic organizational resource and value-conversion capacity**.
 
@@ -26,13 +26,13 @@ Value emerges when:
 6. execution is sustained over time; and
 7. Sustainable Execution Capacity is expanded.
 
-HEE therefore extends traditional productivity thinking from the question:
+HEE therefore extends traditional productivity thinking from:
 
 > **"How can we make people work harder and faster?"**
 
 toward:
 
-> **"How can we protect, recover, develop, connect, enable, and effectively utilize Human Energy and capability so that greater and more sustainable execution becomes possible?"**
+> **"How can we protect, recover, develop, connect, enable, and effectively apply Human Energy and capability so that greater and more sustainable execution becomes possible?"**
 
 ---
 
@@ -42,15 +42,15 @@ toward:
 
 This leads to a central HEE principle:
 
-> **Human Energy enables action. Capability creates the ability to act. Capability Interconnection enables capabilities to work together. Organizational Enablement creates the conditions for application. Sustained execution creates Sustainable Execution Capacity. Sustainable Execution Capacity creates Sustainable Business Value.**
+> **Human Energy enables action. Capability creates the ability to act. Capability Interconnection enables distributed capabilities to work together. Organizational Enablement creates the conditions for application. Sustained execution creates Sustainable Execution Capacity. Sustainable Execution Capacity creates Sustainable Business Value.**
 
 ---
 
 # Why HEE Matters
 
-Organizations can contain:
+An organization can have:
 
-- highly capable people;
+- capable people;
 - capable departments;
 - strong processes;
 - advanced technology;
@@ -58,11 +58,11 @@ Organizations can contain:
 - experienced leaders; and
 - productive functions,
 
-and still struggle to create sustainable value.
+and still struggle as it grows.
 
-The problem is not necessarily that the individual parts are incapable.
+Not necessarily because the parts have become less capable.
 
-As organizations grow, the number of:
+But because growth increases the number of:
 
 - decisions;
 - dependencies;
@@ -71,15 +71,13 @@ As organizations grow, the number of:
 - coordination requirements;
 - systems;
 - priorities; and
-- cross-functional relationships
-
-also increases.
+- cross-functional relationships.
 
 What worked when an organization was smaller can become a source of friction at scale.
 
 A decision that once required one conversation may require several teams.
 
-A process that once moved between a few people may cross multiple functions.
+A process that once moved smoothly between a few people may cross multiple functions.
 
 A customer need that was once visible to everyone may become fragmented across teams, systems, processes, and priorities.
 
@@ -87,21 +85,21 @@ Therefore:
 
 > **An organization may become more interconnected without becoming more effectively connected.**
 
-This creates an important HEE distinction:
+This is a central HEE insight.
 
-> **Capability can exist without Capability Interconnection.**
+The challenge is not always to build more capability.
 
-And:
+Sometimes, it is to make the capabilities the organization already has **work better together**.
 
-> **Capability can be connected without being effectively enabled.**
+The strategic question becomes:
 
-These conditions create different forms of organizational unrealized potential.
+> **Are the parts of the organization creating value together, or simply creating value independently?**
 
 ---
 
 # The HEE Value-Conversion Logic
 
-HEE describes organizational value creation as a conversion process:
+HEE describes organizational value creation as a systems conversion process:
 
 ```text
 Knowledge
@@ -136,6 +134,8 @@ It is the cognitive, emotional, and physical capacity required to apply capabili
 Capability Interconnection connects distributed capability.
 
 Organizational Enablement creates the conditions in which connected capability can be effectively applied.
+
+Sustained execution converts effective application into Sustainable Execution Capacity.
 
 ---
 
@@ -176,6 +176,7 @@ Sustainable Execution Capacity creates Sustainable Business Value.
 | **Organizational Capability** | What the organization is collectively able to do |
 | **Human Energy** | Cognitive, emotional, and physical capacity required to apply capability |
 | **Capability Interconnection** | The ability to connect distributed capabilities so they can work together to create coordinated action and value |
+| **Capability Gap** | The gap between required capability and capability that actually exists |
 | **Capability Connection Gap** | The gap between capabilities that exist and the organization's ability to connect those capabilities effectively |
 | **Organizational Enablement** | Conditions that allow connected capability to be effectively applied and sustained |
 | **Enablement Gap** | The gap between available or connected capability and the execution capacity actually realized because organizational conditions constrain application |
@@ -238,9 +239,9 @@ Human Energy therefore functions as a primary **value-conversion resource** with
 
 Capability represents the ability to perform, solve problems, make decisions, innovate, execute, adapt, and create value.
 
-HEE recognizes two complementary forms:
+HEE recognizes two complementary forms.
 
-### Individual Capability
+## Individual Capability
 
 What an individual is able to do.
 
@@ -255,7 +256,7 @@ Examples include:
 - innovation capability; and
 - execution capability.
 
-### Organizational Capability
+## Organizational Capability
 
 What the organization is collectively able to do.
 
@@ -274,7 +275,41 @@ However:
 
 > **Capability that exists independently does not automatically become collective organizational capability.**
 
-This is where Capability Interconnection becomes important.
+This is where **Capability Interconnection** becomes essential.
+
+---
+
+# Capability Gap
+
+A **Capability Gap** exists when the capability required to achieve a desired outcome does not exist at the required level.
+
+Conceptually:
+
+```text
+Required Capability
+        ↓
+Existing Capability
+        ↓
+Capability Gap
+```
+
+Examples include:
+
+- required technical expertise does not exist;
+- leadership capability is insufficient;
+- decision capability is weak;
+- the organization lacks a necessary digital capability;
+- a team does not have the skills required for a new operating model.
+
+The management response to a Capability Gap is primarily **development, acquisition, recruitment, learning, or capability building**.
+
+But not every performance problem is a Capability Gap.
+
+Sometimes the capability already exists.
+
+It simply does not connect effectively.
+
+That is the **Capability Connection Gap**.
 
 ---
 
@@ -356,27 +391,47 @@ Sustained Execution
 Sustainable Business Value
 ```
 
+The central issue is:
+
+> **The organization may possess the capability required, but may not consistently make that capability work together.**
+
 ---
 
 # Capability Connection Gap
 
 ## Definition
 
-> **Capability Connection Gap is the gap between the capabilities that exist across individuals, teams, functions, and organizational systems and the organization's ability to connect those capabilities so that they can create value together.**
+> **Capability Connection Gap is the gap between the capabilities that exist across individuals, teams, functions, and organizational systems and the organization's ability to connect those capabilities so they can create value together.**
 
-This is a distinct concept from a traditional capability gap.
+This is different from both a Capability Gap and an Enablement Gap.
 
 ### Capability Gap
 
-> The capability required does not exist.
+> **The capability required does not exist.**
 
 ### Capability Connection Gap
 
-> The capability exists, but it does not connect effectively.
+> **The capability exists, but is fragmented, disconnected, or unable to work effectively with complementary capabilities.**
 
 ### Enablement Gap
 
-> Capability exists and may be connected, but organizational conditions prevent it from being effectively applied and sustained.
+> **Capability exists and may be connected, but organizational conditions prevent it from being effectively applied and sustained.**
+
+---
+
+# The Three-Gap Distinction
+
+| Gap | Core Problem | Example | Primary Management Response |
+|---|---|---|---|
+| **Capability Gap** | Required capability does not exist | A team lacks the expertise required | Develop, acquire, recruit, learn |
+| **Capability Connection Gap** | Capability exists but does not connect effectively | Capable departments optimize independently | Connect, integrate, coordinate, redesign interfaces |
+| **Enablement Gap** | Capability is connected but cannot be effectively applied | Teams have capability but lack authority or resources | Enable, empower, resource, redesign conditions |
+
+This distinction is important because the wrong diagnosis can lead to the wrong intervention.
+
+If the problem is a Capability Connection Gap, adding more capability may not solve the problem.
+
+If the problem is an Enablement Gap, developing more capability may not solve the problem either.
 
 ---
 
@@ -396,9 +451,59 @@ A Capability Connection Gap may exist when:
 - systems cannot exchange information effectively;
 - responsibility crosses organizational boundaries without clear ownership.
 
-The central issue is:
+Examples from the growth context include:
 
-> **The organization possesses capability, but cannot consistently make that capability work together.**
+```text
+Capability exists
+        ↓
+But is fragmented
+        ↓
+Independent optimization
+        ↓
+Weak connection
+        ↓
+Coordination friction
+        ↓
+Reduced collective value
+```
+
+The question is therefore not only:
+
+> **"What capabilities do we have?"**
+
+but also:
+
+> **"How effectively do our capabilities work together?"**
+
+---
+
+# Organizational Interconnectedness
+
+Organizational growth increases interconnectedness.
+
+Interconnectedness creates potential for greater collective capability, but it can also increase:
+
+- dependencies;
+- handoffs;
+- decision interfaces;
+- coordination requirements;
+- system dependencies;
+- communication requirements;
+- cross-functional friction.
+
+Therefore:
+
+> **Interconnectedness does not automatically create interconnection.**
+
+An organization can be highly interconnected in terms of dependencies while remaining poorly connected in terms of capability.
+
+This produces an important HEE distinction:
+
+> **Complexity describes how many relationships exist. Capability Interconnection describes how effectively those relationships allow capabilities to work together.**
+
+Growth therefore creates a management requirement that smaller organizations may not experience to the same degree:
+
+> **The organization must deliberately manage the connections between its capabilities as it becomes more interconnected.**
 
 ---
 
@@ -423,7 +528,22 @@ Typical causes:
 
 ---
 
-## 2. Capability Connection Gap
+## 2. Capability Gap
+
+The capability required to achieve a desired outcome does not exist at the required level.
+
+Typical causes:
+
+- missing skills;
+- insufficient experience;
+- inadequate expertise;
+- weak decision capability;
+- insufficient leadership capability;
+- missing organizational capabilities.
+
+---
+
+## 3. Capability Connection Gap
 
 Capability exists, but distributed capability cannot connect effectively.
 
@@ -441,7 +561,7 @@ Typical causes:
 
 ---
 
-## 3. Enablement Gap
+## 4. Enablement Gap
 
 Capability exists and may be connected, but organizational conditions prevent effective application.
 
@@ -458,35 +578,39 @@ Typical causes:
 - cultural barriers; and
 - execution constraints.
 
+The HEE diagnostic architecture therefore distinguishes **four different constraints** rather than treating every performance problem as a generic capability problem.
+
 ---
 
-# The Three-Gap Logic
+# The Four-Gap Logic
 
 ```text
-Available Human Energy
-        ↓
+Human Energy
+      ↓
 Human Energy Gap
-        ↓
-Available Capability
-        ↓
+      ↓
+Capability
+      ↓
+Capability Gap
+      ↓
+Capability Interconnection
+      ↓
 Capability Connection Gap
-        ↓
-Connected Capability
-        ↓
+      ↓
+Organizational Enablement
+      ↓
 Enablement Gap
-        ↓
-Enabled Capability
-        ↓
+      ↓
 Effective Application
-        ↓
+      ↓
 Sustained Execution
-        ↓
+      ↓
 Sustainable Execution Capacity
-        ↓
+      ↓
 Sustainable Business Value
 ```
 
-This provides HEE with a stronger diagnostic structure.
+These gaps are diagnostic constructs. They do not necessarily occur in a strict sequential order in every organizational situation.
 
 ---
 
@@ -566,29 +690,21 @@ Operational Noise can be viewed through four dimensions:
 
 ---
 
-# Organizational Interconnectedness
+# Sustainable Execution Capacity
 
-Organizational growth increases interconnectedness.
+**Sustainable Execution Capacity (SEC)** is the organization's ability to consistently execute priorities over time while maintaining the Human Energy and capability required for continued execution.
 
-Interconnectedness creates potential for greater collective capability, but it can also increase:
+HEE distinguishes:
 
-- dependencies;
-- handoffs;
-- decision interfaces;
-- coordination requirements;
-- system dependencies;
-- communication requirements;
-- cross-functional friction.
+| Term | Meaning |
+|---|---|
+| **Sustainable Capacity (SC)** | Productive capability that can be maintained without causing future degradation |
+| **Execution Capacity (EC)** | Capability actually utilized to execute organizational work at a given point in time |
+| **Sustainable Execution Capacity (SEC)** | The ability to consistently execute priorities over time while maintaining the Human Energy and capability required for continued execution |
 
-Therefore:
+The objective of HEE is not simply higher short-term productivity.
 
-> **Interconnectedness does not automatically create interconnection.**
-
-An organization can be highly interconnected in terms of dependencies while remaining poorly connected in terms of capability.
-
-This produces an important HEE distinction:
-
-> **Complexity describes how many relationships exist. Capability Interconnection describes how effectively those relationships allow capabilities to work together.**
+Its objective is to expand the organization's ability to produce value **without continuously degrading the Human Energy, capability, connections, and organizational conditions required to sustain future value creation.**
 
 ---
 
@@ -605,23 +721,7 @@ This produces an important HEE distinction:
 - capability development; and
 - sustainable organizational performance.
 
-The objective of HEE is not simply higher short-term productivity.
-
-Its objective is to expand the organization's ability to produce value **without continuously degrading the Human Energy, capability, and organizational conditions required to sustain future value creation.**
-
----
-
-# Sustainable Execution Capacity
-
-**Sustainable Execution Capacity (SEC)** is the organization's ability to consistently execute priorities over time while maintaining the Human Energy and capability required for continued execution.
-
-HEE distinguishes:
-
-| Term | Meaning |
-|---|---|
-| **Sustainable Capacity (SC)** | Productive capability that can be maintained without causing future degradation |
-| **Execution Capacity (EC)** | Capability actually utilized to execute organizational work at a given point in time |
-| **Sustainable Execution Capacity (SEC)** | The ability to consistently execute priorities over time while maintaining the Human Energy and capability required for continued execution |
+HEE therefore asks not only whether an organization creates value today, but whether it is preserving and expanding the capacity required to create value tomorrow.
 
 ---
 
@@ -633,9 +733,9 @@ Traditional management often emphasizes:
 
 HEE shifts the question toward:
 
-> **"How do we develop the capacity of the organization so that it can generate greater sustainable output?"**
+> **"How do we develop the organization's capacity to create greater sustainable value?"**
 
-The HEE logic is:
+The HEE management logic is:
 
 ```text
 Protect
@@ -676,25 +776,23 @@ HEE seeks to cultivate the organization's capacity to create sustainable value.
 
 # HEE Signature Question
 
-> **Do the organization's Human Energy and capabilities connect and enable sustained execution—or remain productive in isolation?**
+> **Are the organization's Human Energy and capabilities working together to create sustainable execution—or are valuable capabilities and energy remaining fragmented, constrained, or underutilized?**
 
-This question combines the central HEE problems of:
+A complementary enterprise-growth question is:
 
-- Human Energy;
-- capability;
-- connection;
-- enablement; and
-- sustainable execution.
+> **Are the parts of the organization creating value together, or simply creating value independently?**
 
 ---
 
 # HEE Signature Distinction
 
-> **Individual productivity creates contribution.**
+> **Capability creates the ability to act.**
 
-> **Capability Interconnection creates coordination.**
+> **Capability Interconnection enables distributed capabilities to work together.**
 
 > **Organizational Enablement creates the conditions for application.**
+
+> **Effective application converts capability into action.**
 
 > **Sustained execution creates Sustainable Execution Capacity.**
 
@@ -706,12 +804,13 @@ This question combines the central HEE problems of:
 
 The **Human Energy Management System (HEMS)** is the operational architecture through which the principles of HEE are applied.
 
-HEMS contains four complementary management frameworks:
+HEMS contains four complementary management frameworks and an explicit connection logic:
 
 1. **HEA — Human Energy Audit**
 2. **HERF — Human Energy Recovery Framework**
 3. **HEDP — Human Energy Development Plan**
-4. **HEEn — Human Energy Enablement**
+4. **Capability Interconnection**
+5. **HEEn — Human Energy Enablement**
 
 The HEMS operating flow is:
 
@@ -731,6 +830,9 @@ Capability Interconnection
 ENABLE
 Human Energy Enablement
        ↓
+APPLY
+Effective Application
+       ↓
 EXPAND
 Sustainable Execution Capacity
        ↓
@@ -738,7 +840,7 @@ CREATE
 Sustainable Business Value
 ```
 
-Connection is now made explicit because development does not automatically produce collective execution.
+Connection is made explicit because development does not automatically produce collective execution.
 
 ---
 
@@ -756,6 +858,7 @@ It may examine:
 - Human Energy Leakage;
 - recovery opportunities;
 - capability constraints;
+- Capability Gap;
 - Capability Connection Gap;
 - organizational connection;
 - Enablement Gap;
@@ -795,9 +898,28 @@ That requires Capability Interconnection and Organizational Enablement.
 
 ---
 
+## Capability Interconnection
+
+**Capability Interconnection connects distributed capabilities so that they can work together to create coordinated action and collective value.**
+
+It focuses on:
+
+- interfaces;
+- handoffs;
+- cross-functional relationships;
+- complementary capabilities;
+- system integration;
+- information flow;
+- resource connections;
+- decision connections;
+- process connections;
+- organizational boundaries.
+
+---
+
 ## HEEn — Human Energy Enablement
 
-**HEEn creates the organizational conditions required for Human Energy and capability to be connected, applied, and sustained.**
+**HEEn creates the organizational conditions required for Human Energy and capability to be effectively applied and sustained.**
 
 HEEn addresses:
 
@@ -830,8 +952,6 @@ Examples:
 - time;
 - infrastructure.
 
----
-
 ## 2. Structural Enablement
 
 Creates structures that support effective execution.
@@ -845,8 +965,6 @@ Includes:
 - process clarity;
 - coordination mechanisms.
 
----
-
 ## 3. Cultural Enablement
 
 Creates conditions supporting:
@@ -858,8 +976,6 @@ Creates conditions supporting:
 - empowerment;
 - continuous improvement;
 - sustainable performance.
-
----
 
 ## 4. Decision Enablement
 
@@ -874,8 +990,6 @@ Includes:
 - decision quality;
 - escalation mechanisms.
 
----
-
 ## 5. Support Enablement
 
 Ensures employees and teams receive support required for effective execution.
@@ -888,8 +1002,6 @@ Includes:
 - technical support;
 - learning support;
 - problem-solving support.
-
----
 
 ## 6. Environmental Enablement
 
@@ -907,7 +1019,7 @@ Includes:
 
 # Capability Interconnection as a Management Domain
 
-Capability Interconnection should be examined across several organizational interfaces.
+Capability Interconnection should be examined across critical organizational interfaces.
 
 ### Individual ↔ Individual
 
@@ -998,7 +1110,7 @@ Human Energy may therefore become:
 - **Lost Energy** — energy consumed without meaningful value creation;
 - **Recovered Energy** — energy restored by reducing friction, complexity, and operational leakage;
 - **Developed Capability** — capability strengthened through learning, experience, and development;
-- **Connected Capability** — individual and organizational capabilities linked so that they can work together;
+- **Connected Capability** — distributed capabilities linked so they can work together;
 - **Enabled Capability** — capability supported by organizational systems, resources, leadership, decisions, and working conditions;
 - **Effective Application** — knowledge, wisdom, and capability translated into meaningful action;
 - **Sustained Execution** — effective application maintained over time;
@@ -1093,17 +1205,13 @@ Human Energy and capability can be strengthened through continuous development, 
 
 # Additional HEE Principle: Capability Interconnection
 
-HEE extends its management logic with an additional principle:
+HEE extends its management logic with an explicit principle:
 
 > **Capability does not create collective value merely by existing. Distributed capability must be effectively interconnected before it can consistently create coordinated organizational value.**
 
-This means organizations should not ask only:
+Therefore:
 
-> **"What capabilities do we have?"**
-
-They should also ask:
-
-> **"How effectively do our capabilities work together?"**
+> **An organization should manage not only the capabilities it possesses, but also the connections through which those capabilities create value together.**
 
 ---
 
@@ -1207,6 +1315,10 @@ Expanded Sustainable Execution Capacity
 Sustainable Business Value
 ```
 
+The management implication is:
+
+> **Growth should not be managed only by adding capability. It should also be managed by strengthening the connections between capabilities.**
+
 ---
 
 # HEE Capacity Model
@@ -1306,7 +1418,9 @@ Capability Interconnection
 Connected Execution Potential
 ```
 
-The Capability Connection Gap represents the portion of available capability that remains unrealized because distributed capabilities are not effectively connected.
+The **Capability Gap** represents missing required capability.
+
+The **Capability Connection Gap** represents the portion of available capability that remains unrealized because distributed capabilities are not effectively connected.
 
 ---
 
@@ -1322,7 +1436,7 @@ Enabled or Constrained
 Effective Application
 ```
 
-The Enablement Gap represents the portion of connected capability that remains unrealized because organizational conditions do not adequately support effective application.
+The **Enablement Gap** represents the portion of connected capability that remains unrealized because organizational conditions do not adequately support effective application.
 
 ---
 
@@ -1351,7 +1465,7 @@ HEE becomes operational when its constructs and influencing conditions can be me
 | **Human Energy** | Available Human Energy |
 | **Human Energy Loss** | Burnout, Operational Noise, Human Energy Leakage |
 | **Recovery** | Recovered Human Energy |
-| **Development** | Individual Capability and Organizational Capability growth |
+| **Capability** | Capability Gap, Individual Capability, Organizational Capability |
 | **Connection** | Capability Connection Gap, connection effectiveness, handoff friction |
 | **Enablement** | Enablement Gap, enablement conditions |
 | **Application** | Capability utilization and effective application |
@@ -1375,9 +1489,9 @@ The **Human Energy Audit (HEA)** provides the measurement and diagnostic foundat
 ## Capability
 
 - What capabilities exist?
+- What capabilities are required?
 - What capabilities are missing?
-- Which capabilities are underutilized?
-- Where is capability concentrated?
+- Where is capability underutilized?
 
 ## Capability Interconnection
 
@@ -1429,7 +1543,7 @@ Yet some potential may remain unrealized because of:
 - Human Energy Loss;
 - Operational Noise;
 - Human Energy Leakage;
-- capability gaps;
+- Capability Gaps;
 - Capability Connection Gaps;
 - Enablement Gaps;
 - ineffective application; and
@@ -1467,7 +1581,7 @@ Execute
   ↓
 Expand
   ↓
-CREATE
+Create
   ↓
 TO-BE
 ```
@@ -1675,7 +1789,7 @@ HEE operates at several levels.
 
 | Level | Component | Primary Role |
 |---|---|---|
-| **Management Theory** | Human Energy Economics | Explains Human Energy, capability, connection, enablement, Sustainable Execution Capacity and Sustainable Business Value |
+| **Management Theory** | Human Energy Economics | Explains Human Energy, capability, Capability Interconnection, Organizational Enablement, Sustainable Execution Capacity and Sustainable Business Value |
 | **Management System** | HEMS | Operationalizes HEE |
 | **Measure** | HEA | Measures and diagnoses Human Energy and organizational conditions |
 | **Recover** | HERF | Recovers Human Energy by reducing unnecessary demand and leakage |
@@ -1867,6 +1981,7 @@ Further research is required to establish:
 - cross-industry applicability;
 - predictive validity;
 - organizational-level measurement;
+- Capability Gap measurement;
 - Capability Connection Gap measurement;
 - Enablement Gap measurement; and
 - relationships between HEE constructs and organizational performance.
@@ -1885,6 +2000,7 @@ Potential research areas include:
 - Capability;
 - Individual Capability;
 - Organizational Capability;
+- Capability Gap;
 - Capability Interconnection;
 - Capability Connection Gap;
 - Organizational Enablement;
@@ -1966,7 +2082,7 @@ Creator of:
 
 # Citation
 
-**Hoque, M. M.** *Human Energy Economics (HEE): A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy, Capability, Connection and Organizational Enablement.* Human Energy Economics (HEE), 2026.
+**Hoque, M. M.** *Human Energy Economics (HEE): A Management Theory for Expanding Sustainable Execution Capacity Through Human Energy, Capability, Capability Interconnection and Organizational Enablement.* Human Energy Economics (HEE), 2026.
 
 ---
 
@@ -2019,30 +2135,35 @@ Contributions and collaboration are welcome from researchers, practitioners, org
                                   │
           ┌──────────┬────────────┼────────────┬──────────┐
           ▼          ▼            ▼            ▼          ▼
-         HEA        HERF         HEDP         HEEn    Connection
-       Measure     Recover      Develop      Enable     Logic
-          │          │            │            │          │
-          │          │            │            │          ▼
-          │          │            │            │   Capability
-          │          │            │            │ Interconnection
-          │          │            │            │          │
-          └──────────┴────────────┴────────────┴──────────┤
-                                                         ▼
-                                             Effective Application
-                                                         │
-                                                         ▼
-                                               Sustained Execution
-                                                         │
-                                                         ▼
-                                          Sustainable Execution Capacity
-                                                         │
-                                                         ▼
-                                              Sustainable Business Value
-                                                         │
-                                                         ▼
-                                                  Reinvestment
-                                                         │
-                                                         └──────► Renewal
+         HEA        HERF         HEDP         CONNECT    HEEn
+       Measure     Recover      Develop      Capability  Enable
+                                               │
+                                               ▼
+                                      Capability
+                                    Interconnection
+                                               │
+                                               ▼
+                                      Enabled Capability
+                                               │
+                                               ▼
+                                      Effective Application
+                                               │
+                                               ▼
+                                       Sustained Execution
+                                               │
+                                               ▼
+                                  Sustainable Execution Capacity
+                                               │
+                                               ▼
+                                      Sustainable Business Value
+                                               │
+                                               ▼
+                                           Reinvestment
+                                               │
+                                               ▼
+                                            Renewal
+                                               │
+                                               └──────► Protect & Recover
 ```
 
 ## The HEE Management Logic
@@ -2065,9 +2186,11 @@ Contributions and collaboration are welcome from researchers, practitioners, org
 
 > **Where is Human Energy being lost?**
 
-> **Where is capability missing?**
+> **What capability is missing?**
 
 > **Where is capability disconnected?**
+
+> **Where are capable parts working independently instead of together?**
 
 > **Where is capability constrained by organizational conditions?**
 
@@ -2075,13 +2198,17 @@ Contributions and collaboration are welcome from researchers, practitioners, org
 
 > **Where can Sustainable Execution Capacity be expanded?**
 
-## The HEE Strategic Question
+## The HEE Strategic Questions
 
-> **Are the organization's Human Energy and capabilities working together to create sustainable execution—or are valuable capabilities and energy remaining fragmented, constrained, or underutilized?**
+> **Are the organization's Human Energy and capabilities working together to create sustainable execution?**
+
+> **Are the parts of the organization creating value together, or simply creating value independently?**
+
+> **As the organization grows, are its capabilities becoming better connected—or merely more interconnected?**
 
 ---
 
-## Conclusion
+# Conclusion
 
 Human Energy Economics proposes that sustainable organizational performance depends on more than having capable people, knowledge, technology, capital, resources, and efficient processes.
 
@@ -2104,5 +2231,11 @@ and **continuously renew the capacity required to create future value.**
 The central HEE philosophy is therefore:
 
 > **Protect Human Energy. Recover Human Energy. Develop Capability. Connect Capability. Enable Application. Expand Sustainable Execution Capacity. Create Sustainable Business Value.**
+
+And the central organizational-growth insight is:
+
+> **An organization does not become more capable merely by adding capable parts. As interconnectedness increases, sustainable performance increasingly depends on how effectively those parts work together.**
+
+> **Capability creates potential. Capability Interconnection creates collective possibility. Organizational Enablement makes application possible. Sustained execution creates capacity. Sustainable Execution Capacity creates Sustainable Business Value.**
 
 **Extraction depletes. Cultivation compounds.**
