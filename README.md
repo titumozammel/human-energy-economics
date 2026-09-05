@@ -1,8 +1,5 @@
-# HUMAN ENERGY ECONOMICS (HEE)
-
+# Human Energy Economics (HEE)
 ## A Theory of Organizational Capacity and Sustainable Execution
-
-### The science of stopping organizational drain.
 
 **Md. Mozammel Hoque**  
 *Independent Management Researcher*  
@@ -13,1677 +10,2244 @@
 
 ---
 
-# FRAMEWORK HIGHLIGHTS
+# HEE AT A GLANCE
 
-## 1. THE HEE IDENTITY
+## Core Idea
 
-| Element | HEE |
+> **Organizations do not sustain performance merely by possessing resources, people, or capability. They sustain it by preserving, developing, connecting, enabling, mobilizing, and applying those assets — repeatedly, without unnecessarily degrading the capacity required to do it again.**
+
+### The HEE Question
+
+> **What limits an organization’s ability to apply available capacity and capability sustainably?**
+
+### Signature Principle
+
+> **Extraction depletes. Cultivation compounds.**
+
+---
+
+## Six Execution Factors
+
+| Execution Factor | HEE Meaning |
 |---|---|
-| Framework | **Human Energy Economics (HEE)** |
-| Position | A conceptual management theory and economic lens |
-| Primary concern | Organizational capacity and its sustainable use |
-| Central resource | **Human Energy** |
-| Core distinction | **Capability = Potential. Capacity = Ability to mobilize and apply potential.** |
-| Core problem | Capacity that is depleted, constrained, disconnected, consumed unnecessarily, or prevented from becoming effective application |
-| Core question | **What limits application?** |
-| Core outcome | Sustainable Execution Capacity |
-| Ultimate outcome | Sustainable Business Value |
-| Strategic principle | **Extraction depletes. Cultivation compounds.** |
+| **Demand** | The load and activity placed on organizational capacity |
+| **Human Energy** | The cognitive, emotional, and physical capacity people bring to and require for work |
+| **Capability** | The potential to perform, solve, decide, or create |
+| **Connection** | Whether distributed capability can work together and reach the point of need |
+| **Decision Quality** | Whether scarce capacity is being directed effectively |
+| **Enablement** | Whether organizational conditions permit capability to be applied |
 
-HEE examines how organizations convert available:
+---
 
-**Human Energy + Capability + Connection + Decision Quality + Organizational Enablement**
+## Five Diagnostic Conditions
 
-into:
+| Condition | What it means | Primary response |
+|---|---|---|
+| **Depletion** | Capacity is unnecessarily consumed or degraded | **Recover** |
+| **Deficiency** | Required capability is missing | **Develop** |
+| **Disconnection** | Capability exists but is not effectively connected | **Connect** |
+| **Constraint** | Organizational conditions prevent application | **Enable** |
+| **Conversion Failure** | Relevant potential exists, but valuable application still fails | **Investigate** |
 
-**Effective Application → Execution → Sustainable Execution Capacity → Sustainable Business Value**
+---
+
+## Quick Diagnostic
+
+1. What is the objective?
+2. What demand is being placed on capacity?
+3. What Human Energy is required and being consumed?
+4. What capability exists?
+5. Is the relevant capability connected to the point of need?
+6. Are organizational conditions enabling application?
+7. Is Decision Quality directing scarce capacity appropriately?
+8. What is the limiting condition?
+9. What response is required?
+10. What happened to capacity as a result?
+
+---
+
+## Strategic Test
+
+> **Can the organization consistently deliver what it needs to deliver — without consuming the capacity required to do it again?**
+
+---
+
+## HEE Logic
+
+**CAPACITY → APPLICATION → EXECUTION → VALUE CREATION → LEARNING → ADAPTATION → RENEWED CAPACITY**
+
+### In Compact Form
+
+**One economic lens.**  
+**Two economic assets:** Human Energy · Organizational Capacity  
+**Six execution factors.**  
+**Five diagnostic conditions.**  
+**One central question:** *What limits application?*
+
+*“HEE at a Glance” is an orientation summary of the canonical framework. The numbered sections that follow constitute the full canonical treatment.*
+
+---
+
+# 1. THE HEE IDENTITY
+
+Human Energy Economics (HEE) is a management theory concerned with the economics of organizational capacity and sustainable execution.
+
+HEE examines how organizations preserve, develop, connect, enable, mobilize, and apply their available potential across successive execution cycles.
+
+| Dimension | HEE Identity |
+|---|---|
+| **Management Theory** | Human Energy Economics |
+| **Economic Assets** | Organizational Capacity · Human Energy |
+| **Execution Factors** | Demand · Human Energy · Capability · Connection · Decision Quality · Enablement |
+| **Diagnostic Conditions** | Depletion · Deficiency · Disconnection · Constraint · Conversion Failure |
+| **Diagnostic Responses** | Recover · Develop · Connect · Enable · Investigate |
+| **Strategic Context Lens** | 3C — Source · Dependency · Constraint |
+| **Governing Question** | What prevents the organization from turning its capacity and Human Energy into sustainable results? |
+| **Central Diagnostic Question** | What limits application? |
+| **Value Objective** | Increase valuable application and sustained execution without unnecessarily degrading future capacity |
+| **Cross-Cutting Principle** | Protect |
+| **Signature Principle** | Extraction depletes. Cultivation compounds. |
+
+HEE does not treat performance as a function of output alone. It asks what producing that output consumes, what it creates, what it depletes, what it develops, and what capacity remains for subsequent execution.
 
 ---
 
 # 2. HEE IN ONE SENTENCE
 
-> **Human Energy Economics explains how organizations can preserve, mobilize, and expand the capacity required to convert available Human Energy and capability into effective application, sustained execution, and sustainable business value.**
+> **Human Energy Economics (HEE) is a management theory of organizational capacity and sustainable execution that examines how organizations preserve, develop, connect, enable, mobilize, and apply capacity across successive execution cycles.**
+
+HEE therefore shifts attention from performance as an isolated output to performance as a repeated organizational process.
+
+The central concern is not simply:
+
+> **Did the organization achieve the result?**
+
+It is also:
+
+> **What did achieving the result require, consume, create, preserve, or degrade — and what capacity remains for the next cycle?**
 
 ---
 
-# 3. HEE DISTINCTION
+# 3. FOUNDATIONAL DISTINCTIONS
 
-Traditional management frequently emphasizes:
+HEE depends on several distinctions that prevent important organizational constructs from being collapsed into one another.
 
-**Resources → Activity → Output**
+## Human Capital ≠ Human Energy ≠ Organizational Capacity
 
-HEE examines:
+**Human Capital** refers broadly to the knowledge, skills, experience, competencies, and other attributes embodied in people that can contribute to economic or organizational value.
 
-**Capacity → Application → Execution → Future Capacity → Value**
+**Human Energy** refers to the cognitive, emotional, and physical capacity people bring to work and require to apply capability and participate effectively in execution.
 
-The distinction is important:
+**Organizational Capacity** is an organization-level asset representing its underlying potential and means to mobilize and sustain action.
 
-> **HEE does not ask only how much an organization can produce. It asks whether the organization can continue producing valuable outcomes without unnecessarily degrading the capacity required to do so.**
+Human Capital can contribute to capability. Human Energy affects the ability to mobilize and apply that capability. Organizational Capacity encompasses a broader organizational system of potential and means.
 
----
+They are related, but they are not interchangeable.
 
-# 4. FOUNDATIONAL DISTINCTIONS
+## Capability = Potential
 
-HEE depends on several distinctions:
-
-| Concept | HEE meaning |
-|---|---|
-| **Human Capital** | Capability embodied in people |
-| **Human Energy** | Available human capacity for mobilization and application |
-| **Organizational Capacity** | Organizational ability and means to mobilize, coordinate, enable, and sustain action |
-| **Capability** | Potential |
-| **Capacity** | Ability to mobilize and apply potential |
-| **Application** | Capability and capacity brought into purposeful action |
-| **Execution** | Application producing intended results |
-| **Sustained Execution** | Results repeatedly produced without unnecessarily degrading future capacity |
-| **Sustainable Execution Capacity** | Future ability and readiness to continue effective execution |
-| **Sustainable Business Value** | Value created and sustained through repeated effective execution |
-
-Therefore:
-
-**Human Capital ≠ Human Energy ≠ Organizational Capacity**
-
-**Capability ≠ Capacity**
-
-**Capability = Potential**
-
-**Capacity = Ability to mobilize and apply potential**
-
-**Application ≠ Execution**
-
-**Execution ≠ Sustainable Execution Capacity**
-
----
-
-# 5. HEE QUESTION TRANSFORMATION
-
-HEE changes the fundamental management question.
-
-### From:
-
-> **How do we get more output from the organization?**
-
-### To:
-
-> **What determines the organization's ability to produce valuable outcomes repeatedly without unnecessarily degrading the capacity required to do so?**
-
-And, at the operational level:
-
-> **What limits the organization's ability to convert available capability and capacity into effective application and sustained execution?**
-
-### Conventional Management → HEE
-
-| Conventional Question | HEE Question Transformation |
-|---|---|
-| How do we increase output? | **What limits our ability to produce valuable outcomes sustainably?** |
-| How do we get more from our people? | **What conditions allow available Human Energy and capability to become effective application?** |
-| How do we make people more productive? | **What limits their ability to apply capability effectively?** |
-| How do we improve productivity? | **What is limiting sustainable execution capacity?** |
-| How do we fix underperformance? | **What prevents effective application and execution?** |
-| How do we increase capacity? | **What is consuming, constraining, or preventing usable capacity?** |
-| How do we develop capability? | **Is capability actually connected, enabled, and applied?** |
-| How do we improve collaboration? | **What prevents distributed capability from working together effectively?** |
-| How do we reduce burnout? | **What conditions are unnecessarily depleting Human Energy?** |
-| How do we improve execution? | **What limits the conversion of capability and capacity into execution?** |
-| How do we improve customer experience? | **What internal conditions may be creating customer friction?** |
-| How do we sustain performance? | **What preserves the capacity required for repeated execution?** |
-
-### The HEE transformation in simplest form
-
-**From extracting more → to enabling more**
-
-**From activity → to application**
-
-**From current output → to sustainable execution**
-
-**From resource consumption → to capacity economics**
-
-**From fixing symptoms → to understanding constraints**
-
----
-
-# 6. CORE / CRITICAL PRINCIPLES
-
-### Principle 1 — Capability is Potential
-
-Knowledge, skill, expertise, and experience represent potential.
-
-> **Knowledge alone is potential. Applied knowledge is power.**
-
-### Principle 2 — Capacity Enables Application
-
-Capability cannot create value merely by existing.
-
-It must be mobilized, connected, enabled, and applied.
-
-### Principle 3 — Human Energy Is an Economic Resource
-
-Human Energy is not simply an employee-wellbeing concept.
-
-Its availability affects the organization's ability to mobilize capability and sustain execution.
-
-### Principle 4 — Application Is the Conversion Point
-
-The organization does not create value merely because it possesses capability.
-
-Value requires:
-
-**Capability → Application → Execution → Outcome**
-
-### Principle 5 — Conditions Matter
-
-Human Energy and capability do not operate in isolation.
-
-Connection, Decision Quality, Enablement, demand, and other organizational conditions affect application.
-
-### Principle 6 — Extraction Depletes. Cultivation Compounds.
-
-Short-term output achieved through unnecessary depletion may weaken future execution capacity.
-
-### Principle 7 — Sustainable Execution Matters More Than Isolated Output
-
-A result that cannot be repeated without degrading future capacity is not the same as sustainable execution.
-
-### Principle 8 — Protect Capacity Required for Future Value
-
-Organizations should be managed not only for today's output, but for tomorrow's ability to produce output.
-
-### Principle 9 — Diagnose Before Intervening
-
-Do not automatically treat every performance problem as a capability problem, capacity problem, energy problem, or execution problem.
-
-### Principle 10 — Fix the Limiting Condition
-
-> **Do not automatically fix the largest gap. Fix the condition that most limits sustainable execution.**
-
-### Principle 11 — Capacity Is Not Value
-
-Released or recovered capacity becomes economically meaningful only when it is effectively applied and contributes to outcomes.
-
-### Principle 12 — External Outcomes Matter
-
-Internal capacity conditions matter because they influence the organization's ability to deliver intended outcomes to employees, customers, users, and other stakeholders.
-
----
-
-# 7. THE SIX CONDITIONS OF EXECUTION
-
-HEE recognizes six important execution conditions:
-
-**Demand · Human Energy · Capability · Connection · Decision Quality · Enablement**
-
-| Condition | Core question |
-|---|---|
-| **Demand** | What volume, intensity, complexity, interruption, or competing requirements are placed on capacity? |
-| **Human Energy** | Is sufficient Human Energy available to mobilize and sustain effective action? |
-| **Capability** | Does the required knowledge, skill, judgment, or expertise exist? |
-| **Connection** | Can distributed capabilities work together effectively? |
-| **Decision Quality** | Are decisions timely, sufficiently informed, appropriately authorized, and fit for circumstances? |
-| **Enablement** | Do organizational conditions permit capable people to act effectively? |
-
-These conditions should not automatically be treated as independent root causes.
-
-**Decision Quality**, for example, may function as a mediator or emergent condition influenced by information, capability, authority, connection, demand, and enablement.
-
-The six conditions are therefore **interrelated diagnostic conditions**, not six isolated variables or a rigid sequential model.
-
----
-
-# 8. THE HEE CENTRAL LOGIC
-
-```text
-HUMAN ENERGY
-      +
-CAPABILITY
-      +
-CONNECTION
-      +
-DECISION QUALITY
-      +
-ORGANIZATIONAL ENABLEMENT
-      ↓
-EFFECTIVE APPLICATION
-      ↓
-EXECUTION
-      ↓
-SUSTAINED EXECUTION
-      ↓
-SUSTAINABLE EXECUTION CAPACITY
-      ↓
-SUSTAINABLE BUSINESS VALUE
-      ↺
-RENEW / REINVEST
-```
-
-The broader economic logic is:
-
-```text
-AVAILABLE CAPABILITY
-        +
-AVAILABLE CAPACITY
-        ↓
-   APPLICATION
-        ↓
-    EXECUTION
-        ↓
-     OUTCOMES
-        ↓
-FUTURE CAPACITY
-        ↓
-SUSTAINED EXECUTION
-        ↓
-SUSTAINABLE VALUE
-```
-
-The multiplicative representation emphasizes an important principle:
-
-> **If a critical condition materially approaches zero, effective application and execution may be severely constrained even when other conditions are strong.**
-
-The relationship is conceptual and should not be interpreted as a validated quantitative production function.
-
----
-
-# 9. THE HEE CONVERSION LOGIC
-
-HEE is fundamentally concerned with **conversion**.
-
-The organization may possess:
-
-- knowledge
-- skills
-- experience
-- technology
-- resources
-- Human Capital
-- Human Energy
-- organizational capability
-
-Yet these inputs do not automatically become results.
-
-### Conversion chain
-
-**Potential → Capacity → Application → Execution → Outcome → Future Capacity → Value**
-
-The critical question is therefore:
-
-> **What prevents available potential and capacity from becoming effective application?**
-
----
-
-# 10. CAPABILITY ≠ CAPACITY
-
-This is a foundational HEE distinction.
-
-### Capability
-
-**Potential**
-
-A person, team, or organization may possess knowledge, skills, expertise, experience, or technical ability.
-
-### Capacity
-
-**Ability to mobilize and apply that potential under actual conditions.**
-
-Therefore:
-
-> **Capability without capacity remains potential.**
-
-And:
-
-> **Capacity without capability may provide availability without sufficient means to act effectively.**
-
-HEE therefore avoids assuming that increasing capability automatically increases organizational performance.
-
----
-
-# 11. HUMAN CAPITAL ≠ HUMAN ENERGY
-
-### Human Capital
-
-What people **know and can potentially do**.
-
-### Human Energy
-
-The **available human capacity to mobilize and apply what they can do**.
-
-Thus:
-
-**Human Capital → Capability**
-
-while:
-
-**Human Energy → Available capacity for mobilization and application**
-
-Human Capital does not automatically become Human Energy.
-
-Human Energy does not automatically produce effective application.
-
-The conversion depends on organizational conditions.
-
----
-
-# 12. HUMAN ENERGY AS AN ECONOMIC RESOURCE
-
-HEE treats Human Energy as an economic resource because organizational outcomes depend partly on the organization's ability to mobilize human capacity repeatedly.
-
-Human Energy can be:
-
-- available
-- consumed
-- depleted
-- protected
-- recovered
-- redirected
-- constrained
-- renewed
-
-The economic concern is not simply:
-
-> **How much effort can people give?**
-
-It is:
-
-> **How can organizations obtain valuable outcomes without unnecessarily consuming the capacity required to produce future outcomes?**
-
----
-
-# 13. ORGANIZATIONAL CAPACITY
-
-Organizational Capacity is broader than Human Energy.
-
-It includes the organization's ability and means to:
-
-- mobilize capability
-- coordinate work
-- make decisions
-- connect distributed expertise
-- provide information
-- authorize action
-- enable execution
-- absorb complexity
-- sustain operating performance
-- adapt to changing conditions
-
-Therefore:
-
-**Human Energy is a component of the broader capacity system.**
-
-It is not synonymous with total Organizational Capacity.
-
----
-
-# 14. ORGANIZATIONAL FRAGMENTATION
-
-As organizations grow, they often accumulate:
-
-- functions
-- systems
-- decisions
-- dependencies
-- interfaces
-- handoffs
-- coordination requirements
-- information requirements
-- competing priorities
-
-Growth can therefore increase interconnectedness without improving connection.
-
-> **An organization may not have become less capable. It may have become more interconnected without becoming better connected.**
-
-This can contribute to:
-
-**Operational Noise + Disconnected Capability**
-
-which may contribute to:
-
-**Human Energy Loss + Application Constraints**
-
-and ultimately:
-
-**Execution Degradation + Customer Friction + Value Loss**
-
-This is a diagnostic narrative/hypothesis, not a universal causal law.
-
-Growth does not inherently produce fragmentation, noise, or value loss. The relationship depends on how organizational connection, decision quality, enablement, and capacity develop alongside complexity.
-
----
-
-# 15. THE HEE DIAGNOSTIC ARCHITECTURE
-
-HEE distinguishes five primary diagnostic conditions:
-
-| Condition | Meaning | Typical response |
-|---|---|---|
-| **Depletion** | Available Human Energy is reduced or unnecessarily consumed | **Recover** |
-| **Deficiency** | Required capability is missing | **Develop** |
-| **Disconnection** | Existing capability cannot work together effectively | **Connect** |
-| **Constraint** | Organizational conditions prevent application | **Enable** |
-| **Conversion Failure** | Inputs appear sufficiently available but fail to become effective application | **Investigate** |
-
-### Important diagnostic rule
-
-> **Conversion Failure is not the first explanation.**
-
-It becomes a stronger diagnostic hypothesis after depletion, deficiency, disconnection, and relevant constraints have been reasonably examined.
-
-The diagnostic conditions are not mutually exclusive. More than one may exist simultaneously.
-
----
-
-# 16. DIAGNOSTIC QUESTIONS
-
-HEE diagnosis asks:
-
-### Energy
-
-- Is Human Energy sufficiently available?
-- Where is it being consumed unnecessarily?
-- Is depletion temporary, recurring, or structural?
-
-### Capability
-
-- Does the required capability exist?
-- Is it accessible?
-- Is it sufficiently developed?
-
-### Connection
-
-- Can the right capabilities find and work with one another?
-- Are interfaces creating friction?
-- Are handoffs, silos, or dependencies blocking application?
-
-### Decision Quality
-
-- Are decisions timely?
-- Is relevant information available?
-- Is authority appropriately configured?
-- Is decision quality being degraded by demand, uncertainty, or fragmentation?
-
-### Enablement
-
-- Can capable people act?
-- Are systems, policies, processes, information, authority, and resources enabling action?
-
-### Execution
-
-- Is intended application actually producing results?
-- What constraint is preventing execution?
-- Is the problem recurring?
-
-### Future Capacity
-
-- Is today's execution weakening tomorrow's capacity?
-
----
-
-# 17. HEE DIAGNOSTIC CARD
-
-| Signal | Possible condition | Initial response |
-|---|---|---|
-| Persistent depletion | Depletion | Recover |
-| Missing knowledge or skill | Deficiency | Develop |
-| Capable people working poorly together | Disconnection | Connect |
-| Capable people unable to act | Constraint | Enable |
-| Expected results not occurring | Execution / Conversion issue | Stabilize and investigate |
-| Same problem repeatedly returns | Structural/system condition | Investigate and redesign |
-| Current performance maintained at excessive human cost | Depletion / capacity risk | Recover and redesign |
-| Negative customer experience | External signal | Diagnose internal conditions |
-| Future performance increasingly difficult to sustain | SEC weakness | Protect, adapt, renew |
-
----
-
-# 18. PRIORITIZATION
-
-HEE does not assume the largest gap is the most important gap.
-
-### HEE prioritization heuristic
-
-**Priority = Urgency × Dependency × Value Impact**
-
-Where:
-
-- **Urgency** = how immediately action is required
-- **Dependency** = how strongly other conditions depend on resolving it
-- **Value Impact** = potential effect on sustainable execution and business value
-
-This is a **management heuristic, not a validated universal law**.
-
-### Prioritization principle
-
-> **Fix the condition that most limits the system's ability to move forward.**
-
----
-
-# 19. HEE INTERVENTION LOGIC
-
-The HEE management sequence is:
-
-**PROTECT → DIAGNOSE → RECOVER / DEVELOP / CONNECT / ENABLE / INVESTIGATE → APPLY → EXECUTE → LEARN → ADAPT → RENEW**
-
-This should not be interpreted as a rigid linear sequence.
-
-The diagnostic responses may overlap, iterate, or operate in parallel.
-
-### Conversion sequence
-
-```text
-DIAGNOSE
-   ↓
-IDENTIFY LIMITING CONDITION
-   ↓
-INTERVENE
-   ↓
-ENABLE EFFECTIVE APPLICATION
-   ↓
-EXECUTE
-   ↓
-LEARN
-   ↓
-ADAPT
-   ↓
-STRENGTHEN FUTURE CAPACITY
-   ↓
-RENEW
-```
-
----
-
-# 20. HEE MANAGEMENT LOGIC
-
-HEE management can be summarized as:
-
-> **Protect the capacity required for value creation, diagnose what limits its application, intervene at the limiting condition, convert capability and capacity into execution, learn from outcomes, adapt the system, and renew future capacity.**
-
-### Simplest form
-
-**PROTECT → APPLY → EXECUTE → LEARN → ADAPT → RENEW**
-
----
-
-# 21. HEE ECONOMIC PROPOSITION
-
-> **Organizational performance is not determined only by the resources or capabilities an organization possesses, but also by its ability to mobilize and convert available Human Energy, capability, and Organizational Capacity into effective application and sustained execution without unnecessarily degrading future capacity.**
-
-Therefore:
-
-> **Sustainable value depends not only on what an organization produces today, but on the capacity it preserves or strengthens to produce valuable outcomes tomorrow.**
-
----
-
-# 22. HEE MANAGEMENT PROPOSITION
-
-> **Organizations should be managed not only for output, but for the preservation and expansion of the capacity required to produce output repeatedly.**
-
-This means management should examine:
-
-**What are we producing?**
-
-and also:
-
-**What is it costing our future ability to produce?**
-
----
-
-# 23. THE HEE ECONOMIC FLOW
-
-```text
-HUMAN CAPITAL
-      ↓
-CAPABILITY
-      +
-HUMAN ENERGY
-      +
-ORGANIZATIONAL CAPACITY
-      ↓
-CONNECTION
-      ↓
-DECISION QUALITY
-      ↓
-ENABLEMENT
-      ↓
-EFFECTIVE APPLICATION
-      ↓
-EXECUTION
-      ↓
-SUSTAINED EXECUTION
-      ↓
-SUSTAINABLE EXECUTION CAPACITY
-      ↓
-SUSTAINABLE BUSINESS VALUE
-      ↺
-REINVEST & RENEW
-```
-
-The critical economic issue is the **quality of conversion**, not merely the quantity of inputs.
-
-The flow is conceptual rather than a claim that every organization follows one identical causal sequence.
-
----
-
-# 24. VALUE CREATION CYCLE
-
-HEE views value creation as a cycle rather than a one-time production event.
-
-```text
-AVAILABLE CAPABILITY + CAPACITY
-             ↓
-      EFFECTIVE APPLICATION
-             ↓
-          EXECUTION
-             ↓
-           OUTCOME
-             ↓
-       VALUE CREATION
-             ↓
-     LEARNING / ADAPTATION
-             ↓
-   FUTURE EXECUTION CAPACITY
-             ↓
-      REPEATED EXECUTION
-             ↓
-   SUSTAINABLE BUSINESS VALUE
-             ↺
-      RENEW / REINVEST
-```
-
-The organization therefore needs to protect the conditions that allow the cycle to continue.
-
----
-
-# 25. HOW VALUE IS CREATED
-
-HEE does not claim:
-
-**Capability = Value**
-
-Instead:
-
-**Capability → Application → Execution → Outcome → Value**
-
-And for sustainability:
-
-**Outcome → Learning → Adaptation → Future Capacity → Repeated Outcome → Sustainable Value**
-
-Thus:
-
-> **Value is created when available capability and capacity become effective application, effective application becomes execution, execution creates intended outcomes, and the organization preserves or strengthens the capacity required to repeat the process.**
-
----
-
-# 26. VALUE CREATION OVER TIME
-
-A single successful outcome does not establish sustainable execution.
-
-HEE therefore distinguishes:
-
-### Current cycle
-
-**Capacity → Application → Execution → Outcome**
-
-from:
-
-### Long-term cycle
-
-**Capacity → Application → Execution → Outcome → Learning → Adaptation → Future Capacity → Repeated Execution**
-
-The economic test becomes:
-
-> **Did the organization create value without unnecessarily weakening its ability to create value again?**
-
-This is the foundation of **Sustainable Execution Capacity**.
-
----
-
-# 27. SUSTAINABLE EXECUTION CAPACITY
-
-### Definition
-
-> **Sustainable Execution Capacity is the organization's future ability and readiness to continue producing intended outcomes through effective application without unnecessarily degrading the capacity required for future execution.**
-
-SEC therefore incorporates both:
-
-**Current execution**
-
-and
-
-**Future execution readiness**
-
-A strong organization is not merely one that executes.
-
-It is one that can **continue to execute**.
-
----
-
-# 28. EX / CX PERSPECTIVE
-
-HEE connects internal organizational conditions with external experience and outcomes.
-
-### Inside-Out
-
-**Human Energy → Capability → Connection → Decision Quality → Enablement → Application → Execution → EX**
-
-### Outside-In
-
-**Customer Need → Customer Experience → Customer Outcome**
-
-### Bridge
-
-```text
-INTERNAL CONDITIONS
-      ↓
-APPLICATION
-      ↓
-EXECUTION
-      ↓
-EMPLOYEE EXPERIENCE
-      ↓
-CUSTOMER INTERACTION
-      ↓
-CUSTOMER EXPERIENCE
-      ↓
-CUSTOMER OUTCOME
-```
-
-This does **not** mean EX mechanically causes CX.
-
-Rather:
-
-> **Internal organizational conditions can manifest externally when they affect the organization's ability to deliver intended customer outcomes.**
-
-Similarly:
-
-> **Customer experience can provide an external signal of internal conditions requiring diagnosis.**
-
-Customer outcomes can also be affected by factors outside the organization. HEE therefore treats CX as a potentially informative signal, not automatic proof of an internal cause.
-
----
-
-# 29. INTERNAL → EXTERNAL VALUE CHAIN
-
-| Internal condition | Potential capacity effect | Potential execution effect | Potential customer manifestation |
-|---|---|---|---|
-| Human Energy depletion | Less usable capacity | Slower or less resilient execution | Delays, inconsistency |
-| Capability deficiency | Insufficient potential | Errors or incomplete execution | Poor resolution |
-| Capability disconnection | Coordination capacity consumed | Handoffs and delays | Repetition, inconsistent service |
-| Poor decision quality | Decision capacity consumed | Decision latency or poor choices | Delayed response |
-| Organizational constraints | Capacity blocked | Application delayed | Delivery bottlenecks |
-| Operational Noise | Attention fragmented | Interrupted execution | Slower or inconsistent service |
-| Rework | Capacity repeatedly consumed | Execution delayed | Errors, repeated contact |
-| Unclear ownership | Coordination consumed | Handoffs and delays | Customer repeats information |
-| Fragmented systems | Connection capacity consumed | Information delays | Inconsistent experience |
-| Recurring exceptions | Intervention capacity consumed | Firefighting | Unpredictable service |
-
-These are **potential manifestations**, not universal causal relationships.
-
----
-
-# 30. SLA → XLA → HEE
-
-HEE complements service and experience management.
-
-| Lens | Primary question |
-|---|---|
-| **SLA** | Is the service performing against agreed operational/service requirements? |
-| **XLA** | Is the experience working from the customer/user perspective? |
-| **HEE** | What organizational capacity conditions are required to sustain both? |
-
-### Relationship
-
-**SLA → XLA → HEE**
-
-- **SLA protects service performance.**
-- **XLA protects customer/user experience.**
-- **HEE protects the organizational capacity required to sustain both.**
-
-The relationship is complementary rather than hierarchical in every organizational context.
-
----
-
-# 31. HEE AND ORGANIZATIONAL GROWTH
-
-Growth can increase organizational complexity.
-
-```text
-ORGANIZATIONAL GROWTH
-        ↓
-MORE FUNCTIONS
-MORE SYSTEMS
-MORE DECISIONS
-MORE DEPENDENCIES
-MORE INTERFACES
-MORE HANDOFFS
-MORE COORDINATION
-        ↓
-GREATER INTERCONNECTEDNESS
-        ↓
-POTENTIAL FRAGMENTATION
-        ↓
-MORE OPERATIONAL DEMAND / NOISE
-        ↓
-GREATER CAPACITY CONSUMPTION
-        ↓
-APPLICATION / EXECUTION FRICTION
-        ↓
-POTENTIAL CUSTOMER FRICTION
-        ↓
-VALUE RISK
-```
-
-Growth does not inherently produce this outcome.
-
-The risk increases when organizational connection, decision quality, enablement, and capacity do not develop sufficiently alongside complexity.
-
-### HEE growth principle
-
-> **Scale capability, not complexity.**
-
----
-
-# 32. HEE LEADERSHIP TEST
-
-Leaders can use five questions:
-
-### 1. Capacity
-
-> **What capacity do we actually have?**
-
-### 2. Constraint
-
-> **What most limits its application?**
-
-### 3. Conversion
-
-> **Why is available capability or capacity not becoming effective application?**
-
-### 4. Execution
-
-> **What must change for intended execution to occur?**
-
-### 5. Future
-
-> **Will today's execution strengthen or weaken tomorrow's capacity?**
-
-### Expanded leadership test
-
-> **What is the constraint?**  
-> **What is the consequence?**  
-> **What must change next?**  
-> **What happens to future capacity if we do nothing?**
-
----
-
-# 33. HEE MATURITY
-
-HEE maturity can be understood as movement from extracting current capacity toward cultivating sustainable execution capacity.
-
-| Stage | Dominant management logic |
-|---|---|
-| **1. Extraction** | Maximize immediate output |
-| **2. Stabilization** | Prevent acute performance failure |
-| **3. Recovery** | Restore depleted capacity |
-| **4. Enablement** | Improve conditions for application |
-| **5. Integration** | Connect capability, capacity, decisions, and systems |
-| **6. Sustainable Execution** | Produce outcomes without unnecessary future degradation |
-| **7. Capacity Cultivation** | Deliberately strengthen future execution capacity |
-
-The maturity model is conceptual rather than a validated measurement scale.
-
----
-
-# 34. HEE DIFFERENTIATION
-
-HEE is differentiated by treating organizational capacity as an economic concern rather than viewing performance solely through output, productivity, capability, or employee wellbeing.
-
-### HEE ≠ Productivity Management
-
-Productivity asks how much output is produced from inputs.
-
-HEE asks what determines the organization's ability to sustain valuable output without unnecessarily degrading future capacity.
-
-### HEE ≠ Human Capital Management
-
-Human Capital focuses on capability embodied in people.
-
-HEE asks how capability becomes available capacity, application, execution, and sustainable value.
-
-### HEE ≠ Employee Wellbeing
-
-Wellbeing may be important, but HEE examines Human Energy as part of an organizational capacity system.
-
-### HEE ≠ Capacity Planning Alone
-
-Capacity planning often concerns resource availability.
-
-HEE examines the conditions that determine whether available capacity can actually become effective application.
-
-### HEE ≠ Operational Improvement
-
-Operational improvement may optimize work.
-
-HEE asks what limits sustainable execution capacity.
-
-### HEE ≠ Execution Management
-
-Execution management focuses on producing intended results.
-
-HEE examines the capacity conditions required to produce those results repeatedly.
-
----
-
-# 35. HEE AND ITS ECOSYSTEM
-
-HEE is the **foundational theory and economic lens**.
-
-Its management and operating architecture is expressed through the **Organizational Excellence Operating System (OEOS/OOS)**.
-
-Within that architecture, complementary frameworks and mechanisms address different aspects of the conversion problem.
-
-```text
-HEE
-│
-│  Foundational theory / economic lens
-│
-↓
-OEOS / OOS
-│
-│  Management / operating architecture
-│
-├── Human Energy Management
-│   ├── Human Energy Audit
-│   └── Human Energy Recovery Framework
-│
-├── Human Energy Development Plan
-│
-├── Capability Interconnection
-│
-├── OSF — Operational Silence Framework
-│
-├── 3C — 3C Strategic Approach
-│
-├── 5R — 5R Cascade Framework
-│
-├── HEEn — Human Energy Enablement
-│
-└── EES — Execution Excellence System
-        │
-        ↓
-Effective Application
-        ↓
-Execution
-        ↓
-Sustainable Execution Capacity
-        ↓
-Sustainable Business Value
-```
-
-The six canonical public frameworks are:
-
-1. **Human Energy Economics (HEE)** — foundational theory / economic lens
-2. **Operational Silence Framework (OSF)** — unnecessary recurring operational demand and noise
-3. **3C Strategic Approach (3C)** — strategic attention through Source, Dependency, and Constraint
-4. **5R Cascade Framework (5R)** — tactical disposition of recurring demand
-5. **Human Energy Enablement (HEEn)** — organizational conditions enabling effective application
-6. **Execution Excellence System (EES)** — execution management
-
-Their roles are complementary:
-
-> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary demand. 3C directs attention. 5R determines disposition. HEEn enables application. EES manages execution.**
-
-These frameworks are **not five or six mandatory sequential stages**.
-
-They operate according to their respective roles and may interact, overlap, or be applied independently depending on the organizational condition being examined.
-
----
-
-# 36. HEE AND ITS OPERATING MECHANISMS
-
-The HEE ecosystem can be understood through distinct questions:
-
-| Framework / mechanism | Primary question |
-|---|---|
-| **HEE** | **What limits application?** |
-| **HEA** | What is the current Human Energy condition? |
-| **HERF** | What is depleting Human Energy, and what is required for recovery? |
-| **HEDP** | What capability needs to be developed? |
-| **Capability Interconnection** | What prevents distributed capability from working together? |
-| **OSF** | What unnecessary recurring demand is consuming organizational capacity? |
-| **3C** | Where should strategic attention be directed—Source, Dependency, or Constraint? |
-| **5R** | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
-| **HEEn** | What organizational conditions prevent effective application? |
-| **EES** | What execution constraint is preventing intended results? |
-
-This preserves the distinction:
-
-> **HEE changes the lens. The ecosystem operationalizes the lens according to distinct roles.**
-
----
-
-# 37. THE HEE ECOSYSTEM BOUNDARIES
-
-HEE does not claim ownership of every organizational problem.
-
-### HEE
-
-Provides the foundational theory and economic lens concerning organizational capacity and sustainable execution.
-
-### OSF
-
-Focuses on unnecessary recurring operational demand and operational noise.
-
-### 3C
-
-Directs strategic attention toward **Source, Dependency, or Constraint**.
-
-### 5R
-
-Determines the disposition of recurring demand:
-
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
-
-### HEEn
-
-Enables available Human Energy and capability to become effective application through organizational conditions.
-
-### EES
-
-Manages reliable, controlled, adaptive execution.
-
-### HEMS / HEA / HERF / HEDP / Capability Interconnection
-
-Provide supporting mechanisms for Human Energy management, diagnosis, recovery, development, and connection within the broader operating architecture.
-
-Therefore:
-
-> **HEE explains the economic problem. The ecosystem provides differentiated ways of diagnosing and acting on the conditions affecting application and execution.**
-
----
-
-# 38. HEE AND 3C
-
-3C is the strategic attention mechanism within the broader ecosystem.
-
-**3C = WHERE**
-
-It directs attention toward:
-
-**SOURCE → DEPENDENCY → CONSTRAINT**
-
-3C asks:
-
-> **What context is creating or sustaining the condition we observe?**
-
-HEE asks:
-
-> **What limits application?**
-
-The relationship is therefore complementary:
-
-**HEE provides the economic lens.**
-
-**3C directs attention.**
-
-**Other mechanisms act on the resulting insight according to their roles.**
-
-3C does not restore Human Energy, determine demand disposition, enable application, or manage execution itself.
-
----
-
-# 39. HEE AND 5R
-
-5R provides a tactical decision method for recurring operational demand:
-
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
-
-The distinction is:
-
-> **3C = WHERE**
-
-> **5R = HOW**
-
-3C may identify the relevant context for attention.
-
-5R may then determine what should happen to recurring demand.
-
-But 5R does not require 3C as a mandatory preceding stage, and not every 3C diagnosis requires 5R.
-
----
-
-# 40. HEE AND HEEn
-
-HEEn addresses the organizational conditions required for available Human Energy and capability to become effective application.
-
-The distinction is:
+Capability represents what an individual, team, function, or organization is capable of doing.
 
 > **Capability = Potential.**
 
-> **HEEn = organizational enablement of available potential.**
+Capability alone does not guarantee application.
 
-Therefore:
+## Capacity = Ability to Apply
 
-**Capability → Enablement → Application → Execution**
+Capacity, in the execution context, concerns the ability to mobilize and apply available potential under actual conditions.
 
-HEEn does not replace Human Energy recovery, capability development, or execution management.
+> **Capacity = Ability to Apply.**
 
-Its central question is:
+Knowledge alone is potential.
 
-> **Are people enabled to apply their capability effectively?**
+> **Applied knowledge is power.**
+
+## Effective Application
+
+Effective Application is the purposeful realization of available potential in a particular context.
+
+A capability can exist without being effectively applied.
+
+## Execution
+
+Execution is the conversion of intended action into actual action and outcomes.
+
+Application precedes or enables execution, but application and execution are not identical.
+
+## Sustained Execution
+
+Sustained Execution concerns continued ability to produce intended results across successive cycles without unnecessarily degrading the capacity required for future execution.
+
+## Consumption ≠ Drain
+
+Consumption is not inherently harmful.
+
+Work necessarily consumes resources and Human Energy.
+
+Drain occurs when capacity is consumed, depleted, impaired, diverted, or lost without sufficient productive contribution, necessary protection, capability development, or legitimate expected future value.
+
+## Deficiency ≠ Disconnection ≠ Constraint
+
+**Deficiency:** the required capability is absent.
+
+**Disconnection:** relevant capability exists but is not effectively connected to the point of need.
+
+**Constraint:** relevant capability exists but organizational conditions prevent effective application.
+
+These conditions require different responses.
+
+## Application ≠ Execution
+
+Application concerns whether potential is being purposefully realized.
+
+Execution concerns whether intended action and outcomes are actually produced.
+
+## Execution ≠ Sustained Execution
+
+An organization can execute successfully in one cycle while degrading the capacity required for future cycles.
+
+HEE therefore treats sustainability of execution as an economic concern rather than merely an environmental or temporal one.
 
 ---
 
-# 41. HEE AND EES
+# 4. THE HEE ECONOMIC QUESTION
 
-EES manages execution.
+Traditional performance questions often emphasize:
 
-The distinction is:
+- What did we produce?
+- How quickly did we produce it?
+- How much did it cost?
+- Did we meet the target?
 
-> **HEE asks what limits application and sustainable capacity.**
+HEE adds a capacity question:
 
-> **HEEn enables application.**
+> **What did producing the result do to the organization’s capacity to produce the next result?**
 
-> **EES manages execution.**
+This creates a broader economic perspective.
 
-The relationship can therefore be represented as:
+HEE asks organizations to examine:
 
-**HEEn → Effective Application → EES → Sustained Execution → Sustainable Execution Capacity**
+- what capacity they possess;
+- what capacity is usable;
+- where capacity is consumed;
+- where Human Energy is unnecessarily consumed;
+- where capability is missing;
+- where capability is disconnected;
+- where organizational conditions constrain application;
+- how decisions allocate scarce capacity;
+- what execution creates;
+- what execution depletes;
+- and whether capacity is renewed.
 
-EES does not replace HEE or assume ownership of Human Energy, capability development, operational demand, strategic attention, or tactical demand disposition.
+The objective is not to eliminate consumption.
 
----
-
-# 42. HEE AND HUMAN ENERGY MANAGEMENT
-
-Human Energy management addresses the condition and sustainability of Human Energy.
-
-HEE provides the economic rationale for protecting Human Energy as part of organizational capacity.
-
-Supporting mechanisms may include:
-
-**Human Energy Audit → Human Energy Recovery → Human Energy Development → Human Energy Enablement**
-
-HEE therefore distinguishes:
-
-**Human Energy Recovery ≠ Capacity Release**
-
-and:
-
-**Human Energy Recovery ≠ Capacity Redirection**
-
-and:
-
-**Human Energy ≠ Total Organizational Capacity**
+The objective is to improve the relationship between **capacity consumed, value created, and capacity preserved or renewed.**
 
 ---
 
-# 43. HEE AND DECISION QUALITY
+# 5. RELATED WORK AND THEORETICAL POSITION
 
-Decision Quality is one of the six important conditions of execution.
+HEE does not claim that the underlying ideas of resources, demands, performance opportunity, capability, or resource preservation were previously undiscovered.
 
-HEE recognizes that decision quality may be affected by:
+It builds on established bodies of research while proposing a distinct management-theory integration.
 
-- information quality
-- capability
-- authority
-- uncertainty
-- demand
-- connection
-- enablement
-- organizational fragmentation
+## 5.1 Conservation of Resources
 
-Decision Quality is therefore distinct from:
+Hobfoll’s Conservation of Resources (COR) theory emphasizes the acquisition, preservation, and loss of valued resources.
 
-**Decision Enablement**
+HEE is compatible with the resource-preservation logic of COR but extends the organizational question toward the economics of capacity consumption, application, execution, and renewal.
 
-Decision Enablement concerns whether the organizational conditions allow appropriate decision-making.
+## 5.2 Job Demands–Resources Perspective
 
-Decision Quality concerns whether the decision itself is sufficiently sound, timely, informed, and fit for circumstances.
+The Job Demands–Resources (JD-R) model distinguishes demands from resources and examines their relationship with strain and motivation.
+
+HEE draws on the insight that demands and resources affect sustainable functioning while placing the question within a broader organizational-capacity and execution architecture.
+
+## 5.3 Ability–Motivation–Opportunity / Opportunity-to-Perform Perspective
+
+Blumberg and Pringle’s work on organizational performance emphasizes ability, willingness, and opportunity to perform.
+
+HEE particularly connects with the opportunity-to-perform logic: capability alone does not guarantee performance when organizational conditions prevent its application.
+
+## 5.4 HEE’s Theoretical Position
+
+HEE is positioned as:
+
+> **A management theory that integrates resource-preservation, work-demand, performance-opportunity, capability, organizational-condition, and execution perspectives around the organizational conversion problem between potential, application, sustained execution, and future capacity.**
+
+HEE’s distinctive emphasis is therefore not any one individual construct, but the relationship among:
+
+**Potential → Application → Execution → Future Capacity**
+
+---
+
+# 6. THE HEE PROBLEM
+
+Organizations can possess:
+
+- capable people;
+- knowledge;
+- technology;
+- resources;
+- processes;
+- systems;
+- experience;
+- strategic direction;
+
+and still struggle to execute consistently.
+
+HEE proposes that this can occur because organizational potential does not automatically become usable capacity or effective application.
+
+Growth often increases:
+
+- functions;
+- specialization;
+- systems;
+- decisions;
+- dependencies;
+- handoffs;
+- coordination;
+- reporting;
+- exceptions;
+- competing priorities.
+
+As interconnectedness increases, fragmentation can increase as well.
+
+The resulting condition may create:
+
+**ORGANIZATIONAL FRAGMENTATION → OPERATIONAL NOISE + DISCONNECTED CAPABILITY → HUMAN ENERGY LEAKAGE + ENABLEMENT CONSTRAINTS → ORGANIZATIONAL DRAIN → EXECUTION DEGRADATION → CUSTOMER FRICTION → VALUE LOSS**
+
+This is a conceptual diagnostic pathway, not a universal causal law.
+
+The HEE problem is therefore not simply lack of capability.
+
+It is also the failure to convert available potential into valuable application and sustained execution.
+
+---
+
+# 7. A POSSIBLE HEE PATHWAY
+
+HEE proposes the following conceptual pathway:
+
+**ORGANIZATIONAL FRAGMENTATION**
+
+↓
+
+**OPERATIONAL NOISE + DISCONNECTED CAPABILITY**
+
+↓
+
+**HUMAN ENERGY LEAKAGE + ENABLEMENT CONSTRAINTS**
+
+↓
+
+**ORGANIZATIONAL DRAIN**
+
+↓
+
+**EXECUTION DEGRADATION**
+
+↓
+
+**CUSTOMER FRICTION**
+
+↓
+
+**VALUE LOSS**
+
+The pathway is intended as a diagnostic narrative.
+
+It should not be interpreted as claiming that every organization follows the same sequence or that every instance of one condition necessarily produces the next.
+
+HEE uses the pathway to ask where the conversion from organizational potential to valuable execution is being disrupted.
+
+---
+
+# 8. THE HEE DIAGNOSTIC MODEL
+
+HEE organizes common execution problems into five diagnostic conditions.
+
+| Diagnostic condition | Core question | Primary response |
+|---|---|---|
+| **Depletion** | Is usable capacity being unnecessarily consumed or degraded? | **Recover** |
+| **Deficiency** | Is required capability missing? | **Develop** |
+| **Disconnection** | Does relevant capability exist but fail to connect to the point of need? | **Connect** |
+| **Constraint** | Do organizational conditions prevent application? | **Enable** |
+| **Conversion Failure** | Does relevant potential appear sufficient, yet valuable application or execution still fail? | **Investigate** |
+
+These categories are diagnostic distinctions rather than claims that all organizational problems can be reduced to one category.
+
+---
+
+# 9. THE FIVE DIAGNOSTIC QUESTIONS
+
+HEE uses five primary diagnostic questions:
+
+### 1. What is being consumed?
+
+Identifies demand, Human Energy use, capacity use, operational activity, coordination, and other consumption.
+
+### 2. What is missing?
+
+Identifies capability deficiency.
+
+### 3. What exists but is not connected?
+
+Identifies capability that exists but is not reaching the point of need.
+
+### 4. What prevents application?
+
+Identifies organizational enablement constraints.
+
+### 5. Why does execution still fail when the apparent ingredients are present?
+
+Identifies possible conversion failure and triggers investigation.
+
+These questions are intended to prevent premature intervention.
+
+The organization should first understand the limiting condition before choosing the response.
+
+---
+
+# 10. ORGANIZATIONAL DRAIN
+
+HEE defines Organizational Drain as:
+
+> **An economic condition in which organizational capacity is consumed, depleted, impaired, diverted, or lost without sufficient productive contribution, necessary protection, capability development, or legitimate expected future value.**
+
+Drain may occur through:
+
+- unnecessary demand;
+- excessive coordination;
+- avoidable rework;
+- decision friction;
+- duplicated activity;
+- capability underutilization;
+- attention fragmentation;
+- preventable interruptions;
+- poorly designed processes;
+- excessive complexity;
+- recurring exceptions;
+- misallocated capacity;
+- avoidable Human Energy consumption.
+
+Organizational Drain is broader than any one operational symptom.
+
+It is an economic condition concerning the relationship between capacity consumption and value.
+
+---
+
+# 11. HUMAN ENERGY IN HEE
+
+Human Energy is a central economic asset in HEE.
+
+It refers to the:
+
+- cognitive;
+- emotional;
+- and physical
+
+capacity people bring to work and require to apply capability and participate effectively in execution.
+
+Human Energy is not synonymous with:
+
+- engagement;
+- motivation;
+- morale;
+- well-being;
+- productivity;
+- satisfaction;
+- or burnout.
+
+Those constructs may interact with Human Energy but should not be collapsed into it.
+
+Human Energy is also not equivalent to whole Organizational Capacity.
+
+People are part of organizational systems, but Organizational Capacity includes much more than the energy available from individuals.
+
+HEE treats Human Energy as an asset that can be:
+
+- consumed;
+- protected;
+- depleted;
+- recovered;
+- developed;
+- redirected;
+- and unnecessarily leaked.
+
+---
+
+# 12. HUMAN ENERGY ECONOMIC LOGIC
+
+HEE does not assume that all Human Energy consumption is harmful.
+
+Human Energy consumption can be categorized conceptually as:
+
+### Productive Consumption
+
+Energy directly applied to valuable work and desired outcomes.
+
+### Necessary Consumption
+
+Energy required for legitimate organizational functioning even where direct value is not immediately visible.
+
+### Developmental Consumption
+
+Energy invested in learning, capability development, experimentation, and improvement.
+
+### Protective Consumption
+
+Energy invested in preventing greater future loss, risk, failure, or depletion.
+
+### Unproductive Consumption
+
+Energy consumed through activity that produces insufficient value relative to the capacity required.
+
+The objective is therefore not:
+
+> **Minimize Human Energy consumption.**
+
+It is:
+
+> **Increase value generated per unit of usable Human Energy while protecting future execution capacity.**
+
+---
+
+# 13. BURNOUT AS A SIGNAL
+
+HEE recognizes burnout as potentially important evidence of unsustainable conditions but does not make burnout the foundation of the theory.
+
+Burnout is not treated as:
+
+- proof of organizational failure;
+- proof of individual weakness;
+- a single-cause phenomenon;
+- or a complete measure of Human Energy.
+
+Burnout may be a signal that warrants investigation into:
+
+- demands;
+- resources;
+- recovery;
+- organizational conditions;
+- work design;
+- decision friction;
+- capacity allocation;
+- and other relevant conditions.
+
+HEE therefore treats burnout as a possible signal within a broader system rather than as the central explanatory construct.
+
+---
+
+# 14. CAPACITY AND CAPABILITY
+
+## Organizational Capacity
+
+Organizational Capacity is an organization-level economic asset representing underlying potential and means to mobilize and sustain action.
+
+It can include:
+
+- resources;
+- systems;
+- processes;
+- technology;
+- structures;
+- relationships;
+- decision capacity;
+- routines;
+- people;
+- capabilities;
+- and organizational arrangements.
+
+## Usable Capacity
+
+Usable Capacity is the portion of organizational potential that can actually be mobilized under current conditions.
+
+## Capacity in the Execution Context
+
+In HEE, capacity concerns the organization’s ability to mobilize and apply available potential under actual conditions.
+
+## Capability
+
+Capability is potential.
+
+> **Capability = Potential.**
+
+## Effective Application
+
+Effective Application is purposeful realization of potential.
+
+## Execution
+
+Execution is the production of intended action and outcomes.
+
+## Sustained Execution
+
+Sustained Execution is the continued production of intended results without unnecessarily degrading future execution capacity.
+
+Thus:
+
+**Capability → Application → Execution → Sustained Execution**
+
+The transition is not automatic.
+
+---
+
+# 15. THE HEE TRANSFORMATION
+
+HEE reframes the management problem from:
+
+> **How do we get more output?**
+
+toward:
+
+> **How do we increase valuable application and execution while preserving the capacity required for future execution?**
+
+The transformation is:
+
+**Potential**
+
+↓
+
+**Usable Capacity**
+
+↓
+
+**Effective Application**
+
+↓
+
+**Execution**
+
+↓
+
+**Sustained Execution**
+
+↓
+
+**Renewed Capacity**
+
+The critical management problem is the conversion between these states.
+
+---
+
+# 16. THE SIX EXECUTION FACTORS
+
+HEE identifies six factors that shape execution:
+
+1. **Demand**
+2. **Human Energy**
+3. **Capability**
+4. **Connection**
+5. **Decision Quality**
+6. **Enablement**
+
+These factors are not homogeneous variables.
+
+They represent different types of conditions affecting an organization’s ability to convert potential into application and execution.
+
+### Demand
+
+What is being placed on capacity?
+
+### Human Energy
+
+What human capacity is available, required, and being consumed?
+
+### Capability
+
+What potential exists?
+
+### Connection
+
+Can distributed capability connect to the point of need?
+
+### Decision Quality
+
+Is scarce capacity being directed through sufficiently sound decisions?
+
+### Enablement
+
+Do organizational conditions permit capability to be applied?
+
+The factors should be diagnosed together rather than assumed to have identical effects.
+
+---
+
+# 17. DEMAND
+
+Demand is the work, activity, request, decision, interruption, coordination, reporting, exception, or other load placed on organizational capacity.
+
+Demand may be:
+
+- valuable;
+- necessary;
+- avoidable;
+- low-value;
+- recurring;
+- unpredictable;
+- or structurally generated.
+
+HEE does not assume that all demand should be reduced.
+
+The relevant question is:
+
+> **Which demand creates sufficient value relative to the capacity it consumes?**
+
+Unnecessary recurring operational demand is a particular focus of the Operational Silence Framework (OSF).
+
+---
+
+# 18. DECISION QUALITY
+
+Decision Quality concerns whether scarce organizational capacity is being directed through sufficiently sound decisions.
+
+Poor decisions can:
+
+- misallocate capacity;
+- create unnecessary work;
+- generate rework;
+- increase coordination;
+- amplify operational noise;
+- consume Human Energy;
+- delay execution;
+- and degrade future capacity.
+
+HEE identifies Decision Quality as an execution factor because the allocation of scarce capacity is itself an economic concern.
+
+Decision Quality is **not** a separate HEMS mechanism.
+
+HEE identifies and diagnoses when Decision Quality limits capacity allocation and execution.
+
+Improvement may appropriately draw on established disciplines including:
+
+- decision science;
+- governance;
+- strategic prioritization;
+- risk management;
+- management control;
+- and other relevant decision practices.
+
+HEE does not claim exclusive ownership of Decision Quality.
+
+---
+
+# 19. CAPABILITY INTERCONNECTION
+
+Organizations frequently possess capability that is distributed across:
+
+- functions;
+- teams;
+- specialists;
+- systems;
+- locations;
+- business units;
+- partners;
+- and organizational boundaries.
+
+The existence of capability does not guarantee that it can be effectively accessed or combined.
+
+The relevant questions include:
+
+- What capability exists?
+- Where does it exist?
+- Who needs it?
+- When is it needed?
+- What prevents connection?
+- What interfaces create friction?
+- What dependencies must be coordinated?
+
+### Settled HEE Mapping
+
+> **The Connection execution factor is operationalized through the Capability Interconnection mechanism.**
+
+Capability Interconnection therefore addresses the conversion of distributed capability into connected organizational potential.
+
+---
+
+# 20. CAPABILITY CONNECTION GAP
+
+A Capability Connection Gap exists when relevant capability is available somewhere in the organization but is not effectively connected to the point of need.
+
+This may occur because of:
+
+- organizational silos;
+- poor information flow;
+- unclear ownership;
+- geographic separation;
+- incompatible systems;
+- weak interfaces;
+- fragmented processes;
+- missing relationships;
+- coordination barriers;
+- or dependency complexity.
+
+The problem is not necessarily capability deficiency.
+
+The capability may already exist.
+
+The required response is therefore often:
+
+> **Connect.**
+
+---
+
+# 21. ORGANIZATIONAL ENABLEMENT
+
+Organizational Enablement concerns the conditions that allow available capability to be applied.
+
+Capability can exist without application when conditions are inadequate.
+
+Examples include:
+
+- insufficient resources;
+- structural barriers;
+- cultural resistance;
+- unclear authority;
+- decision constraints;
+- inadequate support;
+- environmental barriers;
+- or poorly configured systems.
+
+HEE therefore asks:
+
+> **What organizational condition is preventing available capability from being applied?**
+
+This creates a clear distinction between developing capability and enabling existing capability.
+
+---
+
+# 22. THE ENABLEMENT GAP
+
+An Enablement Gap exists when relevant capability exists but organizational conditions constrain its application.
+
+This is distinct from capability deficiency.
+
+If the capability is absent:
+
+> **Develop.**
+
+If the capability exists but cannot be applied:
+
+> **Enable.**
+
+The concept is compatible with the opportunity-to-perform perspective in organizational performance research.
+
+HEE therefore treats enablement as an organizational condition rather than an individual capability problem.
+
+---
+
+# 23. THE HEE GAP MODEL
+
+HEE organizes five important diagnostic gaps:
+
+| Gap / Condition | Meaning | Response |
+|---|---|---|
+| **Human Energy Gap** | Required usable Human Energy is depleted or unnecessarily consumed | **Recover** |
+| **Capability Gap** | Required capability is absent | **Develop** |
+| **Capability Connection Gap** | Relevant capability exists but is not connected | **Connect** |
+| **Enablement Gap** | Relevant capability exists but conditions prevent application | **Enable** |
+| **Execution Deficit** | Intended execution is not achieved | **Investigate** |
+
+Execution Deficit is an outcome condition.
+
+It should not automatically be treated as the root cause.
+
+An execution deficit may result from one or several preceding conditions.
+
+---
+
+# 24. HUMAN ENERGY LEAKAGE
+
+Human Energy Leakage describes unnecessary loss or diversion of usable Human Energy.
+
+HEE identifies three conceptual forms:
+
+### Demand Leakage
+
+Human Energy consumed by unnecessary, avoidable, or low-value demand.
+
+### Attention Leakage
+
+Human Energy diverted through interruption, fragmentation, context switching, excessive coordination, or competing demands.
+
+### Capability Leakage
+
+Human Energy consumed because available capability is poorly utilized, disconnected, or repeatedly recreated.
+
+Human Energy Leakage is a human-capacity manifestation within the broader condition of Organizational Drain.
+
+It is not synonymous with Organizational Drain.
+
+---
+
+# 25. OPERATIONAL NOISE
+
+Operational Noise is the operational manifestation of unnecessary recurring friction and activity.
+
+It may include:
+
+- duplicated reporting;
+- unnecessary meetings;
+- repeated approvals;
+- avoidable escalation;
+- rework;
+- excessive coordination;
+- process complexity;
+- unnecessary handoffs;
+- recurring exceptions;
+- fragmented information;
+- redundant activity;
+- and other recurring operational burdens.
+
+Operational Noise is not synonymous with Organizational Drain.
+
+It is a mechanism or manifestation through which organizational capacity may be consumed.
+
+The relevant economic question is:
+
+> **What capacity does this operational noise consume, and what value does it create?**
+
+---
+
+# 26. THE HEE MANAGEMENT LOGIC
+
+HEE organizes its broad intervention logic as:
+
+**PROTECT → DIAGNOSE → RECOVER / DEVELOP / CONNECT / ENABLE / INVESTIGATE → APPLY → EXECUTE → LEARN → ADAPT → RENEW**
+
+### Protect
+
+Prevent unnecessary degradation where possible.
+
+### Diagnose
+
+Identify the actual limiting condition.
+
+### Recover
+
+Restore depleted or unnecessarily consumed capacity.
+
+### Develop
+
+Build missing capability.
+
+### Connect
+
+Link distributed capability to the point of need.
+
+### Enable
+
+Change organizational conditions that prevent application.
+
+### Investigate
+
+Examine conversion failure or unresolved execution deficits.
+
+### Apply
+
+Turn potential into effective application.
+
+### Execute
+
+Convert application into intended action and outcomes.
+
+### Learn
+
+Capture information from execution.
+
+### Adapt
+
+Change based on learning and changing conditions.
+
+### Renew
+
+Protect, restore, develop, and reinvest in future capacity.
+
+---
+
+# 27. PROTECTION AS A CROSS-CUTTING PRINCIPLE
+
+Protection is not a separate diagnostic response.
+
+It is a cross-cutting principle.
+
+Organizations should protect:
+
+- usable Human Energy;
+- capability;
+- attention;
+- decision capacity;
+- relationships;
+- critical systems;
+- operational capacity;
+- and future execution capability.
+
+Protection does not mean avoiding all consumption.
+
+It means avoiding unnecessary degradation of assets required for valuable future execution.
+
+---
+
+# 28. THE HUMAN ENERGY MANAGEMENT SYSTEM
+
+The **Human Energy Management System (HEMS)** is the operating-system layer through which HEE can be translated into organizational management practice.
+
+HEMS coordinates complementary mechanisms and frameworks including:
+
+- Human Energy Audit (HEA);
+- Human Energy Recovery Framework (HERF);
+- Human Energy Development Plan (HEDP);
+- Capability Interconnection;
+- Human Energy Enablement (HEEn);
+- 3C Strategic Context Lens;
+- Execution Excellence System (EES);
+- and the supporting OSF + 5R demand-reduction pathway.
+
+These elements are complementary.
+
+HEMS does not require every element to operate in a fixed sequence.
+
+### Decision Quality in HEMS
+
+Decision Quality is a HEE execution factor rather than a separate HEMS mechanism.
+
+HEE identifies and diagnoses its effect on capacity allocation and execution, while improvement may appropriately draw on established decision and governance disciplines.
+
+---
+
+# 29. HUMAN ENERGY AUDIT
+
+The **Human Energy Audit (HEA)** provides visibility into the conditions affecting Human Energy and usable organizational capacity.
+
+Potential audit areas include:
+
+- demand;
+- Human Energy;
+- attention;
+- interruptions;
+- coordination;
+- decision friction;
+- rework;
+- capability utilization;
+- energy-draining processes;
+- capacity risks;
+- recurring operational burdens.
+
+The objective is not simply to measure how busy people are.
+
+It is to understand:
+
+> **What is consuming usable capacity, why, and with what consequence?**
+
+---
+
+# 30. HUMAN ENERGY RECOVERY FRAMEWORK
+
+The **Human Energy Recovery Framework (HERF)** focuses on recovering depleted or unnecessarily consumed capacity.
+
+Recovery can involve:
+
+- removing unnecessary demand;
+- reducing avoidable friction;
+- redesigning work;
+- improving recovery conditions;
+- protecting attention;
+- changing harmful patterns;
+- restoring usable capacity.
+
+HERF does not mean reducing all work.
+
+Its purpose is to recover capacity that can be made available for valuable application and future execution.
+
+---
+
+# 31. HUMAN ENERGY DEVELOPMENT PLAN
+
+The **Human Energy Development Plan (HEDP)** addresses capability development where required capability is missing or insufficient.
+
+Development may include:
+
+- knowledge;
+- skills;
+- experience;
+- practice;
+- coaching;
+- learning;
+- capability building;
+- and organizational learning.
+
+The distinction remains:
+
+> **If capability is missing, develop it.**
+
+If capability already exists but cannot be applied, the problem belongs primarily to connection or enablement rather than development.
+
+---
+
+# 32. HUMAN ENERGY ENABLEMENT
+
+**Human Energy Enablement (HEEn)** is the specialized framework within HEMS that examines the organizational conditions between capability and application.
+
+Its foundational distinction is:
+
+> **Capability is not the same as application.**
+
+HEEn addresses situations in which relevant capability exists but is not being effectively applied because organizational conditions constrain its use.
+
+HEEn is therefore:
+
+- not capability development when capability already exists;
+- not Human Energy recovery;
+- not demand reduction.
+
+HEEn works in combination with:
+
+- 3C;
+- Capability Interconnection;
+- OSF + 5R;
+- EES;
+- and the wider HEE diagnostic architecture.
+
+---
+
+# 33. THE SIX ENABLEMENT DIMENSIONS
+
+HEEn identifies six broad enablement dimensions:
+
+1. **Resource Enablement**
+2. **Structural Enablement**
+3. **Cultural Enablement**
+4. **Decision Enablement**
+5. **Support Enablement**
+6. **Environmental Enablement**
+
+These dimensions identify different organizational conditions that may influence application.
+
+### Resource Enablement
+
+Whether the resources required to apply capability are available.
+
+### Structural Enablement
+
+Whether organizational structures, roles, authority, and interfaces permit action.
+
+### Cultural Enablement
+
+Whether norms, expectations, and behavioral patterns support application.
+
+### Decision Enablement
+
+Whether people have access to the decision conditions, authority, information, and processes needed to act.
+
+### Support Enablement
+
+Whether assistance, systems, leadership, expertise, and operational support are available.
+
+### Environmental Enablement
+
+Whether the physical, technological, temporal, or contextual environment permits effective application.
+
+HEE recognizes these dimensions, while detailed diagnostic tests, measures, interventions, and implementation guidance belong to HEEn.
+
+### Decision Enablement ≠ Decision Quality
+
+Decision Enablement concerns the organizational conditions supporting decision-making.
+
+Decision Quality concerns whether the decision itself is sufficiently sound for the context.
 
 The two should not be conflated.
 
 ---
 
-# 44. HEE AND EXECUTION CONSTRAINTS
+# 34. 3C — THE STRATEGIC CONTEXT LENS
 
-HEE recognizes that the limiting condition may occur at different points in the conversion system.
+The **3C Strategic Context Lens** examines:
 
-A condition may be:
+**Source · Dependency · Constraint**
 
-- a demand constraint
-- a Human Energy constraint
-- a capability constraint
-- a connection constraint
-- a decision constraint
-- an enablement constraint
-- a flow constraint
-- an execution constraint
+### Source
 
-The appropriate intervention therefore depends on diagnosis.
+Where does the condition, demand, friction, or problem originate?
 
-> **Do not automatically fix the largest problem. Fix the condition that most limits sustainable execution.**
+### Dependency
 
----
+What depends on the activity, decision, capability, or resource?
 
-# 45. HEE AND OPERATIONAL SILENCE
+### Constraint
 
-Operational Silence Framework addresses unnecessary recurring operational demand.
+What limits the ability to act, change, or execute?
 
-Its logic is:
+3C is a strategic diagnostic and contextual lens.
 
-**Unnecessary Recurring Demand → Operational Noise → Avoidable Capacity Consumption → Demand Reduction → Capacity Release**
+It is not:
 
-HEE then asks:
+- a diagnostic response;
+- an intervention mechanism;
+- a replacement for HEE diagnosis;
+- or a component absorbed into Capability Interconnection.
 
-> **What happens to the capacity that has been released?**
-
-Released capacity may need to be:
-
-**Protected → Recovered → Redirected → Applied → Executed**
-
-Therefore:
-
-> **Capacity release is not value creation by itself.**
-
-Value requires conversion into effective application and outcomes.
+3C helps determine **where to look and how to understand context** before choosing an intervention.
 
 ---
 
-# 46. CAPACITY RELEASE, RECOVERY, AND REDIRECTION
+# 35. OSF AND THE 5R CASCADE
 
-HEE distinguishes:
+The **Operational Silence Framework (OSF)** addresses unnecessary recurring operational demand and Operational Noise.
 
-**Capacity Release ≠ Capacity Recovery**
+Its central proposition is:
 
-**Capacity Recovery ≠ Human Energy Recovery**
+> **Stop Managing Chaos. Start Engineering Silence.**
 
-**Capacity Recovery ≠ Capacity Redirection**
+OSF uses the **5R Cascade**:
 
-**Capacity Redirection ≠ Effective Application**
+**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
-**Effective Application ≠ Execution**
+### Remove
 
-**Execution ≠ Sustainable Execution Capacity**
+Eliminate activity that creates insufficient value.
 
-**Capacity Recovered ≠ Value Created**
+### Reduce
 
-The economic significance of capacity depends on what happens after it is released or recovered.
+Decrease necessary activity to an appropriate level.
 
----
+### Replace
 
-# 47. CAPACITY REABSORPTION
+Substitute a lower-cost or lower-friction approach.
 
-Released capacity can be consumed again by:
+### Re-engineer
 
-- new low-value work
-- unnecessary recurring demand
-- avoidable coordination
-- recurring exceptions
-- excessive approvals
-- rework
-- unmanaged growth
-- new layers of complexity
+Redesign the underlying process or operating condition.
 
-This is **Capacity Reabsorption**.
+### Retain
 
-Therefore:
+Protect what remains valuable and prevent unnecessary reintroduction of removed demand.
 
-> **Releasing capacity without protecting it may simply create room for new consumption.**
+OSF principles include:
 
-Sustainable capacity management requires:
+> **Question before optimizing.**
 
-**Release → Protect → Redirect → Apply**
+> **Remove before reducing.**
 
----
+> **Simplify before automating.**
 
-# 48. HEE AND EX / CX FEEDBACK
+> **Protect released capacity.**
 
-HEE recognizes a reciprocal relationship between internal organizational conditions and external experience.
+> **Measure what happened to capacity, not just activity.**
 
-A simplified loop is:
-
-```text
-INTERNAL CONDITIONS
-      ↓
-APPLICATION
-      ↓
-EXECUTION
-      ↓
-EMPLOYEE EXPERIENCE
-      ↓
-CUSTOMER INTERACTION
-      ↓
-CUSTOMER EXPERIENCE
-      ↓
-CUSTOMER OUTCOME
-      ↓
-FEEDBACK
-      ↓
-DIAGNOSIS / ADAPTATION
-```
-
-Negative CX can therefore serve as a diagnostic signal.
-
-However:
-
-> **Negative CX does not by itself prove that the internal organization is the cause.**
-
-Likewise:
-
-> **Negative EX does not mechanically determine negative CX.**
-
-HEE uses these relationships as diagnostic and economic pathways rather than universal causal laws.
+OSF therefore contributes primarily to the reduction of unnecessary recurring demand and recovery of usable capacity.
 
 ---
 
-# 49. HEE AND SLA / XLA
+# 36. EXECUTION EXCELLENCE
 
-HEE complements service-level and experience-level management.
+The **Execution Excellence System (EES)** converts enabled capability into reliable execution and adaptation.
 
-**SLA → XLA → HEE**
+Its canonical operating loop is:
 
-- **SLA protects service performance.**
-- **XLA protects customer/user experience.**
-- **HEE protects the organizational capacity required to sustain both.**
+**FIND → FIX → CONTROL → ADAPT → GROW**
 
-The relationship is complementary rather than necessarily hierarchical.
+### FIND
 
-A service can meet an SLA while creating excessive internal capacity consumption.
+Identify the execution constraint or performance condition.
 
-Likewise, a positive customer experience may temporarily depend on unsustainable internal effort.
+### FIX
 
-HEE asks whether the organizational conditions supporting service and experience can remain viable over time.
+Address the highest-impact limiting condition.
 
----
+### CONTROL
 
-# 50. HEE AND ORGANIZATIONAL GROWTH
+Stabilize and maintain the improvement.
 
-Growth increases the potential for:
+### ADAPT
 
-- more decisions
-- more dependencies
-- more interfaces
-- more handoffs
-- more systems
-- more priorities
-- more exceptions
-- more coordination
+Respond to changing conditions and learning.
 
-The resulting risk is:
+### GROW
 
-```text
-GROWTH
-  ↓
-COMPLEXITY
-  ↓
-INTERDEPENDENCE
-  ↓
-POTENTIAL FRAGMENTATION
-  ↓
-CAPACITY CONSUMPTION
-  ↓
-APPLICATION FRICTION
-  ↓
-EXECUTION RISK
-```
+Extend, improve, and compound organizational execution capability.
 
-The critical issue is not growth itself.
+Other representations may expand this logic into more detailed implementation flows.
 
-It is whether:
+They are not competing canonical cycles.
 
-**Capability + Connection + Decision Quality + Enablement + Capacity**
-
-develop sufficiently alongside organizational complexity.
-
-### HEE growth principle
-
-> **Scale capability, not complexity.**
+EES is concerned with reliable execution after relevant conditions, capability, connection, and enablement have been addressed.
 
 ---
 
-# 51. HEE LEADERSHIP TEST
+# 37. TECHNOLOGY AND AI
 
-Leaders can use the following diagnostic questions.
+HEE treats technology and AI as means that can alter organizational capacity, demand, capability, connection, decision-making, and execution.
+
+Technology can:
+
+- reduce demand;
+- automate work;
+- increase capability;
+- improve connection;
+- accelerate decisions;
+- create new demand;
+- increase complexity;
+- amplify operational noise;
+- or accelerate inefficient processes.
+
+The central HEE question is therefore:
+
+> **Does technology increase Sustainable Execution Capacity — or simply increase the speed of complexity?**
+
+Automation should not automatically be treated as improvement.
+
+If an unnecessary process is automated, the organization may simply make unnecessary demand faster.
+
+HEE therefore supports:
+
+> **Simplify before automating.**
+
+---
+
+# 38. EMPLOYEE EXPERIENCE AND CUSTOMER EXPERIENCE
+
+Employee Experience (EX) and Customer Experience (CX) are important signals of organizational conditions.
+
+HEE does not treat either as a single deterministic explanation of organizational performance.
+
+### Employee Experience
+
+EX may reflect:
+
+- Human Energy conditions;
+- demand;
+- organizational design;
+- enablement;
+- decision friction;
+- capability connection;
+- leadership;
+- and other system conditions.
+
+### Customer Experience
+
+CX may reflect:
+
+- execution quality;
+- operational friction;
+- service reliability;
+- process design;
+- capability;
+- capacity;
+- and other organizational conditions.
+
+HEE therefore uses EX and CX as important evidence within a wider system.
+
+---
+
+# 39. SUSTAINABLE EXECUTION CAPACITY
+
+HEE defines **Sustainable Execution Capacity** as:
+
+> **The organization’s ability to execute priorities consistently over time without unnecessarily degrading the Human Energy, capability, and Organizational Capacity required for future execution.**
+
+Sustainable Execution Capacity is not merely current capacity.
+
+It concerns the relationship between:
+
+- present execution;
+- capacity consumption;
+- learning;
+- adaptation;
+- and future ability to execute.
+
+An organization can achieve strong short-term results while weakening Sustainable Execution Capacity.
+
+HEE considers that an economically important failure.
+
+---
+
+# 40. SUSTAINABLE BUSINESS VALUE
+
+Sustainable Business Value is value created and maintained without unnecessarily destroying the capacity required to create future value.
+
+HEE therefore distinguishes:
+
+**Current Value**
+
+from
+
+**Value with Capacity Preservation and Renewal**
+
+The objective is not to maximize output at any cost.
+
+It is to create valuable outcomes while preserving, developing, connecting, enabling, and renewing the capacity required for continued value creation.
+
+---
+
+# 41. THE HEE CAPACITY MODEL
+
+The HEE capacity model can be represented conceptually as:
+
+**Organizational Capacity + Human Energy**
+
+↓
+
+**Usable Capacity**
+
+↓
+
+**Capability + Connection + Decision Quality + Enablement**
+
+↓
+
+**Effective Application**
+
+↓
+
+**Execution**
+
+↓
+
+**Sustained Execution**
+
+↓
+
+**Sustainable Execution Capacity**
+
+↓
+
+**Sustainable Business Value**
+
+This is a conceptual architecture, not an arithmetic model.
+
+The terms should not be interpreted as commensurate numerical variables simply because they are shown in sequence.
+
+The model describes relationships among constructs.
+
+---
+
+# 42. CONCEPTUAL CAPACITY FORMULATIONS
+
+HEE may eventually require operational formulations for constructs that are currently conceptual.
+
+The following are therefore proposed as conceptual placeholders or future operationalization hypotheses.
+
+### Human Energy
+
+**Human Energy = f(Potential Capacity, Intensity Alignment, Duration Sustainability)**
+
+This suggests that available Human Energy may depend on the relationship among underlying potential, the intensity required, and whether that intensity can be sustained.
+
+### Human Energy Leakage
+
+**Human Energy Leakage = f(Demand Leakage, Attention Leakage, Capability Leakage)**
+
+This identifies three conceptual sources of unnecessary Human Energy loss.
+
+### Remaining Human Energy
+
+**Remaining Human Energy = Available Human Energy − Measured Human Energy Loss**
+
+These formulations are not validated equations.
+
+HEE does not currently claim:
+
+- empirically established functional forms;
+- universally measurable units;
+- commensurability across all terms;
+- predictive validity;
+- or mathematical proof of the relationships.
+
+Future research must determine whether and how these constructs can be operationalized quantitatively.
+
+---
+
+# 43. MEASUREMENT
+
+HEE encourages measurement of what happens to capacity, not merely what happens to activity.
+
+Potential measurement domains include:
+
+- Human Energy;
+- demand;
+- operational noise;
+- capability;
+- capability connection;
+- Decision Quality;
+- enablement;
+- execution;
+- Sustainable Execution Capacity;
+- and value.
+
+Possible measures may examine:
+
+- volume;
+- frequency;
+- time;
+- interruption;
+- rework;
+- capacity availability;
+- utilization;
+- recovery;
+- application;
+- execution reliability;
+- and capacity preservation.
+
+The central measurement principle is:
+
+> **Measure what happened to capacity, not only what happened to activity.**
+
+Measurement systems should avoid creating additional unnecessary demand.
+
+---
+
+# 44. CONSTRUCT DISTINCTION ARCHITECTURE
+
+HEE distinguishes several related but non-identical constructs.
+
+| Construct | Meaning |
+|---|---|
+| **Organizational Drain** | Economic condition |
+| **Operational Noise** | Operational manifestation/mechanism |
+| **Human Energy Leakage** | Human-capacity manifestation |
+| **Capacity Loss** | Reduction in available or usable capacity |
+| **Capacity Impairment** | Capacity exists but is degraded or less usable |
+| **Capacity Allocation** | How scarce capacity is distributed |
+| **Capacity Configuration** | How structures, systems, relationships, and resources are arranged |
+| **Capability Connection Gap** | Existing capability is not connected to the point of need |
+| **Enablement Gap** | Existing capability cannot be applied because conditions constrain it |
+| **Execution Deficit** | Intended execution is not achieved |
+| **Conversion Failure** | Relevant potential appears sufficient, yet valuable application or execution fails |
+
+A possible conceptual hierarchy is:
+
+**Operational Noise / Human Energy Leakage**
+
+↓
+
+may contribute to
+
+**Organizational Drain**
+
+↓
+
+may produce
+
+**Capacity Loss / Capacity Impairment**
+
+↓
+
+may contribute to
+
+**Application Constraint / Execution Deficit**
+
+↓
+
+may affect
+
+**Sustainable Execution Capacity**
+
+↓
+
+may affect
+
+**Sustainable Business Value**
+
+This hierarchy is conceptual and diagnostic.
+
+It is not a universal causal law.
+
+---
+
+# 45. PRIORITIZATION
+
+HEE uses the following conceptual prioritization heuristic:
+
+> **Priority = Urgency × Dependency × Value Impact**
+
+The heuristic directs attention toward issues that are:
+
+- urgent;
+- highly dependent upon by other activities;
+- and significant in value impact.
+
+It is shared ecosystem infrastructure.
+
+It is not owned exclusively by:
+
+- HEE;
+- HEMS;
+- EES;
+- HEEn;
+- 3C;
+- OSF;
+- or any other individual framework.
+
+The expression is a prioritization heuristic, not validated mathematics.
+
+Its purpose is to support practical decision-making when multiple constraints compete for limited organizational capacity.
+
+---
+
+# 46. THE HEE IMPLEMENTATION PATH
+
+A practical HEE implementation can follow:
+
+**FRAME → AUDIT → DIAGNOSE → IDENTIFY LIMITING CONDITION → PRIORITIZE → RECOVER / DEVELOP / CONNECT / ENABLE / INVESTIGATE → APPLY → EXECUTE → LEARN → ADAPT → RENEW**
+
+### FRAME
+
+Clarify the strategic objective, scope, and relevant execution context.
+
+### AUDIT
+
+Establish visibility into demand, Human Energy, capability, connection, Decision Quality, enablement, and capacity.
+
+### DIAGNOSE
+
+Identify the actual limiting condition.
+
+### IDENTIFY LIMITING CONDITION
+
+Determine whether the dominant issue is depletion, deficiency, disconnection, constraint, conversion failure, or another condition requiring investigation.
+
+### PRIORITIZE
+
+Select the highest-impact condition for action.
+
+### INTERVENE
+
+Recover, develop, connect, enable, or investigate as appropriate.
+
+### APPLY
+
+Ensure relevant potential can be converted into useful application.
+
+### EXECUTE
+
+Produce intended action and outcomes.
+
+### LEARN
+
+Capture evidence from execution.
+
+### ADAPT
+
+Modify the system based on evidence and changing conditions.
+
+### RENEW
+
+Protect and rebuild future capacity.
+
+---
+
+# 47. HEE MATURITY PATH
+
+HEE maturity can be viewed developmentally as:
+
+**Awareness → Measurement → Recovery → Development → Connection and Enablement → Sustainable Execution**
+
+### Awareness
+
+Recognizing capacity consumption and execution constraints.
+
+### Measurement
+
+Creating visibility into demand, Human Energy, capability, connection, enablement, decisions, and execution.
+
+### Recovery
+
+Removing or correcting unnecessary depletion.
+
+### Development
+
+Building missing capability.
+
+### Connection and Enablement
+
+Ensuring capability can reach and operate at the point of need.
+
+### Sustainable Execution
+
+Embedding learning, adaptation, protection, and renewal into ongoing execution.
+
+This is a developmental model rather than a rigid organizational maturity scale.
+
+---
+
+# 48. HEE QUESTIONS THAT LEAD TO ACTION
+
+HEE turns abstract performance problems into actionable questions.
+
+### Demand
+
+> What demand is consuming capacity, and which demand creates sufficient value?
+
+### Human Energy
+
+> Where is Human Energy being unnecessarily consumed?
+
+### Capability
+
+> What capability is missing?
+
+### Connection
+
+> What capability exists but is not connected?
+
+### Enablement
+
+> What organizational condition prevents capability from being applied?
+
+### Decision Quality
+
+> Is scarce capacity being directed through sufficiently sound decisions?
 
 ### Capacity
 
-> **What capacity do we actually have?**
+> What capacity is being depleted without sufficient value?
 
-### Limitation
+### Operational Noise
 
-> **What most limits its application?**
+> What recurring activity creates insufficient value relative to the capacity it consumes?
 
-### Conversion
+### Context
 
-> **Why is available capability or capacity not becoming effective application?**
+> Where does the problem originate?
+
+> What depends on the activity, capability, decision, or resource?
+
+> What constrains action?
 
 ### Execution
 
-> **What must change for intended execution to occur?**
+> What is preventing application from becoming reliable execution?
 
-### Future
+### Renewal
 
-> **Will today's execution strengthen or weaken tomorrow's capacity?**
-
-### Expanded leadership test
-
-> **What is the constraint?**
-
-> **What is the consequence?**
-
-> **What must change next?**
-
-> **What happens to future capacity if we do nothing?**
+> What capacity did this execution cycle leave behind?
 
 ---
 
-# 52. HEE MATURITY
+# 49. HEE SIGNATURE QUESTIONS
 
-HEE maturity can be understood as movement from extracting current capacity toward cultivating sustainable execution capacity.
+HEE’s signature questions include:
 
-| Stage | Dominant management logic |
+> **What limits application?**
+
+> **Where is Human Energy being unnecessarily consumed?**
+
+> **What capacity is being depleted without sufficient value?**
+
+> **What capability exists but is not connected?**
+
+> **What organizational condition prevents capability from being applied?**
+
+> **Where does the problem originate?**
+
+> **What depends on the activity, capability, decision, or resource?**
+
+> **What constrains action?**
+
+> **What did this execution cycle consume?**
+
+> **What did it create?**
+
+> **What capacity did it leave behind?**
+
+### Strategic Test
+
+> **Can the organization consistently deliver the experience and outcomes it needs to deliver — without consuming the capacity required to do it again?**
+
+---
+
+# 50. THE HEE DIAGNOSTIC CARD
+
+A compact HEE diagnostic can be structured as follows:
+
+| Step | Diagnostic |
 |---|---|
-| **1. Extraction** | Maximize immediate output |
-| **2. Stabilization** | Prevent acute performance failure |
-| **3. Recovery** | Restore depleted capacity |
-| **4. Enablement** | Improve conditions for application |
-| **5. Integration** | Connect capability, capacity, decisions, and systems |
-| **6. Sustainable Execution** | Produce outcomes without unnecessary future degradation |
-| **7. Capacity Cultivation** | Deliberately strengthen future execution capacity |
+| **Objective** | What are we trying to achieve? |
+| **Demand** | What is consuming capacity? |
+| **Human Energy** | What Human Energy is required and being consumed? |
+| **Capability** | What capability exists? |
+| **Connection** | Is capability connected to the point of need? |
+| **Enablement** | Do organizational conditions permit application? |
+| **Decision Quality** | Is scarce capacity being directed effectively? |
+| **Limiting Condition** | Depletion · Deficiency · Disconnection · Constraint · Conversion Failure |
+| **Response** | Recover · Develop · Connect · Enable · Investigate |
+| **Capacity Outcome** | What happened to usable and future capacity? |
 
-The maturity model is conceptual rather than a validated measurement scale.
-
----
-
-# 53. HEE DIFFERENTIATION
-
-HEE is differentiated by treating organizational capacity as an economic concern rather than viewing performance solely through output, productivity, capability, or employee wellbeing.
-
-### HEE ≠ Productivity Management
-
-Productivity asks:
-
-> How much output is produced from inputs?
-
-HEE asks:
-
-> What determines the organization's ability to sustain valuable output without unnecessarily degrading future capacity?
-
-### HEE ≠ Human Capital Management
-
-Human Capital focuses on capability embodied in people.
-
-HEE asks how capability becomes available capacity, application, execution, and sustainable value.
-
-### HEE ≠ Employee Wellbeing
-
-Wellbeing may be important, but HEE examines Human Energy as part of a broader organizational capacity system.
-
-### HEE ≠ Capacity Planning Alone
-
-Capacity planning often concerns resource availability.
-
-HEE examines the conditions that determine whether available capacity can actually become effective application.
-
-### HEE ≠ Operational Improvement
-
-Operational improvement may optimize existing work.
-
-HEE asks what limits sustainable execution capacity.
-
-### HEE ≠ Execution Management
-
-Execution management focuses on producing intended results.
-
-HEE examines the capacity conditions required to produce those results repeatedly.
+The diagnostic card is intended to prevent organizations from jumping directly to solutions before identifying the condition.
 
 ---
 
-# 54. HEE IN ITS SIMPLEST FORM
+# 51. HEE AND OTHER MANAGEMENT DOMAINS
 
-```text
-WHAT DO WE HAVE?
-        ↓
-CAPABILITY + CAPACITY
-        ↓
-WHAT LIMITS APPLICATION?
-        ↓
-DIAGNOSE
-        ↓
-RECOVER / DEVELOP / CONNECT / ENABLE / INVESTIGATE
-        ↓
-APPLY
-        ↓
-EXECUTE
-        ↓
-LEARN
-        ↓
-ADAPT
-        ↓
-RENEW
-        ↓
-STRONGER SUSTAINABLE EXECUTION CAPACITY
-        ↓
-SUSTAINABLE BUSINESS VALUE
-```
+HEE is complementary to established management disciplines.
 
-Or, in one line:
+### Strategy
 
-> **Protect capacity → Diagnose constraints → Enable application → Execute → Learn → Adapt → Renew.**
+HEE examines whether strategic priorities can be converted into sustainable organizational execution.
 
----
+### Operations
 
-# 55. HEE RESEARCH POSITION
+HEE examines the capacity implications of operational design, demand, noise, process friction, and execution.
 
-HEE is a **conceptual management theory and economic lens**.
+### Human Resources
 
-Its constructs, relationships, diagnostic models, maturity models, and management heuristics provide a framework for understanding organizational capacity and sustainable execution.
+HEE adds an economic-capacity perspective to the management of people and Human Energy.
 
-They should not be interpreted as universally validated empirical laws.
+### Organizational Development
 
-Areas requiring empirical development and validation include:
+HEE complements organizational-development work by examining application, enablement, connection, and sustainable execution.
 
-- Human Energy measurement
-- Organizational Capacity measurement
-- capacity consumption and release
-- application constraints
-- Sustainable Execution Capacity
-- relationships among the six execution conditions
-- Decision Quality and execution
-- organizational fragmentation
-- operational noise
-- EX/CX relationships
-- predictive indicators of execution degradation
-- maturity assessment
-- economic measurement of capacity preservation and cultivation
+### Process Improvement
 
-Quantitative indices, thresholds, causal relationships, and predictive models should be introduced only with appropriate measurement design and empirical validation.
+HEE examines not only process efficiency but also what capacity the process consumes and what it leaves behind.
+
+### Technology Management
+
+HEE examines whether technology increases usable and Sustainable Execution Capacity.
+
+### Change Management
+
+HEE considers the Human Energy, capability, connection, decision, enablement, and capacity implications of change.
+
+### Performance Management
+
+HEE adds the question of what performance consumes and whether it preserves future execution capacity.
+
+HEE therefore does not seek to replace these disciplines.
+
+It provides an economic lens through which their effects on organizational capacity and sustainable execution can be examined.
 
 ---
 
-# 56. HEE QUICK REFERENCE
+# 52. WHAT HEE IS NOT
 
-| Element | HEE |
-|---|---|
-| **Full Name** | Human Energy Economics |
-| **Position** | Conceptual management theory and economic lens |
-| **Primary concern** | Organizational capacity and sustainable execution |
-| **Central resource** | Human Energy |
-| **Foundational distinction** | Capability = Potential |
-| **Capacity distinction** | Capacity = Ability to mobilize and apply potential |
-| **Six conditions** | Demand · Human Energy · Capability · Connection · Decision Quality · Enablement |
-| **Core question** | What limits application? |
-| **Core problem** | Capacity not becoming effective application or being unnecessarily degraded |
-| **Core conversion** | Capability + Capacity → Application → Execution |
-| **Long-term outcome** | Sustainable Execution Capacity |
-| **Ultimate outcome** | Sustainable Business Value |
-| **Priority heuristic** | Urgency × Dependency × Value Impact |
-| **Management logic** | Protect → Diagnose → Intervene → Apply → Execute → Learn → Adapt → Renew |
-| **Core principle** | Extraction depletes. Cultivation compounds. |
-| **Growth principle** | Scale capability, not complexity |
-| **Final test** | Does today's execution strengthen or weaken tomorrow's capacity? |
+HEE is not:
+
+- a burnout theory;
+- a productivity hack;
+- a time-management system;
+- an employee-engagement model;
+- a capability-development framework alone;
+- a process-improvement method alone;
+- a technology framework;
+- a substitute for strategy;
+- a claim that Human Energy explains all organizational performance;
+- a claim that every performance problem is caused by organizational drain;
+- or a validated predictive mathematical model.
+
+HEE is a conceptual management theory and economic lens focused on organizational capacity and sustainable execution.
 
 ---
 
-# 57. CLOSING PRINCIPLE
+# 53. WHAT MAKES HEE AN ECONOMIC LENS
 
-> **Organizations should not be managed only for what they can produce today. They should be managed for their ability to continue producing valuable outcomes tomorrow.**
+HEE uses economic concepts to examine organizational execution.
 
-HEE therefore asks leaders to look beyond output.
+These include:
 
-Beyond activity.
+- scarcity;
+- allocation;
+- consumption;
+- depletion;
+- recovery;
+- development;
+- conversion;
+- utilization;
+- capacity;
+- productivity;
+- value;
+- reinvestment;
+- and renewal.
 
-Beyond capability.
+The central economic problem is:
 
-Beyond utilization.
+> **How should scarce organizational capacity and Human Energy be preserved, allocated, consumed, developed, and renewed to support valuable execution over time?**
 
-Beyond short-term efficiency.
+HEE therefore extends performance thinking beyond immediate output toward the economics of repeated execution.
 
-Beyond isolated performance.
+---
 
-And ask:
+# 54. THE HEE VALUE CYCLE
 
-> **What determines our ability to convert the capacity we have into effective application, sustained execution, and lasting value?**
+HEE represents sustainable organizational value creation as a cycle:
 
-The ultimate management objective is not maximum extraction.
+**CAPACITY**
 
-It is **sustainable conversion**.
+↓
 
-```text
-HUMAN ENERGY
-      ×
-CAPABILITY
-      ×
-CONNECTION
-      ×
-DECISION QUALITY
-      ×
-ENABLEMENT
-      ↓
-EFFECTIVE APPLICATION
-      ↓
-EXECUTION
-      ↓
-SUSTAINED EXECUTION
-      ↓
-SUSTAINABLE EXECUTION CAPACITY
-      ↓
-SUSTAINABLE BUSINESS VALUE
-      ↺
-RENEW
-```
+**APPLICATION**
 
-The multiplicative representation is a **conceptual expression of interdependence**, not a validated quantitative equation.
+↓
 
-### The HEE principle
+**EXECUTION**
+
+↓
+
+**VALUE CREATION**
+
+↓
+
+**LEARNING**
+
+↓
+
+**ADAPTATION**
+
+↓
+
+**REINVESTMENT**
+
+↓
+
+**RENEWED CAPACITY**
+
+↓
+
+**CAPACITY**
+
+The cycle is important because value creation can either:
+
+- strengthen future capacity;
+- leave capacity largely intact;
+- or consume capacity faster than it is renewed.
+
+HEE focuses on making that relationship visible.
+
+---
+
+# 55. THE HEE ARCHITECTURE
+
+HEE can be represented through four functional levels.
+
+## Level 1 — HEE Theory
+
+**Human Energy Economics**
+
+The foundational theory and economic lens.
+
+## Level 2 — HEMS
+
+**Human Energy Management System**
+
+The operating-system layer translating HEE into coordinated organizational management.
+
+## Level 3 — Complementary Frameworks and Lenses
+
+- HEA — Human Energy Audit
+- HERF — Human Energy Recovery Framework
+- HEDP — Human Energy Development Plan
+- Capability Interconnection
+- HEEn — Human Energy Enablement
+- 3C — Strategic Context Lens
+- EES — Execution Excellence System
+
+## Level 4 — Supporting Implementation Mechanisms
+
+- OSF — Operational Silence Framework
+- 5R — REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN
+
+### Architecture Reconciliation
+
+The level distinction describes **functional role**, not relative importance or a mandatory sequence.
+
+The ecosystem hub presents these elements as complementary components that may operate independently or in combination.
+
+The architecture therefore should not be interpreted as a rigid hierarchy of derivation.
+
+---
+
+# 56. HEE ECOSYSTEM RELATIONSHIP
+
+The HEE ecosystem is best represented as a **hub-and-spoke system**, not as a tree.
+
+## Center
+
+**HEE — Human Energy Economics**
+
+↓
+
+**HEMS — Human Energy Management System**
+
+↓
+
+Seven independent complementary spokes:
+
+- **HEA**
+- **HERF**
+- **HEDP**
+- **Capability Interconnection**
+- **HEEn**
+- **3C**
+- **EES**
+
+Alongside these:
+
+**OSF + 5R**
+
+as a **supporting demand-reduction pathway**.
+
+The outcome logic is:
+
+**Effective Application → Execution → Sustainable Execution Capacity → Sustainable Business Value → Renew / Reinvest**
+
+### Ecosystem Boundary
+
+The diagram does **not** imply that:
+
+- HERF derives from OSF;
+- HEDP derives from OSF;
+- HEA derives from Capability Interconnection;
+- Capability Interconnection derives from 3C;
+- or any other specific framework must produce another framework.
+
+The ecosystem represents complementarity and relationship.
+
+It does not imply a mandatory sequence or derivation among the frameworks.
+
+---
+
+# 57. THE HEE CENTRAL PROPOSITION
+
+> **Sustainable organizational performance depends not only on what capacity and capability an organization possesses, but on how effectively it can mobilize, connect, enable, apply, execute, and renew those assets across successive execution cycles.**
+
+This leads to a management imperative:
+
+> **Manage not only for output, but for preservation and expansion of the capacity required to produce valuable output repeatedly.**
+
+The economic objective is therefore not simply:
+
+**More output today.**
+
+It is:
+
+**More valuable application today + stronger capacity for tomorrow.**
+
+---
+
+# 58. THE HEE TEST
+
+HEE proposes a simple strategic test:
+
+> **Can the organization consistently deliver what it needs to deliver without consuming the capacity required to do it again?**
+
+A second formulation asks:
+
+> **Does execution extract from organizational capacity, or does it also protect, develop, connect, enable, and renew that capacity?**
+
+The test does not imply that every execution cycle must increase capacity.
+
+Some legitimate work necessarily consumes capacity.
+
+The issue is whether consumption is justified by value, necessity, protection, development, or future benefit — and whether avoidable degradation is being prevented.
+
+---
+
+# 59. THE HEE THESIS
+
+Organizations may possess substantial resources and capability yet fail to sustain execution.
+
+This can occur when:
+
+- Human Energy is depleted;
+- unnecessary demand consumes capacity;
+- capability is disconnected;
+- organizational conditions prevent application;
+- Decision Quality misallocates scarce capacity;
+- operational noise creates friction;
+- capacity is lost or impaired;
+- or current execution consumes the capacity required for future execution.
+
+HEE’s central theoretical contribution is therefore a focus on the **conversion, preservation, and renewal problem**:
+
+> **How does an organization convert potential into valuable application and sustained execution while preserving the capacity required for future cycles?**
+
+The theory shifts attention from capability possession alone toward capability application, execution, and renewal.
+
+---
+
+# 60. FUTURE RESEARCH, SCOPE, LIMITATIONS, AND CONCLUSION
+
+## Future Research
+
+Future HEE research should examine the operationalization and empirical validation of:
+
+- Human Energy;
+- Organizational Capacity;
+- capability;
+- capacity;
+- application;
+- execution;
+- sustained execution;
+- Capability Connection Gap;
+- Enablement Gap;
+- Operational Noise;
+- Human Energy Leakage;
+- Sustainable Execution Capacity;
+- diagnostic conditions;
+- intervention effectiveness;
+- technology and AI effects;
+- capacity preservation;
+- capacity renewal;
+- and sustainable business value.
+
+Research should also investigate HEE across:
+
+- industries;
+- organizational sizes;
+- cultures;
+- organizational structures;
+- geographic contexts;
+- and different forms of knowledge-intensive and operational work.
+
+## Scope
+
+HEE focuses on:
+
+> **Organizational capacity and sustainable execution.**
+
+It is not intended to provide a complete theory of organizational performance.
+
+Many other factors can influence organizational outcomes, including:
+
+- markets;
+- strategy;
+- competition;
+- regulation;
+- macroeconomic conditions;
+- leadership;
+- technology;
+- customer behavior;
+- capital;
+- and external shocks.
+
+HEE addresses one particular problem:
+
+> **How organizations preserve, develop, connect, enable, mobilize, and apply capacity to sustain valuable execution.**
+
+## Limitations
+
+HEE is currently a conceptual and evolving management theory.
+
+Its constructs and relationships require further:
+
+- conceptual refinement;
+- measurement development;
+- empirical testing;
+- cross-context validation;
+- and possible mathematical operationalization.
+
+HEE does not currently claim:
+
+- validated predictive equations;
+- universally applicable causal relationships;
+- commensurate units for all constructs;
+- or empirical proof of the complete HEE architecture.
+
+Its causal pathways should therefore be treated as conceptual hypotheses and diagnostic propositions until tested.
+
+## Conclusion
+
+Organizations can fail not only because capability is absent.
+
+They can fail because:
+
+- capability cannot be applied;
+- Human Energy is depleted;
+- unnecessary demand consumes capacity;
+- capability is disconnected;
+- organizational conditions constrain application;
+- decisions misallocate scarce capacity;
+- operational noise consumes attention;
+- or today’s results consume tomorrow’s capacity.
+
+HEE therefore asks organizations to examine the economics of repeated execution.
+
+The central concern is not simply whether the organization can produce a result.
+
+It is whether it can produce valuable results **again, and again, and again** without unnecessarily degrading the capacity required to do so.
+
+The HEE logic is:
+
+**Protect → Diagnose → Recover / Develop / Connect / Enable / Investigate → Apply → Execute → Learn → Adapt → Renew**
+
+And the broader value logic is:
+
+**Capacity → Application → Execution → Value Creation → Learning → Adaptation → Reinvestment → Renewed Capacity**
+
+HEE ultimately proposes a different way of thinking about organizational performance:
+
+> **More valuable application.**  
+> **Better execution today.**  
+> **Stronger capacity tomorrow.**
 
 > **Extraction depletes. Cultivation compounds.**
 
-### The HEE ambition
+---
 
-> **Better execution today. Stronger capacity tomorrow.**
+# CREATOR AND ORIGIN
 
-### The HEE objective
+**Md. Mozammel Hoque**  
+*Independent Management Researcher*  
+*Originator of Human Energy Economics (HEE)*
 
-> **Sustained value creation without self-consumption.**
+Human Energy Economics emerged from an inquiry into a recurring organizational problem:
 
-### The final question
+> **Why can organizations possess capable people, resources, systems, and knowledge yet still struggle to execute consistently and sustainably?**
 
-> **Are we merely producing today's results — or are we strengthening our capacity to produce tomorrow's?**
+The development of HEE has focused on examining the economic relationship among:
+
+- Human Energy;
+- organizational capacity;
+- capability;
+- demand;
+- connection;
+- decision quality;
+- enablement;
+- application;
+- execution;
+- and renewal.
+
+The theory is intended as an evolving contribution to management thinking concerning organizational capacity and sustainable execution.
+
+---
+
+# REFERENCES
+
+Blumberg, M., & Pringle, C. D. (1982). The missing opportunity in organizational research: Some implications for a theory of work performance. *Academy of Management Review, 7*(4), 560–569. https://doi.org/10.5465/amr.1982.4285240
+
+Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The job demands–resources model of burnout. *Journal of Applied Psychology, 86*(3), 499–512. https://doi.org/10.1037/0021-9010.86.3.499
+
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress. *American Psychologist, 44*(3), 513–524. https://doi.org/10.1037/0003-066X.44.3.513
+
+---
+
+# CITATION
+
+Hoque, M. M. (2026). *Human Energy Economics (HEE): A Theory of Organizational Capacity and Sustainable Execution*. Human Energy Economics (HEE).
+
+---
+
+# LICENSE
+
+This work is released under the **MIT License**.
+
+Copyright © 2026 Md. Mozammel Hoque.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this work and associated documentation files, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the work, subject to the conditions of the MIT License.
+
+---
+
+# ACKNOWLEDGEMENT
+
+Human Energy Economics is informed by established research and management thinking concerning resources, work demands, organizational performance, capability, opportunity to perform, execution, and organizational development.
+
+HEE does not claim ownership of these underlying bodies of knowledge.
+
+Its intended contribution is the integration of these perspectives around a specific management question:
+
+> **How can organizations convert potential into valuable application and sustained execution while protecting and renewing the capacity required for future execution?**
+
+**Human Energy Economics — HEE**
+
+> **Extraction depletes. Cultivation compounds.**
