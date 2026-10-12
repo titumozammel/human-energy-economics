@@ -1,5 +1,5 @@
 # Human Energy Economics (HEE)
-## A Theory of Organizational Capacity and Sustainable Execution
+## A Developing, Practice-Driven Management Approach to Organizational Capacity and Sustainable Execution
 
 **Md. Mozammel Hoque**  
 *Independent Management Researcher*  
@@ -7,6 +7,8 @@
 
 **Version 1.0 — Canonical Edition**  
 **Date: 2 September 2026**
+
+> **Evidence status.** HEE is a developing, practice-driven management approach proposed for critical examination and empirical testing. It emerged from the author's practical experience across Russia, West Africa, and Bangladesh. These observations provide context for its development but do not constitute independent validation.
 
 ---
 
@@ -90,18 +92,20 @@
 
 # 1. THE HEE IDENTITY
 
-Human Energy Economics (HEE) is a management theory concerned with the economics of organizational capacity and sustainable execution.
+Human Energy Economics (HEE) is a developing, practice-driven management approach concerned with the economics of organizational capacity and sustainable execution.
 
 HEE examines how organizations preserve, develop, connect, enable, mobilize, and apply their available potential across successive execution cycles.
 
+It uses context-based observation to diagnose why organizations with capable people and sound strategies still struggle to execute. It does not assume a common cause or prescribe a universal solution. Instead, it seeks to identify interventions appropriate to the context.
+
 | Dimension | HEE Identity |
 |---|---|
-| **Management Theory** | Human Energy Economics |
+| **Management Approach** | Human Energy Economics |
 | **Economic Assets** | Organizational Capacity · Human Energy |
 | **Execution Factors** | Demand · Human Energy · Capability · Connection · Decision Quality · Enablement |
 | **Diagnostic Conditions** | Depletion · Deficiency · Disconnection · Constraint · Conversion Failure |
 | **Diagnostic Responses** | Recover · Develop · Connect · Enable · Investigate |
-| **Strategic Context Lens** | 3C — Source · Dependency · Constraint |
+| **3C Strategic Approach** | Three contexts: Source · Dependency · Constraint |
 | **Governing Question** | What prevents the organization from turning its capacity and Human Energy into sustainable results? |
 | **Central Diagnostic Question** | What limits application? |
 | **Value Objective** | Increase valuable application and sustained execution without unnecessarily degrading future capacity |
@@ -114,7 +118,7 @@ HEE does not treat performance as a function of output alone. It asks what produ
 
 # 2. HEE IN ONE SENTENCE
 
-> **Human Energy Economics (HEE) is a management theory of organizational capacity and sustainable execution that examines how organizations preserve, develop, connect, enable, mobilize, and apply capacity across successive execution cycles.**
+> **Human Energy Economics (HEE) is a developing, practice-driven management approach to organizational capacity and sustainable execution that examines how organizations preserve, develop, connect, enable, mobilize, and apply capacity across successive execution cycles.**
 
 HEE therefore shifts attention from performance as an isolated output to performance as a repeated organizational process.
 
@@ -245,11 +249,11 @@ The objective is to improve the relationship between **capacity consumed, value 
 
 ---
 
-# 5. RELATED WORK AND THEORETICAL POSITION
+# 5. RELATED WORK AND POSITION IN THE LITERATURE
 
 HEE does not claim that the underlying ideas of resources, demands, performance opportunity, capability, or resource preservation were previously undiscovered.
 
-It builds on established bodies of research while proposing a distinct management-theory integration.
+It builds on established bodies of research while proposing a distinct integration for management practice.
 
 ## 5.1 Conservation of Resources
 
@@ -269,11 +273,11 @@ Blumberg and Pringle’s work on organizational performance emphasizes ability, 
 
 HEE particularly connects with the opportunity-to-perform logic: capability alone does not guarantee performance when organizational conditions prevent its application.
 
-## 5.4 HEE’s Theoretical Position
+## 5.4 HEE’s Position
 
 HEE is positioned as:
 
-> **A management theory that integrates resource-preservation, work-demand, performance-opportunity, capability, organizational-condition, and execution perspectives around the organizational conversion problem between potential, application, sustained execution, and future capacity.**
+> **A management approach that integrates resource-preservation, work-demand, performance-opportunity, capability, organizational-condition, and execution perspectives around the organizational conversion problem between potential, application, sustained execution, and future capacity.**
 
 HEE’s distinctive emphasis is therefore not any one individual construct, but the relationship among:
 
@@ -515,7 +519,7 @@ It is:
 
 # 13. BURNOUT AS A SIGNAL
 
-HEE recognizes burnout as potentially important evidence of unsustainable conditions but does not make burnout the foundation of the theory.
+HEE recognizes burnout as potentially important evidence of unsustainable conditions but does not make burnout the foundation of the approach.
 
 Burnout is not treated as:
 
@@ -1000,7 +1004,7 @@ HEMS coordinates complementary mechanisms and frameworks including:
 - Human Energy Development Plan (HEDP);
 - Capability Interconnection;
 - Human Energy Enablement (HEEn);
-- 3C Strategic Context Lens;
+- 3C Strategic Approach (three contexts: Source, Dependency, Constraint);
 - Execution Excellence System (EES);
 - and the supporting OSF + 5R demand-reduction pathway.
 
@@ -1160,11 +1164,13 @@ The two should not be conflated.
 
 ---
 
-# 34. 3C — THE STRATEGIC CONTEXT LENS
+# 34. 3C — THE STRATEGIC APPROACH (THREE CONTEXTS)
 
-The **3C Strategic Context Lens** examines:
+The **3C Strategic Approach** examines three contexts:
 
 **Source · Dependency · Constraint**
+
+3C stands for three contexts. These are not three C-words. Only one of the three begins with C.
 
 ### Source
 
@@ -1178,7 +1184,7 @@ What depends on the activity, decision, capability, or resource?
 
 What limits the ability to act, change, or execute?
 
-3C is a strategic diagnostic and contextual lens.
+3C is a strategic diagnostic approach and contextual lens.
 
 It is not:
 
@@ -1559,12 +1565,12 @@ It is not a universal causal law.
 
 HEE uses the following conceptual prioritization heuristic:
 
-> **Priority = Urgency × Dependency × Value Impact**
+> **Priority = Urgency × Interdependence × Value Impact**
 
 The heuristic directs attention toward issues that are:
 
 - urgent;
-- highly dependent upon by other activities;
+- materially interdependent with other work;
 - and significant in value impact.
 
 It is shared ecosystem infrastructure.
@@ -1578,6 +1584,8 @@ It is not owned exclusively by:
 - 3C;
 - OSF;
 - or any other individual framework.
+
+**Interdependence** in this heuristic should not be confused with **Dependency** as a context in the 3C Strategic Approach. The terms serve different purposes.
 
 The expression is a prioritization heuristic, not validated mathematics.
 
@@ -1836,7 +1844,7 @@ HEE is not:
 - a claim that every performance problem is caused by organizational drain;
 - or a validated predictive mathematical model.
 
-HEE is a conceptual management theory and economic lens focused on organizational capacity and sustainable execution.
+HEE is a developing, practice-driven management approach and economic lens focused on organizational capacity and sustainable execution.
 
 ---
 
@@ -1920,11 +1928,11 @@ HEE focuses on making that relationship visible.
 
 HEE can be represented through four functional levels.
 
-## Level 1 — HEE Theory
+## Level 1 — HEE Foundations
 
 **Human Energy Economics**
 
-The foundational theory and economic lens.
+The foundational concepts and economic lens.
 
 ## Level 2 — HEMS
 
@@ -1939,7 +1947,7 @@ The operating-system layer translating HEE into coordinated organizational manag
 - HEDP — Human Energy Development Plan
 - Capability Interconnection
 - HEEn — Human Energy Enablement
-- 3C — Strategic Context Lens
+- 3C — Strategic Approach (three contexts)
 - EES — Execution Excellence System
 
 ## Level 4 — Supporting Implementation Mechanisms
@@ -2058,11 +2066,11 @@ This can occur when:
 - capacity is lost or impaired;
 - or current execution consumes the capacity required for future execution.
 
-HEE’s central theoretical contribution is therefore a focus on the **conversion, preservation, and renewal problem**:
+HEE’s central contribution is therefore a focus on the **conversion, preservation, and renewal problem**:
 
 > **How does an organization convert potential into valuable application and sustained execution while preserving the capacity required for future cycles?**
 
-The theory shifts attention from capability possession alone toward capability application, execution, and renewal.
+The approach shifts attention from capability possession alone toward capability application, execution, and renewal.
 
 ---
 
@@ -2106,7 +2114,7 @@ HEE focuses on:
 
 > **Organizational capacity and sustainable execution.**
 
-It is not intended to provide a complete theory of organizational performance.
+It is not intended to provide a complete account of organizational performance.
 
 Many other factors can influence organizational outcomes, including:
 
@@ -2127,7 +2135,9 @@ HEE addresses one particular problem:
 
 ## Limitations
 
-HEE is currently a conceptual and evolving management theory.
+HEE is currently a developing, practice-driven management approach. Its concepts remain conceptual and evolving.
+
+The author's practical observations provide context for HEE's development but do not constitute independent validation.
 
 Its constructs and relationships require further:
 
@@ -2195,6 +2205,8 @@ Human Energy Economics emerged from an inquiry into a recurring organizational p
 
 > **Why can organizations possess capable people, resources, systems, and knowledge yet still struggle to execute consistently and sustainably?**
 
+HEE developed through the author's practical experience across Russia, West Africa, and Bangladesh, by addressing organizational problems, experimenting with interventions, and observing recurring patterns. These observations provide context for its development but do not constitute independent validation.
+
 The development of HEE has focused on examining the economic relationship among:
 
 - Human Energy;
@@ -2208,7 +2220,7 @@ The development of HEE has focused on examining the economic relationship among:
 - execution;
 - and renewal.
 
-The theory is intended as an evolving contribution to management thinking concerning organizational capacity and sustainable execution.
+The approach is intended as an evolving contribution to management thinking concerning organizational capacity and sustainable execution, offered for critical examination and empirical testing.
 
 ---
 
@@ -2224,7 +2236,7 @@ Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizi
 
 # CITATION
 
-Hoque, M. M. (2026). *Human Energy Economics (HEE): A Theory of Organizational Capacity and Sustainable Execution*. Human Energy Economics (HEE).
+Hoque, M. M. (2026). *Human Energy Economics (HEE): A Developing, Practice-Driven Management Approach to Organizational Capacity and Sustainable Execution*. Human Energy Economics (HEE).
 
 ---
 
