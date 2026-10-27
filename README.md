@@ -453,7 +453,7 @@ These are intended advantages over unstructured or single-cause responses, not d
 - [Part VI — Practice heuristics](#part-vi--practice-heuristics)
   - [19. Practice heuristics](#19-practice-heuristics)
 - [Part VII — Reference](#part-vii--reference)
-  - [20. Origin, citation, license, and references](#20-origin-citation-license-and-references)
+  - [20. Origin, citation, and references](#20-origin-citation-and-references)
 - [References](#references)
 - [Appendix A — How the process aids relate](#appendix-a--how-the-process-aids-relate)
 - [Appendix B — Reference map](#appendix-b--reference-map)
@@ -463,6 +463,7 @@ These are intended advantages over unstructured or single-cause responses, not d
 - [Appendix F — Owner reference crosswalks and financial pathways](#appendix-f--owner-reference-crosswalks-and-financial-pathways)
 - [Glossary / Vocabulary](#glossary-vocabulary)
 - [Acknowledgement](#acknowledgement)
+- [LICENSE](#license)
 
 ## How to read this document
 
@@ -3033,9 +3034,9 @@ These are guiding principles and metaphors. The testable content appears in the 
 
 ## Part VII — Reference
 
-<a id="20-origin-citation-license-and-references"></a>
+<a id="20-origin-citation-and-references"></a>
 
-### 20. Origin, citation, license, and references
+### 20. Origin, citation, and references
 
 #### Creator and origin
 
@@ -3053,10 +3054,6 @@ HEE emerged from an inquiry into a recurring problem: why organizations can poss
 Hoque, M. M. (2026). *Human Energy Economics (HEE): A Developing, Practice-Driven Management Approach to Organizational Capacity and Sustainable Execution* (Version 1.0 [Provisional Working Paper]). https://github.com/titumozammel/human-energy-economics
 
 Add the release tag used, and an archival identifier only if one has been issued; do not use a placeholder as though it were a published identifier. The citation identifies the README edition, not an independently validated theory. This README is the citation target for the current edition; cite other HEE materials only when they are available and specifically relevant.
-
-#### License
-
-The author's stated license for this work is the MIT License. Copyright © 2026 Md. Mozammel Hoque. The complete standard MIT License text should be in a separate `LICENSE` file in the repository, naming the correct copyright holder. If any code, datasets, case records, or third-party material in the repository carry different terms, identify those terms separately; do not assume this README's license covers them.
 
 ## References
 
@@ -3448,3 +3445,13 @@ Its intended contribution is their integration around two fundamental points—V
 **How can organizations convert potential into valuable application and sustained execution while protecting and renewing the capacity required to create value across the six capitals in future cycles?**
 
 Human Energy Economics — HEE
+
+---
+
+## LICENSE
+
+This framework is released under the:
+
+> **MIT License**
+
+The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository. Any code, datasets, case records, or third-party material that carry different terms are identified separately; this license does not extend to them.
