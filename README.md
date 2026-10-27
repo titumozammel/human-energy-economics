@@ -4,7 +4,7 @@
 
 *A capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value*
 
-> A research reference for Human Energy Economics: context shapes the question; evidence should shape the diagnosis; and the diagnosis should shape the intervention.
+> A research reference for Human Energy Economics: context shapes the question (a design assertion pending P12, not a demonstrated advantage); evidence should shape the diagnosis; and the diagnosis should shape the intervention.
 
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
@@ -79,6 +79,8 @@ HEE is intended to help owners make clearer, better-supported decisions and unde
 A customer-support team meets most response targets after managers add overtime. Customer complaints remain low, but approvals wait in a queue and the team has deferred recovery. Should the owner add more overtime, change the approval process, or wait for better evidence? The result alone cannot decide. HEE asks what the work requires, what is blocking application, whether the expenditure is justified, and whether the next cycle is covered. The [continuous case](#one-case-from-question-to-review-illustrative) follows it through a decision and review; owners can read that one case first. It is invented to demonstrate the method, not evidence that HEE works.
 
 ### Start here: 60 seconds
+
+*Tags show evidence status: [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.*
 
 One routing box. **New to HEE? Take the “New to HEE” row and ignore the rest.** Otherwise pick the row that matches who you are or what you need, follow it, and ignore the other routes until you need them. Times are approximate reading times. The README has four layers: the canonical statement (“HEE at a glance”, §§1–4), decision support (the owner path, the one-page capacity card, the six practitioner moves), the research layer (the research front page, the falsification summary, Part V), and reference material (the Contents, glossary, and Appendices A–F). You do not need to read it linearly. **Short on time?** Two minutes: [the practical promise](#the-practical-promise) and this section. Twenty minutes: add the owner brief or Field Triage, and [§9](#9-application-path). Everything else is reference.
 
@@ -405,6 +407,8 @@ These are intended advantages over unstructured or single-cause responses, not d
 
 ## Contents
 
+*Owners and practitioners can stop before Part V; it is the research layer, for readers who want to test or challenge HEE.*
+
 - [HEE at a glance](#hee-at-a-glance)
   - [What HEE contributes](#what-hee-contributes)
   - [Start here: 60 seconds](#start-here-60-seconds)
@@ -506,6 +510,8 @@ The central discipline is straightforward: distinguish capability, capacity, app
 ## For owners and executives
 
 **Owner wording.** In owner-facing text use two judgments only: Justified (yes, partly, no) and Coverage (Covered, Fragile, Not covered, Unknown). Terms such as “candidate shortfall,” “drain candidate,” and “indeterminate” belong to the practitioner and full-record layers.
+
+**What a shortfall means for the owner.** A Not covered or Fragile reading is a prompt to look at continuity risk: late delivery, rising overtime and rework, backlog, deferred maintenance or lost commitments, and the cash they affect (see F.3). It is a reason to ask the question, not an estimate of financial impact.
 
 **Cost of waiting versus cost of error.** Before gathering more evidence, write one line each: what waiting costs per cycle, and what a wrong decision costs and whether it can be undone.
 
@@ -713,6 +719,8 @@ A finance team misses month-end close targets after adopting a new reporting sys
 
 HEE is designed to help users avoid intervening on the wrong problem. Its **application process is six practitioner moves**. The moves are a practical inquiry sequence, not a validated algorithm or a compulsory checklist; new evidence can send the practitioner back to an earlier move.
 
+**One line to remember (moves 1–6):** Understand context → Transform question → Make distinctions → Investigate → Examine change → Examine result. Here “Investigate” means gathering and testing evidence (move 4), not the three-branch instruction in the Field Guide.
+
 1. **Frame the problem.** State the expected and observed outcome, where it occurs, and over what period. Do not assign a cause yet.
 2. **Reframe the question.** Turn the complaint or proposed solution into an answerable, context-relevant question.
 3. **Diagnose the condition.** Use the first pass (§7.1); if needed, consult the seven-condition vocabulary (§7.2) and the 3C context lens (§8). Allow mixed, uncertain, or unclassifiable cases.
@@ -811,6 +819,8 @@ Use this page when you need to act, not study. It strips the method to four ques
 | **3. What’s draining?** (recurring demand, noise, rework, depletion) | A log of recurring requests, interruptions, rework, and unplanned overtime; each tested for purpose and proportion | Protect or Recover; test the recurring demand with 5R; check whether spending is justified or a future shortfall (§6a) | Call all consumption drain; remove a control because it feels like friction |
 | **4. What’s the smallest test?** | The change you can make inside your decision rights | One reversible change, one outcome to watch, safeguards that stay, a stop rule, a review date, and where released capacity will go | Run several changes at once; claim value before capacity is protected |
 
+**If the answer is mixed:** record each plausible or co-occurring condition and the evidence for it; they are not necessarily rivals. Choose the first test by weighing urgency, safety, likely impact, decision authority, reversibility, and cost, not cost alone. Where feasible, change one thing at a time so effects can be assessed. Preserve necessary controls, name what would distinguish the explanations, and note conditions that may need coordinated action.
+
 **Stop and escalate if:** a safety, legal, or quality control is involved; the cause looks external (market, regulation, supply); the problem looks like an incentive conflict (D6); or someone is asking about their own health or exhaustion. In the last case, follow [Three rules that do not bend](#three-rules-that-do-not-bend-h): do not diagnose the person, frame the issue through observable work conditions, and route to appropriate support where needed. Escalation is optional; before you escalate, see [When not to escalate](#when-not-to-escalate-h).
 
 **Record in five lines:** the gap and period; which of the four questions the evidence supports, with one rival explanation; the smallest test and its stop rule; the review date; the destination of released capacity.
@@ -857,10 +867,17 @@ Use this route when you must diagnose a case, or when a diagnosis or capacity cl
 
 “Investigate” appears in HEE as a response (an Execution Deficit whose condition is not yet established, a mixed diagnosis, an Unknown coverage state) and as a stop-rule outcome (“investigate further”). It is an instruction, not a diagnosis or an intervention. Choose the branch first, because each branch gathers different evidence and produces a different output.
 
+```text
+Investigate
+├── Diagnose        (find the cause: why is this happening?)
+├── Establish       (gather the evidence that would decide: move Unknown → decidable)
+└── Verify          (check whether practice meets the standard — audit route)
+```
+
 | Branch | Question | Use when | Output | Route |
 | --- | --- | --- | --- | --- |
 | **Diagnose** | Why is this happening? | An execution problem needs explaining | A provisional explanation assessed against available evidence, with alternatives and uncertainty recorded | The diagnostic approach: [Field Triage](#field-triage-one-page-h) and the [six moves](#the-six-practitioner-moves-h) |
-| **Establish** | What evidence would let us decide? | A decision must be made but the evidence is insufficient (Unknown) | A *decidable* state: enough relevant evidence for a defensible decision, with an owner and a decide-by date | The Unknown stop rule, the [Quick review record](#quick-review-record-h), and the [Decision Speed Card](#decision-speed-card-h) |
+| **Establish** | What evidence would let us decide? | A decision must be made but the evidence is insufficient (Unknown) | A *decidable* state: enough relevant evidence for a defensible decision, with an owner and a decide-by date, or a documented Unknown if evidence remains insufficient | The Unknown stop rule, the [Quick review record](#quick-review-record-h), and the [Decision Speed Card](#decision-speed-card-h) |
 | **Verify** | Does practice meet the standard? | A policy, control, or expectation must be checked | A finding: supported, partly supported, unsupported, or unknown, with an owner and a review date | The audit approach: the evidence trail and reviewer tests above |
 
 **Decidable** means enough relevant evidence exists for a defensible decision at the stated tier. It does not mean that uncertainty has gone or that a cause has been proved. Evidence from one branch may inform another, but the branches are not interchangeable and are not a mandatory sequence: an audit can reveal a gap that needs diagnosis, and a diagnosis can identify a control that needs verifying.
@@ -1097,9 +1114,13 @@ The time-boxed variant of the one-page card and the owner view: one screen for a
 | 5. Stop rule | Write the thresholds before the pilot, not after seeing results. Retain if the pre-named outcome improves and capacity protection holds. Adapt if the outcome improves but protection or a safeguard does not. Reverse if a necessary control or quality or safety outcome is harmed. Investigate further only if the next check could change the decision. |
 | 6. If the window is shorter than the time box | Decide a reversible slice now, schedule the rest at its proper tier, and never trade away a safeguard or the stop rule for speed. |
 
-**Judge the decision in three steps** (process, choice, outcome; see [Deciding faster and better](#deciding-faster-and-better)). **Tier 1 needs no full evidence log and no second-person check.** Use the five-line record in [Field Triage](#field-triage-one-page-h) or the [Quick review record](#quick-review-record-h), keep the stop rule and review date, and move on. The full evidence trail and an independent check apply from Tier 2 upward.
+**Judge the decision in three steps** (process, choice, outcome; see [Deciding faster and better](#deciding-faster-and-better)). **Tier 1 needs no full evidence log and no second-person check;** the accountable owner self-assesses legitimate demand and coverage, so record any stake they have in the reading. Use the five-line record in [Field Triage](#field-triage-one-page-h) or the [Quick review record](#quick-review-record-h), keep the stop rule and review date, and move on. The full evidence trail and an independent check apply from Tier 2 upward.
 
 **Three questions, in this order [H].** (1) *Process:* did we frame the decision, weigh alternatives and evidence, handle uncertainty, and settle authority? (2) *Choice:* given what we could reasonably know then, is this the right decision? (3) *Outcome:* what actually happened, and why? Judge them separately: a poor outcome does not prove a poor process or choice, and a good outcome does not prove a sound one. Definitions and an example: [decision quality, decision process quality, and judgement](#decision-quality-decision-process-quality-and-judgement-hp).
+
+```text
+Process  (how was it reached?)  →  Choice  (right, given what was knowable?)  →  Outcome  (what actually happened?)
+```
 
 ### 1. Grade the decision before gathering evidence [H]
 
@@ -1163,11 +1184,9 @@ Ask: *What result would change what we do?* If no result would, decide. If a par
 | Safeguard and stop rule | Temporary coverage must not bypass required quality checks; stop or revise if errors or safety indicators worsen. |
 | Review date and capacity destination | Decide within 24 hours; review after the bounded coverage period; state whether any recovered time returns to backlog reduction, recovery, or another named priority. |
 
-**Wrong first move blocked:** approving permanent staffing simply because the queue is long would convert an untested explanation into a recurring cost and could leave the actual approval or information bottleneck untouched.
+**Wrong first move blocked:** approving permanent staffing because the queue is long would turn an untested explanation into a recurring cost and could leave the real approval or information bottleneck untouched.
 
-**Decision-ready verdict:** All five items are satisfied for a bounded, reversible decision: the gap and baseline are named; the wait log supplies evidence independent of the queue outcome; demand spike and case mix remain alternatives; quality controls and a stop rule are specified; and a review date and capacity destination are recorded. The owner can decide now. If item 2—the independent wait-log evidence—were missing, the next step would be one time-boxed check to obtain that log before deciding, unless an immediate safeguard required action sooner.
-
-**Decision:** If the sampled wait log shows a near-term, legitimate queue that extra coverage can actually clear, approve a bounded and reversible coverage test with a review trigger. If the dominant wait is a blocked approval or incomplete information, do not buy more hours as the first move; route the constraint to its owner. Defer any permanent staffing or structural decision until the evidence supports it. The example demonstrates the decision aid only; it does not establish that HEE improves decisions.
+**Verdict:** all five items are satisfied for a bounded, reversible decision, so the owner can decide now. If the independent wait-log evidence were missing, the next step would be one time-boxed check to obtain it, unless a safeguard required action sooner. **Decision:** if the wait log shows a near-term, legitimate queue that extra coverage can clear, approve a bounded, reversible coverage test with a review trigger; if the dominant wait is a blocked approval or incomplete information, do not buy hours first but route the constraint to its owner. Defer permanent staffing until the evidence supports it. The example demonstrates the decision aid only; it does not show that HEE improves decisions.
 
 ### 6. Learn from the decision, not only the outcome [H]
 
@@ -1225,7 +1244,7 @@ One row per role. Read across: the usual question, the two-sentence answer, the 
 | **Individual employee** | D7: Why am I exhausted and unable to keep up? | Describe the work condition—interruptions, waiting, duplicated entry, unclear handoffs—not a diagnosis of yourself or a colleague. Take the evidence and one feasible change to your manager; seek appropriate wellbeing or clinical support separately if needed. | List the interruptions, waits, duplicated entry, and unclear handoffs you observe. | Take the evidence and one feasible change to your manager; seek wellbeing support separately. | [Three rules that do not bend](#three-rules-that-do-not-bend-h) |
 | **Internal auditor or independent reviewer** | D14, C8: What can I ask for to re-perform and test a diagnosis or a capacity classification? | Ask for the evidence record, not a conclusion, and re-perform one closed case end to end. Check that evidence is labelled, a rival explanation and disconfirming evidence were sought, and the stop rule and decide-by date were set before the result was known. | Pick one closed case and trace its evidence to the stated condition and decision. | Findings on controls or compliance go to the accountable risk or compliance owner; an HEE audit does not replace a compliance, financial, safety, or legal audit. | [Diagnosis and audit route](#diagnosis-and-audit-route-h); [diagnostic safeguard](#diagnostic-safeguard-h) |
 | **Academic / theory reviewer** | E0: What is HEE's theoretical contribution? | Compare HEE's proposed constructs and mechanisms with the closest established explanations before claiming novelty. Identify the unit of analysis, boundary conditions, and the specific incremental contribution that would remain if overlapping constructs were merged or removed. | Build a focused construct-and-mechanism comparison using the evidence map, then state the strongest alternative explanation. | Distinguish the author's practice-derived rationale from independent evidence; mark unresolved literature questions as open rather than settled. | [§3](#3-what-hee-claims-and-what-it-does-not); [§14](#14-evidence-map-research-facing); [§17.3](#173-how-distinctiveness-could-be-demonstrated) |
-| **Researcher / evaluator** | E1–E10: What result would support, narrow, or falsify HEE? | Start with construct differentiation and classification reliability before interpreting a model-level or incremental-value result. Pre-register a credible comparator, a meaningful-effect threshold, and a result that would lead to narrowing or retiring the claim. | Choose the smallest study that can decisively test one registered claim, using the test-readiness table. | Report null, adverse, and inconclusive results; do not treat failure to validate as a reader or implementation failure by default. | [Falsification summary](#falsification-summary-where-to-start-p); [§15](#15-core-propositions-and-how-to-test-them-research-facing); [§17–§18](#17-validation-roadmap-and-theory-building-status-research-facing) |
+| **Researcher / evaluator** | E1–E10: What result would support, narrow, or falsify HEE? | Start with construct differentiation and classification reliability before interpreting a model-level or incremental-value result. Pre-register a credible comparator, a meaningful-effect threshold, and a result that would lead to narrowing or retiring the claim. | Choose the smallest study that can decisively test one listed proposition, using the test-readiness table. | Report null, adverse, and inconclusive results; do not treat failure to validate as a reader or implementation failure by default. | [Falsification summary](#falsification-summary-where-to-start-p); [§15](#15-core-propositions-and-how-to-test-them-research-facing); [§17–§18](#17-validation-roadmap-and-theory-building-status-research-facing) |
 **Incentive test [H].** Ask: *Does the reward system make a locally rational action conflict with the stated priority?* Compare stated priorities, target weights, actual payout calculations, exceptions, and observed choices. If yes, record an incentive hypothesis and route it to the incentive owner; do not relabel it as Drain or Enablement Gap unless independent evidence supports those diagnoses too.
 
 ### Three rules that do not bend [H]
@@ -2261,9 +2280,9 @@ These are candidate definitions and indicators, not validated constructs or scal
 
 **Stage 0 design.** Start with the lowest-cost defensible design: use the same anonymized case packets for both arms; pre-specify the comparator version, case set, response format, scoring rubric, minimum meaningful divergence, and adjudication process; equalize time, evidence access, facilitation, and support; blind independent outcome raters to arm; and report actual time, disagreement, nulls, and uncertainty. Stage 0 tests whether the decision paths differ, not whether either path improves real-world outcomes.
 
-**Stop rules.** If P11 cannot establish usable reliability, do not interpret P10 as validating a distinct diagnostic architecture. If P10 Stage 0 shows no meaningful divergence, narrow the claim to a checklist unless other independent evidence demonstrates value. If a fair, adequately powered P10 outcome test shows no meaningful incremental benefit, retire or narrow the intervention-matching claim. If P13 is null, do not claim that the economic framing adds explanatory value. If P14 adds nothing beyond coverage-only forecasting, retire the distinct classification claim. For P15, read the results using “Reading P15 results” (below) and do not claim the combined speed-with-quality benefit without it; an imprecise result is inconclusive, not proof of no benefit. Null, adverse, and inconclusive results must be reported separately.
+**Stop rules.** If P11 cannot establish usable reliability, do not interpret P10 as validating a distinct diagnostic architecture. If P10 Stage 0 shows no meaningful divergence, narrow the claim to a checklist unless other independent evidence demonstrates value. If a fair, adequately powered P10 outcome test shows no meaningful incremental benefit, retire or narrow the intervention-matching claim. If P13 is null, do not claim that the economic framing adds explanatory value. If P14 adds nothing beyond coverage-only forecasting, retire the distinct classification claim. For P15, read the results using “Reading P15 results” (below) and do not claim the combined speed-with-quality benefit without it; an imprecise result is inconclusive, not proof of no benefit. A null P14 retires only the distinct classification claim; it does not test whether the checks help practitioner reasoning, which is a separate question. Null, adverse, and inconclusive results must be reported separately.
 
-**Governance.** Before formal studies, publish the protocol, named independent study lead, evidence-review appointments, conflict disclosures, decision thresholds, and the procedure for publishing dissent. The originator may explain disagreement but may not silently overwrite an adverse independent review.
+**Governance.** Before formal studies, publish the protocol, named independent study lead, evidence-review appointments, conflict disclosures, decision thresholds, and the procedure for publishing dissent. The originator may explain disagreement but may not silently overwrite an adverse independent review. The originator also designed these rules and can revise them only by a documented, versioned rationale open to independent challenge; this self-reference is a structural limit of any self-published framework.
 
 **P12 gate status.** P12 is indefinitely deferred in this edition until an owner, resources, and a review date are formally assigned. No empirical P12 study or pilot intended to generate P12 evidence may begin before the focused literature synthesis is complete and used to revise the design. HEE makes no question-formulation novelty claim meanwhile.
 
@@ -2554,13 +2573,9 @@ HEE's propositions are proposed for examination, not established laws. The test 
 
 <a id="precision-and-inconclusive-results-p"></a>
 
-<a id="precision-and-inconclusive-results-p"></a>
-
 **Precision and inconclusive results [P].** For P10, P11, P12, and P14, define the minimum meaningful effect and precision target for the specific outcome and design before data collection; do not copy a universal sample size or confidence-interval width across studies. For example, a study may set a target interval width around its primary effect estimate and classify the result as inconclusive if the interval still includes both no effect and effects at or above the minimum meaningful threshold. A non-significant result is not automatically evidence of no effect; a wide interval may mean the study cannot distinguish a useful effect from no effect.
 
 **Exploratory stock-flow idea [H/P; not a listed proposition].** Capacity may behave like a stock whose depletion and replenishment occur over time: where depletion exceeds replenishment, the resulting capacity gap may predict next-cycle execution better than current-cycle output alone. This idea does not currently count as evidence for the economic-framing claim. If it is later proposed for registration, the study team must first specify a distinct proposition, rationale, operational definitions, and protocol. To explore it, pre-specify the time horizon, operational definitions of depletion and replenishment, next-cycle execution measure, comparison model using current-cycle output, and minimum meaningful incremental prediction. If the stock-flow model does not outperform the comparison under a fair test, do not use the metaphor as explanatory evidence; revise it or narrow the economic-framing claim. P13 and this exploratory idea concern different patterns, but only P13 is currently a listed candidate for the economic-framing claim. Do not use the exploratory idea to rescue a null P13 result. If the stock-flow idea is later proposed for registration, compare it against a pre-specified current-output baseline and pre-register the analysis independently; evidence for it would need to stand on its own.
-
-<a id="setting-the-smallest-effect-of-interest-p"></a>
 
 <a id="setting-the-smallest-effect-of-interest-p"></a>
 
@@ -2919,12 +2934,7 @@ If a genuine process element is missing from the six moves, treat that as a prop
 
 The following path is a practical heuristic for sequencing adoption, not a validated maturity scale or a universal staged model. Organizations may start at different points, repeat stages, or work on more than one at once.
 
-1. **Awareness:** establish the distinction between activity, capacity, application, execution, and value; identify a concrete operating problem.
-2. **Measurement:** define a bounded scope and collect credible evidence about demand, interruptions, waiting, rework, capability, and application.
-3. **Recovery:** address supported sources of depletion or unnecessary consumption while preserving legitimate safeguards.
-4. **Development:** build genuinely missing capability where evidence supports a Capability Gap.
-5. **Connection and Enablement:** improve access, coordination, decision conditions, resources, and application where available capability is blocked or fragmented.
-6. **Sustainable Execution:** protect released capacity, review results across comparable cycles, and assess whether current execution preserves or strengthens future capacity and value creation.
+In order: **Awareness** (distinguish activity, capacity, application, execution, and value; identify a concrete operating problem); **Measurement** (bounded scope; credible evidence on demand, interruptions, waiting, rework, capability, application); **Recovery** (address supported sources of depletion or unnecessary consumption, preserving safeguards); **Development** (build capability only where evidence supports a Capability Gap); **Connection and Enablement** (improve access, coordination, decision conditions, and resources where capability is blocked or fragmented); **Sustainable Execution** (protect released capacity, review across comparable cycles, and assess whether execution strengthens future capacity).
 
 The sequence is a planning aid, not a required order; diagnosis and evidence determine the next move. It is separate from the research validation roadmap in §§17–18.
 
@@ -3178,7 +3188,7 @@ The [Contents](#contents) is the architecture map: owners and executives, the Pr
 
 ## Appendix B — Reference map
 
-Link to the most specific section that supports the claim or tool being reused. Section numbers and key anchors are kept stable across heading edits; if a section is restructured, record it in `CHANGELOG.md`. Use a versioned release or tag when a stable historical citation is needed.
+Link to the most specific section that supports the claim or tool being reused. Section numbers and anchors stay stable across heading edits; record any restructuring in `CHANGELOG.md`, and use a versioned release or tag for a stable historical citation.
 
 **Core-specification section letters.** This map points each letter to the place in this README where its content now lives.
 
@@ -3281,10 +3291,10 @@ The earlier five-condition vocabulary is not simply renamed. The current seven-c
 | Earlier-presentation term | Current treatment | Migration rule |
 |---|---|---|
 | **Depletion** | **Human Energy Gap** and/or **Drain Condition**, depending on the evidence | Use Human Energy Gap when usable Human Energy is unavailable or depleted; use Drain Condition when unnecessary demand or noise consumes or obstructs capacity. They may coexist. |
-| **Deficiency** | **Capability Gap** | Use when the capability required for the task is genuinely missing. |
-| **Disconnection** | **Capability Connection Gap** | Use when relevant capability exists but cannot reach or combine effectively with the point of need. |
-| **Constraint** | **Enablement Gap** and, in some cases, **Artificial Constraint Condition** | Use Enablement Gap for conditions that block application. Use Artificial Constraint Condition only where a recurring restriction is shown to be potentially unnecessary after its purpose and safeguards are tested. A constraint is not automatically artificial. |
-| **Conversion Failure** | **Execution Deficit**, plus investigation of the underlying condition or combination | Execution Deficit names the observed shortfall in execution. Conversion Failure remains a descriptive trigger for investigation, not a separate first-class diagnostic condition. |
+| **Deficiency** | **Capability Gap** | The required capability is genuinely missing. |
+| **Disconnection** | **Capability Connection Gap** | Capability exists but cannot reach or combine with the point of need. |
+| **Constraint** | **Enablement Gap**; sometimes **Artificial Constraint Condition** | Enablement Gap for conditions that block application; Artificial Constraint Condition only where a recurring restriction is shown potentially unnecessary after its purpose and safeguards are tested. A constraint is not automatically artificial. |
+| **Conversion Failure** | **Execution Deficit**, plus investigation of the underlying condition | Execution Deficit names the observed shortfall; Conversion Failure remains a descriptive trigger for investigation, not a separate condition. |
 
 Drain Condition and Artificial Constraint Condition are new, more explicit conditions for unnecessary demand or noise, and for recurring restrictions that need a necessity test. The earlier **Depletion** condition is now split: Human Energy Gap covers a shortage of usable Human Energy; Drain Condition covers consumption or obstruction by unnecessary demand or noise. They often co-occur, so record both where the evidence supports both; this is a conceptual separation, not a claim of independence. The earlier presentation paired **Execution Deficit** with **Investigate**; this edition pairs it with **Stabilize, Execute, Learn, and Adapt** and treats “investigate” as a diagnostic instruction, not an intervention.
 
@@ -3298,7 +3308,7 @@ The six conditions of execution keep Demand as contextual and the other five as 
 
 The following ideas from the earlier presentation remain part of the current account, but are located according to their role rather than restored as a second parallel framework.
 
-Retained ideas and where they sit: the audit objective (“What is consuming usable capacity, why, and with what consequence?”) in §11.2, §7 and §12, as a diagnostic aid and not surveillance or a validated energy measure; Loss (a condition), Leakage (a mechanism), and Liberation (an orientation) in §§4–5 and §12, kept distinct; the five provisional consumption categories in §1.2; Demand, Attention, and Capability Leakage as proposed aids [P] in §12; burnout, exhaustion, disengagement, or turnover as signals that may justify investigation but never establish a cause (§§13 and 16; HEE is not a clinical system); technology and AI in §11.2; the HEE, OEOS, and HEMS layers in §§10–12; “What HEE is not” in §3 only; the research roadmap (§§17–18) and adoption path (§19), neither a validated maturity scale; earlier capacity formulations in §16.2 as conceptual, not to be calculated; and the five diagnostic questions, action questions, and single-card diagnostic in Appendix E as practice aids.
+Retained ideas and where they sit: the audit objective (“What is consuming usable capacity, why, and with what consequence?”) in §11.2, §7 and §12, as a diagnostic aid and not surveillance or a validated energy measure; Loss (a condition), Leakage (a mechanism), and Liberation (an orientation) in §§4–5 and §12, kept distinct; the five provisional consumption categories in §1.2; burnout, exhaustion, disengagement, or turnover as signals that may justify investigation but never establish a cause (HEE is not a clinical system); “What HEE is not” in §3 only; the research roadmap (§§17–18) and adoption path (§19), neither a validated maturity scale; earlier capacity formulations in §16.2 as conceptual, not to be calculated; and the earlier five diagnostic questions, action questions, and single-card diagnostic in Appendix E as practice aids.
 
 ### D.4 Notation and interpretation rule
 
@@ -3310,7 +3320,7 @@ The published book remains the authority for the canonical, reader-facing meanin
 
 ### D.6 Edition history
 
-Version 1.0 (27 October 2026) is the first frozen release of this README. The .md, .docx, .pdf, and .html files are the same edition; the tagged Markdown release is the citation authority. It consolidates the reader routes, the “What HEE contributes” statement, an opening case and one continuous illustrative decision-and-review case, a compact owner record, the role-based answer contract, question map, decision-quality safeguards, capacity-classification logic, the research sequence and comparison plan, a beginner route with a practice exercise, an exploratory reader-testing round that includes a learner, a three-level decision review (process, choice, outcome) with a reviewer assessment table, a softened Diagnose output, a P15 reading table (combined claim, quality-only branch, inconclusive results), the diagnosis and audit route (with the independent review checklist), Investigate branches, and the evidence map linking employee experience, customer experience, and Sustainable Growth. It clarifies the proposed status of claims and P13, when renewal assumptions matter to coverage, and keeps the observed state separate from a precautionary decision; it discloses the author’s commercial interest. Working-draft numbers are retired, and the repository `CHANGELOG.md` begins at Version 1.0. Editorial readiness does not establish empirical validation, and no edition claims it.
+Version 1.0 (27 October 2026) is the first frozen release of this README. The .md, .docx, .pdf, and .html files are the same edition; the tagged Markdown release is the citation authority. It consolidates the reader routes and “What HEE contributes”; an opening case, a continuous illustrative decision-and-review case, a compact owner record, and a beginner route with a practice exercise; the role-based answer contract and question map; a three-level decision review (process, choice, outcome); capacity-classification logic, with the Tier 1 self-assessment and originator self-reference limits stated; the research sequence, comparison plan, P15 reading table and reader-testing round; the diagnosis and audit route with the independent review checklist and the Investigate branches; and the evidence map linking employee experience, customer experience, and Sustainable Growth. It discloses the author’s commercial interest. Working-draft numbers are retired, and the repository `CHANGELOG.md` begins at Version 1.0. Editorial readiness does not establish empirical validation, and no edition claims it.
 
 ### D.7 Integration of the earlier 60-section presentation
 
@@ -3324,11 +3334,7 @@ This appendix preserves the earlier question sets as practitioner aids. They are
 
 ### E.1 Five diagnostic questions [H]
 
-1. **What is consumed?** Identify the demand, activity, time, attention, energy, resources, and coordination consumed; distinguish consumption from Drain.
-2. **What is missing?** Test whether a required capability, resource, or usable capacity is absent or insufficient.
-3. **What exists but is not connected?** Identify capability, information, people, or resources that exist but cannot reach or combine at the point of need.
-4. **What prevents application?** Examine access, authority, decision rights, information, resources, process, and other enablement conditions.
-5. **Why does execution still fail?** Treat the execution shortfall as an outcome to investigate, then compare the preceding conditions and plausible rival explanations.
+Ask in order: (1) **What is consumed?** (demand, time, attention, energy, resources; consumption is not Drain). (2) **What is missing?** (capability, resource, or usable capacity). (3) **What exists but is not connected?** (capability, information, or people that cannot reach the point of need). (4) **What prevents application?** (access, authority, decision rights, information, process). (5) **Why does execution still fail?** (treat the shortfall as an outcome; compare preceding conditions and rival explanations).
 
 ### E.2 Action questions by factor [H]
 
@@ -3361,15 +3367,7 @@ HEE works alongside established management functions and does not claim they lac
 
 ### F.2 Symptom-to-capital prompts
 
-**Owner prompt: symptom to capital to check first**
-
-| If you see… | Check first |
-| --- | --- |
-| Repeated rediscovery, knowledge loss, or fragile handovers | Intellectual capital; social and relationship capital |
-| Downtime, deferred maintenance, or recurring asset failure | Manufactured capital |
-| Persistent overload, recovery problems, or avoidable turnover | Human capital |
-| Rising waste, resource exposure, or environmental operating risk | Natural capital |
-| Financial gains alongside worsening trust, coordination, or stakeholder friction | Social and relationship capital, alongside financial capital |
+**Owner prompt: symptom to capital to check first.** Repeated rediscovery, knowledge loss, or fragile handovers: intellectual and social capital. Downtime, deferred maintenance, or recurring asset failure: manufactured capital. Persistent overload, recovery problems, or avoidable turnover: human capital. Rising waste, resource exposure, or environmental risk: natural capital. Financial gains alongside worsening trust or coordination: social capital alongside financial capital.
 
 These are prompts for inquiry, not automatic causal mappings.
 
