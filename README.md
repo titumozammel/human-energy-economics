@@ -14,6 +14,8 @@
 
 Version 1.0 · 27 October 2026
 
+**Jump to:** [Contents](#contents) · [Start here: 60 seconds](#start-here-60-seconds) · [Find by role](#find-by-role-h) · [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h) · [LICENSE](#license)
+
 *Status: first frozen release; provisional working paper. HEE is a developing, practice-driven management approach proposed for critical examination and empirical testing. It emerged from the author’s practical experience across Russia, West Africa, and Bangladesh; these observations give context for its development but are not independent validation. Nothing here implies empirical validation.*
 
 **What this edition is designed to do.** Help readers (1) find the part relevant to their job, (2) move from an observable problem to evidence and a defensible next decision, (3) distinguish justified capacity expenditure from a future-capacity shortfall, and (4) identify which HEE claims remain open to testing. This is a working framework, not a validated diagnostic instrument or a substitute for specialist judgment.
@@ -774,7 +776,9 @@ The six practitioner moves are the one canonical practitioner process. The five 
 
 Worked cases A and B (after the owner section) illustrate the Field Guide in use: Case A is the anti-training case; Case B is the training-is-right case.
 
-**Acronym decoder.** Use plain language first; look a name up only when the case needs it. The first five are the first-read essentials. None is a required sequence or a validated instrument [H].
+#### Vocabulary sheet: acronym decoder [H]
+
+Use plain language first; look a name up only when the case needs it. Owners and first-time readers can stop after the five essentials; the other names are optional extensions for specific cases. None is a required sequence or a validated instrument.
 
 | Name | Plain-language meaning | Use it when… | Read |
 | --- | --- | --- | --- |
@@ -1281,7 +1285,7 @@ HEE keeps the **conceptual/operational/empirical distinction** explicit: the **c
 
 ## Who this is for, and how HEE is shared
 
-HEE is offered for students, teachers, researchers, owners, and practitioners as a structured, testable starting point. Version 1.0 identifies this repository edition, not the validation status of any construct. HEE is open to critical review, careful use, and adaptation under the license stated in §20.
+HEE is offered for students, teachers, researchers, owners, and practitioners as a structured, testable starting point. Version 1.0 identifies this repository edition, not the validation status of any construct. HEE is open to critical review, careful use, and adaptation under the terms in the [LICENSE](#license) section.
 
 ### The repository family
 
