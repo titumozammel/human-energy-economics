@@ -182,7 +182,7 @@ Begin with your role or observable problem in [Start here](#start-here-60-second
 | 4. Decide | What action is justified now, at what risk, and by whose authority? | Act, pause, fund, reduce, or investigate; safeguard and stop rule |
 | 5. Check tomorrow | Was spending justified, is future demand covered, and was renewal realized? | Separate Justified and Coverage judgments; review date and multi-cycle outcome |
 
-Stage 2 uses the [three investigation branches](#investigate-three-branches-h): choose one, not three compulsory stages. Stage 4 uses the [answer contract](#the-answer-contract-h) and, for the quality of the decision itself, [decision quality, decision process quality, and judgement](#decision-quality-decision-process-quality-and-judgement-hp).
+Stage 2 uses the [three investigation branches](#investigate-three-branches-h): choose one, not three compulsory stages. Stage 4 uses the [answer contract](#the-answer-contract-h) and, for the quality of the decision itself, [decision quality, decision process quality, and judgement](#the-decision-point-hp).
 
 **Coverage calibration.** A recovery plan makes renewal *credible*, never alone *sufficient*: compare usable capacity with legitimate demand in base and adverse scenarios. A justified expenditure may still be Not covered.
 
@@ -766,7 +766,7 @@ The Field Guide holds many aids. This table routes a case to the one to start wi
 | Released time keeps filling up again | [Capacity protection protocol](#capacity-protection-and-anti-reabsorption-protocol-h) | [Smallest useful intervention](#smallest-useful-intervention-h) |
 | Spending looks heavy but may be justified | The [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp) | §6a |
 | The diagnosis is mixed or uncertain | The [first pass](#71-the-first-pass): name the one discriminating check, record it, and run the smallest test meanwhile | The [diagnostic safeguard](#diagnostic-safeguard-h): stop when the check would not change the next step |
-| The execution problem looks like a poor decision | The [decision quality, process quality, and judgement](#decision-quality-decision-process-quality-and-judgement-hp) distinction: is it how the situation is judged, how the decision is made, or the decision selected? | The first pass, and the diagnostic safeguard |
+| The execution problem looks like a poor decision | The [decision quality, process quality, and judgement](#the-decision-point-hp) distinction: is it how the situation is judged, how the decision is made, or the decision selected? | The first pass, and the diagnostic safeguard |
 | Employee and customer experience disagree, or customer results are good while capacity is falling | The [EX and CX matrix](#employee-experience-customer-experience-and-sustainable-growth-p) | The [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp) and §6a |
 | You are unsure whether the task is a diagnosis or an audit | The [Diagnosis and audit route](#diagnosis-and-audit-route-h) | The [Quick review record](#quick-review-record-h) |
 | Someone asks about their own exhaustion | [Three rules that do not bend](#three-rules-that-do-not-bend-h) | A conversation about work conditions with their manager |
@@ -872,12 +872,7 @@ Use this route when you must diagnose a case, or when a diagnosis or capacity cl
 
 “Investigate” appears in HEE as a response (an Execution Deficit whose condition is not yet established, a mixed diagnosis, an Unknown coverage state) and as a stop-rule outcome (“investigate further”). It is an instruction, not a diagnosis or an intervention. Choose the branch first, because each branch gathers different evidence and produces a different output.
 
-```text
-Investigate
-├── Diagnose        (find the cause: why is this happening?)
-├── Establish       (gather the evidence that would decide: move Unknown → decidable)
-└── Verify          (check whether practice meets the standard — audit route)
-```
+**Investigate has three branches:** Diagnose asks why this is happening; Establish gathers the evidence needed to decide; Verify checks practice against a stated standard.
 
 | Branch | Question | Use when | Output | Route |
 | --- | --- | --- | --- | --- |
@@ -999,25 +994,51 @@ If the condition looks like a recurring restriction, apply the [HEL versus Enabl
 
 **Classification note:** Decision Process Quality is a conversion condition but does not have a separate diagnostic gap in this edition; decision failures are recorded under Enablement Gap when the cause is ownership, authority, information, or decision rights, or in the decision audit when the process itself is weak. See “Where decision failures go” in §7.2. This footnote is essential for P11 raters. A Human Energy Gap is the human-component subset of capacity shortfall; a capacity shortfall may exist without a Human Energy Gap when time, attention, or non-human resources are the limiting factor. This is a working vocabulary. Record mixed cases, uncertainty, and cases that do not fit cleanly; proposition P11 (§15) tests whether the categories can be applied reliably.
 
-#### Decision quality, decision process quality, and judgement [H/P]
+#### The Decision Point [H/P]
 
-Three related terms work at different levels. **Judgement** is the capacity to interpret a situation and form a considered assessment (what should we make of this situation?). **Decision Process Quality** is the quality of the method used to reach a decision: how it was framed, what evidence and alternatives were considered, how uncertainty and risk were handled, and whether ownership and authority were clear (did we use a sound process?). **Decision Quality** is the quality of the decision itself, given the objective, context, evidence, constraints, and uncertainty (is this a good decision for the situation?). A favourable outcome does not prove that a decision was good, and a sound decision can produce a poor result.
+Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
-**How this edition uses them.** The conversion condition is **Decision Process Quality**. **Decision Quality** is the appropriateness of the choice in context and is not a synonym for process quality; **Decision Outcome Quality** is the realized consequence, assessed separately. Judgement is the interpretive capacity exercised within the process, not a separate conversion condition.
+1. **Decision Enablement:** whether the necessary decision rights, information, authority, and access exist.
+2. **Decision Process Quality:** how the decision was reached.
+3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
+4. **Decision Outcome Quality:** what actually happened.
 
-**Example [Illustrative].** A manager documents alternatives, the best available forecast, uncertainty, authority and safeguards, then chooses a capacity plan; an unexpected supplier failure later disrupts delivery. Review the **process** against the pre-decision record, assess the **choice** against what could reasonably be known then, and record the disruption as the **outcome** while investigating other causes. A poor outcome alone proves neither a poor process nor a poor choice, and a good outcome proves neither a sound one.
+**Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
-**Assess process, choice and outcome separately [H/P].** Use the pre-decision record and criteria agreed before outcomes are known. The following is a practical review aid and a proposed starting point for research, not a validated scoring instrument.
+Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
+
+**The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
+
+- **Justified?** Was the expenditure of capacity warranted?
+- **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
+
+A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
+
+**Investigation routes.** Choose the route that fits the question:
+
+- **Diagnose** (the Diagnostic Approach): investigate symptoms, test possible causes, and select a useful intervention.
+- **Establish:** gather the evidence needed to make an uncertain question decidable.
+- **Verify** (the Audit Approach): compare practice with a stated standard using traceable evidence.
+
+These routes can inform one another; they are not compulsory sequential stages.
+
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
+
+Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
+
+**Example [Illustrative].** A manager documents alternatives, forecast, uncertainty, authority and safeguards, then chooses a capacity plan; a supplier later fails. Review the **process** against the pre-decision record, the **choice** against what could reasonably be known then, and the disruption as the **outcome**, investigating other causes.
+
+**Assess process, choice and outcome separately [H/P].** Use the pre-decision record and criteria agreed before outcomes are known. This is a review aid and research starting point, not a validated instrument.
 
 | Assessment | Primary question | Evidence and limit |
 | --- | --- | --- |
-| **Decision Process Quality** | Were the relevant steps and safeguards carried out in time and by someone with authority? | Review how the question was framed, options and evidence obtained, uncertainty handled, responsibilities assigned and safeguards recorded. A missing record can mean Unknown; it does not by itself prove that a step was omitted. |
-| **Decision Quality** | Given what was reasonably knowable then, was the selected option appropriate relative to feasible alternatives? | Compare the choice's expected benefits, costs and downside with the objective, constraints and alternatives available at the decision time. Record the reasons, assumptions and disagreements; do not use hindsight to treat an unknowable event as known. |
-| **Decision Outcome Quality** | What happened, to whom, and over what period? | Compare expected and observed consequences, including execution, safeguards and future capacity; record external influences and alternative explanations. An outcome alone does not prove the quality of the choice or process. |
+| **Decision Process Quality** | Were the relevant steps and safeguards carried out in time and by someone with authority? | Review framing, options, evidence, uncertainty handling, assigned responsibilities and recorded safeguards. A missing record can mean Unknown; it does not by itself prove a step was omitted. |
+| **Decision Quality** | Given what was reasonably knowable then, was the selected option appropriate relative to feasible alternatives? | Compare expected benefits, costs and downside with the objective, constraints and alternatives available then. Record reasons, assumptions and disagreements; do not use hindsight. |
+| **Decision Outcome Quality** | What happened, to whom, and over what period? | Compare expected and observed consequences, including execution, safeguards and future capacity; record external influences and alternative explanations. |
 
-For a consequential decision, where feasible, ask an independent reviewer who does not know the outcome to assess the choice from the pre-decision record. Record the process review and choice assessment separately even though both use some of the same evidence. For research, specify separate rubrics, outcome blinding, rating procedure, uncertainty and inter-rater agreement in advance; test whether the ratings can actually be distinguished before combining or interpreting them. An imprecise or unsupported rating is **Unknown**, not a forced pass or failure.
+For a consequential decision, where feasible, ask an independent reviewer who does not know the outcome to assess the choice from the pre-decision record, recording the process review and choice assessment separately. For research, specify separate rubrics, outcome blinding, rating procedure, uncertainty and inter-rater agreement in advance, and test whether the ratings can be distinguished before combining them. An imprecise or unsupported rating is **Unknown**, not a forced pass or failure.
 
-**Diagnostic question [H].** Is the problem in how the situation is judged, how the decision is made, or the decision that is selected? Do not infer a defective process or poor judgement from a poor outcome alone. These are proposed working definitions, not operationalized or validated measures.
+**Diagnostic question [H].** Is the problem in how the situation is judged (**Judgement**, exercised within the process and not a separate conversion condition), how the decision is made, or the decision selected? These are proposed working definitions, not validated measures.
 
 #### When a constraint is politically defended [H]
 
@@ -1119,13 +1140,9 @@ The time-boxed variant of the one-page card and the owner view: one screen for a
 | 5. Stop rule | Write the thresholds before the pilot, not after seeing results. Retain if the pre-named outcome improves and capacity protection holds. Adapt if the outcome improves but protection or a safeguard does not. Reverse if a necessary control or quality or safety outcome is harmed. Investigate further only if the next check could change the decision. |
 | 6. If the window is shorter than the time box | Decide a reversible slice now, schedule the rest at its proper tier, and never trade away a safeguard or the stop rule for speed. |
 
-**Judge the decision in three steps** (process, choice, outcome; see [Deciding faster and better](#deciding-faster-and-better)). **Tier 1 needs no full evidence log and no second-person check;** the accountable owner self-assesses legitimate demand and coverage, so record any stake they have in the reading. Use the five-line record in [Field Triage](#field-triage-one-page-h) or the [Quick review record](#quick-review-record-h), keep the stop rule and review date, and move on. The full evidence trail and an independent check apply from Tier 2 upward.
+**Check Decision Enablement, then assess process, choice, and outcome separately**. **Tier 1 needs no full evidence log and no second-person check;** the accountable owner self-assesses legitimate demand and coverage, so record any stake they have in the reading. Use the five-line record in [Field Triage](#field-triage-one-page-h) or the [Quick review record](#quick-review-record-h), keep the stop rule and review date, and move on. The full evidence trail and an independent check apply from Tier 2 upward.
 
-**Three questions, in this order [H].** (1) *Process:* did we frame the decision, weigh alternatives and evidence, handle uncertainty, and settle authority? (2) *Choice:* given what we could reasonably know then, is this the right decision? (3) *Outcome:* what actually happened, and why? Judge them separately: a poor outcome does not prove a poor process or choice, and a good outcome does not prove a sound one. Definitions and an example: [decision quality, decision process quality, and judgement](#decision-quality-decision-process-quality-and-judgement-hp).
-
-```text
-Process  (how was it reached?)  →  Choice  (right, given what was knowable?)  →  Outcome  (what actually happened?)
-```
+**Four review questions [H].** (0) *Enablement:* do the decision rights, information, authority and access exist? (1) *Process:* did we frame the decision, weigh alternatives and evidence, handle uncertainty, and settle authority? (2) *Choice:* given what we could reasonably know then, is this the right decision? (3) *Outcome:* what actually happened, and why? Judge them separately.
 
 ### 1. Grade the decision before gathering evidence [H]
 
@@ -2174,7 +2191,7 @@ Elements with their own repository link to it. The others are described in this 
 
 These proxies describe operating effects, not a person's energy. Do not use the audit for surveillance, individual performance rating, or medical inference.
 
-**HEEn's six enablement areas.**
+**HEEn's six enablement areas (its “pillars”).**
 
 - *Resource Enablement*: access to the tools, information, time, staffing, technology, and other resources the work needs.
 - *Structural Enablement*: roles, responsibilities, processes, authority, and coordination.
@@ -2183,7 +2200,7 @@ These proxies describe operating effects, not a person's energy. Do not use the 
 - *Support Enablement*: the managerial, technical, functional, learning, and problem-solving assistance available when barriers arise.
 - *Environmental Enablement*: the physical, digital, workflow, accessibility, concentration, and collaboration conditions around application.
 
-These areas help locate barriers to applying existing capability. They do not replace capability development when capability is genuinely missing. Decision Enablement ≠ Decision Process Quality: the first concerns whether conditions for making a decision are available; the second concerns the quality and timeliness of the process used to reach it. Decision Quality concerns the choice itself in its context. A choice may appear sensible but arrive too late, or be fast but poorly supported.
+These areas help locate barriers to applying existing capability. They do not replace capability development when capability is genuinely missing. Decision Enablement ≠ Decision Process Quality: the first concerns whether the necessary decision rights, information, authority, and access exist; the second concerns how the decision was reached. Decision Quality concerns the choice itself in its context. A choice may appear sensible but arrive too late, or be fast but poorly supported.
 
 **5R safeguards that protect Retain.** *Protective Friction* is intentional resistance that prevents low-value work from entering the system in the first place. *No Externalized Fire* requires optimization to reduce system-wide burden rather than shift it downstream onto another team, function, or point in the process. Without these safeguards, removed work can quietly return, or a local improvement can create a new burden elsewhere.
 
@@ -2809,6 +2826,8 @@ Appendix C provides twenty illustrative case vignettes and a rating sheet so tha
 
 The register translates the framework's open questions into a research program. It is a plan for validation, not evidence that the constructs or mechanisms are established.
 
+The six enablement pillars hosted in HEEn have a candidate reliability test in HEEn’s research agenda.
+
 | Priority | Gap to resolve | Minimum research task | Evidence required before stronger claims |
 | --- | --- | --- | --- |
 | 1 — Construct validity | Human Energy may overlap with vitality, vigor, engagement, exhaustion, collective energy, and job demands and resources; Drain may overlap with challenge and hindrance stressors. Artificial Limits, Artificial Constraints, Intrusion, Flow Integrity, Decision Process Quality, and the diagnostic-gap labels lack established HEE-specific validation. | Define each construct's referent, level, boundaries, exclusions, and observable indicators. Conduct literature mapping, expert content review, cognitive interviews, and pilot testing. Compare HEE measures with established neighboring constructs rather than assuming new labels imply new constructs. | Evidence of content coverage, understandable items, convergent and discriminant validity, and incremental explanatory value beyond established constructs. For diagnostic labels, show they mean more than ordinary-language descriptions and can be applied consistently to independently described cases. |
@@ -3022,7 +3041,7 @@ A compact HEE diagnostic can be structured as follows. Use the steps to identify
 | **Enablement** | Do organizational conditions permit application? |
 | **Decision Process Quality** | Are decisions timely, evidence-informed, owned, and appropriate to the decision window? |
 | **Limiting Condition (provisional)** | Human Energy Gap · Drain Condition · Capability Gap · Capability Connection Gap · Enablement Gap · Artificial Constraint Condition. An Execution Deficit or apparent Conversion Failure is a signal to investigate, not a condition |
-| **Response** | Recover · Develop · Connect · Enable · Investigate |
+| **Response** | Protect · Recover · Develop · Connect · Enable (after investigation) |
 | **Capacity Outcome** | What happened to usable and future capacity? |
 
 The diagnostic card is intended to prevent organizations from jumping directly to solutions before identifying the condition. It is a practice aid, not a validated diagnostic instrument or proof of causality.
@@ -3321,13 +3340,13 @@ The published book remains the authority for the canonical, reader-facing meanin
 
 ### D.6 Edition history
 
-Version 1.0 (27 October 2026) is the first frozen release of this README. The .md, .docx, .pdf, and .html files are the same edition; the tagged Markdown release is the citation authority. It consolidates the reader routes and “What HEE contributes”; an opening case, a continuous illustrative decision-and-review case, a compact owner record, and a beginner route with a practice exercise; the role-based answer contract and question map; a three-level decision review (process, choice, outcome); capacity-classification logic, with the Tier 1 self-assessment and originator self-reference limits stated; the research sequence, comparison plan, P15 reading table and reader-testing round; the diagnosis and audit route with the independent review checklist and the Investigate branches; and the evidence map linking employee experience, customer experience, and Sustainable Growth. It discloses the author’s commercial interest. Working-draft numbers are retired, and the repository `CHANGELOG.md` begins at Version 1.0. Editorial readiness does not establish empirical validation, and no edition claims it.
+Version 1.0 (27 October 2026) is the first release of this provisional working paper. This repository’s README.md is the primary reference document.
 
 ### D.7 Integration of the earlier 60-section presentation
 
 The earlier 60-section presentation is integrated by topic, not copied as a second framework. Identity and the signature principle sit in “HEE at a glance” and §§1–3; the six execution factors in §§2, 4–6, 9 and 11; definitions in §§4–5; the diagnostic vocabulary in §7; the components, OSF, 5R and the EES loop in §§11–12, with 3C in §8 as a context lens; measurement and research claims in Parts IV–V; and the signature questions and diagnostic card in §19 and Appendix E.
 
-**Terminology reconciliation.** The earlier presentation used “Decision Quality” more broadly. In this edition, interpret the earlier conversion-condition use as **Decision Process Quality**; reserve **Decision Quality** for the choice given its objective, context, information and uncertainty, and **Decision Outcome Quality** for realized consequences. A sound process or choice can have a poor outcome by chance, and a good outcome does not prove either was sound. **HEE** is the foundational capacity lens, **OEOS** the broader operating architecture, and **HEMS** its Human Energy and capability-management component (§11.1). The earlier “five diagnostic conditions” do not overwrite the seven; the five intervention verbs are a response set. Classification reliability and the taxonomy’s usefulness remain research questions, and the earlier one-way pathway and 3C contexts are conceptual aids, not proven causal laws.
+**Terminology reconciliation.** The earlier presentation used “Decision Quality” more broadly. In this edition, interpret the earlier conversion-condition use as **Decision Process Quality**; reserve **Decision Quality** for the choice given its objective, context, information and uncertainty, and **Decision Outcome Quality** for realized consequences. **HEE** is the foundational capacity lens, **OEOS** the broader operating architecture, and **HEMS** its Human Energy and capability-management component (§11.1). The earlier “five diagnostic conditions” do not overwrite the seven; the five intervention verbs are a response set. Classification reliability and the taxonomy’s usefulness remain research questions, and the earlier one-way pathway and 3C contexts are conceptual aids, not proven causal laws.
 
 ## Appendix E — Diagnostic and action questions retained from the earlier presentation
 
@@ -3447,8 +3466,6 @@ HEE is informed by established research and management thinking on resources, wo
 Its intended contribution is their integration around two fundamental points—Value and Sustainable Growth—and one management question:
 
 **How can organizations convert potential into valuable application and sustained execution while protecting and renewing the capacity required to create value across the six capitals in future cycles?**
-
-Human Energy Economics — HEE
 
 ---
 
