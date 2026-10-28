@@ -11,7 +11,7 @@
 
 [HEE profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
-Version 1.0 · 27 October 2026
+Version 1.0 · 28 October 2026
 
 **Jump to:** [Contents](#contents) · [Start here: 60 seconds](#start-here-60-seconds) · [Find by role](#find-by-role-h) · [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h) · [LICENSE](#license)
 
@@ -3315,7 +3315,7 @@ The published book remains the authority for the canonical, reader-facing meanin
 
 ### D.6 Edition history
 
-Version 1.0 (27 October 2026) is the first release of this provisional working paper. This repository’s README.md is the primary reference document.
+Version 1.0 (28 October 2026) is the first release of this provisional working paper. This repository’s README.md is the primary reference document.
 
 ### D.7 Integration of the earlier 60-section presentation
 
