@@ -535,8 +535,6 @@ For a filled example, see [one case from question to review](#one-case-from-ques
 
 **Decision question:** Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?
 
-**Short form for daily use.** *What must change next—and will it protect or consume next cycle’s capacity?* This shortens the second canonical question for busy owners; it is not a third question.
-
 **Plain-language note on capacity.** HEE keeps four things apart because each fails for a different reason: *Capacity* (the time, attention, and energy available), *Capability* (the skills to do the work), *Enablement* (the access, authority, and information needed to reach the work), and *Application* (actually putting them to work). Spare hours do not solve a missing skill, and skill does not solve a lack of access or authority.
 
 **Board-level assurance:** If you are preparing or reviewing a board-level decision, use the [Board report: one page, multi-capital](#board-report-one-page-multi-capital-h) alongside this owner view.
@@ -2372,7 +2370,7 @@ A proposed mapping, so that readers can see which vocabulary carries weight and 
 | HEL operating terms (Artificial Limit, Intrusion, Flow Integrity, Leakage forms) | None of the six; candidate operational definitions need content-validity checks and pilot coding first | Vocabulary for now |
 | Employee and customer experience evidence, interpreted with capacity evidence | P16, which is not one of the six tests | Context until P14’s coverage measurement is usable |
 | Six capitals, Value, Sustainable Growth, Sustainable Execution Capacity | None of the six directly; context for P9 and the central pathway | Context |
-| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index; 3C contexts; 5R dispositions | None of the six; tested in the companion agendas | Companion tests |
+| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index; 3C contexts; 5R dispositions; EES domains | None of the six; tested in the companion agendas | Companion tests |
 
 #### If only one study can be funded: combined Stage 0 study [P]
 
@@ -2807,7 +2805,7 @@ Appendix C provides twenty illustrative case vignettes and a rating sheet so tha
 
 The register translates the framework's open questions into a research program. It is a plan for validation, not evidence that the constructs or mechanisms are established.
 
-HEEn hosts a reliability test for its six pillars. OSF, 3C, and 5R host their own tests (necessity, context, and disposition classification) in their research agendas ([OSF](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests), [3C](https://github.com/titumozammel/3c-strategic-approach#research-agenda-and-tests), [5R](https://github.com/titumozammel/5r-cascade-framework#research-agenda-and-tests)); none is a Core proposition.
+HEEn hosts a reliability test for its six pillars. OSF, 3C, 5R, and EES host their own tests (necessity, context, disposition, and domain classification) in their research agendas ([OSF](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests), [3C](https://github.com/titumozammel/3c-strategic-approach#research-agenda-and-tests), [5R](https://github.com/titumozammel/5r-cascade-framework#research-agenda-and-tests), [EES](https://github.com/titumozammel/execution-excellence-system#research-agenda-and-tests)); none is a Core proposition.
 
 | Priority | Gap to resolve | Minimum research task | Evidence required before stronger claims |
 | --- | --- | --- | --- |
