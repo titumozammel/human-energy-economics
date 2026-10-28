@@ -11,12 +11,11 @@
 
 [HEE profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
-
 Version 1.0 · 27 October 2026
 
 **Jump to:** [Contents](#contents) · [Start here: 60 seconds](#start-here-60-seconds) · [Find by role](#find-by-role-h) · [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h) · [LICENSE](#license)
 
-*Status: first frozen release; provisional working paper. HEE is a developing, practice-driven management approach proposed for critical examination and empirical testing. It emerged from the author’s practical experience across Russia, West Africa, and Bangladesh; these observations give context for its development but are not independent validation. Nothing here implies empirical validation.*
+*Status: first release; provisional working paper. HEE is a developing, practice-driven management approach proposed for critical examination and empirical testing. It emerged from the author’s practical experience across Russia, West Africa, and Bangladesh; these observations give context for its development but are not independent validation. Nothing here implies empirical validation.*
 
 **What this edition is designed to do.** Help readers (1) find the part relevant to their job, (2) move from an observable problem to evidence and a defensible next decision, (3) distinguish justified capacity expenditure from a future-capacity shortfall, and (4) identify which HEE claims remain open to testing. This is a working framework, not a validated diagnostic instrument or a substitute for specialist judgment.
 
@@ -62,7 +61,6 @@ HEE rests on two fundamental points:
 Full definitions are in §4 and §4.1.
 
 **Evidence status of the economic framing.** HEE is a capacity lens informed by economic questions, not a formal economic model. The claim that this framing adds explanatory value rests on one listed candidate prediction (P13); if it fails, retain the economic questions only where they remain useful and do not claim a demonstrated explanatory advantage.
-
 
 **Registration terminology.** Proposition identifiers such as P13 identify proposals in this document; their presence here does not establish public preregistration. A study is preregistered only when its protocol has actually been deposited with a named registry, date and accessible record.
 
@@ -142,7 +140,6 @@ Each job has its own usual questions. Start with the family below, then use the 
 | **Researchers** | Construct differentiation, classification reliability, incremental value, decision-aid testing (E1–E10) | [Falsification summary](#falsification-summary-where-to-start-p); [minimum falsifiable core](#minimum-falsifiable-core-p); [§15 propositions](#15-core-propositions-and-how-to-test-them-research-facing) |
 | **Individuals** | Individual employee (D7) | [Three rules that do not bend](#three-rules-that-do-not-bend-h) |
 
-
 #### Additional routes and reader questions
 
 **More routes.**
@@ -167,8 +164,6 @@ Each job has its own usual questions. Start with the family below, then use the 
 | **Practitioner** | How do I move from an observed problem to a defensible diagnosis and a useful intervention? | [Field Triage](#field-triage-one-page-h), the [diagnosis and audit route](#diagnosis-and-audit-route-h), the six moves in [§9](#9-application-path), and the [role answer cards](#role-answer-cards-h) |
 | **Academic** | What is HEE’s theoretical contribution, and how is it distinguished from existing explanations? | [What HEE is intended to add](#what-hee-is-intended-to-addnot-yet-an-established-advantage), the [evidence map](#14-evidence-map-research-facing), and the [epistemic boundaries](#13-epistemic-boundaries-research-facing) |
 | **Researcher** | What study would genuinely support, narrow, or falsify HEE? | The [research front page](#research-front-page-two-page-orientation-p), the [falsification summary](#falsification-summary-where-to-start-p), the [minimum falsifiable core](#minimum-falsifiable-core-p), and the [combined Stage 0 study](#if-only-one-study-can-be-funded-combined-stage-0-study-p) |
-
-
 
 ### One reader journey: question → method → evidence → decision → renewal [H]
 
@@ -227,7 +222,6 @@ Evidence applies to both checks: name what supports the classification and what 
 2. **Base-case coverage.** Does credible expected usable capacity meet base-case legitimate demand, with required capability and access? If a needed renewal is not credible, exclude it from the forecast. If the adjusted forecast has a material gap, coverage is **Not covered**; if evidence is insufficient to judge it, use **Unknown**.
 3. **Downside scenario.** If yes to question 2, does a plausible low or high scenario open a material gap? If so, coverage is **Fragile**; if not, **Covered**.
 4. **Read the cell.** Justified and Covered: justified expenditure. Justified and Not covered: justified spending with a candidate future shortfall. Not or partly justified and Covered: a drain candidate, not an emergency. Not or partly justified and Not covered: high priority. Fragile uses the matching Fragile rows in §6a.
-
 
 ### Worked capacity comparison for an owner [Illustrative]
 
@@ -307,7 +301,6 @@ This is a conceptual pathway, not a guaranteed causal chain. Capability does not
 | EX and CX disagree, or CX is good while capacity is falling | C9, B1 | The [EX and CX matrix](#employee-experience-customer-experience-and-sustainable-growth-p) |
 | I must decide quickly | A3, A5 | The [Decision Speed Card](#decision-speed-card-h) |
 | I doubt HEE or want to test it | E1, E2, F1 | The [falsification summary](#falsification-summary-where-to-start-p) |
-
 
 Every HEE question has one job. Find yours, read the function, and follow the **section link** in “Answered in.” The decision column says what the answer lets you do. The two canonical management questions govern the framework; the signature diagnostic question and the other prompts support specific stages. Variants do not create competing headline questions. Identifiers (A1, B1…) are used elsewhere in this document.
 
@@ -538,7 +531,6 @@ The second question turns the diagnosis into a decision: *Which condition must c
 
 For a filled example, see [one case from question to review](#one-case-from-question-to-review-illustrative). The [Quick review record](#quick-review-record-h) and tier rules set the detailed fields and safeguards. This compact record is a proposed aid, not evidence of decision improvement.
 
-
 **Accountability question:** Is today’s result being paid for with tomorrow’s capacity?
 
 **Decision question:** Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?
@@ -688,7 +680,6 @@ This is the minimum owner-facing subset of the full §19 case-record template (f
 | Decision tier and decide-by date [6] | ______________________________________________ |
 | Review date [6] | ______________________________________________ |
 
-
 **Keep the routine proportionate.** If two consecutive quarterly reviews change no decision, move that item to an annual check. An empty register is a good result, not a reason to invent items. The routine is a heuristic; whether it improves decisions is untested (P15).
 
 ### Cautions
@@ -771,7 +762,6 @@ The Field Guide holds many aids. This table routes a case to the one to start wi
 | You are unsure whether the task is a diagnosis or an audit | The [Diagnosis and audit route](#diagnosis-and-audit-route-h) | The [Quick review record](#quick-review-record-h) |
 | Someone asks about their own exhaustion | [Three rules that do not bend](#three-rules-that-do-not-bend-h) | A conversation about work conditions with their manager |
 
-
 The six practitioner moves are the one canonical practitioner process. The five owner steps are a review path for people accountable for the decision, not a competing diagnostic process. The first-pass table is a routing aid; the seven-condition table is a provisional vocabulary; the three questions are entry points; the repeatable diagnostic protocol is an evidence-recording safeguard; and Minimum Viable HEE is a short on-ramp. Use the aid that fits the case, then return to the six moves when carrying out the full diagnosis. These aids do not create separate or alternative HEE processes.
 
 Worked cases A and B (after the owner section) illustrate the Field Guide in use: Case A is the anti-training case; Case B is the training-is-right case.
@@ -795,7 +785,6 @@ Use plain language first; look a name up only when the case needs it. Owners and
 | HEA | Human Energy Audit | You need to examine demand, energy use, interruptions, and recovery. | Look up |
 | HEMS | Human Energy Management System | You want a broader capacity-management approach. | Look up |
 | OEOS | Organizational Excellence Operating System | You are working on execution routines and operating arrangements. | Look up |
-
 
 ### One case from question to review [Illustrative]
 
@@ -1291,7 +1280,7 @@ How the answer contract would be tested is described in Part V, [Usability tests
 
 HEE keeps the **conceptual/operational/empirical distinction** explicit: the **conceptual architecture** (how conditions, capacity, application, execution, value, and renewal are proposed to relate), the **operational guidance** (how an owner or practitioner diagnoses and intervenes), and the **empirical propositions** (what has been tested, what remains a hypothesis, and what evidence would challenge it). A useful diagnostic tool does not validate the theory; a plausible theoretical relationship does not establish an operational indicator; and a documented literature synthesis does not guarantee that HEE’s predictions will hold.
 
-**Status of this edition.** Version 1.0 is the first frozen release of this provisional working paper. HEE is a developing, practice-driven management approach presented as a capacity lens informed by economic questions, not a formal economic model. Version 1.0 is the current consolidated repository reference; it does not claim that every construct is settled or empirically validated. Provisional constructs and hypotheses remain open to revision. The distinctiveness claim, especially the role of context in question formulation, remains unverified pending a focused review of problem-formulation literature and independent empirical testing (§17.3).
+**Status of this edition.** Version 1.0 is the first release of this provisional working paper. HEE is a developing, practice-driven management approach presented as a capacity lens informed by economic questions, not a formal economic model. Version 1.0 is the current consolidated repository reference; it does not claim that every construct is settled or empirically validated. Provisional constructs and hypotheses remain open to revision. The distinctiveness claim, especially the role of context in question formulation, remains unverified pending a focused review of problem-formulation literature and independent empirical testing (§17.3).
 
 - **Labels attach to claims.** [E] marks a finding supported in prior research; [A] marks HEE's adaptation of it; [P] marks an HEE construct or relationship that remains untested; [H] marks a practice heuristic.
 - **Overlap with earlier diagnostic work.** The first pass overlaps substantially with performance analysis (separating skill deficiencies from obstacles) and with organizational-diagnosis models. HEE's proposed additions are the drain and necessity tests, the protection of released capacity, and the separation of diagnostic evidence from outcome evidence. Whether these add value is untested (§14, P10).
@@ -1626,7 +1615,7 @@ These four terms are retained as provisional distinctions from the earlier prese
 
 **Two vocabularies for the same three conditions.** The diagnostic table (§7.2) names them Capability Gap, Capability Connection Gap, and Enablement Gap. Shorthand elsewhere calls them Deficiency, Disconnection, and Constraint. The diagnostic names are canonical; the shorthand is for conversation and is not a second category set, so use the diagnostic names in case records.
 
-**"Constraint" has three uses.** The diagnostic Constraint (conditions preventing application, met by Enable); the 3C context Constraint (anything that limits the ability to act, legitimate or avoidable); and Artificial Constraint (an unnecessary restriction, addressed by HEL).
+**"Constraint" has more than one use.** The 3C context Constraint is an inquiry lens (anything that limits the ability to act, legitimate or avoidable). The related provisional conditions are the Enablement Gap (conditions preventing application, met by Enable) and the Artificial Constraint Condition (an unnecessary restriction, addressed by HEL); a 3C Constraint is neither automatically.
 
 **Why the first distinctions matter.** An engineer may know how to fix a machine (capability). If every hour is taken by other demands, the capacity is not there. If the time is there but the engineer lacks access to the machine or authority to act, the problem is Enablement, not capacity. Even with capacity, they may not apply it. And an individual application may still fail to become reliable execution if coordination, decisions, or operating conditions break down. The response must fit the problem: adding capability does not solve a capacity problem; adding capacity does not solve an application problem; and application alone does not guarantee reliable execution.
 
@@ -1919,7 +1908,6 @@ HEE uses several diagnostic gaps and conditions, each with a next move. Until P1
 | Organizational Enablement | Enablement Gap; Artificial Constraint Condition | The Gap is the mechanism; Artificial Constraint is a legitimacy judgment applied to a restriction behind an Enablement Gap or Drain | Necessity-test coding agrees between independent assessors |
 | None (outcome) | Execution Deficit | The trigger that starts inquiry, not a conversion condition | Coders agree it is recorded as a trigger and not as a cause |
 
-
 | Gap or condition | Level | Meaning | Next move |
 | --- | --- | --- | --- |
 | Human Energy Gap | Mechanism | Usable Human Energy is unavailable, depleted, or unnecessarily consumed | Recover and Protect |
@@ -1943,7 +1931,6 @@ HEE uses several diagnostic gaps and conditions, each with a next move. Until P1
 | Legitimate expenditure vs. next-cycle coverage | Judge purpose and proportion first, then, separately, whether renewal is scheduled, owned, and resourced | Purpose and proportion hold: justified expenditure | Renewal is missing or fragile: a coverage problem, whatever the justification |
 
 **Where decision failures go [H].** Decision Process Quality is one of the five conversion conditions but has no diagnostic gap of its own in this edition. Record a decision failure under Enablement Gap when the cause is ownership, authority, information, or decision rights, and use the decision audit below when the cause is the quality of the process itself. Whether a separate Decision Process Quality Gap is needed is an open question for P11: if raters cannot place decision failures cleanly, add it in a later version rather than force the cases.
-
 
 **Three related diagnostic questions [H].** HEE's core question can be asked in three forms. They are three ways of asking one question, not three frameworks.
 
@@ -2306,7 +2293,7 @@ These are candidate definitions and indicators, not validated constructs or scal
 
 **Governance.** Before formal studies, publish the protocol, named independent study lead, evidence-review appointments, conflict disclosures, decision thresholds, and the procedure for publishing dissent. The originator may explain disagreement but may not silently overwrite an adverse independent review. The originator also designed these rules and can revise them only by a documented, versioned rationale open to independent challenge; this self-reference is a structural limit of any self-published framework.
 
-**P12 gate status.** P12 is indefinitely deferred in this edition until an owner, resources, and a review date are formally assigned. No empirical P12 study or pilot intended to generate P12 evidence may begin before the focused literature synthesis is complete and used to revise the design. HEE makes no question-formulation novelty claim meanwhile.
+**P12 gate status.** P12 is indefinitely deferred in this edition until an owner, resources, and a review date are formally assigned. No empirical P12 study or pilot intended to generate P12 evidence may begin before the focused literature synthesis is complete and used to revise the design. HEE makes no question-formulation novelty claim meanwhile. 3C’s question-formulation tests fall under this gate ([3C agenda](https://github.com/titumozammel/3c-strategic-approach#research-agenda-and-tests)).
 
 #### Research sequence and contribution comparison [P]
 
@@ -2355,7 +2342,6 @@ A test is runnable when its unit, outcome, comparator, and threshold are fixed i
 | P13 | Unit by cycle | Timing of reabsorption of released capacity | Units without protection | Audited queue and time-use data from a site already running a removal initiative | Queue measure, protection definition, confounders |
 | P10 Stage 0 | Practitioner by case | Interventions chosen; expert-rated fit to evidence | Pre-specified, versioned Mager & Pipe performance-problem analysis protocol as primary comparator; Rummler & Brache only as a supplementary systems-level reference when workflow interfaces are central | Same case packets, time allowance, evidence access, facilitator contact, and response format; record actual time and assistance; blind outcome raters to arm | Final checklist version; scoring rubric; minimum meaningful divergence; case realism |
 
-
 ### Minimum falsifiable core [P]
 
 Part V lists sixteen propositions, an exploratory stock-and-flow idea, and ten research priorities. To make HEE easy to challenge, six tests carry most of the weight. Each states the result that would retire or narrow a claim.
@@ -2386,7 +2372,7 @@ A proposed mapping, so that readers can see which vocabulary carries weight and 
 | HEL operating terms (Artificial Limit, Intrusion, Flow Integrity, Leakage forms) | None of the six; candidate operational definitions need content-validity checks and pilot coding first | Vocabulary for now |
 | Employee and customer experience evidence, interpreted with capacity evidence | P16, which is not one of the six tests | Context until P14’s coverage measurement is usable |
 | Six capitals, Value, Sustainable Growth, Sustainable Execution Capacity | None of the six directly; context for P9 and the central pathway | Context |
-| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index | None of the six; tested in the companion agendas | Companion tests |
+| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index; 3C contexts | None of the six; tested in the companion agendas | Companion tests |
 
 #### If only one study can be funded: combined Stage 0 study [P]
 
@@ -2397,8 +2383,6 @@ If resources allow a single study, run one blinded vignette study that answers t
 - **Stop rule, fixed before data.** If agreement falls below the pre-registered threshold, treat the vocabulary as a prompt list, not a classification, and do not run P14. If the groups choose the same interventions, narrow the incremental claim as the minimum falsifiable core states, and do not fund P10 outcomes on that basis. Report inconclusive results as inconclusive.
 - **Why this one.** It tests the prerequisites on which the other tests depend, uses records the organization already holds, and can finish in a short time.
 - **What it cannot show.** It cannot show that HEE-guided interventions improve outcomes, that the economic-framing prediction (P13) holds, or that the decision aids (P15) speed decisions. A positive result means HEE earns further testing, not that it is validated.
-
-
 
 #### What would reduce or retire HEE as a whole [P]
 
@@ -2541,7 +2525,6 @@ Problem-formulation and reframing research remains incompletely mapped; the row 
 
 HEE's propositions are proposed for examination, not established laws. The test columns are research notes.
 
-
 #### Research-facing one-page brief [P]
 
 **Constructs to establish first:** define the unit, time horizon, legitimate demand, usable capacity, the five conversion conditions, the seven diagnostic conditions, and the difference between justified capacity expenditure and a candidate future-capacity shortfall. **Begin with P11 (diagnostic reliability) and the Human Energy/Usable Capacity differentiation (§18.4); both are prerequisites for interpreting P10.** Test whether the constructs can be distinguished from their nearest established neighbors before treating a model-level result as evidence for HEE.
@@ -2553,7 +2536,6 @@ HEE's propositions are proposed for examination, not established laws. The test 
 **Confounding in P13 and P14.** Reabsorption and shortfall studies run in the field, where market, supply, and demand shocks can mimic or mask an effect. Where units cannot be randomized, use matched control units, or a stepped-wedge rollout in which units start protection or classification at staggered, pre-specified times, and record external shocks as covariates.
 
 **Most important nulls:** a structured performance-analysis checklist may match HEE’s intervention-matching logic; independent raters may not distinguish the proposed categories; protection may not moderate reabsorption; and justified expenditure may still be followed by shortfall under a fair test. Report null, adverse, and inconclusive results rather than treating them as implementation defects by default.
-
 
 **Two foundations.** *Core economic proposition:* Organizational Capacity is the economic asset; work necessarily consumes capacity; the relevant question is whether the capacity consumed produces sufficient present value or contributes legitimately to future capacity and value. *Diagnostic distinction:* Drain ≠ Gap ≠ Constraint. New readers should start with the research-facing one-page brief; returning readers can start with the [Falsification Summary at the start of Part V](#falsification-summary-where-to-start-p), which states the principal claims and their disconfirming patterns.
 
@@ -2582,7 +2564,6 @@ HEE's propositions are proposed for examination, not established laws. The test 
 | P15: Decision aids | [Level: decision-maker or team, with the decision as the unit of analysis] Owners, managers, and practitioners who use HEE’s decision aids (tiering by stakes and reversibility, the decision-ready test, and the defaults under uncertainty) reach decisions in less time, without lower expert-rated decision quality and with fewer avoidable reversals or premature actions, than comparable decision-makers using their usual process or a structured performance-analysis checklist with comparable attention. | Stage 1: a randomized vignette study using the same case packets; time to a recorded decision; blinded expert ratings of the choice (Decision Quality, rated from the pre-decision record without the outcome) against a rubric fixed in advance, kept separate from any process audit, including whether the decision was premature (for example, prescribing training before capability was tested). Stage 2: a field comparison using decision logs: time from gap to decision, reversals within one cycle, and next-cycle outcome, with process graded separately from outcome (§7.2). Pre-specify the minimum meaningful time saving and quality margin (see “Setting the smallest effect of interest”). | No time saving; or a saving accompanied by lower rated quality or more premature action; reversals no lower than the comparison; or gains that vanish when comparison users receive equal attention. Speed alone is not evidence of better decisions. |
 | P16: Experience evidence | [Level: unit or organizational] EX and CX measures interpreted alongside future-capacity evidence improve diagnosis or decision quality more than either experience measure alone, or than capacity evidence alone. | Pre-specify the EX, CX, and capacity measures across at least three cycles. Compare decisions or diagnoses made with all three against each single source and each pair, with raters blinded to condition; pre-register the minimum meaningful increment. | The joint pattern adds no reliable improvement over the best single-source or two-source subset under a fair test. A null result narrows the claim: keep EX and CX as descriptive signals and retire the claim that they add joint diagnostic value. |
 
-
 **Levels of analysis at a glance [P].** Each proposition is stated at the level in its own “[Level: …]” tag. The central pathway spans levels, but no proposition tests a person-to-organization path.
 
 | Level | Propositions | What a result supports |
@@ -2605,7 +2586,6 @@ HEE's propositions are proposed for examination, not established laws. The test 
 **Setting the smallest effect of interest [P].** Wherever this section says “pre-registered minimum meaningful effect,” the study team must state the number before data collection and justify it by one of: (a) the smallest change that would alter a decision an owner would make, such as a change in cycle time or rework that justifies the intervention’s cost; (b) variability in comparable units taken from a pilot or historical records; or (c) a benchmark from the closest established method. Report the value, its justification, and the confidence interval of the observed effect. No default number is offered, because an unjustified default would look like a validated threshold.
 
 **Outcome separation rule [P].** Measure **speed** and **quality** as separate outcomes. Speed may include time to locate the answer and time from a defined problem signal to a recorded decision. Quality should be rated independently against a pre-specified rubric that includes evidence fit, consideration of alternatives, proportionality, decision-rights fit, safeguards, and premature action. Track reversals, adverse effects, and next-cycle outcomes separately. A faster decision is not a better decision unless quality is maintained or improved; a favourable outcome alone does not prove that the diagnosis was correct.
-
 
 **Primary estimand for P10:** the incremental effect of HEE diagnosis-matched intervention selection versus a structured performance-analysis approach receiving comparable managerial attention, case information, resources, and follow-up. This is the primary comparison because it tests incremental value over the nearest alternative. A generic or unmatched intervention comparison is secondary and tests whether matching per se outperforms a less tailored response.
 
@@ -2827,7 +2807,7 @@ Appendix C provides twenty illustrative case vignettes and a rating sheet so tha
 
 The register translates the framework's open questions into a research program. It is a plan for validation, not evidence that the constructs or mechanisms are established.
 
-The six enablement pillars hosted in HEEn have a candidate reliability test in HEEn’s research agenda. OSF hosts its own tests (necessity classification, Operational Silence Index validity, mechanism, recurrence) in its [research agenda](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests); none is a Core proposition.
+The six enablement pillars hosted in HEEn have a candidate reliability test in HEEn’s research agenda. OSF and 3C host their own tests (such as necessity and context classification) in their research agendas ([OSF](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests), [3C](https://github.com/titumozammel/3c-strategic-approach#research-agenda-and-tests)); none is a Core proposition.
 
 | Priority | Gap to resolve | Minimum research task | Evidence required before stronger claims |
 | --- | --- | --- | --- |
@@ -2853,8 +2833,6 @@ For every case, keep four fields separate: (1) observed problem or outcome, (2) 
 **Exploratory stock-flow sketch for the economic-framing claim [P; not a listed proposition].** Treat usable organizational capacity in a defined unit as a state variable measured at time *t*. Capacity changes through inflows (recovery, learning, recruitment, repaired dependencies, and effective renewal) and outflows (legitimate execution demand, avoidable demand, rework, deferred maintenance, and other verified forms of depletion). Decisions and operating rules act as controls that can alter inflow, outflow, timing, or the destination of released capacity. The basic accounting identity is *next-period capacity = current capacity + realized replenishment − realized depletion*, with all terms defined for the same unit, dimensions, and period; it is a candidate measurement structure, not an empirical law or a claim that all dimensions can be summed. The testable question is whether the measured gap between replenishment and depletion predicts next-cycle execution or capacity coverage beyond current output and a credible ordinary capacity forecast. If dimensions cannot be meaningfully aggregated, pre-specify one theoretically justified primary dimension for the main test and treat the others as secondary outcomes; report multiplicity and interpretation limits rather than presenting the dimensions as one omnibus test. If no dimension is theoretically primary, pre-specify a composite only if a defensible measurement model supports it; otherwise analyze the dimensions separately as a family of tests with multiplicity control and report the interpretation limits.
 
 **Illustrative operationalization [P].** *Invented example [Illustrative]; not a validated measure.* Take a twelve-person support team in monthly cycles, with time as the single primary dimension. Depletion proxy: unplanned overtime hours plus audited rework hours. Replenishment proxy: recovery hours actually taken after peaks plus protected learning or maintenance hours completed. Net recovery balance for the month is replenishment hours minus depletion hours, taken from rosters and time records for the same team and month. The outcome is the share of committed deliveries missed in the following month. The comparison model uses current-month output and a coverage-only forecast. Pre-specify the unit, month boundaries, the rework audit method, the minimum meaningful improvement in prediction, and confounders such as demand shocks, turnover, and leave policy. The test is whether net recovery balance improves prediction over the comparison model. Limits: hours do not capture attention or energy, recovery taken is not recovery achieved, and an adverse result for the time dimension does not settle the other dimensions.
-
-
 
 The multiplication signs in HEE's core conversion expression (§6) are conceptual shorthand for conditions that may interact in enabling application; they do not assert literal multiplication, a specified production function, or that any factor approaching zero necessarily drives execution to zero. The model-form test is specified here once: for a particular study, state the theoretical rationale, operational measures, units, level of analysis, and causal assumptions before inspecting outcome results; then compare pre-specified additive, interaction, threshold/bottleneck (including Necessary Condition Analysis, Dul, 2016), and multiplicative alternatives on the same outcome, with appropriate measurement models, uncertainty estimates, and out-of-sample or independent replication where feasible. The selected functional form is a study-specific empirical question, not something this README settles. If constructs cannot be placed on meaningful scales, do not estimate a literal product; test the verbal bottleneck proposition instead.
 
@@ -2884,7 +2862,6 @@ The multiplication signs in HEE's core conversion expression (§6) are conceptua
 - **Unnecessary demand and Drain.** Compare the necessity and proportionality criteria with challenge and hindrance stressor measures. Some hindrances may be legally or operationally necessary, and some challenging demands may still be excessive; classify the demand itself using independent evidence, not the outcome it is presumed to cause.
 - **Diagnostic vocabulary.** Specify each gap or condition in terms of required evidence, exclusions, and disconfirming observations. Test whether independent coders can distinguish the HEE labels from ordinary descriptions and from neighboring categories. If distinctions are unreliable or add no explanatory value, merge, rename, or retire categories.
 - **Decision Process Quality.** Keep decision-process indicators (evidence use, timing, ownership, options, uncertainty) separate from realized outcomes, which are affected by chance and external conditions. Define evaluation criteria before the outcome is known.
-
 
 **Candidate comparison instruments [P].** To test discriminant validity, a study needs a named established measure for each rival construct, chosen before data collection. The list below gives starting candidates, not a recommendation or a claim that any one is the best comparator. For each, confirm the current version, licence, and psychometric evidence in the target population, and add full entries to the References before citing it as evidence.
 
@@ -3234,7 +3211,6 @@ Link to the most specific section that supports the claim or tool being reused. 
 | AI | Economic frame, compounding principle, HEL orientation | §1; §12; §19 |
 | AJ | Broader Problem Map | §7.2 |
 | AO | Practitioner index and definitions | §4; §5 |
-
 
 ## Appendix C — Starter kit for the diagnostic reliability test (P11)
 
