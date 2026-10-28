@@ -2386,6 +2386,7 @@ A proposed mapping, so that readers can see which vocabulary carries weight and 
 | HEL operating terms (Artificial Limit, Intrusion, Flow Integrity, Leakage forms) | None of the six; candidate operational definitions need content-validity checks and pilot coding first | Vocabulary for now |
 | Employee and customer experience evidence, interpreted with capacity evidence | P16, which is not one of the six tests | Context until P14’s coverage measurement is usable |
 | Six capitals, Value, Sustainable Growth, Sustainable Execution Capacity | None of the six directly; context for P9 and the central pathway | Context |
+| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index | None of the six; tested in the companion agendas | Companion tests |
 
 #### If only one study can be funded: combined Stage 0 study [P]
 
@@ -2826,7 +2827,7 @@ Appendix C provides twenty illustrative case vignettes and a rating sheet so tha
 
 The register translates the framework's open questions into a research program. It is a plan for validation, not evidence that the constructs or mechanisms are established.
 
-The six enablement pillars hosted in HEEn have a candidate reliability test in HEEn’s research agenda.
+The six enablement pillars hosted in HEEn have a candidate reliability test in HEEn’s research agenda. OSF hosts its own tests (necessity classification, Operational Silence Index validity, mechanism, recurrence) in its [research agenda](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests); none is a Core proposition.
 
 | Priority | Gap to resolve | Minimum research task | Evidence required before stronger claims |
 | --- | --- | --- | --- |
@@ -3442,7 +3443,7 @@ This glossary is a quick-reading aid; §4 and §5 are the reference. Each entry 
 | **Intrusion** | Loss ≠ Leakage ≠ Liberation | An unnecessary force that interrupts, fragments, redirects, or restricts productive flow; see §12. |
 | **Justified Capacity Expenditure** | Justified expenditure ≠ Drain; Justified ≠ Covered | Proportionate, purposeful consumption of capacity. Whether capacity will be renewed in time is a separate coverage judgment. Consumption alone is not drain or shortfall; see §6a. |
 | **Legitimate Demand** | Legitimate demand ≠ all demand | Demand for which the accountable owner can state a purpose (obligation, safety or quality requirement, commitment, or deliberate investment). Disputed demand is classified under both assumptions; see §6a. |
-| **Operational Noise** | Demand ≠ Noise ≠ Consumption ≠ Drain | Avoidable interruptions, friction, or activity that consumes attention or capacity without proportionate value. Noise is not identical to all demand or all consumption; see §§4 and 12. |
+| **Operational Noise** | Demand ≠ Noise ≠ Consumption ≠ Drain | Avoidable interruptions, friction, or activity that consumes attention or capacity without proportionate value. Noise is not identical to all demand or all consumption; see §§4 and 12. OSF’s proposed index states its own capacity base. |
 | **Organizational Capacity** | Human Capital ≠ Human Energy ≠ Organizational Capacity | The organization's ability to mobilize and apply resources toward execution. Human Energy is an important human component, not the whole; see §§4–5. |
 | **Smallest useful intervention** | Diagnosis ≠ Intervention | A bounded response proportionate to evidence and the problem, designed to test the explanation while preserving required safeguards; see the Field Guide and §9. |
 | **Sustainable Business Value** | Value ≠ Profit | Value created and maintained for the business and relevant stakeholders across the six capitals without undermining future value-creating capacity. Financial profit is one expression, not the complete definition; see §§4 and 6. |
