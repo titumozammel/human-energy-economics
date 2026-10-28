@@ -2372,7 +2372,7 @@ A proposed mapping, so that readers can see which vocabulary carries weight and 
 | HEL operating terms (Artificial Limit, Intrusion, Flow Integrity, Leakage forms) | None of the six; candidate operational definitions need content-validity checks and pilot coding first | Vocabulary for now |
 | Employee and customer experience evidence, interpreted with capacity evidence | P16, which is not one of the six tests | Context until P14’s coverage measurement is usable |
 | Six capitals, Value, Sustainable Growth, Sustainable Execution Capacity | None of the six directly; context for P9 and the central pathway | Context |
-| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index; 3C contexts | None of the six; tested in the companion agendas | Companion tests |
+| Companion constructs: HEEn pillars; OSF six tests and Operational Silence Index; 3C contexts; 5R dispositions | None of the six; tested in the companion agendas | Companion tests |
 
 #### If only one study can be funded: combined Stage 0 study [P]
 
@@ -2807,7 +2807,7 @@ Appendix C provides twenty illustrative case vignettes and a rating sheet so tha
 
 The register translates the framework's open questions into a research program. It is a plan for validation, not evidence that the constructs or mechanisms are established.
 
-The six enablement pillars hosted in HEEn have a candidate reliability test in HEEn’s research agenda. OSF and 3C host their own tests (such as necessity and context classification) in their research agendas ([OSF](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests), [3C](https://github.com/titumozammel/3c-strategic-approach#research-agenda-and-tests)); none is a Core proposition.
+HEEn hosts a reliability test for its six pillars. OSF, 3C, and 5R host their own tests (necessity, context, and disposition classification) in their research agendas ([OSF](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests), [3C](https://github.com/titumozammel/3c-strategic-approach#research-agenda-and-tests), [5R](https://github.com/titumozammel/5r-cascade-framework#research-agenda-and-tests)); none is a Core proposition.
 
 | Priority | Gap to resolve | Minimum research task | Evidence required before stronger claims |
 | --- | --- | --- | --- |
