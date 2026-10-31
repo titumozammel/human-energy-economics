@@ -15,37 +15,70 @@ Version 1.0 · 28 October 2026
 
 **Jump to:** [Contents](#contents) · [Start here: 60 seconds](#start-here-60-seconds) · [Find by role](#find-by-role-h) · [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h) · [LICENSE](#license)
 
-*Status: first release; provisional working paper. HEE is a developing, practice-driven management approach proposed for critical examination and empirical testing. It emerged from the author’s practical experience across Russia, West Africa, and Bangladesh; these observations give context for its development but are not independent validation. Nothing here implies empirical validation.*
-
-**What this edition is designed to do.** Help readers (1) find the part relevant to their job, (2) move from an observable problem to evidence and a defensible next decision, (3) distinguish justified capacity expenditure from a future-capacity shortfall, and (4) identify which HEE claims remain open to testing. This is a working framework, not a validated diagnostic instrument or a substitute for specialist judgment.
+*Status: first release; provisional working paper. HEE is a developing, practice-driven management approach proposed for critical examination and empirical testing. It emerged from the author’s practical experience across Russia, West Africa, and Bangladesh; these observations are not independent validation. Nothing here implies empirical validation.*
 
 ## HEE at a glance
 
-**Identity.** Human Energy Economics (HEE) is a developing, practice-driven management approach and a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. Its practical origins inform the questions it asks; they do not constitute independent validation.
+### 1. What is HEE?
 
-**Precision statement.** HEE is a developing, practice-driven management approach for examining whether current results are being achieved at the expense of capacity needed for future work. It proposes two checks, *Justified?* and *Covered?*, to assess whether an expenditure is justified and, separately, whether future demand is covered; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
+Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a developing, practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed.
 
-**Core idea.** Organizations do not sustain performance merely by possessing resources, people, or capability. They sustain it by preserving, developing, connecting, enabling, mobilizing, and applying those assets repeatedly—without unnecessarily degrading the capacity required to do it again.
+**Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It proposes two separate checks, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
-**Signature principle:** *Extraction depletes. Cultivation compounds.* This is a guiding principle, not an empirical finding.
+**Guiding principle.** *Extraction depletes. Cultivation compounds.* This is a guiding principle, not an empirical finding.
 
-### HEE’s central management question
+<a id="what-hee-contributes"></a>
+
+### 2. What does HEE contribute?
+
+HEE proposes one connected way to move from an observed performance question to a reviewable decision: question → method → evidence → decision → follow-up. Readers choose a route: **diagnose** why a problem is occurring, **establish** the evidence still missing, or **verify** practice against a stated criterion ([the three branches](#investigate-three-branches-h)).
+
+Three distinctions run through that inquiry. It asks what **limits or blocks** capability from becoming effective execution. It separates whether capacity was spent for a justified purpose from whether enough capacity will be available next cycle ([the two checks](#justified-spending-or-future-shortfall-one-page-card-hp)). And it treats employee experience, customer experience, and Sustainable Growth as connected evidence to examine, not an assumed causal chain ([the EX and CX evidence map](#employee-experience-customer-experience-and-sustainable-growth-p)).
+
+HEE is intended to help owners make better-supported decisions and understand their consequences; give practitioners a route from an observed problem to a defensible intervention; give academics and researchers propositions to compare and test; and give reviewers an evidence trail they can re-perform.
+
+**Status of the contribution.** This is a proposed practical contribution, not a finding or a claim of theoretical novelty. Whether HEE improves decisions compared with a credible established approach, given the same evidence, time, and support, is for the proposed P10, P15, and routing usability tests. The fuller list is in [What HEE is intended to add](#what-hee-is-intended-to-addnot-yet-an-established-advantage).
+
+### 3. How do I apply it to my problem?
+
+**Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. No management approach, including HEE, guarantees the desired result across all contexts. HEE therefore does not prescribe one uniform flow for every case.
+
+Choose and combine its proposed investigation routes according to the question: **Diagnose** to investigate possible causes, **Establish** to gather evidence needed for a defensible determination, and **Verify** to check practice against a stated standard. These routes are not compulsory sequential stages. Reconsider the route as evidence or conditions change.
+
+The aim is a better-supported decision about how to pursue the goal, not a guaranteed outcome. Whether HEE improves decisions remains open to testing, and the claim that context shapes the route is a design assertion pending P12.
+
+#### HEE’s central management question
 
 **Is today’s result being paid for with tomorrow’s capacity?**
 
-HEE uses this question to direct attention beyond current results to the conditions that sustain future performance.
+*An orientation map; revisit any step as needed.*
 
-The next question is:
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 15, "rankSpacing": 22, "padding": 6}}}%%
+flowchart LR
+    A["<b>1 ASK</b><br/>Is today's result<br/>being paid for with<br/>tomorrow's<br/>capacity?"]
+    B["<b>2 CHOOSE<br/>A ROUTE</b><br/>Diagnose: why?<br/>Establish: what<br/>evidence is missing?<br/>Verify: does practice<br/>meet the standard?"]
+    C["<b>3 GATHER<br/>EVIDENCE</b><br/>What evidence<br/>would answer<br/>this question?"]
+    D["<b>4 DECIDE</b><br/>What should we<br/>change, retain,<br/>investigate further,<br/>or pause?<br/><i>Justified? Covered?</i>"]
+    E["<b>5 REVIEW</b><br/>Justified? Covered?<br/>Actual expenditure<br/>and next-cycle<br/>coverage"]
+    A --> B --> C --> D --> E
+    E -. "next cycle" .-> A
+```
 
-**Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?**
+Apply the two checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask: **Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?**
 
-The first question diagnoses a potential capacity cost. The second directs a decision about what to change and tests its likely consequences for future capacity.
+### 4. How far can I trust it?
 
-**Short form for daily use.** *What must change next—and will it protect or consume next cycle’s capacity?* This shortens the second canonical question for busy owners; it is not a third question.
+HEE is a provisional research and practice reference, not a validated diagnostic instrument. Established research informs it, but does not validate its particular constructs, integration, or decision-support claims. Its proposed claims remain open to tests that could support, narrow, or reject them. Use proportionate evidence, record uncertainty, and distinguish illustrative examples and author-reported observations from independent findings.
 
-The objective is not simply to produce today's result, nor to protect capacity at the expense of all current performance. It is to understand the relationship between current results and future capacity, improve the conditions that enable execution, and strengthen the organization's ability to perform across successive cycles.
+#### What HEE does not claim
 
-The signature question below is the diagnostic form of the same inquiry: it asks what prevents capability from becoming execution.
+- It is not validated, and it has not been shown to beat existing approaches.
+- Human Energy is not a physiological measure, and the pathway Capability → Application → Execution → Value → Sustainable Growth is an orientation, not an established causal chain.
+- No route or response guarantees the desired result; HEE supports judgment and does not replace it.
+- The author’s experience gives context, not validation.
+
+The full statement is in [What HEE does and does not claim](#what-hee-does-and-does-not-claim).
 
 ### Core idea
 
@@ -55,34 +88,24 @@ Human Energy Economics (HEE) examines how organizations create, lose, recover, p
 
 HEE rests on two fundamental points:
 
-- **Value**: consequential outcomes for relevant stakeholders and the systems the organization depends on, across the six capitals (financial, manufactured, intellectual, human, social and relationship, natural). Value is not identical to activity, output, or financial profit. HEE does not value or trade off the capitals against one another; valuation methods are deferred to established integrated-reporting and environmental-accounting standards, and HEE’s own operationalization of Value is provisional.
-- **Sustainable Growth**: the continuing creation and renewal of value across the six capitals without degrading the capacity required for future value creation. Financial results matter, but profit alone cannot establish sustainable growth if other capitals or future capacity are being depleted. Its operationalization is likewise provisional.
+- **Value**: consequential outcomes for relevant stakeholders and the systems the organization depends on, across the six capitals (financial, manufactured, intellectual, human, social and relationship, natural). Value is not identical to activity, output, or profit. HEE does not value or trade off the capitals; valuation is deferred to established integrated-reporting and environmental-accounting standards, and its own operationalization of Value is provisional.
+- **Sustainable Growth**: the continuing creation and renewal of value across the six capitals without degrading the capacity required for future value creation. Profit alone cannot establish sustainable growth if other capitals or future capacity are being depleted. Its operationalization is likewise provisional.
 
 Full definitions are in §4 and §4.1.
 
-**Evidence status of the economic framing.** HEE is a capacity lens informed by economic questions, not a formal economic model. The claim that this framing adds explanatory value rests on one listed candidate prediction (P13); if it fails, retain the economic questions only where they remain useful and do not claim a demonstrated explanatory advantage.
+**Evidence status of the economic framing.** HEE is a capacity lens informed by economic questions, not a formal economic model. The claim that this framing adds explanatory value rests on one listed candidate prediction (P13); if it fails, retain the economic questions only where useful and claim no demonstrated explanatory advantage.
 
-**Registration terminology.** Proposition identifiers such as P13 identify proposals in this document; their presence here does not establish public preregistration. A study is preregistered only when its protocol has actually been deposited with a named registry, date and accessible record.
-
-### What HEE contributes
-
-HEE proposes one connected way to move from an observed performance question to a reviewable decision: question → method → evidence → decision → follow-up. Readers choose a route: **diagnose** why a problem is occurring, **establish** the evidence still missing, or **verify** practice against a stated criterion ([the three branches](#investigate-three-branches-h)).
-
-Three distinctions run through that inquiry. It asks what **limits or blocks** capability from becoming effective execution. It separates whether capacity was spent for a justified purpose from whether enough capacity will be available next cycle ([the two checks](#justified-spending-or-future-shortfall-one-page-card-hp)). And it treats employee experience, customer experience, and Sustainable Growth as connected evidence to examine, not an assumed causal chain ([the EX and CX evidence map](#employee-experience-customer-experience-and-sustainable-growth-p)).
-
-HEE is intended to help owners make clearer, better-supported decisions and understand their consequences; give practitioners a route from an observed problem to a defensible intervention; give academics and researchers propositions to compare and test; and give reviewers an evidence trail they can re-perform.
-
-**Status of the contribution.** This is a proposed practical contribution, not a finding or a claim of theoretical novelty. Whether HEE improves the match between question, method, evidence, action, and review, compared with a credible established approach given the same case evidence, time, and support, is a question for the proposed P10, P15, and routing usability tests. A fair test defines decision quality, speed, meaningful differences, and uncertainty in advance and reports adverse and inconclusive results. The fuller list, and what remains if the core tests fail, is in [What HEE is intended to add](#what-hee-is-intended-to-addnot-yet-an-established-advantage).
+**Registration terminology.** Proposition identifiers such as P13 identify proposals here; they do not establish public preregistration. A study is preregistered only when its protocol is deposited with a named registry, with a date and accessible record.
 
 ### An opening case: a result and its hidden question [Illustrative]
 
-A customer-support team meets most response targets after managers add overtime. Customer complaints remain low, but approvals wait in a queue and the team has deferred recovery. Should the owner add more overtime, change the approval process, or wait for better evidence? The result alone cannot decide. HEE asks what the work requires, what is blocking application, whether the expenditure is justified, and whether the next cycle is covered. The [continuous case](#one-case-from-question-to-review-illustrative) follows it through a decision and review; owners can read that one case first. It is invented to demonstrate the method, not evidence that HEE works.
+A customer-support team meets most response targets after managers add overtime. Customer complaints remain low, but approvals wait in a queue and the team has deferred recovery. Should the owner add more overtime, change the approval process, or wait for better evidence? HEE asks what the work requires, what is blocking application, whether the expenditure is justified, and whether the next cycle is covered. The [continuous case](#one-case-from-question-to-review-illustrative) follows it through a decision and review. It is invented to demonstrate the method, not evidence that HEE works.
 
 ### Start here: 60 seconds
 
 *Tags show evidence status: [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.*
 
-One routing box. **New to HEE? Take the “New to HEE” row and ignore the rest.** Otherwise pick the row that matches who you are or what you need, follow it, and ignore the other routes until you need them. Times are approximate reading times. The README has four layers: the canonical statement (“HEE at a glance”, §§1–4), decision support (the owner path, the one-page capacity card, the six practitioner moves), the research layer (the research front page, the falsification summary, Part V), and reference material (the Contents, glossary, and Appendices A–F). You do not need to read it linearly. **Short on time?** Two minutes: [the practical promise](#the-practical-promise) and this section. Twenty minutes: add the owner brief or Field Triage, and [§9](#9-application-path). Everything else is reference.
+**New to HEE? Take the “New to HEE” row and ignore the rest.** Otherwise pick the row that matches who you are or what you need, follow it, and ignore the other routes until you need them. You do not need to read it linearly. **Short on time?** Two minutes: [the practical promise](#the-practical-promise) and this section. Twenty minutes: add the owner brief or Field Triage, and [§9](#9-application-path).
 
 | If you are, or need to… | Go to | About |
 | --- | --- | --- |
@@ -97,7 +120,7 @@ For additional entry points, use [Find by role](#find-by-role-h), the [question 
 
 ### New to HEE? Start here
 
-You do not need to learn the full vocabulary or read the reference in order. This short route is for students, teachers and anyone encountering HEE for the first time. Times are estimates, not tested guarantees.
+You do not need to learn the full vocabulary or read the reference in order. This short route is for anyone encountering HEE for the first time.
 
 1. Read [the central management question](#hees-central-management-question) and the [opening case](#an-opening-case-a-result-and-its-hidden-question-illustrative). What result is being achieved, and what might the next cycle require?
 2. Learn the four distinctions below. Then read the [two checks](#justified-spending-or-future-shortfall-one-page-card-hp).
@@ -124,7 +147,7 @@ A team uses overtime for a necessary customer commitment. The owner has assessed
 
 **Suggested answer.** (1) No. Under the stated assumptions, the overtime is **justified**; capacity use alone does not prove drain. (2) **Not covered**: expected usable capacity falls 10 hours short of base-case demand. Justification and coverage are separate judgments. (3) The owner could reduce or reschedule demand, or secure feasible capacity before the work is due, while protecting necessary controls. Record who owns the action and when it will be reviewed. Check the estimates, materiality, skills and access; if the evidence is too weak to make a defensible comparison, record coverage as **Unknown** instead. A planned recovery or extra staffing should be counted only when credible and timely.
 
-**Reflect.** What evidence would change your answer? What if 100 hours were needed only in a plausible downside scenario and the base case were covered? A material downside gap would indicate **Fragile**, with a credible contingency required before proceeding; absent one, retain Fragile as the evidence state and take a precautionary decision. These examples are invented teaching aids, not validated thresholds or empirical results.
+**Reflect.** What evidence would change your answer? If 100 hours were needed only in a plausible downside scenario and the base case were covered, a material gap would indicate **Fragile**: require a credible contingency before proceeding, or take a precautionary decision. These examples are invented teaching aids, not thresholds or results.
 
 ### Find by role [H]
 
@@ -405,7 +428,7 @@ These are intended advantages over unstructured or single-cause responses, not d
 *Owners and practitioners can stop before Part V; it is the research layer, for readers who want to test or challenge HEE.*
 
 - [HEE at a glance](#hee-at-a-glance)
-  - [What HEE contributes](#what-hee-contributes)
+  - [2. What does HEE contribute?](#2-what-does-hee-contribute)
   - [Start here: 60 seconds](#start-here-60-seconds)
   - [New to HEE? Start here](#new-to-hee-start-here)
   - [Question architecture: which question should I use?](#question-architecture-which-question-should-i-use)
@@ -3319,7 +3342,7 @@ Version 1.0 (28 October 2026) is the first release of this provisional working p
 
 ### D.7 Integration of the earlier 60-section presentation
 
-The earlier 60-section presentation is integrated by topic, not copied as a second framework. Identity and the signature principle sit in “HEE at a glance” and §§1–3; the six execution factors in §§2, 4–6, 9 and 11; definitions in §§4–5; the diagnostic vocabulary in §7; the components, OSF, 5R and the EES loop in §§11–12, with 3C in §8 as a context lens; measurement and research claims in Parts IV–V; and the signature questions and diagnostic card in §19 and Appendix E.
+The earlier 60-section presentation is integrated by topic, not copied as a second framework.
 
 **Terminology reconciliation.** The earlier presentation used “Decision Quality” more broadly. In this edition, interpret the earlier conversion-condition use as **Decision Process Quality**; reserve **Decision Quality** for the choice given its objective, context, information and uncertainty, and **Decision Outcome Quality** for realized consequences. **HEE** is the foundational capacity lens, **OEOS** the broader operating architecture, and **HEMS** its Human Energy and capability-management component (§11.1). The earlier “five diagnostic conditions” do not overwrite the seven; the five intervention verbs are a response set. Classification reliability and the taxonomy’s usefulness remain research questions, and the earlier one-way pathway and 3C contexts are conceptual aids, not proven causal laws.
 
