@@ -11,7 +11,7 @@
 
 [HEE profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
-Version 1.0 · 28 October 2026
+Version 1.0 · 31 October 2026
 
 **Jump to:** [Contents](#contents) · [Start here: 60 seconds](#start-here-60-seconds) · [Find by role](#find-by-role-h) · [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h) · [LICENSE](#license)
 
@@ -75,7 +75,7 @@ HEE is a provisional research and practice reference, not a validated diagnostic
 
 - It is not validated, and it has not been shown to beat existing approaches.
 - Human Energy is not a physiological measure, and the pathway Capability → Application → Execution → Value → Sustainable Growth is an orientation, not an established causal chain.
-- No route or response guarantees the desired result; HEE supports judgment and does not replace it.
+- No route or response guarantees the desired result; HEE supports judgment of context and does not replace it.
 - The author’s experience gives context, not validation.
 
 The full statement is in [What HEE does and does not claim](#what-hee-does-and-does-not-claim).
@@ -302,7 +302,7 @@ This is a conceptual pathway, not a guaranteed causal chain. Capability does not
 
 **Economic principles.** Value sustains today; Sustainable Growth builds tomorrow. Extraction depletes; cultivation compounds.
 
-**Compact summary [H].** One capacity lens informed by economic questions. Two economic assets in focus: Human Energy and Organizational Capacity. Six conditions of execution. Seven provisional diagnostic conditions. Five interventions. One signature question: **What prevents the capability we have from becoming execution—and what must change next?** Two management questions frame the decision: *Is today’s result being paid for with tomorrow’s capacity?* and *Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?* This is a memory aid, not a substitute for the definitions or diagnostic sequence. Earlier editions used five diagnostic conditions; the current architecture uses seven. Future-capacity coverage is classified as Covered, Fragile, Not covered, or Unknown—not as a score.
+**Compact summary [H].** One capacity lens informed by economic questions. Two economic assets in focus: Human Energy and Organizational Capacity. Six conditions of execution. Seven provisional diagnostic conditions. Five interventions. One signature question: **What prevents the capability we have from becoming execution—and what must change next?** Two management questions frame the decision: *Is today’s result being paid for with tomorrow’s capacity?* and *Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?* This is a memory aid, not a substitute for the definitions or diagnostic sequence. Future-capacity coverage is classified as Covered, Fragile, Not covered, or Unknown—not as a score.
 
 ### Question architecture: which question should I use?
 
@@ -3338,7 +3338,7 @@ The published book remains the authority for the canonical, reader-facing meanin
 
 ### D.6 Edition history
 
-Version 1.0 (28 October 2026) is the first release of this provisional working paper. This repository’s README.md is the primary reference document.
+Version 1.0 (31 October 2026) is the first release of this provisional working paper. This repository’s README.md is the primary reference document.
 
 ### D.7 Integration of the earlier 60-section presentation
 
