@@ -4,7 +4,9 @@
 
 *A capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value*
 
-> A research reference for Human Energy Economics: context shapes the question (a proposal, not yet tested); evidence should shape the diagnosis; and the diagnosis should shape the intervention.
+> A research reference for Human Energy Economics: context shapes the question; evidence should shape the diagnosis; and the diagnosis should shape the intervention.
+>
+> *Status: that context shapes the question is a design assertion pending a focused literature synthesis (P12), not an established result.*
 
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
