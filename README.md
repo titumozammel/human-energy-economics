@@ -50,7 +50,7 @@ This is the long reference, so you are not expected to read it end to end. This 
 
 | Your situation | Ask this first | What you will explore | Start here |
 | --- | --- | --- | --- |
-| "We hit the target, but the team is exhausted." | Was the capacity expenditure justified, and is next cycle covered? | Why a justified expenditure and a future-capacity shortfall are separate judgments | [Two Checks](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) |
+| "We hit the target, but the team is exhausted." | Was the capacity expenditure justified, and is next cycle covered? | Why a justified expenditure and a future-capacity shortfall are separate judgments | [Two Checks](#justified-spending-or-future-shortfall-one-page-card-hp) |
 | "Capable people are waiting for access, approval, or decisions." | Is capability missing, is its application blocked, or are both happening together? | How to tell development needs from enablement barriers, and what to do when both occur | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement#use-it-today) |
 | "The same reports, approvals, chasing, or rework keep returning." | What purpose does this work serve, and what keeps generating it? | Whether recurring demand should be kept, redesigned, or questioned | [Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework#use-it-today) |
 | "We fix the problem, and it returns." | Did the response change the condition that produces the problem? | How to investigate recurrence and check whether a change holds | [Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system#use-it-today) |
@@ -59,9 +59,9 @@ This is the long reference, so you are not expected to read it end to end. This 
 
 *This table is a summary. No table can list every situation, so these six are common starting points for inquiry, not diagnoses. Your situation may fit more than one row, or none exactly; if none fits, see “If no row fits” in the question map below.*
 
-**Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h).
+**Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](#three-rules-that-do-not-bend-h).
 
-Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) opens with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See [Question architecture](#question-architecture-which-question-should-i-use) or [Find by role](#find-by-role-h).
+Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) includes a one-page **Use it today** card, after its Reader’s guide: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See [Question architecture](#question-architecture-which-question-should-i-use) or [Find by role](#find-by-role-h).
 
 **What you will find is a better question about your own situation. The decision stays yours.**
 
@@ -103,7 +103,7 @@ HEE comes from the author’s life journey (see the author’s note at the end).
 
 1. **Start with the problem, not the solution.** Name one gap between what should happen and what does.
 2. **Ask the Two Checks.** *Justified?* Was the capacity expenditure warranted and proportionate to its purpose? *Covered?* Does credible expected usable capacity meet next cycle’s legitimate demand?
-3. **Examine what is limiting.** It may be drain (consumption without sufficient contribution or legitimate future value; consumption is not automatically drain), missing capability, blocked application, or several together. Look at the evidence for each before settling on one (see the [Vocabulary sheet](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h)).
+3. **Examine what is limiting.** It may be drain (consumption without sufficient contribution or legitimate future value; consumption is not automatically drain), missing capability, blocked application, or several together. Look at the evidence for each before settling on one (see the [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h)).
 4. **Choose a response the evidence supports.** Depending on what you find, that may be to protect or recover capacity, to develop, connect, or enable it, or to remove, reduce, replace, re-engineer, or retain recurring demand.
 5. **Check what held.** Look again next cycle.
 
@@ -191,7 +191,7 @@ A customer-support team meets most response targets after managers add overtime.
 
 ### Start here: 60 seconds
 
-*Tags show evidence status: [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.*
+*Tags show evidence status: [E] existing research, [A] adaptation of existing ideas, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.*
 
 **New to HEE? Take the “New to HEE” row and ignore the rest.** Otherwise pick the row that matches who you are or what you need, follow it, and ignore the other routes until you need them. You do not need to read it linearly. **Short on time?** Two minutes: [the practical approach](#the-practical-approach) and this section. Twenty minutes: add the owner brief or Field Triage, and [§9](#9-application-path).
 
@@ -2341,7 +2341,7 @@ Elements with their own repository link to it. The others are described in this 
 
 These proxies describe operating effects, not a person's energy. Do not use the audit for surveillance, individual performance rating, or medical inference.
 
-**HEEn's six enablement areas (its “pillars”).**
+**HEEn's six enablement pillars.**
 
 - *Resource Enablement*: access to the tools, information, time, staffing, technology, and other resources the work needs.
 - *Structural Enablement*: roles, responsibilities, processes, authority, and coordination.
@@ -2644,6 +2644,8 @@ This section records the status of HEE's claims. It does not add empirical suppo
 | [P] Proposed | HEE's own construct or relationship; not yet tested as an HEE claim. |
 | [H] Heuristic | A practitioner tool outside the testable model. |
 | [Illustrative] | An invented scenario or number used to teach a concept. It is not evidence, a benchmark, or a result, and it is separate from [H]. |
+
+**Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere. A Not recorded item is not zero; where the missing record prevents a defensible judgment, that judgment remains Unknown.
 
 The full list of what HEE does not claim is in §3. Business outcomes are also shaped by markets, competition, economics, finance, regulation, technology, industry structure, leadership, culture, customer behavior, external shocks, and institutional conditions.
 
@@ -3381,7 +3383,7 @@ Link to the most specific section that supports the claim or tool being reused. 
 | J | Sustainable Execution Capacity | §4; HEE at a glance |
 | K | Propositions and distinctions | §5; §15 |
 | N–S | OEOS, HEMS, HEA, HERF, HEDP, Capability Interconnection | §11 |
-| T | HEEn six enablement areas | §11.2 |
+| T | HEEn six enablement pillars | §11.2 |
 | V.2 | 3C | §8 |
 | W | 5R and its safeguards | §10; §11.2 |
 | X | EES | §11.2 |
