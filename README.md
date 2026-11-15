@@ -15,7 +15,7 @@
 
 Version 1.0 · 31 October 2026 (initial publication date)
 
-**Jump to:** [Reader’s guide](#readers-guide) · [Start with your context](#start-with-your-context-when-what-and-where) · [Find your situation](#find-your-situation) · [Contents](#contents) · [Start here: 60 seconds](#start-here-60-seconds) · [Find by role](#find-by-role-h) · [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h) · [LICENSE](#license)
+**Start here:** **[Start here: 60 seconds](#start-here-60-seconds)** is the front door. Then use [Find your situation](#find-your-situation) if you know what you face, or the [Reader’s guide](#readers-guide) for your role. The other sections, such as [Start with your context](#start-with-your-context-when-what-and-where), [Find by role](#find-by-role-h), the [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h), the [Contents](#contents), and the [LICENSE](#license), are reached from these.
 
 *Status: first release. HEE is a practice-driven management approach. It emerged from the author’s practical experience across Russia, Nigeria, and Bangladesh; these observations are not independently verified. Nothing here implies empirical validation.*
 
