@@ -21,7 +21,9 @@ Version 1.0 · 31 October 2026 (initial publication date)
 
 **Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
 
-HEE organizes how the author works in practice: how to understand situations, investigate and solve problems, plan, develop strategy, set priorities, make decisions, and review results. The author’s experience, knowledge, and wisdom are its foundation. HEE gives that practice a structure readers can recognize, examine, and adapt to their own context. It is practice-driven and practical. Readers are invited to recognize HEE’s questions and reasoning in the author’s practice cases in [HEE Case Studies](https://github.com/titumozammel/hee-case-studies), consider what fits their own context, and apply it with proportionate evidence and judgment. HEE draws on applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the Research notes state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
+HEE organizes how the author works in practice: how to understand situations, investigate and solve problems, plan, develop strategy, set priorities, make decisions, and review results. The author’s knowledge, experience, wisdom, and judgment, developed through years of practice, are its foundation. HEE gives that practice a structure readers can recognize, examine, and adapt to their own context. It is practice-driven and practical. Readers are invited to recognize HEE’s questions and reasoning in the author’s practice cases in [HEE Case Studies](https://github.com/titumozammel/hee-case-studies), consider what fits their own context, and apply it with proportionate evidence and judgment.
+
+HEE draws on applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the Research notes state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
 
 **Purpose.** HEE is a practice-driven approach. It is meant to help readers make sound decisions about what matters to the people affected. It asks for evidence that fits the stakes, and it keeps the reasoning open to review. The aim is consistent, successful execution with sustainable growth. You are invited to bring your own questions, described by their Time, Object, and Location, and to judge for yourself whether HEE helps.
 
@@ -50,7 +52,7 @@ This is the long reference, so you are not expected to read it end to end. This 
 
 ## How to read the status of HEE
 
-- **Where HEE comes from:** HEE is practice-driven. It organizes the author’s experience, knowledge, and wisdom into practical questions and approaches for examining situations, choosing actions, and reviewing results.
+- **Where HEE comes from:** HEE grew out of the author’s knowledge, experience, wisdom, and judgment, developed through years of practice. It organizes that practice into structured questions and methods that help leaders and practitioners examine their context, protect capacity, and make evidence-informed decisions they can explain and review.
 - **What comes from the author’s practice:** the case results are author-reported and have not been independently verified.
 - **What the labels mean:** [H] marks a practice heuristic, a rule of thumb from practice. [Illustrative] marks an invented example, not reported evidence. [P] marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none.
 - **To examine or test HEE:** the optional [Research notes](RESEARCH_NOTES.md) set out the proposed claims, how they could be tested, and what would narrow or retire them.
@@ -63,6 +65,12 @@ This is the long reference, so you are not expected to read it end to end. This 
 *Time* is when: the timing, how often, how long, the cycle, and the window for the decision. *Object* identifies the concerns that materially matter to this inquiry: those that could reasonably change the decision, the usable capacity, or a consequential result for those affected. Many concerns may be present (a process, a drain, people, a role, an objective, a vision, a mission, a goal). Write down which ones you set aside, and why. *Location* is where: the physical setting, the culture, the conditions, and related factors.
 
 In the author’s practice, context guides the focus and shapes the questions. Evidence can support the diagnosis (**Diagnose**), reduce decision-relevant uncertainty before a decision (**Establish**), or check practice against a standard (**Verify**). What the evidence shows informs the action. The [Decision Point](#the-decision-point-hp) supports review before commitment and after outcomes emerge. Write one line each for Time, Object, and Location, and compare them with those of any case you read before applying its lessons. HEE applies where the Object affects capacity, demand, application, or execution. This frame is a guide, not a required sequence, and others have not yet tested it. That context shapes the question remains a design assertion. It is not tested in this edition: P12 is indefinitely deferred until a literature synthesis has an owner, resources, and a review date. The [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) is used inside this frame: its three contexts (Source, Dependency, Constraint) are lenses for looking at a condition, and they are distinct from the frame.
+
+![Roadmap. Start with your objective: what result matters? Results fall short or cannot be sustained. Examine the context. Then look at four areas: Capability, can we do it; Capacity, do we have enough usable capacity; Enablement, can capability be applied; Connection, can capabilities work together. Gather evidence on what needs attention. Choose a response: change, retain, investigate or pause. Review whether the result was achieved and the next cycle is covered. Learn and reassess, then return to the context.](hee-roadmap.png)
+
+*A starting map for inquiry, not a complete diagnosis. The four areas provide a first look; the [broader six-condition examination](#six-conditions-of-execution) also includes Demand and Decision Process Quality. Evidence may identify other conditions.*
+
+*Follow the route shown or begin at the box relevant to your situation. Apply the Two Checks when choosing a response and at review. The dashed line returns learning to context; the Core’s [six practitioner moves](#the-six-practitioner-moves-h) provide the full process.*
 
 *A useful next step: find your situation below.*
 
@@ -159,7 +167,7 @@ HEE is a practice-driven approach that works alongside existing management ideas
 
 **Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. The result of any management approach, including HEE, depends on the context. *Context* here means the Time, Object, and Location frame described in [Start with your context](#start-with-your-context-when-what-and-where). HEE therefore does not prescribe one uniform flow for every case.
 
-Choose and combine its proposed investigation routes according to the question: **Diagnose** to investigate possible causes, **Establish** to gather evidence needed for a defensible determination, and **Verify** to check practice against a stated standard. These routes are not compulsory sequential stages. Reconsider the route as evidence or conditions change.
+Choose and combine its investigation routes according to the question: **Diagnose** to investigate possible causes, **Establish** to gather evidence needed for a defensible determination, and **Verify** to check practice against a stated standard. These routes are not compulsory sequential stages. Reconsider the route as evidence or conditions change.
 
 The aim is a better-supported decision about how to pursue the goal, and the outcome depends on context. Whether HEE improves decisions remains open to testing, and the claim that context shapes the route is a proposal that has not yet been tested.
 
@@ -181,7 +189,7 @@ flowchart LR
     E -. "next cycle" .-> A
 ```
 
-Apply the two checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask: **Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?**
+Apply the two checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask: **Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?**
 
 ### 4. How should I use HEE?
 
@@ -353,7 +361,7 @@ Capacity being spent is not, by itself, a drain or a shortfall. Use two separate
 
 **Two checks.**
 
-1. **Justified?** Was the capacity spent for a stated purpose, in proportion to it? If the answer is “partly,” split the justified part from the excess before classifying.
+1. **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? If the answer is “partly,” split the justified part from the excess before classifying.
 2. **Covered?** Does credible expected usable capacity meet next-cycle legitimate demand across plausible scenarios, with required capability and access? If the forecast depends on renewal, is that renewal feasible, timely, resourced and owned?
 
 Evidence applies to both checks: name what supports the classification and what would disconfirm it. For a consequential case, someone who does not own the result checks both judgments.
@@ -371,10 +379,10 @@ Evidence applies to both checks: name what supports the classification and what 
 
 **Quick path: four questions.** *Use the full matrix in §6a for the reading and the default move.*
 
-1. **Purpose and proportion.** Was the capacity spent for a stated purpose, in proportion to it? If partly, split first. If you cannot tell, record justification as Unknown, identify the missing evidence, its owner, and a decide-by date. Assess coverage separately; unknown justification does not establish a capacity shortfall. If material uncertainty remains at the deadline, use a precaution proportionate to the decision and escalate if necessary.
+1. **Purpose and proportion.** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? If partly, split first. If you cannot tell, record justification as Unknown, identify the missing evidence, its owner, and a decide-by date. Assess coverage separately; unknown justification does not establish a capacity shortfall. If material uncertainty remains at the deadline, use a precaution proportionate to the decision and escalate if necessary.
 2. **Base-case coverage.** Does credible expected usable capacity meet base-case legitimate demand, with required capability and access? If a needed renewal is not credible, exclude it from the forecast. If the adjusted forecast has a material gap, coverage is **Not covered**; if evidence is insufficient to judge it, use **Unknown**.
 3. **Downside scenario.** If yes to question 2, does a plausible low or high scenario open a material gap? If so, coverage is **Fragile**; if not, **Covered**.
-4. **Read the cell.** Justified and Covered: justified expenditure. Justified and Not covered: justified spending with a candidate future shortfall. Not or partly justified and Covered: a drain candidate, not an emergency. Not or partly justified and Not covered: high priority. Fragile uses the matching Fragile rows in §6a.
+4. **Read the cell.** Justified and Covered: justified expenditure. Justified and Not covered: justified spending with a candidate future shortfall. Not or partly justified and Covered: a drain candidate; coverage alone does not determine urgency. Check other risks and safeguards. Not or partly justified and Not covered: high priority. Fragile uses the matching Fragile rows in §6a.
 
 ### Worked capacity comparison for an owner [Illustrative]
 
@@ -399,7 +407,7 @@ Adapt the words to the learner's age and context; a younger student may answer t
 HEE has **two canonical management questions**. They are the governing pair for management use, not a list of interchangeable slogans:
 
 1. **Accountability:** Is today’s result being paid for with tomorrow’s capacity?
-2. **Next decision:** Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?
+2. **Next decision:** Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?
 
 The **signature diagnostic question** translates that pair into an inquiry about execution:
 
@@ -444,7 +452,7 @@ This is a proposed pathway, not an established causal chain. Capability does not
 
 **Economic principles.** Value sustains today; Sustainable Growth builds tomorrow. Extraction depletes; cultivation compounds.
 
-**Compact summary.** One capacity lens informed by economic questions. Two economic assets in focus: Human Energy and Organizational Capacity. Six Conditions of Execution. Seven diagnostic conditions. Five interventions. One signature question: **What prevents the capability we have from becoming execution—and what must change next?** Two management questions frame the decision: *Is today’s result being paid for with tomorrow’s capacity?* and *Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?* This is a memory aid, not a substitute for the definitions or diagnostic sequence. Future-capacity coverage is classified as Covered, Fragile, Not covered, or Unknown—not as a score.
+**Compact summary.** One capacity lens informed by economic questions. Two economic assets in focus: Human Energy and Organizational Capacity. Six Conditions of Execution. Seven diagnostic conditions. Five interventions. One signature question: **What prevents the capability we have from becoming execution—and what must change next?** Two management questions frame the decision: *Is today’s result being paid for with tomorrow’s capacity?* and *Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?* This is a memory aid, not a substitute for the definitions or diagnostic sequence. Future-capacity coverage is classified as Covered, Fragile, Not covered, or Unknown—not as a score.
 
 ### Question architecture: which question should I use?
 
@@ -475,7 +483,7 @@ Every HEE question has one job. Find yours, read the function, and follow the **
 | --- | --- | --- | --- | --- | --- |
 | **A** | **Management questions** | | | | |
 | **A1** | Is today’s result being paid for with tomorrow’s capacity? | Management accountability: examine current results and future capacity together | Owner / executive | [The owner brief](#the-owner-brief-decision-guide-h); [§6a](#6a-justified-capacity-expenditure-versus-future-capacity-shortfall); [§16.4](#164-measurement-and-capacity-conversion-companions) | Whether to investigate, pause, protect, or fund a response |
-| **A2** | Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity? | Link the next change to its likely capacity consequence | Owner with practitioner | [The practical approach](#the-practical-approach); [§9](#9-application-path); [§10](#10-the-five-interventions) | Which bounded intervention to test, and how to protect its consequences |
+| **A2** | Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity? | Link the next change to its likely capacity consequence | Owner with practitioner | [The practical approach](#the-practical-approach); [§9](#9-application-path); [§10](#10-the-five-interventions) | Which bounded intervention to test, and how to protect its consequences |
 | **A3** | Should I act, pause, or fund—and how fast? | Match the decision to its stakes, reversibility, and available evidence | Owner / executive / manager | [Deciding faster and better](#deciding-faster-and-better); [the owner brief](#the-owner-brief-decision-guide-h) | Decide now, take one time-boxed evidence step, or hold |
 | **A4** | Did this cycle strengthen or weaken the next? | Evaluate sustainability across cycles | Owner / researcher | [§4](#4-core-definitions) (Sustainable Execution Capacity); [§16.1](RESEARCH_NOTES.md#161-candidate-indicators); [§16.4](#164-measurement-and-capacity-conversion-companions) | Retain, adapt, reverse, or investigate further |
 | **A5** | How often should I review, and what triggers an extra review? | Keep the recurring routine light but not absent | Owner / executive | [Minimum review rhythm](#minimum-review-rhythm-h); [§6a](#6a-justified-capacity-expenditure-versus-future-capacity-shortfall) | Keep, shrink, or escalate the review routine |
@@ -673,7 +681,7 @@ The central discipline is straightforward: distinguish capability, capacity, app
 
 An owner is accountable for results and for the resources that produce them. HEE offers that role its central management question: *Is today's result being paid for with tomorrow's capacity?* Output, profit, and activity can all rise while the organization's ability to repeat them quietly falls. HEE is designed to make that trade visible before it becomes a loss.
 
-The second question turns the diagnosis into a decision: *Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?* The aim is not to protect capacity at the expense of all current performance, but to see how current results and future capacity relate before committing resources.
+The second question turns the diagnosis into a decision: *Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?* The aim is not to protect capacity at the expense of all current performance, but to see how current results and future capacity relate before committing resources.
 
 <a id="the-owner-brief-decision-guide-h"></a>
 
@@ -691,7 +699,7 @@ For a filled example, see [one case from question to review](#one-case-from-ques
 
 **Accountability question:** Is today’s result being paid for with tomorrow’s capacity?
 
-**Decision question:** Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?
+**Decision question:** Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?
 
 **Plain-language note on capacity.** HEE keeps four things apart because each fails for a different reason: *Capacity* (the time, attention, and energy available), *Capability* (the skills to do the work), *Enablement* (the access, authority, and information needed to reach the work), and *Application* (actually putting them to work). Spare hours do not solve a missing skill, and skill does not solve a lack of access or authority.
 
@@ -1355,7 +1363,7 @@ The time-boxed variant of the one-page card and the owner view: one screen for a
 | 1. Tier it | Tier 1, low stakes and easily reversed: decide in the same sitting. Tier 2, moderate or partly reversible: add an independent second-person check, within about a week. Tier 3, high stakes, hard to undo, or touching safety or law: agree a decide-by date with the owner, get specialist input, stage the rollout. Time boxes are starting defaults, not validated thresholds. |
 | 2. Run the decision-ready test | Gap named with baseline and period; one piece of evidence independent of the outcome; one alternative explanation; safeguards and a stop rule written before the pilot; a review date and a destination for any released capacity. If one is missing, name it, say who gets it and by when, then stop gathering. |
 | 3. If evidence is mixed | Reversible step: run the smallest bounded test with a stop rule. Hard to undo, or touches safety or law: hold, investigate, bring in specialist input. Cause looks external or incentive-driven: use the relevant other lens. |
-| 4. Capacity reading | Justified and covered: proceed and schedule a renewal check. Justified but next cycle not covered: proceed only with a named renewal owner, slot, and resource, otherwise reduce next-cycle commitments. Candidate future shortfall: protect and secure renewal first, then diagnose. |
+| 4. Capacity conclusion | Justified and covered: proceed and schedule a renewal check. Justified but next cycle not covered: proceed only with a named renewal owner, slot, and resource, otherwise reduce next-cycle commitments. Candidate future shortfall: protect and secure renewal first, then diagnose. |
 | 5. Stop rule | Write the thresholds before the pilot, not after seeing results. Retain if the pre-named outcome improves and capacity protection holds. Adapt if the outcome improves but protection or a safeguard does not. Reverse if a necessary control or quality or safety outcome is harmed. Investigate further only if the next check could change the decision. |
 | 6. If the window is shorter than the time box | Decide a reversible slice now, schedule the rest at its proper tier, and never trade away a safeguard or the stop rule for speed. |
 
@@ -1405,9 +1413,9 @@ Ask: *What result would change what we do?* If no result would, decide. If a par
 | --- | --- |
 | Evidence is mixed and the step is reversible | Run the smallest bounded test, with a stop rule |
 | Evidence is mixed and the step is hard to undo, or touches safety or law | Hold; investigate; bring in specialist input |
-| Capacity reading: justified and covered | Proceed; schedule a renewal check; do not treat the spending as drain |
-| Capacity reading: justified but the next cycle is not covered | Proceed only with a named renewal owner, slot, and resource; otherwise reduce next-cycle commitments |
-| Capacity reading: candidate future-capacity shortfall | Protect and secure renewal first; then diagnose the cause through the first pass |
+| Capacity conclusion: justified and covered | Proceed; schedule a renewal check; do not treat the spending as drain |
+| Capacity conclusion: justified but the next cycle is not covered | Secure feasible, timely capacity or adjust commitments, then reassess coverage before proceeding |
+| Capacity conclusion: candidate future-capacity shortfall | Protect and secure renewal first; then diagnose the cause through the first pass |
 | The cause looks external or incentive-driven | Use the relevant other lens; do not relabel the case as drain |
 
 <a id="5-traps-to-check-before-committing-h"></a>
@@ -1591,7 +1599,7 @@ HEE therefore treats context-sensitive inquiry as the step before method selecti
 
 The signature question is HEE's action-oriented formulation. Keep it verbatim when identifying the framework. Its companion form, used when the evidence points to a boundary rather than a missing condition, is: **What limits the capability we have from becoming execution—and what must change next?**
 
-**Management-level companion.** The signature question is the diagnostic form. Its management-level framing is the pair of questions in “HEE at a glance”: *Is today’s result being paid for with tomorrow’s capacity?* and *Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?* The first diagnoses a possible capacity cost; the second directs a decision and tests its likely effect on the next cycle.
+**Management-level companion.** The signature question is the diagnostic form. Its management-level framing is the pair of questions in “HEE at a glance”: *Is today’s result being paid for with tomorrow’s capacity?* and *Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?* The first diagnoses a possible capacity cost; the second directs a decision and tests its likely effect on the next cycle.
 
 The signature question assumes that capability exists. The first pass (§7.1) checks that assumption; when capability turns out to be the gap, the question becomes what must be developed (see Worked Case B in the owner section).
 
@@ -2761,9 +2769,9 @@ These are guiding principles and metaphors. The testable content appears in the 
 **Md. Mozammel Hoque**
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-HEE organizes the author’s experience, knowledge, and wisdom into practical questions and approaches for examining situations, choosing actions, and reviewing results. It emerged from an inquiry into a recurring problem: why organizations can possess capable people, resources, systems, and knowledge yet still struggle to execute consistently and sustainably. It developed through the author's practical experience across Russia, Nigeria, and Bangladesh, by addressing organizational problems, experimenting with interventions, and observing recurring patterns. These observations provide context for its development; they do not constitute independent validation. HEL is incorporated within HEE as a systemic orientation. HEE is offered as an evolving contribution to management thinking, for critical examination, refinement, and empirical testing.
+HEE grew out of the author’s knowledge, experience, wisdom, and judgment, developed through years of practice. It organizes that practice into structured questions and methods that help leaders and practitioners examine their context, protect capacity, and make evidence-informed decisions they can explain and review. It emerged from an inquiry into a recurring problem: why organizations can possess capable people, resources, systems, and knowledge yet still struggle to execute consistently and sustainably. It developed through the author's practical experience across Russia, Nigeria, and Bangladesh, by addressing organizational problems, experimenting with interventions, and observing recurring patterns. These observations provide context for its development; they do not constitute independent validation. HEL is incorporated within HEE as a systemic orientation. HEE is offered as a practice-driven management approach open to examination and testing.
 
-HEE is based on the author’s experience, knowledge, and wisdom. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first. Similar symptoms do not automatically justify the same solution, so each problem is examined for its objectives, evidence, dependencies, constraints, and consequences.
+HEE is based on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first. Similar symptoms do not automatically justify the same solution, so each problem is examined for its objectives, evidence, dependencies, constraints, and consequences.
 
 **Author position and disclosure.** The author serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a professional interest in how HEE is received. Practice observations from AKG come from the author's own work there. Two further cases come from RR Transport and Bismillah Transport, transport companies where the author served as acting CEO. Readers should weigh them as author-reported practice evidence, not as independent assessment. In this README, the worked cases are illustrative practice heuristics, not a report of an analyzed AKG dataset or an independently verified case series. No case count, sampling frame, outcome estimate, or validation result is claimed here. Any future use of AKG records as research evidence requires the provenance, inclusion rules, data quality, anonymization, and access safeguards listed in §18.1. No case in HEE Case Studies is used as evidence for any proposition in §15 in this edition.
 
@@ -3010,7 +3018,7 @@ Its intended contribution is their integration around two fundamental points—V
 
 **How can organizations convert potential into valuable application and sustained execution while protecting and renewing the capacity required to create value across the six capitals in future cycles?**
 
-**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my experience, knowledge, and wisdom as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ---
 
