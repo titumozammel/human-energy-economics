@@ -82,7 +82,7 @@ Ask the question beside the sentence that sounds like your week, and open the on
 | "Capable people are waiting for access, approval, or decisions." | Is capability missing, is its application blocked, or are both happening together? | How to tell development needs from enablement barriers, and what to do when both occur | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement#use-it-today) |
 | "The same reports, approvals, chasing, or rework keep returning." | What purpose does this work serve, and what keeps generating it? | Whether recurring demand should be kept, redesigned, or questioned | [Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework#use-it-today) |
 | "We fix the problem, and it returns." | Did the response change the condition that produces the problem? | How to investigate recurrence and check whether a change holds | [Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system#use-it-today) |
-| "Several things seem wrong. We do not know where to begin." | What creates the problem, what depends on it, and what limits action? | How to frame an inquiry before choosing an intervention | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach#use-it-today) |
+| "Several things seem wrong. We do not know where to begin." | What creates the problem, what does action depend on, and what limits action? | How to frame an inquiry before choosing an intervention | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach#use-it-today) |
 | "We want to simplify something, but it may serve an important purpose." | What would changing it protect, improve, or put at risk? | How to weigh keeping, reducing, replacing, redesigning, or removing it | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework#use-it-today) (Remove · Reduce · Replace · Re-engineer · Retain) |
 
 *This table is a summary. No table can list every situation, so these six are common starting points for inquiry, not diagnoses. Your situation may fit more than one row, or none exactly; if none fits, see “If no row fits” in the question map below.*
@@ -960,7 +960,7 @@ Use plain language first; look a name up only when the case needs it. Owners and
 | Name | Plain-language meaning | Use it when… | Read |
 | --- | --- | --- | --- |
 | HEE | Human Energy Economics | You need the overall capacity-to-execution lens. | Essential |
-| 3C | Source, Dependency, Constraint | You need to frame where the condition comes from, what depends on it, or what limits action. | Essential |
+| 3C | Source, Dependency, Constraint | You need to frame where the condition comes from, what action depends on, or what limits action. | Essential |
 | 5R | Remove, Reduce, Replace, Re-engineer, Retain | You need to test whether recurring work is necessary and how it could change. | Essential |
 | HEL | Human Energy Liberation | A recurring restriction may be more burdensome than the purpose it serves. | Essential |
 | SEC | Sustainable Execution Capacity | You need to ask whether execution can be repeated without degrading the next cycle. | Essential |
