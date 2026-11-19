@@ -4,10 +4,6 @@
 
 *A capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value*
 
-> A practical guide to Human Energy Economics: context guides the focus and shapes the question; evidence can support the diagnosis (Diagnose), reduce decision-relevant uncertainty (Establish), or check practice against a standard (Verify); what it shows informs the intervention; and the Decision Point supports review before commitment and after outcomes emerge.
->
-> *Status: HEE is practice-driven. That context shapes the question is a design assertion that has not been tested. Researchers who want to examine or test HEE can use the [Research notes](RESEARCH_NOTES.md).*
-
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
@@ -15,15 +11,13 @@
 
 Version 1.0 · 31 October 2026 (initial publication date)
 
-**Start here:** **[Start here: 60 seconds](#start-here-60-seconds)** is the front door. Then use [Find your situation](#find-your-situation) if you know what you face, or the [Reader’s guide](#readers-guide) for your role. The other sections, such as [Start with your context](#start-with-your-context-when-what-and-where), [Find by role](#find-by-role-h), the [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h), the [Contents](#contents), and the [LICENSE](#license), are reached from these.
+**In 60 seconds.** Your results show what you achieved. They do not show whether you still have the capacity to achieve it again. HEE gives you two separate checks for decisions affecting capacity. **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? **Covered?** Can the usable capacity you can count on meet next cycle’s real demand? The same extra hours can pass one check and fail the other. → [Justified spending or future shortfall](#justified-spending-or-future-shortfall-one-page-card-hp)
 
-*Status: first release. HEE is a practice-driven management approach. It emerged from the author’s practical experience across Russia, Nigeria, and Bangladesh; these observations are not independently verified. Nothing here implies empirical validation.*
+> **Status.** HEE comes from the author’s practice. Examples marked [Illustrative] are invented. Author-reported results have not been independently verified. Try it in your context, and tell the author what you find.
 
-**Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
+**Start here:** **[Start here: 60 seconds](#start-here-60-seconds)** is the front door. Then use [Find your situation](#find-your-situation) if you know what you face, or the [Reader’s guide](#readers-guide) for your role. The other sections, such as [How to read the status of HEE](#how-to-read-the-status-of-hee), [Start with your context](#start-with-your-context-when-what-and-where), [Find by role](#find-by-role-h), the [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h), the [Contents](#contents), and the [LICENSE](#license), are reached from these.
 
-HEE organizes how the author works in practice: how to understand situations, investigate and solve problems, plan, develop strategy, set priorities, make decisions, and review results. The author’s knowledge, experience, wisdom, and judgment, developed through years of practice, are its foundation. HEE gives that practice a structure readers can recognize, examine, and adapt to their own context. It is practice-driven and practical. Readers are invited to recognize HEE’s questions and reasoning in the author’s practice cases in [HEE Case Studies](https://github.com/titumozammel/hee-case-studies), consider what fits their own context, and apply it with proportionate evidence and judgment.
-
-HEE draws on applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the Research notes state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
+**An approach supported by checklists.** HEE begins with context: what materially matters, which questions need examination, and what evidence would inform the decision. Similar situations can have different causes and consequences. An approach guides inquiry and the choice of response; a checklist helps avoid specified omissions, maintain consistency and record evidence. HEE uses checklists to support judgment. Completing them does not establish that the situation is understood or the response is appropriate. Adapt the inquiry while preserving applicable requirements and necessary safeguards. The Two Checks are separate judgments, each requiring evidence.
 
 **Purpose.** HEE is a practice-driven approach. It is meant to help readers make sound decisions about what matters to the people affected. It asks for evidence that fits the stakes, and it keeps the reasoning open to review. The aim is consistent, successful execution with sustainable growth. You are invited to bring your own questions, described by their Time, Object, and Location, and to judge for yourself whether HEE helps.
 
@@ -42,7 +36,7 @@ This is the long reference, so you are not expected to read it end to end. This 
 | **Educators, students, and individual learners** | The Two Checks asked about study time, a project, or a class, in plain words | [Start here: 60 seconds](#start-here-60-seconds), [Two Checks for school and individual learning [Illustrative]](#two-checks-for-school-and-individual-learning-illustrative). Then skim: [New to HEE? Start here](#new-to-hee-start-here). You can skip the board, role-card, audit, and research sections unless you need them | Answer the two questions about your next week of study | 10 min |
 | **New to HEE** | A 60-second orientation and the vocabulary sheet | [Start here: 60 seconds](#start-here-60-seconds), [New to HEE? Start here](#new-to-hee-start-here). Then skim: [HEE at a glance](#hee-at-a-glance) | Read the first two, then pick the row of Find your situation that sounds like your week | 10 min |
 
-*Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
+*Times are suggestions, not measurements. The first useful step is a suggestion; the decision stays yours.*
 
 **First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](#start-with-your-context-when-what-and-where)), then use the role row that fits.
 
@@ -95,7 +89,7 @@ Ask the question beside the sentence that sounds like your week, and open the on
 
 **Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h).
 
-Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) opens with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See [Question architecture](#question-architecture-which-question-should-i-use) or [Find by role](#find-by-role-h).
+Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) opens with a short **Use it today** section: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See [Question architecture](#question-architecture-which-question-should-i-use) or [Find by role](#find-by-role-h).
 
 **What you will find is a better question about your own situation. The decision stays yours.**
 
@@ -119,7 +113,7 @@ Human Energy Economics (HEE) is a way to look at the capacity of a team or an or
 
 HEE proposes one connected way to move from an observed performance question to a reviewable decision: question → method → evidence → decision → follow-up. Readers choose a route: **diagnose** why a problem is occurring, **establish** the evidence still missing, or **verify** practice against a stated criterion ([the three branches](#investigate-three-branches-h)).
 
-Three distinctions run through that inquiry. It asks what **limits or blocks** capability from becoming effective execution. It separates whether capacity was spent for a justified purpose from whether enough capacity will be available next cycle ([the two checks](#justified-spending-or-future-shortfall-one-page-card-hp)). And it treats employee experience, customer experience, and Sustainable Growth as connected evidence to examine, not an assumed causal chain ([the EX and CX evidence map](#employee-experience-customer-experience-and-sustainable-growth-p)).
+Three distinctions run through that inquiry. It asks what **limits or blocks** capability from becoming effective execution. It separates whether capacity was spent for a justified purpose from whether enough capacity will be available next cycle ([the Two Checks](#justified-spending-or-future-shortfall-one-page-card-hp)). And it treats employee experience, customer experience, and Sustainable Growth as connected evidence to examine, not an assumed causal chain ([the EX and CX evidence map](#employee-experience-customer-experience-and-sustainable-growth-p)).
 
 HEE is intended to help owners make clearer, better-supported decisions and understand their consequences; give practitioners a route from an observed problem to a defensible intervention; give academics and researchers propositions to compare and test; and give reviewers an evidence trail they can re-perform.
 
@@ -138,7 +132,7 @@ HEE comes from the author’s life journey (see the author’s note at the end).
 ### How HEE helps you work through an execution problem
 
 1. **Start with the problem, not the solution.** Name one gap between what should happen and what does.
-2. **Ask the Two Checks.** *Justified?* Was the capacity expenditure warranted and proportionate to its purpose? *Covered?* Does credible expected usable capacity meet next cycle’s legitimate demand?
+2. **Ask the Two Checks.** *Justified?* Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? *Covered?* Can credible expected usable capacity meet legitimate next-cycle demand?
 3. **Examine what is limiting.** It may be drain (consumption without sufficient contribution or legitimate future value; consumption is not automatically drain), missing capability, blocked application, or several together. Look at the evidence for each before settling on one (see the [Vocabulary sheet](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h)).
 4. **Choose a response the evidence supports.** Depending on what you find, that may be to protect or recover capacity, to develop, connect, or enable it, or to remove, reduce, replace, re-engineer, or retain recurring demand.
 5. **Check what held.** Look again next cycle.
@@ -189,7 +183,7 @@ flowchart LR
     E -. "next cycle" .-> A
 ```
 
-Apply the two checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask: **Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?**
+Apply the Two Checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask: **Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?**
 
 ### 4. How should I use HEE?
 
@@ -217,7 +211,7 @@ HEE rests on two fundamental points:
 
 Full definitions are in §4 and §4.1.
 
-**Evidence status of the economic framing.** HEE is a capacity lens informed by economic questions, not a formal economic model. The claim that this framing adds explanatory value rests on one listed candidate prediction (P13); if it fails, retain the economic questions only where useful and claim no demonstrated explanatory advantage.
+**Evidence status of the economic framing.** HEE is a capacity lens (a way of looking at capacity) informed by economic questions, not a formal economic model. The claim that this framing adds explanatory value rests on one listed candidate prediction (P13); if it fails, retain the economic questions only where useful and claim no demonstrated explanatory advantage.
 
 **Registration terminology.** Proposition identifiers such as P13 identify proposals here; they do not establish public preregistration. A study is preregistered only when its protocol is deposited with a named registry, with a date and accessible record.
 
@@ -249,7 +243,7 @@ For additional entry points, use [Find by role](#find-by-role-h), the [question 
 You do not need to learn the full vocabulary or read the reference in order. This short route is for anyone encountering HEE for the first time.
 
 1. Read [the central management question](#hees-central-management-question) and the [opening case](#an-opening-case-a-result-and-its-hidden-question-illustrative). What result is being achieved, and what might the next cycle require?
-2. Learn the four distinctions below. Then read the [two checks](#justified-spending-or-future-shortfall-one-page-card-hp).
+2. Learn the four distinctions below. Then read the [Two Checks](#justified-spending-or-future-shortfall-one-page-card-hp).
 3. Follow [one case from question to review](#one-case-from-question-to-review-illustrative). Notice where the team changes its question, gathers evidence, chooses an action and checks the outcome.
 4. Try the practice exercise below, then compare your answer with the explanation.
 5. Choose your next route: [owner](#the-owner-brief-decision-guide-h), [practitioner](#practitioner-field-guide), [academic or researcher](RESEARCH_NOTES.md#research-front-page-two-page-orientation-p), or [diagnosis and audit](#diagnosis-and-audit-route-h). For definitions, use the [glossary](#glossary-vocabulary).
@@ -339,7 +333,7 @@ Stage 2 uses the [three investigation branches](#investigate-three-branches-h): 
 
 ### Justified spending or future shortfall: one-page card
 
-> **In short.** Two separate questions. **Justified?** Was the capacity expenditure warranted and proportionate to its purpose? **Covered?** Does credible expected usable capacity meet the next cycle’s legitimate demand? A justified expenditure can still leave the next cycle not covered, so one check cannot stand in for the other.
+> **In short.** Two separate questions. **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand? A justified expenditure can still leave the next cycle not covered, so one check cannot stand in for the other.
 >
 > - **Reviewing a completed cycle:** assess the actual expenditure and whether it was justified.
 > - **Planning the next cycle:** compare credible expected usable capacity with legitimate demand.
@@ -375,7 +369,7 @@ Evidence applies to both checks: name what supports the classification and what 
 | **Not covered** | The base scenario has a material gap, or a required capability or access condition is not expected | Name a renewal owner, slot, resources, and deadline, or reduce next-cycle commitments |
 | **Unknown** | Evidence is too weak for a defensible comparison | Name the evidence that would decide, who gets it, and a decide-by date. If that date passes without decisive evidence, retain Unknown as the evidence state and act as if it were Not covered for this decision, reduce commitments, or escalate to the owner who can create a feasible contingency. |
 
-**Reading the two checks together.** Justified and Covered: justified expenditure. Justified and Not covered: justified spending with a candidate future shortfall (the “paid for with tomorrow’s capacity” case). Not or partly justified and Covered: a drain candidate, not a capacity emergency. Not or partly justified and Not covered: high priority. Candidate labels are provisional.
+**Reading the Two Checks together.** Justified and Covered: justified expenditure. Justified and Not covered: justified spending with a candidate future shortfall (the “paid for with tomorrow’s capacity” case). Not or partly justified and Covered: a drain candidate; coverage alone does not determine urgency. Check other risks and safeguards. Not or partly justified and Not covered: high priority. Candidate labels are provisional.
 
 **Quick path: four questions.** *Use the full matrix in §6a for the reading and the default move.*
 
@@ -466,7 +460,7 @@ This is a proposed pathway, not an established causal chain. Capability does not
 | Capable people, missed targets | C1, C7 | [Field Triage](#field-triage-one-page-h), then the [first pass](#71-the-first-pass) | A one-page triage and a first pass that separates candidate explanations |
 | A rule, approval, or report keeps recurring | C5, D10 | The [necessity test](#12-human-energy-liberation) | A test of whether the rule is necessary before it is changed |
 | Tools, programs, or training keep being added and little changes | C6, D2, D5, D9 | [Field Triage](#field-triage-one-page-h) | A one-page triage of what is limiting execution |
-| A busy period: is it a peak, an erosion, or an investment? | B2, B3, B4 | The [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp) | How to read a busy period with the two checks |
+| A busy period: is it a peak, an erosion, or an investment? | B2, B3, B4 | The [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp) | How to read a busy period with the Two Checks |
 | I am overloaded and cannot keep up | D7, D1 | [Role answer cards](#role-answer-cards-h) | Role answer cards with function-specific questions |
 | Orders, targets, or commitments exceed what we can deliver | D11, D3, B3 | [Role answer cards](#role-answer-cards-h), then the card | Role answer cards, then the capacity card for coverage |
 | Maintenance, renewal, or supplier problems are piling up | D12, D13 | [Role answer cards](#role-answer-cards-h) | Role answer cards for maintenance, renewal, and supplier questions |
@@ -714,7 +708,7 @@ For a filled example, see [one case from question to review](#one-case-from-ques
 
 **Evidence behind the answer.** Before classifying, write down four things: the baseline for the result, the demand forecast for the next cycle, the renewal commitment (who, by when, with what), and the materiality threshold that makes a gap matter. The one-page card’s Evidence row lists the rest. If employee and customer experience point in different directions, see the [EX and CX matrix](#employee-experience-customer-experience-and-sustainable-growth-p).
 
-**Justified spending or future shortfall?** Spending alone proves neither a drain nor a shortfall. **Covered** requires credible expected usable capacity sufficient for legitimate demand across plausible scenarios, with required capability and access. If the forecast depends on renewal, that renewal must be feasible and credible; a first-time recovery is an uncertainty to assess, not an automatic state. Use the [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp): two checks (justified? covered?), four coverage states, and a four-question quick path. Full method: §6a.
+**Justified spending or future shortfall?** Spending alone proves neither a drain nor a shortfall. **Covered** requires credible expected usable capacity sufficient for legitimate demand across plausible scenarios, with required capability and access. If the forecast depends on renewal, that renewal must be feasible and credible; a first-time recovery is an uncertainty to assess, not an automatic state. Use the [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp): Two Checks (justified? covered?), four coverage states, and a four-question quick path. Full method: §6a.
 
 **Boundary rule for external and incentive causes.** If the cause is external (for example, a market change, tariff, or supply disruption) or incentive-driven, HEE is not the primary lens. Use the relevant specialist or incentive-design lens, record the case, and use HEE only for the internal conditions that remain actionable.
 
@@ -987,7 +981,7 @@ This constructed case shows the diagnostic record in use. Every number and outco
 2. **Transform the question.** Replace “Do we need more training?” with “Which conditions explain delayed responses, and can we reduce delay without removing necessary controls or exposing next-cycle capacity?” Select **diagnose** for the cause, and separately **verify** the approval rules with their owner. [Choose a branch](#investigate-three-branches-h).
 3. **Evidence and alternatives.** An illustrative timestamp review finds approval waits over one business day in 68% of late cases. This is association, not proof: complex cases may both wait longer and be slower. Compare 30 matched cases, check volume and complexity, and ask the control owner which approvals are necessary. A demand spike and case mix remain plausible alternatives.
 4. **Provisional diagnosis.** Treat an Enablement Gap as a candidate, with moderate-low confidence, pending the matched comparison and control review. If matched cases without waits miss targets at a similar rate, or the waits are necessary for the case types examined, revise the explanation. See [the first pass](#71-the-first-pass).
-5. **Capacity and owner decision.** Suppose the overtime was necessary and proportionate for a stated commitment: **Justified: yes**. Separately, projected usable hours cover base demand but fall 30 hours short under a plausible high-demand scenario: **Coverage: Fragile**. The owner intends to authorize a reversible pilot only for pre-approved low-risk cases, retain required controls, and document a feasible contingency, decision owner, dated trigger and review date. In this example the team agrees a trigger and a response date verbally, but the written case record omits the date. Starting the pilot without the complete record is a control failure discovered in the independent review below, not a recommended exception. Without a documented feasible contingency, retain Fragile as the evidence state and act as if Not covered until the omission is corrected. If the forecast or justification cannot be supported, record the relevant judgment as Unknown. See [the two checks](#justified-spending-or-future-shortfall-one-page-card-hp).
+5. **Capacity and owner decision.** Suppose the overtime was necessary and proportionate for a stated commitment: **Justified: yes**. Separately, projected usable hours cover base demand but fall 30 hours short under a plausible high-demand scenario: **Coverage: Fragile**. The owner intends to authorize a reversible pilot only for pre-approved low-risk cases, retain required controls, and document a feasible contingency, decision owner, dated trigger and review date. In this example the team agrees a trigger and a response date verbally, but the written case record omits the date. Starting the pilot without the complete record is a control failure discovered in the independent review below, not a recommended exception. Without a documented feasible contingency, retain Fragile as the evidence state and act as if Not covered until the omission is corrected. If the forecast or justification cannot be supported, record the relevant judgment as Unknown. See [the Two Checks](#justified-spending-or-future-shortfall-one-page-card-hp).
 6. **Action and stop rule.** The operations lead tests pre-authorized routing in a small set of eligible cases; the control owner confirms safeguards before launch. Set a stop rule before starting: pause if a required control fails, safety or quality deteriorates, or workload shifts harm another team. Allocate any released time to the named recovery or backlog activity; do not assume released capacity remains available.
 7. **Review, not proof.** In this invented follow-up, suppose response timeliness improves but recovery is repeatedly canceled. The owner records the outcome separately from the original diagnosis, adapts or pauses the pilot, and revises the capacity forecast; the result alone does not prove causation or sustained improvement. A different result or stronger contrary evidence could instead lead to a different diagnosis.
 
@@ -1035,7 +1029,7 @@ Use this route when you must diagnose a case, or when a diagnosis or capacity cl
 | Quick triage of a live case | About 15 minutes | [Field Triage](#field-triage-one-page-h), then the [Quick review record](#quick-review-record-h) | A provisional condition and one smallest test | A routing aid, not a diagnosis |
 | Standard diagnosis of a consequential or disputed case | Days to weeks | The [six moves](#the-six-practitioner-moves-h) with the [repeatable diagnostic protocol](#repeatable-diagnostic-protocol-h); see the [continuous case](#one-case-from-question-to-review-illustrative) | An evidence record with alternatives and disconfirming evidence | Needs evidence independent of the outcome |
 | Where capacity is being consumed | One bounded cycle | The Human Energy Audit in [§11.2](#112-the-elements) | Findings on demand, interruptions, rework, and recovery | Operating effects only; see the boundaries below |
-| Justified spending or future shortfall | Each decision cycle | The two checks in [§6a](#6a-justified-capacity-expenditure-versus-future-capacity-shortfall) and the [Board report](#board-report-one-page-multi-capital-h) | A coverage state per dimension, with an owner and a decide-by date | The accountable owner judges; a second person checks Tier 2–3 |
+| Justified spending or future shortfall | Each decision cycle | The Two Checks in [§6a](#6a-justified-capacity-expenditure-versus-future-capacity-shortfall) and the [Board report](#board-report-one-page-multi-capital-h) | A coverage state per dimension, with an owner and a decide-by date | The accountable owner judges; a second person checks Tier 2–3 |
 | How a decision was made | One decision | The bounded decision audit in [§7.2](#72-the-diagnostic-architecture) | Process failure recorded separately from outcome | Needs the decision record; do not judge by outcome alone |
 | Whether a control is necessary | Per control | The [necessity test](#12-human-energy-liberation) and the [politically defended constraints](#when-a-constraint-is-politically-defended-h) protocol | Keep, redesign, or remove with safeguards and a stop rule | Specialists own legal, safety, and compliance decisions |
 | Independent review of an HEE diagnosis | Before relying on it | The evidence trail and reviewer tests below | A reviewer’s re-performance and findings | Needs a reviewer independent of the owner of the result |
@@ -1218,7 +1212,7 @@ Assess these separately. A good outcome does not prove that the process or choic
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-- **Justified?** Was the expenditure of capacity warranted?
+- **Justified?** Was the capacity spent warranted?
 - **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
 A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
@@ -2020,7 +2014,7 @@ These are provisional decision concepts, not validated categories. They depend o
 | Renewal | Will the capacity required for the next cycle be renewed or replaced before legitimate demand arrives? | Named owner, feasible timing, resources, dependencies, and a credible replenishment or replacement path |
 | Evidence | What independently supports the classification, and what could disconfirm it? | Baseline, demand forecast, available-capacity evidence, renewal feasibility, contrary evidence, and plausible rival explanations |
 
-**Classification: two checks, then a default move.** The one-page card at the front is the canonical concise statement of the four coverage states and the two-judgment invariant. This section operationalizes that rule and provides the detailed cross-classification matrix. The readings below come from two separate checks, because the failures differ. Consumption can be disproportionate without any future shortfall, and a fully justified expenditure can still leave the next cycle uncovered. The matrix is a cross-classification of justification and four coverage states—not a three-outcome classification.
+**Classification: Two Checks, then a default move.** The one-page card at the front is the canonical concise statement of the four coverage states and the two-judgment invariant. This section operationalizes that rule and provides the detailed cross-classification matrix. The readings below come from two separate checks, because the failures differ. Consumption can be disproportionate without any future shortfall, and a fully justified expenditure can still leave the next cycle uncovered. The matrix is a cross-classification of justification and four coverage states—not a three-outcome classification.
 
 - **Check 1, justified?** Purpose and proportionality (the first two rows above).
 - **Check 2, covered?** Renewal and the coverage check below (the third row above).
@@ -2031,7 +2025,7 @@ These are provisional decision concepts, not validated categories. They depend o
 | Yes | **Covered** | **Justified expenditure, covered** | Proceed. Schedule a renewal check; do not treat the consumption as Drain solely because capacity was used. |
 | Yes | **Fragile** | **Justified expenditure with fragile coverage**; not automatically a shortfall | Proceed only with a credible, named contingency: a responsible person, a scheduled slot, the resource or authority required, and a trigger date for action. If any essential element is missing or infeasible, retain Fragile as the evidence state and act as if coverage were **Not covered** for the decision at hand and reduce or reschedule next-cycle commitments. |
 | Yes | **Not covered** | **Justified expenditure with a candidate future-capacity shortfall** (the “paid for with tomorrow’s capacity” case) | If the work remains necessary, name the renewal owner, slot, resources, and deadline; otherwise reduce or reschedule commitments. Protect and Recover where appropriate, then diagnose. |
-| No, or partly (split first) | **Covered** | **Drain candidate without a future-capacity shortfall** | Not a capacity emergency. Run the necessity test (§12) and 5R; protect any capacity released. |
+| No, or partly (split first) | **Covered** | **Drain candidate without a future-capacity shortfall** | Coverage alone does not determine urgency; check other risks and safeguards. Run the necessity test (§12) and 5R; protect any capacity released. |
 | No, or partly (split first) | **Fragile** | **Drain candidate with fragile coverage** | Reduce disproportionate consumption and create a contingency; verify whether the plausible downside scenario is material. |
 | No, or partly (split first) | **Not covered** | **Candidate future-capacity shortfall with Drain contributing** | High priority: reduce disproportionate consumption, secure renewal or replacement capacity, and consider reducing commitments. |
 | Any | **Unknown** or evidence on justification unclear | **Indeterminate** | Name the evidence that would decide, who can obtain it, and a decide-by date. Do not leave Unknown open-ended. Use the smallest bounded test only if reversible and safe. |
@@ -2879,15 +2873,11 @@ Retained ideas and where they sit: the audit objective (“What is consuming usa
 
 The central pathway and related expressions are proposed. Arrows indicate a proposed relationship or sequence for inquiry, not causation; “jointly condition” is the canonical wording for the relationship among conversion conditions; the plus sign in §6 means joint consideration, not addition. No expression here should be calculated as a validated formula, predictive model, or scale unless a later version defines and validates the constructs, units, and operations. Evidence, not a visual relationship, determines the diagnosis and intervention.
 
-### D.5 Relationship to the published book
-
-The published book remains the authority for the canonical, reader-facing meaning of HEE. This README is the practical repository companion: it may clarify definitions and propose operationalizations and tests, but it must not silently change the book’s framework. A future change to the framework should be versioned, justified, and mapped to the prior vocabulary.
-
-### D.6 Edition history
+### D.5 Edition history
 
 Version 1.0 (31 October 2026) is the first release of this edition. This repository’s README.md is the primary reference document.
 
-### D.7 Integration of the earlier 60-section presentation
+### D.6 Integration of the earlier 60-section presentation
 
 The earlier 60-section presentation is integrated by topic, not copied as a second framework.
 
@@ -3012,9 +3002,9 @@ Md. Mozammel Hoque is an independent management researcher and the originator of
 
 ## Acknowledgement
 
-HEE is informed by established research and management thinking on resources, work demands, organizational performance, capability, opportunity to perform, execution, organizational development, stakeholder-oriented value creation, and integrated reporting. HEE does not claim ownership of these bodies of knowledge or equivalence with the International Integrated Reporting Framework. The six-capitals framing here is a capacity-focused complement: integrated reporting provides a framework for thinking about value creation, preservation, or erosion across capitals, while HEE asks how Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement enable or constrain that process through execution.
+HEE originated in the author’s practice. Related management approaches on resources, work demands, organizational performance, capability, opportunity to perform, execution, organizational development, stakeholder-oriented value creation, and integrated reporting are identified for comparison; they do not independently validate HEE. HEE does not claim ownership of these bodies of knowledge or equivalence with the International Integrated Reporting Framework. The six-capitals framing here is a capacity-focused complement: integrated reporting provides a framework for thinking about value creation, preservation, or erosion across capitals, while HEE asks how Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement enable or constrain that process through execution.
 
-Its intended contribution is their integration around two fundamental points—Value and Sustainable Growth—and one management question:
+Its intended contribution is to organize the author’s practice around two fundamental points—Value and Sustainable Growth—and one management question:
 
 **How can organizations convert potential into valuable application and sustained execution while protecting and renewing the capacity required to create value across the six capitals in future cycles?**
 
