@@ -1103,7 +1103,7 @@ The cases generate the following propositions for further investigation. They ar
 **Predictable recurring demand should not necessarily be managed as unpredictable demand.**
 
 ### Case proposition 8
-**Released capacity must be deliberately protected and redirected toward higher-value application.**
+**Explicit protection and reassignment arrangements may increase the share of released capacity available for its intended use, compared with arrangements without them.**
 
 ### Case proposition 9
 **Stopping recurring organizational drain may create execution capacity without increasing headcount.** This is untested here. For the support cases the author reports that IT staffing was not increased while user numbers grew; this is author-reported, not independently tested, and other changes may have contributed.
