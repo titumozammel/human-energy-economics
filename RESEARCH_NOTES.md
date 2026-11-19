@@ -26,6 +26,7 @@
   - [Related approaches and comparison questions](#related-approaches-and-comparison-questions)
   - [OSF](#osf-research-agenda-and-tests) · [3C](#3c-research-agenda-and-tests) · [5R](#5r-research-agenda-and-tests) · [EES](#ees-research-agenda-and-tests) · [HEEn](#heen-research-agenda-and-tests)
 - [Appendix C — Starter kit for the diagnostic reliability test (P11)](#appendix-c--starter-kit-for-the-diagnostic-reliability-test-p11)
+- [Appendix D — Propositions emerging from the Case Studies](#appendix-d--propositions-emerging-from-the-case-studies)
 - [Further reading — to be checked](#references)
 
 <a id="research-status-review"></a>
@@ -1071,6 +1072,74 @@ This kit lets an independent team run the first-pass reliability test in §7.3 w
 **V19.** A billing team faces demand about 30% above available hours for the last five working days of every month. All the work is legitimate and on the regulatory calendar. Recovery days after the peak are routinely canceled, and unplanned overtime is rising. Skills and access are adequate.
 
 **V20.** A finance team automated a monthly manual reconciliation without changing its steps. The automated process now produces four times as many exception reports, and staff spend about as much time on them as before on the manual work. Skills and access are adequate, and approvals are timely.
+
+<a id="appendix-d"></a>
+
+## Appendix D — Propositions emerging from the Case Studies
+
+*These propositions and questions come from the [HEE Case Studies](https://github.com/titumozammel/hee-case-studies), the author’s practice record. They are moved here so that the Case Studies can stay focused on the cases.*
+
+The cases generate the following propositions for further investigation. They are labelled “Case proposition” to keep them apart from the P-series (P1–P16) in §15. They are hypothesis-generating and are not evidence for any §15 proposition. The cases are author-reported and not independently verified, so they motivate these propositions; they do not test them.
+
+### Case proposition 1
+**Operational demand can function as a capacity drain when it repeatedly consumes Human Energy without sufficient corresponding value.**
+
+### Case proposition 2
+**The best intervention is not necessarily process improvement; in some conditions, removal or replacement may preserve more capacity.** Whether it is also cheaper requires a cost analysis the Case Studies do not contain.
+
+### Case proposition 3
+**Prevention can create greater capacity than repeated response when recurring problems originate from addressable operating conditions.**
+
+### Case proposition 4
+**Self-service can convert recurring human consumption into controlled user enablement.**
+
+### Case proposition 5
+**Capability does not automatically become organizational capacity.**
+
+### Case proposition 6
+**Capability becomes organizational capacity when organizational conditions allow effective application.**
+
+### Case proposition 7
+**Predictable recurring demand should not necessarily be managed as unpredictable demand.**
+
+### Case proposition 8
+**Released capacity must be deliberately protected and redirected toward higher-value application.**
+
+### Case proposition 9
+**Stopping recurring organizational drain may create execution capacity without increasing headcount.** This is untested here. For the support cases the author reports that IT staffing was not increased while user numbers grew; this is author-reported, not independently tested, and other changes may have contributed.
+
+These propositions are presented as **propositions for further investigation, not as universal empirical claims**.
+
+### Questions the cases raise, and what further development needs
+
+The practice record is operating evidence and observation that contributed to the development of HEE. It should not be treated as controlled empirical proof. The appropriate progression is:
+
+**Operating Evidence → Observation → Proposition → Theory Development → Further Research**
+
+The cases raise questions such as:
+
+- How frequently does recurring organizational drain occur?
+- Which forms of demand consume the greatest amount of Human Energy?
+- Which intervention types are most effective under which conditions?
+- What organizational conditions determine whether capability becomes capacity?
+- How should preserved capacity be measured?
+- What is the relationship between preserved capacity and execution quality?
+- How does Human Energy interact with organizational capacity, employee experience, and customer experience?
+- Under what conditions are these interventions replicable?
+- What are the longitudinal effects of stopping recurring organizational drain?
+
+Further development therefore requires:
+
+- additional cases;
+- independent application and measurement;
+- longitudinal observation;
+- comparative studies;
+- construct development and measurement; and
+- replication across different organizational contexts.
+
+The broader progression is:
+
+**Practice → Observation → Structured questions and methods → Further application and review**
 
 <a id="references"></a>
 
