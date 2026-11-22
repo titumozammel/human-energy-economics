@@ -11,13 +11,19 @@
 
 Version 1.0 · 31 October 2026 (initial publication date)
 
-**In 60 seconds.** Your results show what you achieved. They do not show whether you still have the capacity to achieve it again. HEE gives you two separate checks for decisions affecting capacity. **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? **Covered?** Can the usable capacity you can count on meet next cycle’s real demand? The same extra hours can pass one check and fail the other. → [Justified spending or future shortfall](#justified-spending-or-future-shortfall-one-page-card-hp)
+**Is today’s result being paid for with tomorrow’s capacity?**
+
+Extra hours can be justified and still leave next month’s demand uncovered. HEE keeps two questions separate: *Was the capacity spent justified? Is the next cycle covered?* It starts with your situation and works alongside the methods you already use. The decision stays yours.
+
+Human Energy Economics (HEE) is a practice-driven management approach that brings execution conditions, capacity spending and next-cycle coverage into one inquiry. Capacity means the time, attention and energy available for the work.
+
+**In 60 seconds.** HEE gives you two separate checks for decisions affecting capacity. **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand? → [Justified spending or future shortfall](#justified-spending-or-future-shortfall-one-page-card-hp)
 
 > **Status.** HEE comes from the author’s practice. Examples marked [Illustrative] are invented. Author-reported results have not been independently verified. Try it in your context, and tell the author what you find.
 
 **Start here:** **[Start here: 60 seconds](#start-here-60-seconds)** is the front door. Then use [Find your situation](#find-your-situation) if you know what you face, or the [Reader’s guide](#readers-guide) for your role. The other sections, such as [How to read the status of HEE](#how-to-read-the-status-of-hee), [Start with your context](#start-with-your-context-when-what-and-where), [Find by role](#find-by-role-h), the [Vocabulary sheet](#vocabulary-sheet-acronym-decoder-h), the [Contents](#contents), and the [LICENSE](#license), are reached from these.
 
-**An approach supported by checklists.** HEE begins with context: what materially matters, which questions need examination, and what evidence would inform the decision. Similar situations can have different causes and consequences. An approach guides inquiry and the choice of response; a checklist helps avoid specified omissions, maintain consistency and record evidence. HEE uses checklists to support judgment. Completing them does not establish that the situation is understood or the response is appropriate. Adapt the inquiry while preserving applicable requirements and necessary safeguards. The Two Checks are separate judgments, each requiring evidence.
+**An approach supported by checklists.** HEE is guided by principles and begins with context: what materially matters, which questions the context calls for, and what evidence would inform the decision. Similar situations can have different causes and consequences. An approach guides inquiry and the choice of response; a checklist helps avoid specified omissions, maintain consistency and record evidence. HEE uses checklists to support judgment. Completing them does not establish that the situation is understood or the response is appropriate. Adapt the inquiry while preserving applicable requirements and necessary safeguards. The Two Checks are separate judgments, each requiring evidence.
 
 **Purpose.** HEE is a practice-driven approach. It is meant to help readers make sound decisions about what matters to the people affected. It asks for evidence that fits the stakes, and it keeps the reasoning open to review. The aim is consistent, successful execution with sustainable growth. You are invited to bring your own questions, described by their Time, Object, and Location, and to judge for yourself whether HEE helps.
 
@@ -54,17 +60,17 @@ This is the long reference, so you are not expected to read it end to end. This 
 
 ## Start with your context: when, what, and where?
 
-**(Time, Object, and Location)** HEE helps you look at each situation through three things: Time, Object, and Location. Then you decide which conditions to keep, change, or stop. This frame organizes your questions; it does not replace them. You still need to examine objectives, evidence, dependencies, constraints, and consequences.
+**(Time, Object, and Location) [H]** HEE helps you look at each situation through three things: Time, Object, and Location. Then you decide which conditions to keep, change, or stop. This frame organizes your questions; it does not replace them. You still need to examine objectives, evidence, dependencies, constraints, and consequences.
 
 *Time* is when: the timing, how often, how long, the cycle, and the window for the decision. *Object* identifies the concerns that materially matter to this inquiry: those that could reasonably change the decision, the usable capacity, or a consequential result for those affected. Many concerns may be present (a process, a drain, people, a role, an objective, a vision, a mission, a goal). Write down which ones you set aside, and why. *Location* is where: the physical setting, the culture, the conditions, and related factors.
 
 In the author’s practice, context guides the focus and shapes the questions. Evidence can support the diagnosis (**Diagnose**), reduce decision-relevant uncertainty before a decision (**Establish**), or check practice against a standard (**Verify**). What the evidence shows informs the action. The [Decision Point](#the-decision-point-hp) supports review before commitment and after outcomes emerge. Write one line each for Time, Object, and Location, and compare them with those of any case you read before applying its lessons. HEE applies where the Object affects capacity, demand, application, or execution. This frame is a guide, not a required sequence, and others have not yet tested it. That context shapes the question remains a design assertion. It is not tested in this edition: P12 is indefinitely deferred until a literature synthesis has an owner, resources, and a review date. The [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) is used inside this frame: its three contexts (Source, Dependency, Constraint) are lenses for looking at a condition, and they are distinct from the frame.
 
-![Roadmap. Start with your objective: what result matters? Results fall short or cannot be sustained. Examine the context. Then look at four areas: Capability, can we do it; Capacity, do we have enough usable capacity; Enablement, can capability be applied; Connection, can capabilities work together. Gather evidence on what needs attention. Choose a response: change, retain, investigate or pause. Review whether the result was achieved and the next cycle is covered. Learn and reassess, then return to the context.](hee-roadmap.png)
+![Roadmap. Start with your objective: what result matters? Then ask what needs attention: a shortfall, a risk, or a new commitment. Examine the context. The context informs four inquiry areas examined in parallel: Capability, can we do it; Capacity, do we have enough usable capacity; Enablement, can capability be applied; Connection, can capabilities work together. All four feed Gather evidence. Then choose a response: change, retain, investigate or pause. Review whether the result was achieved and the next cycle is covered. Learn and reassess, returning to the context.](hee-roadmap.png)
 
-*A starting map for inquiry, not a complete diagnosis. The four areas provide a first look; the [broader six-condition examination](#six-conditions-of-execution) also includes Demand and Decision Process Quality. Evidence may identify other conditions.*
+*A starting map for inquiry. Context informs every part; evidence may lead you back to an earlier question. Apply the Two Checks when choosing a response and at review. The four areas provide a first look; the [broader six-condition examination](#six-conditions-of-execution) also includes Demand and Decision Process Quality.*
 
-*Follow the route shown or begin at the box relevant to your situation. Apply the Two Checks when choosing a response and at review. The dashed line returns learning to context; the Core’s [six practitioner moves](#the-six-practitioner-moves-h) provide the full process.*
+*The Core’s [six practitioner moves](#the-six-practitioner-moves-h) provide the full process.*
 
 *A useful next step: find your situation below.*
 
@@ -76,14 +82,14 @@ In the author’s practice, context guides the focus and shapes the questions. E
 
 Ask the question beside the sentence that sounds like your week, and open the one tool it points to.
 
-| Your situation | Ask this first | What you will explore | Start here |
-| --- | --- | --- | --- |
-| "We hit the target, but the team is exhausted." | Was the capacity expenditure justified, and is next cycle covered? | Why a justified expenditure and a future-capacity shortfall are separate judgments | [Two Checks](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) |
-| "Capable people are waiting for access, approval, or decisions." | Is capability missing, is its application blocked, or are both happening together? | How to tell development needs from enablement barriers, and what to do when both occur | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement#use-it-today) |
-| "The same reports, approvals, chasing, or rework keep returning." | What purpose does this work serve, and what keeps generating it? | Whether recurring demand should be kept, redesigned, or questioned | [Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework#use-it-today) |
-| "We fix the problem, and it returns." | Did the response change the condition that produces the problem? | How to investigate recurrence and check whether a change holds | [Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system#use-it-today) |
-| "Several things seem wrong. We do not know where to begin." | What creates the problem, what does action depend on, and what limits action? | How to frame an inquiry before choosing an intervention | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach#use-it-today) |
-| "We want to simplify something, but it may serve an important purpose." | What would changing it protect, improve, or put at risk? | How to weigh keeping, reducing, replacing, redesigning, or removing it | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework#use-it-today) (Remove · Reduce · Replace · Re-engineer · Retain) |
+| Your situation | Ask this first | First step this week | What you will explore | HEE framework |
+| --- | --- | --- | --- | --- |
+| **1.** "We hit the target, but the team is exhausted." | Was the capacity expenditure justified, and is the next cycle covered? | Review last month’s extra hours and their evidence. Record Justified, Partly justified, Not justified or Unknown. Separately compare next month’s legitimate demand with credible expected usable capacity. | Why a justified expenditure and a future-capacity shortfall are separate judgments | [Two Checks](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) |
+| **2.** "Capable people are waiting for access, approval, or decisions." | Is capability missing, is its application blocked, or are both happening together? | Pick one stalled item. Write who is waiting, for what, and for how many days. Then ask whether the skill is missing or its use is blocked. | How to tell development needs from enablement barriers, and what to do when both occur | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement#use-it-today) |
+| **3.** "The same reports, approvals, chasing, or rework keep returning." | What purpose does this work serve, and what keeps generating it? | Pick one that keeps returning. Write what it is for and who needs it. Then ask what keeps creating it. | Whether recurring demand should be kept, redesigned, or questioned | [Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework#use-it-today) |
+| **4.** "We fix the problem, and it returns." | Did the response change the condition that produces the problem? | Pick one problem that came back. Write what you changed. Then ask whether that changed the condition that produces the problem. | How to investigate recurrence and check whether a change holds | [Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system#use-it-today) |
+| **5.** "Several things seem wrong. We do not know where to begin." | What creates the problem, what does action depend on, and what limits action? | Write the problem in one sentence. Then write what creates it, what action depends on, and what limits action. One line each. | How to frame an inquiry before choosing an intervention | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach#use-it-today) |
+| **6.** "We want to simplify something, but it may serve an important purpose." | What would changing it protect, improve, or put at risk? | Pick one thing to simplify. Write what it protects, what it improves, and what it could put at risk. Then choose the smallest safe step. | How to weigh keeping, reducing, replacing, redesigning, or removing it | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework#use-it-today) (Remove · Reduce · Replace · Re-engineer · Retain) |
 
 *This table is a summary. No table can list every situation, so these six are common starting points for inquiry, not diagnoses. Your situation may fit more than one row, or none exactly; if none fits, see “If no row fits” in the question map below.*
 
@@ -187,7 +193,7 @@ Apply the Two Checks twice: before choosing an action (step 4; would the expendi
 
 ### 4. How should I use HEE?
 
-HEE is a practice-driven approach for asking better questions and reviewing decisions with your own evidence and judgment. It supports inquiry; it does not replace specialist judgment. Use proportionate evidence, record uncertainty, and keep illustrative examples and author-reported observations separate from independent findings. Established research informs HEE but does not validate its particular constructs, integration, or decision-support claims, and the author’s experience gives context, not independent validation. The limits that apply to every summary are listed under [Open limits at Version 1.0](#open-limits-at-version-10-p).
+HEE is a practice-driven approach for asking better questions and reviewing decisions with your own evidence and judgment. It supports inquiry; it does not replace specialist judgment. Use proportionate evidence, record uncertainty, and keep illustrative examples and author-reported observations separate from independent findings. HEE comes from the author’s practice. Related research leads are provided for comparison and checking; they do not establish support for HEE, and the author’s experience gives context, not independent validation. The limits that apply to every summary are listed under [Open limits at Version 1.0](#open-limits-at-version-10-p).
 
 #### What HEE does not claim
 
@@ -850,14 +856,14 @@ This is the minimum owner-facing subset of the full §19 case-record template (f
 | Decision tier and decide-by date [6] | ______________________________________________ |
 | Review date [6] | ______________________________________________ |
 
-**Keep the routine proportionate.** If two consecutive quarterly reviews change no decision, move that item to an annual check. An empty register is a good result, not a reason to invent items. The routine is a heuristic; whether it improves decisions is untested (P15).
+**Keep the routine proportionate.** If two consecutive quarterly reviews change no decision, move that item to an annual check. An empty register is an acceptable result, not a reason to invent items. The routine is a heuristic; whether it improves decisions is untested (P15).
 
 ### Cautions
 
 - **People are not the unit of diagnosis.** HEE examines work conditions, not individuals. Do not use it for surveillance, individual performance rating, or medical inference. It does not diagnose burnout or health conditions.
 - **Not every problem is internal.** Market, regulatory, supply, and technology conditions can limit results regardless of internal capacity (§13).
 - **Do not remove a control because it feels like friction.** Test its purpose first (§12).
-- **Do not read the labels as proof.** A category assigned from poor results cannot also explain those results.
+- **Do not read the labels as proof.** A category assigned from unfavorable results cannot also explain those results.
 
 For a numerical read on sustainability, treat the candidate indicators in §16.1 (unplanned overtime, rework, backlog age, absence and turnover intention, recovery time after peaks) as signals to track across at least three comparable cycles, not as a validated score.
 
@@ -942,7 +948,7 @@ The Field Guide holds many aids. This table routes a case to the one to start wi
 | Released time keeps filling up again | [Capacity protection protocol](#capacity-protection-and-anti-reabsorption-protocol-h) | [Smallest useful intervention](#smallest-useful-intervention-h) |
 | Spending looks heavy but may be justified | The [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp) | §6a |
 | The diagnosis is mixed or uncertain | The [first pass](#71-the-first-pass): name the one discriminating check, record it, and run the smallest test meanwhile | The [diagnostic safeguard](#diagnostic-safeguard-h): stop when the check would not change the next step |
-| The execution problem looks like a poor decision | The [decision quality, process quality, and judgment](#the-decision-point-hp) distinction: is it how the situation is judged, how the decision is made, or the decision selected? | The first pass, and the diagnostic safeguard |
+| The execution problem looks like a flawed decision | The [decision quality, process quality, and judgment](#the-decision-point-hp) distinction: is it how the situation is judged, how the decision is made, or the decision selected? | The first pass, and the diagnostic safeguard |
 | Employee and customer experience disagree, or customer results are good while capacity is falling | The [EX and CX matrix](#employee-experience-customer-experience-and-sustainable-growth-p) | The [one-page card](#justified-spending-or-future-shortfall-one-page-card-hp) and §6a |
 | You are unsure whether the task is a diagnosis or an audit | The [Diagnosis and audit route](#diagnosis-and-audit-route-h) | The [Quick review record](#quick-review-record-h) |
 | Someone asks about their own exhaustion | [Three rules that do not bend](#three-rules-that-do-not-bend-h) | A conversation about work conditions with their manager |
@@ -1095,7 +1101,7 @@ These are starting hypotheses, not diagnoses. Verify them with evidence and cons
 | --- | --- | --- |
 | Projects are repeatedly late despite capable staff | Access or decision barriers; unnecessary recurring work; or weak decision processes | Map waiting time, approval queues, decision rights, handoffs, and recurring interruptions; compare planned with actual cycle time. |
 | Experienced people are exhausted, disengaged, or leaving | Available human energy may be depleted; recurring work may be consuming capacity; also check demand and work design | Compare workload and interruption patterns with confidential staff accounts and available recovery, absence, and retention trends; do not infer a single cause from turnover alone. |
-| Employee and customer experience point in different directions, or customer results are good while capacity is falling | The conditions behind the gap, the capacity cost of the current experience, or insufficient capacity evidence | Set EX, CX, and capacity evidence side by side for the same period, and check coverage (§6a) before accepting a good result as sustainable; see the [matrix](#employee-experience-customer-experience-and-sustainable-growth-p) |
+| Employee and customer experience point in different directions, or customer results are good while capacity is falling | The conditions behind the gap, the capacity cost of the current experience, or insufficient capacity evidence | Set EX, CX, and capacity evidence side by side for the same period, and check coverage (§6a) before accepting a favorable result as sustainable; see the [matrix](#employee-experience-customer-experience-and-sustainable-growth-p) |
 | Rework or defects are high | A capability may be missing; capabilities may not connect; decisions or access may be failing | Trace a sample of rework to its earliest identifiable cause: skill or knowledge, handoff, decision, information, authority, or process. |
 | Decisions take too long or are repeatedly reversed | Decision ownership, evidence, timing, access, or decision rights may be inadequate | Map the decision path, owner, deadline, evidence availability, escalation points, and reasons for delay or reversal. |
 | Work is busy but meaningful output does not improve | Recurring demand or noise may consume capacity; priorities or access may also be misaligned | Sample time and work queues; identify recurring activity that consumes capacity without sufficient contribution to its stated purpose. |
@@ -1194,7 +1200,7 @@ If the condition looks like a recurring restriction, apply the [HEL versus Enabl
 
 #### The Decision Point
 
-> **In short.** The Decision Point separates four things that are often blurred: whether the decision was **enabled** (rights, information, authority, access), how it was **reached** (process), whether the **choice** was appropriate given what could reasonably be known, and what **happened** (outcome). Judge them separately: a good outcome does not prove a sound choice. **Next step:** before the outcome is known, write down the decision, the alternatives, the evidence, and the criteria, so the review can judge the process and the choice fairly.
+> **In short.** The Decision Point separates four things that are often blurred: whether the decision was **enabled** (rights, information, authority, access), how it was **reached** (process), whether the **choice** was appropriate given what could reasonably be known, and what **happened** (outcome). Judge them separately: a favorable outcome does not prove a sound choice. **Next step:** before the outcome is known, write down the decision, the alternatives, the evidence, and the criteria, so the review can judge the process and the choice fairly.
 
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
@@ -1208,11 +1214,11 @@ Within HEE, consequential decisions along the pathway from capability to sustain
 
 **Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
-Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
+Assess these separately. A favorable outcome does not prove that the process or choice was sound; an unfavorable outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-- **Justified?** Was the capacity spent warranted?
+- **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives?
 - **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
 A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
@@ -1447,7 +1453,7 @@ Ask: *What result would change what we do?* If no result would, decide. If a par
 
 ### 6. Learn from the decision, not only the outcome
 
-Keep a decision log: date, tier, decision, evidence, alternatives, expected outcome and confidence, decide-by date, and review date. At review, grade the process separately from the outcome, because outcomes also reflect chance and external conditions (§7.2). Speed is not evidence of a good decision; the test is whether decisions are faster and not worse (P15).
+Keep a decision log: date, tier, decision, evidence, alternatives, expected outcome and confidence, decide-by date, and review date. At review, grade the process separately from the outcome, because outcomes also reflect chance and external conditions (§7.2). Speed is not evidence of a sound decision; the test is whether decisions are faster and not worse (P15).
 
 ## Answering role-based questions
 
@@ -1579,7 +1585,7 @@ This README is the core reference for HEE. The other repositories develop specif
 
 ## Part I — The approach in brief
 
-*In plain words: capable organizations still underperform, and the usual reason is not a missing method but a mismatch between the question asked and the condition actually at work.*
+*In plain words: capable organizations can still underperform. HEE examines whether the question being asked fits the conditions affecting the work.*
 
 ### 1. The problem and the core question
 
@@ -2001,7 +2007,7 @@ HEE must not treat every use or depletion of capacity as Drain. Organizations ro
 
 **Justified capacity expenditure [P].** Capacity consumed deliberately to produce present value, meet a legitimate obligation, or build future capacity, where the consumption is proportionate to the purpose. This is Check 1 only: whether the capacity needed next cycle will be renewed or replaced in time is a separate judgment (Check 2, coverage). A justified expenditure is not, by itself, Drain or a future-capacity shortfall, and it does not by itself establish coverage.
 
-**Future-capacity shortfall [P].** A prospective condition in which the capacity required to meet the next cycle’s legitimate demand is likely to exceed the capacity expected to be available, whether or not the expenditure that depleted capacity was justified. Justification explains why capacity was spent; it does not make a shortfall disappear. A poor result in one cycle is a reason to investigate, not proof of a shortfall.
+**Future-capacity shortfall [P].** A prospective condition in which the capacity required to meet the next cycle’s legitimate demand is likely to exceed the capacity expected to be available, whether or not the expenditure that depleted capacity was justified. Justification explains why capacity was spent; it does not make a shortfall disappear. An unfavorable result in one cycle is a reason to investigate, not proof of a shortfall.
 
 These are provisional decision concepts, not validated categories. They depend on a stated unit of analysis, time horizon, legitimate demand, required performance level, and relevant dimensions of capacity. Capacity is multidimensional (time, attention, energy, and relevant resources); do not collapse the dimensions into a single score unless a defensible measurement model supports it. Skills (Capability) and access or authority (Enablement) are separate conditions: a coverage check that counts hours but ignores a missing skill or a blocked approval will overstate coverage.
 
@@ -3008,7 +3014,7 @@ Its intended contribution is to organize the author’s practice around two fund
 
 **How can organizations convert potential into valuable application and sustained execution while protecting and renewing the capacity required to create value across the six capitals in future cycles?**
 
-**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I began each piece of work with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ---
 
