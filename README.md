@@ -3002,7 +3002,7 @@ This glossary is a quick-reading aid; §4 and §5 are the reference. Each entry 
 
 ## About the author
 
-Md. Mozammel Hoque is an independent management researcher and the originator of Human Energy Economics (HEE), a practice-driven management approach to diagnosing why organizations with capable people and sound strategies still struggle to execute, and identifying what needs to change in a given context. HEE emerged from his practical experience across Russia, Nigeria, and Bangladesh. He presents it as an approach open to critical examination and empirical testing.
+Md. Mozammel Hoque is an independent management researcher and the originator of Human Energy Economics (HEE), a practice-driven management approach to execution and the capacity needed for tomorrow. It helps diagnose why organizations with capable people and sound strategies still struggle to execute, and identify what needs to change in a given context. HEE emerged from his practical experience across Russia, Nigeria, and Bangladesh. He presents it as an approach open to critical examination and empirical testing.
 
 **Explore the work:** [HEE Profile](https://github.com/titumozammel) · [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
