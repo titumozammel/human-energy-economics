@@ -1094,10 +1094,10 @@ The cases generate the following propositions for further investigation. They ar
 **Self-service can convert recurring human consumption into controlled user enablement.**
 
 ### Case proposition 5
-**Capability does not automatically become organizational capacity.**
+**Capability does not automatically become usable capacity for the organization.**
 
 ### Case proposition 6
-**Capability becomes organizational capacity when organizational conditions allow effective application.**
+**Capability adds to usable organizational capacity when conditions allow effective application.**
 
 ### Case proposition 7
 **Predictable recurring demand should not necessarily be managed as unpredictable demand.**
