@@ -2465,7 +2465,7 @@ These areas help locate barriers to applying existing capability. They do not re
 | Human Energy Leakage | Unnecessary consumption, diversion, fragmentation, or trapping of Human Energy | Mechanism |
 | Human Energy Liberation | A systemic orientation for investigating and redesigning the recurring unnecessary conditions that create or sustain Human Energy Leakage | Orientation, not a separate intervention |
 
-Loss is the state; Leakage is the process that produces or sustains it; Liberation removes or redesigns the conditions behind the process. The objective is not merely to recover energy after it is lost, but to create conditions in which unnecessary loss becomes less likely.
+Loss is the state; Leakage is the process that produces or sustains it; Liberation removes or redesigns the conditions behind the process. The objective is not merely to recover energy after it is lost, but to create conditions in which unnecessary loss becomes less likely. Recovery helps people continue; Liberation improves the conditions they work in, so that less energy is lost.
 
 **Three forms of Human Energy Leakage [P].** This distinction is a proposed diagnostic aid, not a validated taxonomy. A case may involve more than one form.
 
@@ -2487,6 +2487,8 @@ These response links are hypotheses for routing inquiry, not automatic prescript
 | Artificial Constraint | Restricts execution after action has begun (excess approvals, duplicate reporting, unnecessary meetings, fragmented systems, delayed decisions, conflicting priorities). Slows flow. |
 | Intrusion | Any unnecessary force that interrupts, fragments, redirects, or restricts productive flow. It can generate artificial limits, artificial constraints, Human Energy Leakage, and Operational Noise. |
 | Flow Integrity | The condition in which execution remains continuous, predictable, coordinated, and scalable with minimal unnecessary interruption. |
+
+**Limit and constraint.** A constraint slows or stops work once it has begun. A limit stops people from attempting the work at all. A belief that a restriction "cannot be changed" can keep that restriction from ever being examined, so check the limit first, then the constraint. Neither is called artificial until the necessity test at the end of this section supports it.
 
 **Candidate operational definitions [P]** — provisional and open to revision.
 
